@@ -1,0 +1,6 @@
+"Empty Column 0","Applied for Credit","Applied for Credit (SE)","Credit Approval Timely","Credit Approval Timely (SE)","State Bank","State Bank (SE)","Private Bank","Private Bank (SE)","Credit Coop","Credit Coop (SE)","NGO","NGO (SE)"
+"Above500",".205",".245","-0.0322",".0322",".687**",".318","-0.302",".458","-0.254",".218","-0.0307",".0635"
+"Observations","215","","62","","23","","34","","62","","52",""
+"Clusters","133","","53","","17","","28","","52","","43",""
+"Mean dependent variable",".302","",".968","",".348","",".471","",".113","",".0385",""
+"Bandwidth","122.8","","120.1","","71.33","","84.84","","118.4","","107.9",""
