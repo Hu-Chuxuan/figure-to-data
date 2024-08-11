@@ -1,0 +1,6 @@
+"Measures","-5","-4","-3","-2","-1","t","+1","+2","+3"
+"Employment spells (EmpTotal)","","","","","","Y","","",""
+"Hires all (HirA)","","","","","N","Y","","",""
+"All hires, end-of-quarter employed (HirAEnd)","","","","","N","Y","Y","",""
+"Hires all, stable (HirAS)","","","","","N","Y","Y","Y",""
+"Separations (Sep)","","","","","","Y","N","",""
