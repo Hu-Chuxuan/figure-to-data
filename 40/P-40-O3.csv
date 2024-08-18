@@ -1,0 +1,31 @@
+"Type-1","Type-2","Subplot Value","Value","Error Bar Length"
+"Issue Position L","Left","Sample Size is Sufficent (in SDs)",0.17782101167315179,0.21789883268482488
+"Issue Position R","Left","Sample Size is Sufficent (in SDs)",-0.2793774319066147,0.2782101167315174
+"Ideology L","Left","Sample Size is Sufficent (in SDs)",0.23229571984435798,0.2976653696498054
+"Ideology R","Left","Sample Size is Sufficent (in SDs)",-0.2307392996108949,0.25680933852140075
+"Party ID L","Left","Sample Size is Sufficent (in SDs)",0.21284046692607012,0.2431906614785992
+"Party ID R","Left","Sample Size is Sufficent (in SDs)",-0.21712062256809317,0.2645914396887159
+"Issue Position L","Right","Sample Size is Sufficent (in SDs)",-0.20155642023346287,0.23346303501945523
+"Issue Position R","Right","Sample Size is Sufficent (in SDs)",0.2400778210116732,0.31322957198443574
+"Ideology L","Right","Sample Size is Sufficent (in SDs)",-0.29688715953307376,0.2879377431906614
+"Ideology R","Right","Sample Size is Sufficent (in SDs)",0.17976653696498057,0.2898832684824902
+"Party ID L","Right","Sample Size is Sufficent (in SDs)",-0.25214007782101144,0.25486381322957197
+"Party ID R","Right","Sample Size is Sufficent (in SDs)",0.2361867704280156,0.2840466926070038
+"Issue Position L","Left","Can Make Causal Claim (in SDs)",0.3469387755102041,0.20408163265306117
+"Issue Position R","Left","Can Make Causal Claim (in SDs)",-0.48571428571428565,0.25850340136054417
+"Ideology L","Left","Can Make Causal Claim (in SDs)",0.5292517006802722,0.28027210884353737
+"Ideology R","Left","Can Make Causal Claim (in SDs)",-0.3904761904761903,0.24761904761904757
+"Party ID L","Left","Can Make Causal Claim (in SDs)",0.4285714285714286,0.23129251700680267
+"Party ID R","Left","Can Make Causal Claim (in SDs)",-0.37959183673469366,0.2530612244897959
+"Issue Position L","Right","Can Make Causal Claim (in SDs)",-0.3442176870748298,0.22040816326530605
+"Issue Position R","Right","Can Make Causal Claim (in SDs)",0.5401360544217687,0.29659863945578224
+"Ideology L","Right","Can Make Causal Claim (in SDs)",-0.44761904761904747,0.28571428571428564
+"Ideology R","Right","Can Make Causal Claim (in SDs)",0.36870748299319733,0.27482993197278904
+"Party ID L","Right","Can Make Causal Claim (in SDs)",-0.3877551020408161,0.25578231292517
+"Party ID R","Right","Can Make Causal Claim (in SDs)",0.37414965986394566,0.2775510204081632
+"Sample Size","Issue Position","Sample Size - Conservative - Liberal",0.19535783365570603,0.5145067698259188
+"Sample Size","Ideology","Sample Size - Conservative - Liberal",-0.025145067698259194,0.5570599613152805
+"Sample Size","Party ID","Sample Size - Conservative - Liberal",-0.013539651837524147,0.5106382978723404
+"Causal Claim","Issue Position","Causal Claim - Conservative - Liberal",0.3361702127659575,0.4808510638297872
+"Causal Claim","Ideology","Causal Claim - Conservative - Liberal",-0.21702127659574466,0.5234042553191489
+"Causal Claim","Party ID","Causal Claim - Conservative - Liberal",-0.05531914893617018,0.4851063829787234
