@@ -1,0 +1,7 @@
+"Empty Column 0","Race IAT: Whites","Race IAT: Whites (SE)","Race IAT: Whites (p-value)","Race IAT: Blacks","Race IAT: Blacks (SE)","Race IAT: Blacks (p-value)","Academic IAT: Whites","Academic IAT: Whites (SE)","Academic IAT: Whites (p-value)","Academic IAT: Blacks","Academic IAT: Blacks (SE)","Academic IAT: Blacks (p-value)"
+"Mixed room","0.316","0.140","0.047","-0.094","0.069","0.361","0.014","0.107","0.990","-0.009","0.059","0.889"
+"Controls","1","","","","1","","","","1","","","","1","",""
+"Roommate controls","1","","","","1","","","","1","","","","1","",""
+"Mean of dep.var. in same race room","-0.423","","","-0.097","","","-0.293","","","-0.185","",""
+"R^2","0.217","","","0.097","","","0.266","","","0.087","",""
+"Observations","117","","","332","","","117","","","332","",""
