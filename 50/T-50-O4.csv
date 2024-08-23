@@ -1,0 +1,7 @@
+"Empty Column 0","Mean - Treatment","Mean - Quasi-control","Difference","Difference (p-value)","Observations"
+"Graded maize","0.89","0.30","0.593","0.001","86"
+"Grade 1 maize","0.07","0.00","","",""
+"Grade 2 maize","0.52","0.20","","",""
+"Grade 3 maize","0.30","0.10","","",""
+"Horowitz-Manski lower bound","","","0.190","0.205","116"
+"Lee lower bound","","","0.292","0.027","116"

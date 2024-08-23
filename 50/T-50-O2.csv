@@ -1,0 +1,6 @@
+"Empty Column 0","Defects (visually verifiable)","Defects (visually verifiable) (SE)","Defects (visually verifiable) (p-value)","Defects (lab)","Defects (lab) (SE)","Defects (lab) (p-value)","Price","Price (SE)","Price (p-value)","Deductions","Deductions (SE)","Deductions (p-value)","Net price","Net price (SE)","Net price (p-value)"
+"Treatment","-2.16***","0.212","0.000","-0.20***","0.054","0.000","2.95","9.870","0.766","0.18","0.633","0.780","0.98","10.621","0.927"
+"Observations","622","","","82","","","116","","","116","","","116","",""
+"Households","99","","","82","","","94","","","94","","","94","",""
+"R^2","0.67","","","0.36","","","0.91","","","0.22","","","0.89","",""
+"Mean control","2.46","","","0.32","","","731.25","","","3.73","","","704.63","",""
