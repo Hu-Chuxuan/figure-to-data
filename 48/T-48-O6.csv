@@ -1,0 +1,8 @@
+"Empty Column 0","Visited by collector","Visited by collector (SE)","Number of visits by collector","Number of visits by collector (SE)","Other contact with collector","Other contact with collector (SE)","Instances of other contact","Instances of other contact (SE)"
+"Local","-0.009","0.026","0.014","0.046","0.008","0.007","0.019","0.012"
+"Time fixed effects","1","1","1","1","1","1","1","1"
+"House fixed effects","1","1","1","1","1","1","1","1"
+"Stratum fixed effects","1","1","1","1","1","1","1","1"
+"Observations","18162","18162","18151","18151","3513","3513","3513","3513"
+"Clusters","209","209","209","209","206","206","206","206"
+"Mean","0.417","0.417","0.552","0.552","0.025","0.025","0.039","0.039"
