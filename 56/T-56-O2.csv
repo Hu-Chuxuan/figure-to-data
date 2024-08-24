@@ -1,0 +1,7 @@
+"Empty Column 0","No Resolution - Good news","No Resolution - Good news (SE)","No Resolution - Bad news","No Resolution - Bad news (SE)","No Resolution - Diff-in-diff","No Resolution - Diff-in-diff (SE)","Resolution - Good news","Resolution - Good news (SE)","Resolution - Bad news","Resolution - Bad news (SE)","Resolution - Diff-in-diff","Resolution - Diff-in-diff (SE)"
+"\beta_1","0.665","0.088","0.076","0.180","0.076","0.180","0.530","0.218","0.645","0.249","0.645","0.249"
+"\beta_2","","","","","-0.359","0.129","","","","","-0.133","0.166"
+"\beta_3","","","","","0.589","0.200","","","","","-0.115","0.331"
+"Constant","-0.042","0.053","0.317","0.118","0.317","0.118","-0.094","0.105","0.039","0.128","0.039","0.128"
+"Observations","50","","50","","100","","50","","50","","100",""
+"R^2","0.419","","0.003","","0.646","","0.124","","0.137","","0.531",""
