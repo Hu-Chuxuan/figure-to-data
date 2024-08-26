@@ -1,7 +1,7 @@
 "Outcome","Compliance by property type","Compliance by property type","Complier characteristics","Complier characteristics","Complier characteristics"
 "","Low band property","High band property","House quality","Avg. mon. income","Liquidity index"
 "","(1)","(2)","(3)","(4)","(5)"
-"Local","0.036***","0.002","-0.146***","0.002","-0.063"
+"Local","0.036","0.002","-0.146","0.002","-0.063"
 "Local (SE)","0.008","0.013","0.057","0.042","0.167"
 "Neighborhood mean control","No","No","Yes","Yes","Yes"
 "Time fixed effects","Yes","Yes","Yes","Yes","Yes"
