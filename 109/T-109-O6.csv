@@ -1,0 +1,13 @@
+﻿Sample :,All,Employed,Unemployed,NILF
+Panel A : Average experience of individuals within cells,,,,
+State unemp. rate,-0.0106,0.0440*,0.174**,-0.142**
+N,"16,948,516","10,814,088","653,100","5,481,328"
+R²,0.045,0.040,0.064,0.099
+Panel B : Average experience of newly hired within cells,,,,
+State unemp. rate,0.138**,0.174***,0.253***,0.0338
+N,"549,835","204,594","138,335","206,906"
+R²,0.066,0.052,0.058,0.109
+Panel C : Ratio of average PE of hires to average PE of population in cell,,,,
+State unemp. rate,0.00553**,0.00368,0.00415,0.00515*
+N,"12,214","12,214","12,214","12,214"
+R²,0.273,0.113,0.045,0.199

@@ -1,0 +1,9 @@
+﻿Outcome : Pr(Hired) × 100,(1),(2),(3),(4)
+College,-1.633***,-1.648***,-1.608***,-1.576**
+No col. x U. rate,-0.135***,-0.162***,-0.174***,-0.0567***
+Col. x U. rate,-0.0508***,-0.0784***,-0.0775***,0.0397**
+R²,0.001,0.001,0.002,0.002
+State fixed effect,No,Yes,Yes,Yes
+Demographic fixed effect,No,No,Yes,Yes
+Month-Year fixed effect,No,No,No,Yes
+N,"16,948,516","16,948,516","16,948,516","16,948,516"

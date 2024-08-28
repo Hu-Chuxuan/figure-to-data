@@ -1,0 +1,7 @@
+﻿Tables Outcome : number of methods of search,(1),(2)
+PE ≤ 10,-0.293***,−0.171***
+PE ≤ 10 × U. rate,0.0266**,0.0227**
+PE > 10 × U. rate,0.0186,0.0221*
+,"565,081","565,081"
+R²,0.031,0.060
+Demographic fixed effect,No,Yes
