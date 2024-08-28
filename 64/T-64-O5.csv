@@ -1,0 +1,6 @@
+"Empty Column 0","Single-author publications - OLS","Single-author publications - OLS (SE)","Single-author publications - IV","Single-author publications - IV (SE)","Co-authored publications - With peers - OLS","Co-authored publications - With peers - OLS (SE)","Co-authored publications - With peers - IV","Co-authored publications - With peers - IV (SE)","Co-authored publications - Without peers - OLS","Co-authored publications - Without peers - OLS (SE)","Co-authored publications - Without peers - IV","Co-authored publications - Without peers - IV (SE)"
+"Number of peers","0.002b","0.001","0.001","0.001","0.001c","0.001","0.001","0.001","-0.000","0.001","0.000","0.001"
+"Peers' productivity","0.157a","0.027","0.037","0.073","0.145a","0.029","0.136b","0.066","0.083a","0.016","0.133c","0.069"
+"R2","0.07","","","","0.08","","","","0.09","","",""
+"Observations","171450","","171450","","171450","","171450","","171450","","171450",""
+"Kleibergen–Paap","","","28.1","","","","28.1","","","","28.1",""
