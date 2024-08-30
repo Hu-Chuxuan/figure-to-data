@@ -1,0 +1,8 @@
+"Empty Column 0","%Primary","%Primary (SE)","%Primary (p-value)","%High","%High (SE)","%High (p-value)","%InfantMortality","%InfantMortality (SE)","%InfantMortality (p-value)"
+"Pre-colonial conflict exposure","18.683*","11.150","0.096","-16.094**","6.553","0.015","-35.283**","14.405","0.015"
+"Population density","1","","","1","","","1","",""
+"State FE","1","","","1","","","1","",""
+"Geographic controls","1","","","1","","","1","",""
+"Standardised beta coefficient","0.099","","","-0.139","","","-0.112","",""
+"R^2","0.712","","","0.840","","","0.674","",""
+"Observations","203","","","187","","","270","",""

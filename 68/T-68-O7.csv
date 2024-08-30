@@ -1,0 +1,8 @@
+"Empty Column 0","%Irrigated - 1931","%Irrigated - 1931 (SE)","%Irrigated - 1931 (p-value)","%Irrigated - 1956-87","%Irrigated - 1956-87 (SE)","%Irrigated - 1956-87 (p-value)","ln(Yield)","ln(Yield) (SE)","ln(Yield) (p-value)","%Non-agriculture","%Non-agriculture (SE)","%Non-agriculture (p-value)"
+"Pre-colonial conflict exposure","21.275**","10.357","0.041","37.413**","15.758","0.018","0.737*","0.381","0.054","0.197**","0.085","0.021"
+"Population density","1","","","1","","","1","","","1","",""
+"State FE","1","","","1","","","1","","","1","",""
+"Geographic controls","1","","","1","","","1","","","1","",""
+"Standardised beta coefficient","0.194","","","0.173","","","0.134","","","0.100","",""
+"R^2","0.391","","","0.611","","","0.683","","","0.566","",""
+"Observations","257","","","271","","","271","","","660","",""

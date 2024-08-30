@@ -1,0 +1,8 @@
+"Empty Column 0","Political violence","Political violence (SE)","Political violence (p-value)","Maoist control","Maoist control (SE)","Maoist control (p-value)","Linguistic Fractionalisation","Linguistic Fractionalisation (SE)","Linguistic Fractionalisation (p-value)","Religious Fractionalisation","Religious Fractionalisation (SE)","Religious Fractionalisation (p-value)"
+"Pre-colonial conflict exposure","-0.241**","0.102","0.019","-0.381**","0.163","0.020","-0.209*","0.113","0.065","0.080","0.071","0.260"
+"Population density","1","","","0","","","1","","","1","",""
+"State FE","1","","","1","","","1","","","1","",""
+"Geographic controls","1","","","0","","","1","","","1","",""
+"Standardised beta coefficient","-0.119","","","-0.129","","","-0.073","","","0.048","",""
+"R^2","0.408","","","0.281","","","0.570","","","0.557","",""
+"Observations","660","","","395","","","660","","","660","",""

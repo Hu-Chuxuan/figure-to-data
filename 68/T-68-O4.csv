@@ -1,0 +1,8 @@
+"Empty Column 0","All - ln\(Tax/Area\)","All - ln\(Tax/Area\) (SE)","All - ln\(Tax/Area\) (p-value)","All - ln(Tax/Person)","All - ln(Tax/Person) (SE)","All - ln(Tax/Person) (p-value)","British India - ln\(Tax/Area\)","British India - ln\(Tax/Area\) (SE)","British India - ln\(Tax/Area\) (p-value)","British India - ln(Tax/Person)","British India - ln(Tax/Person) (SE)","British India - ln(Tax/Person) (p-value)","Princely State - ln\(Tax/Area\)","Princely State - ln\(Tax/Area\) (SE)","Princely State - ln\(Tax/Area\) (p-value)","Princely State - ln(Tax/Person)","Princely State - ln(Tax/Person) (SE)","Princely State - ln(Tax/Person) (p-value)","British India - ln(Tax/Acre)","British India - ln(Tax/Acre) (SE)","British India - ln(Tax/Acre) (p-value)","British India - ln(Tax/Person)","British India - ln(Tax/Person) (SE)","British India - ln(Tax/Person) (p-value)"
+"Pre-colonial conflict exposure","2.246***","0.550","0.000","1.245***","0.382","0.001","2.208***","0.516","0.000","1.157***","0.354","0.001","6.386*","3.524","0.076","1.612","2.228","0.473","1.310","0.911","0.153","0.835","0.705","0.238"
+"Population density","1","","","1","","","1","","","1","","","1","","","1","","","1","","","1","",""
+"State FE","1","","","1","","","1","","","1","","","1","","","1","","","1","","","1","",""
+"Geographic controls","1","","","1","","","1","","","1","","","1","","","1","","","1","","","1","",""
+"Standardised beta coefficient","0.256","","","0.173","","","0.281","","","0.227","","","0.496","","","0.210","","","0.135","","","0.098","",""
+"R^2","0.468","","","0.518","","","0.596","","","0.545","","","0.606","","","0.408","","","0.731","","","0.696","",""
+"Observations","270","","","274","","","200","","","200","","","70","","","74","","","145","","","144","",""
