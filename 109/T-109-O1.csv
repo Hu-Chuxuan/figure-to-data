@@ -1,13 +1,11 @@
-﻿Tables Outcome : Pr(Hired) × 100,(1),(2),(3),(4)
-Panel A : Aggregate effect,,,,
-State Unemp. rate,-0.119***,-0.149***,-0.149***,-0.0326*
-R²,0.000,0.000,0.002,0.003
-Panel B : Disaggregated by potential experience,,,,
-PE ≤ 10,5.039***,5.040***,4.987***,4.988***
-PE≤ 10 × U. rate,-0.335***,-0.365***,-0.369***,-0.253***
-PE 10 × U. rate,-0.0367**,-0.0656***,-0.0662***,0.0496**
-R²,0.007,0.007,0.008,0.009
-State fixed effect,No,Yes,Yes,Yes
-Demographic fixed effect,No,No,Yes,Yes
-Month-year fixed effect,No,No,No,Yes
-N,"16,948,516","16,948,516","16,948,516","16,948,516"
+"Tables Outcome : Pr(Hired) × 100","(1)","(1) (SE)","(2)","(2) (SE)","(3)","(3) (SE)","(4)","(4) (SE)"
+"Panel A : Aggregate effect - State Unemp. rate","-0.119***","0.0150","-0.149***","0.0100","-0.149***","0.00906","-0.0326*","0.0132"
+"Panel A : Aggregate effect - R²","0.000","","0.000","","0.002","","0.003",""
+"Panel B : Disaggregated by potential experience - PE ≤ 10","5.039***","0.12","5.040***","0.122","4.987***","0.117","4.988***","0.117"
+"Panel B : Disaggregated by potential experience - PE≤ 10 × U. rate","-0.335***","0.0203","-0.365***","0.0177","-0.369***","0.0166","-0.253***","0.0185"
+"Panel B : Disaggregated by potential experience - PE 10 × U. rate","-0.0367**","0.0131","-0.0656***","0.00911","-0.0662***","0.00882","0.0496**","0.0142"
+"Panel B : Disaggregated by potential experience - R²","0.007","","0.007","","0.008","","0.009",""
+"Panel B : Disaggregated by potential experience - State fixed effect","No","","Yes","","Yes","","Yes",""
+"Panel B : Disaggregated by potential experience - Demographic fixed effect","No","","No","","Yes","","Yes",""
+"Panel B : Disaggregated by potential experience - Month-year fixed effect","No","","No","","No","","Yes",""
+"Panel B : Disaggregated by potential experience - N","16948516","","16948516","","16948516","","16948516",""

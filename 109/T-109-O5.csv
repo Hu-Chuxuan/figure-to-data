@@ -1,6 +1,6 @@
-﻿Outcome : average PE of hires,(1),(2)
-State unemp. rate,0.138**,0.123**
-N,"549,835","549,835"
-R²,0.066,0.187
-Occupation fixed effects,No,Yes
-Industry fixed effects,No,Yes
+"﻿Outcome : average PE of hires","(1)","(1) (SE)","(2)","(2) (SE)"
+"State unemp. rate","0.138**","0.0479","0.123**","0.0372"
+"N","549835","","549835",""
+"R²","0.066","","0.187",""
+"Occupation fixed effects","No","","Yes",""
+"Industry fixed effects","No","","Yes",""

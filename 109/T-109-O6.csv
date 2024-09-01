@@ -1,13 +1,10 @@
-﻿Sample :,All,Employed,Unemployed,NILF
-Panel A : Average experience of individuals within cells,,,,
-State unemp. rate,-0.0106,0.0440*,0.174**,-0.142**
-N,"16,948,516","10,814,088","653,100","5,481,328"
-R²,0.045,0.040,0.064,0.099
-Panel B : Average experience of newly hired within cells,,,,
-State unemp. rate,0.138**,0.174***,0.253***,0.0338
-N,"549,835","204,594","138,335","206,906"
-R²,0.066,0.052,0.058,0.109
-Panel C : Ratio of average PE of hires to average PE of population in cell,,,,
-State unemp. rate,0.00553**,0.00368,0.00415,0.00515*
-N,"12,214","12,214","12,214","12,214"
-R²,0.273,0.113,0.045,0.199
+"﻿Sample :","(1) All","(1) All (SE)","(2) Employed","(2) Employed (SE)","(3) Unemployed","(3) Unemployed (SE)","(4) NILF","(4) NILF (SE)"
+"Panel A : Average experience of individuals within cells - State unemp. rate","-0.0106","0.0252","0.0440*","0.0174","0.174**","0.0560","-0.142**","0.0476"
+"Panel A : Average experience of individuals within cells - N","16948516","","10814088","","653100","","5481328",""
+"Panel A : Average experience of individuals within cells - R²","0.045","","0.04","","0.064","","0.099",""
+"Panel B : Average experience of newly hired within cells - State unemp. rate","0.138**","0.0479","0.174***","0.0474","0.253***","0.0672","0.0338","0.0842"
+"Panel B : Average experience of newly hired within cells - N","549835","","204594","","138335","","206906",""
+"Panel B : Average experience of newly hired within cells - R²","0.066","","0.052","","0.058","","0.109",""
+"Panel C : Ratio of average PE of hires to average PE of population in cell - State unemp. rate","0.00553**","0.00189","0.00368","0.00265","0.00415","0.00352","0.00515*","0.00252"
+"Panel C : Ratio of average PE of hires to average PE of population in cell - N","12214","","12214","","12214","","12214",""
+"Panel C : Ratio of average PE of hires to average PE of population in cell - R²","0.273","","0.113","","0.045","","0.199",""
