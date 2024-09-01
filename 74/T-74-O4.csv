@@ -1,0 +1,4 @@
+"Treat.","Parameters","Rule","r_A","r_B","r_C","p_AB","p_AC","p_BC","Groups","Sinc","Duv"
+"R_SM","Small minority (SM)","Run-off","37","24","39","78","86","86","5","1","1"
+"P_SM","Small minority (SM)","Plurality","37","24","39","","","","5","1","1"
+"R_NU","No upset (NU)","Run-off","34","22","44","78","99","99","5","1","1"

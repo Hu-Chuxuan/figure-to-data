@@ -1,0 +1,5 @@
+"Treat.","Parameters","Rule","r_A","r_B","r_C","pAB","pAC","pBC","Groups","Sinc","Duv"
+"R_B","Baseline (B)","Run-off","34","22","44","78","76","76","6","1","1"
+"P_B","Baseline (B)","Plurality","34","22","44","","","","5","","1"
+"R_LD","Low disagreement (LD)","Run-off","43","13","44","96","76","76","5","","1"
+"P_LD","Low disagreement (LD)","Plurality","43","13","44","","","","5","","1"
