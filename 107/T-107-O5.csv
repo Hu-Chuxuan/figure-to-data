@@ -1,0 +1,4 @@
+"﻿Threshold","Chose 'more' contract (1)","Chose 'fewer' contract (2)","Chose 'more' given chose 'fewer' (3)","Chose 'fewer' given chose 'more' (4)","Diff (3)-(1)","Diff (4)-(2)"
+"8 visits","0.64","0.34","0.89","0.47","0.25***","0.13***"
+"12 visits","0.49","0.31","0.67","0.43","0.18***","0.12***"
+"16 visits","0.32","0.27","0.50","0.43","0.18***","0.15***"

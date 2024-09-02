@@ -1,0 +1,10 @@
+"﻿","","(1) \delta in att.","(1) \delta in att. (Lower CI)","(1) \delta in att. (Upper CI)","(2) Pr(att. ≥ 12) 
+with contract ","(2) Pr(att. ≥ 12) (Lower CI)
+with contract ","(2) Pr(att. ≥ 12) (Upper CI)
+with contract ","(3) Pr(att. ≥ 12) without contract","(3) Pr(att. ≥ 12) without contract (Lower CI)","(3) Pr(att. ≥ 12) without contract (Upper CI)","(4) \delta in Pr(att. ≥ 12)","(4) \delta in Pr(att. ≥ 12) (Lower CI)","(4) \delta in Pr(att. ≥ 12) (Upper CI)"
+"1","Empirical","3.51","1.38","5.65","0.65","0.52","0.78","0.22","0.10","0.35","0.42","0.26","0.58"
+"2","Homogeneous","3.05","","","0.91","","","0.15","","","0.76","",""
+"3","Heterogeneous by median past att., info. treatment","2.47","","","0.74","","","0.34","","","0.40","",""
+"4","Heterogeneous by median past att.","2.61","","","0.74","","","0.33","","","0.41","",""
+"5","Heterogeneous by quartile past att.","2.74","","","0.73","","","0.31","","","0.41","",""
+"6","Heterogeneous by quartile past att., info. treatment","2.65","","","0.73","","","0.32","","","0.41","",""
