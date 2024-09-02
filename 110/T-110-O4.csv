@@ -1,0 +1,18 @@
+,,Believes does not lose (1),Believes does not lose (2),Believes does not lose (3),Believes wins (4)
+0,Predicted winner (Γ),0.269,0.208,0.246,0.153
+1,Predicted winner (Γ) Standard error,0.058,0.035,0.064,0.045
+2,Initial tax acceptance (A ^0),0.306,0.331,0.015,0.31
+3,Initial tax acceptance (A ^0) Standard error,0.066,0.038,0.087,0.051
+4,Yellow Vests supporter,,,0.019,
+5,Yellow Vests supporter Standard error,,,0.058,
+6,Γ  ×  A^0,,,0.166,
+7,Γ  ×  A^0 Standard error,,,0.079,
+8,Γ × Yellow Vests supporter,,,-0.151,
+9,Γ × Yellow Vests supporter Standard error,,,0.069,
+10,Γ  × G,,,0.08,
+11,Γ  × G Standard error,,,0.079,
+12,"Controls: incomes (piecewise continuous), estimated gains, sociodemo, other motives",1/0,1/0,1/0,1/0
+13,Controls: initial win/lose category ( G ),,,1/0,
+14,Subsample,|γ| < 50,,|γ| < 50,|γ| < 50
+15,Observations,757,"1,968",757,757
+16,R^2,0.301,0.32,0.419,0.253
