@@ -1,0 +1,13 @@
+,Number of transactions (millions),"Dollar volume (billions of USD)"
+All 1099-Bs in 2008–9,"1,433","$37,181"
+Eliminate non-trading and partial days,"1,428","$37,101"
+Eliminate negative and trades over $2 billion,"1,411","$36,284"
+Individual taxpayers,870,"$9,575"
+Taxpayers age over 17,861,"$9,548"
+Stocks and stock mutual funds,274,"$6,794"
+"Dependent variable: log 1099-B sales volume, USD",,
+Change in log VIX,6.831,
+Change in log VIX Standard Error,1.316,
+Observations (days),498,
+Observations (individuals),24.9 million,
+R2,0.21,
