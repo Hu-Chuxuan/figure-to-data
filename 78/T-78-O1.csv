@@ -1,0 +1,8 @@
+"Empty Column 0","Wing load","Wing load (SE)","Maximum speed","Maximum speed (SE)","Wing load","Wing load (SE)","Maximum speed","Maximum speed (SE)","Wing load","Wing load (SE)","Maximum speed","Maximum speed (SE)"
+"Before 1926 × year × US","0.013","0.006","-0.001","0.006","0.004","0.009","-0.028","0.009","-0.005","0.010","-0.031","0.009"
+"After 1926 × year × US","0.074","0.006","0.067","0.006","0.025","0.010","0.031","0.010","0.023","0.010","0.024","0.009"
+"Control for: 1(# of engines > 1)","0","","0","","0","","0","","1","","1",""
+"Control for: log of engine horsepower","0","","0","","0","","0","","1","","1",""
+"F-statistic","34.7","","37.6","","1.5","","11.4","","2.5","","13.3",""
+"p-value","0.000","","0.000","","0.229","","0.001","","0.113","","0.000",""
+"Observations","116","","174","","165","","233","","140","","192",""
