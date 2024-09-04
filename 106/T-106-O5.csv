@@ -1,0 +1,6 @@
+,Low dose (1),Low dose (2),Low dose (3),Low dose (4),High dose (5),High dose (6),High dose (7),High dose (8)
+Doctor village,0.006,0.005,0.002,0.002,−0.011,−0.013,−0.015,−0.015
+Doctor village Standard error,0.006,0.006,0.007,0.009,0.005,0.005,0.005,0.007
+Basic controls,No,Yes,Yes,No,No,Yes,Yes,No
+Extended controls,No,No,Yes,No,No,No,Yes,No
+Observations,2915,2915,2915,2918,3200,3200,3200,3201
