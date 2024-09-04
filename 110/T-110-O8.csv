@@ -1,8 +1,8 @@
 ,Approval ( A0 ) IV,Approval ( A0 ) OLS,Acceptance ( A0 ) IV
 Believes in effectiveness ( E ),0.416,0.374,0.505
 Believes in effectiveness ( E ) Standard error,0.168,0.013,0.242
-Instruments: info E.E. and C.C.,1/0,,1/0
-"Controls: sociodemo, other motives, incomes, estimated gains",1/0,1/0,1/0
+Instruments: info E.E. and C.C.,1,0,1
+Controls: sociodemo; other motives; incomes; estimated gains,1,1,1
 Effective F -statistic,11.2,,11.2
-Observations,"3,002","3,002","3,002"
+Observations,3002,3002,3002
 R2,0.161,0.342,0.218

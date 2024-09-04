@@ -1,12 +1,12 @@
 ,1,2
 Net taxable purchases (or sales),0.925,0.908
 Net taxable purchases (or sales) Standard error,0.075,0.123
-"Net taxable purchases °ø HH income percentile [75, 95)",,0.146
-"Net taxable purchases °ø HH income percentile [75, 95) Standard error",,0.139
-"Net taxable purchases °ø HH income percentile [95, 99)",,0.030
-"Net taxable purchases °ø HH income percentile [95, 99) Standard error",,0.140
-"Net taxable purchases °ø HH income percentile [99,100]",,0.015
-"Net taxable purchases °ø HH income percentile [99,100] Standard error",,0.153
+Net taxable purchases °ø HH income percentile [75;95),,0.146
+Net taxable purchases °ø HH income percentile [75;95) Standard error,,0.139
+Net taxable purchases °ø HH income percentile [95;99),,0.030
+Net taxable purchases °ø HH income percentile [95;99) Standard error,,0.140
+Net taxable purchases °ø HH income percentile [99;100],,0.015
+Net taxable purchases °ø HH income percentile [99;100] Standard error,,0.153
 AGI group fixed effects,No,Yes
 R2,0.772,0.728
-Observations,"3,857","3,857"
+Observations,3857,3857

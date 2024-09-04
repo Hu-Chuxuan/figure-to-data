@@ -11,8 +11,8 @@ Yellow Vests supporter Standard error,,,0.058,
 Γ × Yellow Vests supporter Standard error,,,0.069,
 Γ  × G,,,0.08,
 Γ  × G Standard error,,,0.079,
-"Controls: incomes (piecewise continuous), estimated gains, sociodemo, other motives",1/0,1/0,1/0,1/0
-Controls: initial win/lose category ( G ),,,1/0,
+Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1,1,1,1
+Controls: initial win/lose category ( G ),0,0,1,0
 Subsample,|γ| < 50,,|γ| < 50,|γ| < 50
-Observations,757,"1,968",757,757
+Observations,757,1968,757,757
 R^2,0.301,0.32,0.419,0.253

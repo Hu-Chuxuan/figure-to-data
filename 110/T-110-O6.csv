@@ -3,9 +3,9 @@ Believes does not lose (G),0.534,0.476,0.438,0.644
 Believes does not lose (G) Standard Error,0.132,0.106,0.014,0.17
 Initial policy acceptance (A^0),0.356,0.354,0.361,0.42
 Initial policy acceptance (A^0) Standard error,0.041,0.034,0.026,0.074
-"Controls: incomes (piecewise continuous), estimated gains, sociodemo, other motives",1/0,1/0,1/0,1/0
-Controls: policy assigned,1/0,1/0,1/0,1/0
+Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1,1,1,1
+Controls: policy assigned,1,1,1,1
 Subsample,[p10; p60],,,|γ|  < 50
 Effective  F-statistic,15.6,23.8,,21.3
-Observations,"1,969","3,002","3,002",757
+Observations,1969,3002,3002,757
 R^2,0.32,0.308,0.472,0.541
