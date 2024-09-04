@@ -9,9 +9,9 @@ Predicted winner (Γ),,,0.269
 Predicted winner (Γ) Standard error,,,0.058
 Initial policy acceptance (A^0),0.123,0.154,0.306
 Initial policy acceptance (A^0) Standard error,0.041,0.033,0.066
-"Controls: incomes (piecewise continuous), estimated gains, sociodemo, other motives",1/0,1/0,1/0
+Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1/0,1/0,1/0
 Controls: policy assigned,1/0,1/0,
 Subsample,[p10; p60],,|γ| < 50
 Effective F-statistic,15.6,23.8,21.3
-Observations,1969,"3,002",757
+Observations,1969,3002,757
 R^2,0.221,0.196,0.301

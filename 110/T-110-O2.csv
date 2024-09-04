@@ -23,6 +23,6 @@ Left-right:  extreme right,-0.076,-0.057,-0.088
 Left-right:  extreme right Standard Error,0.066,0.069,0.065
 Left-right: indeterminate,-0.009,0.017,-0.007
 Left-right: indeterminate Standard Error,0.061,0.063,0.06
-"Controls: sociodemo, political leaning",1/0,1/0,1/0
-Observations,"3,002","3,002","3,002"
+Controls: sociodemo political leaning,1,1,1
+Observations,3002,3002,3002
 R^2,0.061,,0.098
