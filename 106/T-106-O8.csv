@@ -1,0 +1,8 @@
+,OLS (1),OLS (2),IV (3),OLS (4)
+Proficiency score (%),−0.0025,,−0.0055,
+Proficiency score (%) Standard error,0.0011,,0.0023,
+Standardized proficiency,,−0.0035,,−0.0155
+Standardized proficiency Standard error,,0.0024,,0.0067
+N,9124,9124,9124,9124
+First-stage F-statistic,,,51.1751,32.0560
+Control group mean,0.0363,0.0363,0.0363,0.0363

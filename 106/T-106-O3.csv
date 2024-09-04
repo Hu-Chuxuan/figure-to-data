@@ -1,0 +1,8 @@
+,(1),(2),(3),(4)
+MLP village,0.002,0.002,−0.002,−0.001
+MLP village Standard error,0.016,0.016,0.013,0.013
+Doctor village,0.216,0.217,0.083,0.084
+Doctor village Standard error,0.028,0.028,0.016,0.016
+Controls,No,Yes,No,Yes
+Observations,6891,6891,10586,10586
+Control group mean,0.003,0.003,0.058,0.058
