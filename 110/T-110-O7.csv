@@ -3,7 +3,7 @@ Info on environmental effectiveness ( Z E ),0.059,0.062
 ,0.014,0.017
 Info on climate change ( Z CC),0.028,0.03
 ,0.013,0.017
-Controls: sociodemo; other motives; incomes; estimated gain;,1/0,1/0
+Controls: sociodemo; other motives; incomes; estimated gain;,1,1
 Effective  F-statistic,11.2,6
 Observations,3002,3002
 R^2,0.123,0.121
