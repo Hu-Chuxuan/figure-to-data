@@ -13,7 +13,7 @@ Geographic controls,0,1,1,1,1,1
 Socialist share in 1913,0,0,1,1,1,1
 Military controls,0,0,0,1,1,1
 Agriculture controls,0,0,0,0,1,1
-Urban controls,0,0,,0,,1
+Urban controls,0,0,0,0,0,1
 Observations ,5775,5775,5775,5775,5775,5775
 R-squared,0.60,0.62,0.69,0.69,0.69,0.70
 Number of clusters ,181,181,181,181,181,181
