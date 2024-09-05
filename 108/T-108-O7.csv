@@ -8,5 +8,5 @@ Net taxable purchases °ø HH income percentile [95;99) Standard error,,0.140
 Net taxable purchases °ø HH income percentile [99;100],,0.015
 Net taxable purchases °ø HH income percentile [99;100] Standard error,,0.153
 AGI group fixed effects,No,Yes
-R2,0.772,0.728
+R^2,0.772,0.728
 Observations,3857,3857
