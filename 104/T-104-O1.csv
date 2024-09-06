@@ -1,0 +1,19 @@
+,(1),(2),(3),(4),(5),(6)
+Share of foot soldier casualties ,0.12,0.11,0.10,0.10,0.10,0.10
+Share of foot soldier casualties Standard error,0.02,0.02,0.01,0.01,0.01,0.01
+Veterans (classes 1874–95),,,,0.18,0.17,0.17
+Veterans (classes 1874–95) Standard error,,,,0.07,0.07,0.07
+Veterans (classes 1896–1900),,,,-0.13,-0.12,-0.12
+Veterans (classes 1896–1900) Standard error,,,,0.05,0.05,0.05
+Assault tr. + volunt. casualties,,,,0.00,0.00,0.00
+Assault tr. + volunt. casualties Standard error,,,,0.01,0.01,0.01
+Regiment/province FE,1,1,1,1,1,1
+Demographic controls,1,1,1,1,1,1
+Geographic controls,0,1,1,1,1,1
+Socialist share in 1913,0,0,1,1,1,1
+Military controls,0,0,0,1,1,1
+Agriculture controls,0,0,0,0,1,1
+Urban controls,0,0,0,0,0,1
+Observations ,5775,5775,5775,5775,5775,5775
+R-squared,0.60,0.62,0.69,0.69,0.69,0.70
+Number of clusters ,181,181,181,181,181,181

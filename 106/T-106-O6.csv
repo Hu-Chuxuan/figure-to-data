@@ -1,4 +1,4 @@
-,"Adherenceto feverprotocol",Carried out physical exam,Made a diagnosis,Prescribed injection,Prescribed antibiotic,Log of consultation time,Patient communication
+,Adherence to fever protocol,Carried out physical exam,Made a diagnosis,Prescribed injection,Prescribed antibiotic,Log of consultation time,Patient communication
 New MLP,0.005,−0.001,−0.068,0.000,−0.009,0.092,−0.011
 New MLP Standard error,0.023,0.038,0.036,0.031,0.032,0.047,0.019
 Doctor,0.146,0.111,0.244,−0.084,−0.119,0.291,0.057
