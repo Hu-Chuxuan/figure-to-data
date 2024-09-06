@@ -1,0 +1,8 @@
+"Empty Column 0","All Cities","All Cities (SE)","Cities with high trade opportunities - All","Cities with high trade opportunities - All (SE)","Cities with high trade opportunities - Ruggedness Low","Cities with high trade opportunities - Ruggedness Low (SE)","Cities with high trade opportunities - Ruggedness High","Cities with high trade opportunities - Ruggedness High (SE)","Cities with low trade opportunities - All","Cities with low trade opportunities - All (SE)","Cities with low trade opportunities - Ruggedness Low","Cities with low trade opportunities - Ruggedness Low (SE)","Cities with low trade opportunities - Ruggedness High","Cities with low trade opportunities - Ruggedness High (SE)"
+"Mean temperature",".72***","0.21",".05","0.62","-.85","0.74",".96","1.03",".80***","0.25",".63*","0.33","1.08**","0.42"
+"Control variables - City fixed effects","1","1","1","1","1","1","1"
+"Control variables - Time period fixed effects","1","1","1","1","1","1","1"
+"Control variables - Historical controls (\times time period fixed effects)","1","1","1","1","1","1","1"
+"Control variables - Geographic controls (\times time period fixed effects)","1","1","1","1","1","1","1"
+"Observations","10600","4595","2290","2305","4755","2375","2380"
+"R^2",".767",".78",".80",".76",".77",".82",".73"
