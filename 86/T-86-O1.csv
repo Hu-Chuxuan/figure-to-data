@@ -1,0 +1,7 @@
+"Empty Column 0","Favorability toward May (1)","Favorability toward May (1) (SE)","Favorability toward May (2)","Favorability toward May (2) (SE)","May best prime minister (1)","May best prime minister (1) (SE)","May best prime minister (2)","May best prime minister (2) (SE)"
+"Surveyed after Manchester attack","-0.332*","0.054","-0.351*","0.043","-0.204*","0.038","-0.333*","0.042"
+"Constant","5.642*","0.043","2.788*","0.142","0.306*","0.027","-1.191*","0.127"
+"Labour control","1","","1","","1","","1",""
+"Full controls","","","1","","","","1",""
+"Observations","32642","","26506","","34394","","27844",""
+"R^2/Pseudo R^2","0.143","","0.442","","0.090","","0.329",""
