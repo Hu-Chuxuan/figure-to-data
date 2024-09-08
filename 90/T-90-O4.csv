@@ -1,0 +1,7 @@
+"Empty Column 0","All investment","All investment (SE)","More visible investment","More visible investment (SE)","Less visible investment","Less visible investment (SE)","Unemployment rate","Unemployment rate (SE)","Not in birth county","Not in birth county (SE)","Not in 1977 county","Not in 1977 county (SE)"
+"Indicator military presence","0.00","0.07","0.00","0.06","-0.00","0.02","0.13","0.44","-0.01","0.02","-0.02","0.01"
+"Observations","276","","276","","276","","276","","276","","276",""
+"R-squared","0.493","","0.452","","0.625","","0.624","","0.592","","0.715",""
+"Province fixed effects","1","","1","","1","","1","","1","","1",""
+"Controls","1","","1","","1","","1","","1","","1",""
+"Avg. dependent variable","0.57","","0.49","","0.08","","9.64","","0.64","","0.18",""
