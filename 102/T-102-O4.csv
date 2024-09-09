@@ -1,0 +1,11 @@
+,Votes for incumbent mayor,Votes for incumbent group,Votes for challenger candidate,Turnout,Blank and null votes
+Treated individuals,−0.101,−0.076,0.098,−0.009,−0.006
+Treated individuals standard error,0.058,0.049,0.073,0.059,0.030
+Treated individuals p-value,0.041,0.093,0.087,0.853,0.864
+Respondents,0.022,0.036,−0.033,−0.001,0.011
+Respondents standard error,0.044,0.038,0.058,0.049,0.020
+Respondents p-value,0.520,0.316,0.458,0.993,0.580
+Control for registered voters,Yes,Yes,Yes,Yes,Yes
+Location fixed effects,Yes,Yes,Yes,Yes,Yes
+Rescaled regressors,Yes,Yes,Yes,Yes,Yes
+Observations,909,1641,909,909,909

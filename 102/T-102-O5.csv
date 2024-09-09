@@ -1,0 +1,21 @@
+Unnamed: 0,(1),(2),(3),(4),(5)
+β 1 : Cisterns treatment,−0.012,,−0.012,−0.016,0.005
+β 1 : Cisterns treatment standard error,0.013,,0.013,0.012,0.010
+β  2 : Cisterns treatment × clientelist relationship,−0.097,,−0.095,−0.056,−0.068
+β 2 : Cisterns treatment × clientelist relationship standard error,0.034,,0.034,0.032,0.025
+β  3 : Rainfall shock,,−0.020,−0.021,−0.013,−0.007
+β  3 : Rainfall shock standard error,,0.011,0.011,0.009,0.009
+β  4: Rainfall shock × clientelist relationship,,−0.014,−0.012,−0.006,−0.020
+β  4: Rainfall shock × clientelist relationship standard error,,0.016,0.016,0.015,0.012
+β  5: Clientelist relationship,0.119,0.071,0.118,0.080,0.075
+β  5: Clientelist relationshipstandard error,0.026,0.018,0.026,0.025,0.020
+β1  + β2,−0.109,,−0.108,−0.072,−0.062
+β1  + β2 standard error,(0.032),,(0.032),(0.031),0.024
+β  3 +  β  4,,−0.035,−0.032,−0.019,−0.027
+β 3 + β 4 standard error,,0.016,0.015,0.014,0.013
+Municipality fixed effects,Yes,Yes,Yes,Yes,Yes
+Year fixed effects,Yes,Yes,Yes,Yes,Yes
+Observations,4288,4288,4288,4288,4284
+Mean of Y: treatment group,0.149,0.149,0.149,0.120,0.089
+Mean of Y: control group,0.177,0.177,0.177,0.146,0.094
+Mean of Y: clientelist relationship in control group,0.285,0.285,0.285,0.225,0.169
