@@ -1,0 +1,11 @@
+,-(CES-D) scale 2013,SRHS index 2013,Child food security index 2013,Overall vulnerability index 2013,Total household expenditure 2011
+Panel A: Cisterns treatment,0.092,0.075,0.084,0.126,
+Panel A: Cisterns treatment Standard error,0.037,0.033,0.054,0.043,
+Panel A: Municipality fixed effects,Yes,Yes,Yes,Yes,
+Panel B: Rainfall shock,0.046,0.039,0.046,0.064,24.736
+Panel B: Rainfall shock Standard error,0.016,0.017,0.026,0.019,6.657
+Panel B: Municipality fixed effects,No,No,No,No,No
+Observations,1128,1052,1128,1128,1281
+Mean of Y: treatment group,3.377,2.868,−0.277,0.061,364.467
+Mean of Y: control group,3.289,2.791,−0.340,−0.056,370.877
+Standard deviation of Y: control group,0.646,0.535,0.990,0.714,207.744
