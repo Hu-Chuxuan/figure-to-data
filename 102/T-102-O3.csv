@@ -1,19 +1,18 @@
 ,(1),(2),(3),(4),(5),(6),(7),(8)
 β 1  : Cisterns treatment,-0.030,,-0.030,-0.030,,,−0.027,−0.005
-,0.013,,0.013,0.013,,,0.012,0.005
+β 1  : Cisterns treatment standard error,0.013,,0.013,0.013,,,0.012,0.005
 β2 : Rainfall shock,,−0.023,−0.023,-0.021,,,−0.015,−0.007
-,,0.010,0.010,0.011,,,0.009,0.004
+β2 : Rainfall shock standard error,,0.010,0.010,0.011,,,0.009,0.004
 β3 : Cisterns treatment × rainfall shock,,,,−0.004,,,,
-,,,,0.012,,,,
+β3 : Cisterns treatment × rainfall shock standard error,,,,0.012,,,,
 β  4: Cisterns treatment × 2012,,,,,−0.029,,,
-,,,,,0.017,,,
+β  4: Cisterns treatment × 2012 standard error,,,,,0.017,,,
 β  5: Cisterns treatment × 2013,,,,,−0.031,,,
-,,,,,0.016,,,
+β  5: Cisterns treatment × 2013 standard error,,,,,0.016,,,
 β6: Rainfall shock × 2012,,,,,,−0.042,,
-,,,,,,0.011,,
+β6: Rainfall shock × 2012 standard error,,,,,,0.011,,
 β7 : Rainfall shock × 2013,,,,,,−0.004,,
-,,,,,,0.013,,
-Test of homogeneous effects in 2012 and 2013 ( p-value),,,,,,,,
+β7 : Rainfall shock × 2013 standard error,,,,,,0.013,,
 Cisterns treatment (H 0  : β4 = β,,,,,0.910,,,
 Rainfall shock (H 0 : β6 =  β  7 ),,,,,,0.011,,
 Municipality fixed effects,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
