@@ -1,0 +1,17 @@
+x,Relative GDP per worker (US = 1),Legend
+India,0.05687203791469253,Data
+India,0.6953899181387335,"Counterfactual, θ_Q = θ_AQ"
+India,0.1051271003877643,"Counterfactual, θ_Q = 0"
+India,0.10857389056441225,"Counterfactual, migrant-based calibration"
+Indonesia,0.08961654459284762,Data
+Indonesia,1.6320551486428265,"Counterfactual, θ_Q = θ_AQ"
+Indonesia,0.09564842740198198,"Counterfactual, θ_Q = 0"
+Indonesia,0.1051271003877643,"Counterfactual, migrant-based calibration"
+Jamaica,0.15510555794916048,Data
+Jamaica,1.7595863851788023,"Counterfactual, θ_Q = θ_AQ"
+Jamaica,0.14735028005170214,"Counterfactual, θ_Q = 0"
+Jamaica,0.1602757432141324,"Counterfactual, migrant-based calibration"
+Brazil,0.1999138302455843,Data
+Brazil,1.5381301163291687,"Counterfactual, θ_Q = θ_AQ"
+Brazil,0.33520034467901794,"Counterfactual, θ_Q = 0"
+Brazil,0.40672124084446404,"Counterfactual, migrant-based calibration"

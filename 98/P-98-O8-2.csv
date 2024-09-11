@@ -1,0 +1,17 @@
+x,Relative GDP per worker (US = 1),Legend
+Liberia (1st perc),0.01729783653296979,Data
+Liberia (1st perc),0.18136972799735424,"Counterfactual, θ_Q = θ_AQ"
+Liberia (1st perc),0.024303783973133597,"Counterfactual, θ_Q = 0"
+Liberia (1st perc),0.027808933453290163,"Counterfactual, migrant-based calibration"
+Tanzania (5th perc),0.029486444470795292,Data
+Tanzania (5th perc),0.4979808946507851,"Counterfactual, θ_Q = θ_AQ"
+Tanzania (5th perc),0.04051482834884823,"Counterfactual, θ_Q = 0"
+Tanzania (5th perc),0.04022708407898434,"Counterfactual, migrant-based calibration"
+Vietnam (10th perc),0.04770517145533315,Data
+Vietnam (10th perc),0.5001359850046616,"Counterfactual, θ_Q = θ_AQ"
+Vietnam (10th perc),0.06385910212908996,"Counterfactual, θ_Q = 0"
+Vietnam (10th perc),0.06558012834808669,"Counterfactual, migrant-based calibration"
+El Salvador (15th perc),0.058555686947288965,Data
+El Salvador (15th perc),0.42223507129421833,"Counterfactual, θ_Q = θ_AQ"
+El Salvador (15th perc),0.0858625637633686,"Counterfactual, θ_Q = 0"
+El Salvador (15th perc),0.10185875183171789,"Counterfactual, migrant-based calibration"
