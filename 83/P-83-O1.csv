@@ -1,0 +1,9 @@
+Type-1,Type-2,Subplot Value,Value,Error Bar Length
+Alone,Violation,Punishment rates,0.11120689655172422,0.12672413793103446
+Child,Violation,Punishment rates,0.21724137931034487,0.16810344827586204
+Alone,Violation+Help,Punishment rates,0.06982758620689666,0.10344827586206895
+Child,Violation+Help,Punishment rates,0.04913793103448283,0.08534482758620689
+Alone,Help,Helping rates,0.25862068965517243,0.17327586206896547
+Child,Help,Helping rates,0.4706896551724138,0.20172413793103444
+Alone,Violation+Help,Helping rates,0.15775862068965524,0.1448275862068965
+Child,Violation+Help,Helping rates,0.31034482758620696,0.1836206896551724
