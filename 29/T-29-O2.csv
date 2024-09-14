@@ -1,0 +1,8 @@
+"Variable","Tenure security (1)","Primary school (2)","Secondary school (3)","Waste removal (4)"
+"Muslim","-0.10* (0.05)","-0.17** (0.06)","-0.17** (0.07)","-0.18** (0.07)"
+"Assets","0.03** (0.00)","0.01 (0.01)","0.01 (0.01)","-0.01 (0.01)"
+"Constant","1.66** (0.20)","-1.31** (0.22)","-1.94** (0.16)","-3.14** (0.17)"
+"Neighborhood dummies","Yes","Yes","Yes","Yes"
+"City dummies","Yes","Yes","Yes","Yes"
+"Observations","5,134","5,023","4,310","4,629"
+"Adjusted R²","0.41","0.08","0.08","0.15"

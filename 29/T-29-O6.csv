@@ -1,0 +1,7 @@
+"Description","City","Year","Interviews","Slums","Empirics"
+"Household sample","Bangalore","2017","1948","50","Neighbor conjoint"
+"Household sample","Bangalore","2016","609","20","Candidate conjoint"
+"Household sample","Jaipur","2015","2669","45","Candidate conjoint"
+"Household Sample","Patna","2015","1972","34","Candidate conjoint"
+"Network census","Jaipur","2016","1593","4","Candidate conjoint and metric validation"
+"Network census","Patna","2016","988","4","Candidate conjoint and metric validation"
