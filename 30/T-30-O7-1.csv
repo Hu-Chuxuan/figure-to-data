@@ -1,0 +1,7 @@
+"","Belgium (1)","Belgium (1) (SE)","Belgium versus neighbours (non-matched sample) (2)","Belgium versus neighbours (non-matched sample) (2) (SE)","Belgium versus neighbours (matched sample) (3)","Belgium versus neighbours (matched sample) (3) (SE)"
+"Post 2006","0.0837***","0.0075","0.0025","0.0033","0.0146","0.0108"
+"Post 2006 \times Belgium","","","","","0.0676***","0.0132"
+"Firm FEs","1","","1","","1",""
+"R^2","0.68","","0.76","","0.71",""
+"No. observations","1403","","7673","","1644",""
+"No. firms","155","","992","","175",""
