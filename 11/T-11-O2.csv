@@ -1,0 +1,12 @@
+,(1),(2)
+Intercept,0.62***,0.25***
+Intercept standard error,0.01,0.01
+Illegal condition,-0.03**,-0.04*
+Illegal condition standard error,0.01,0.02
+Out-group antipathy,,0.85***
+Out-group antipathy standard error,,0.03
+Illegal condition x antipathy,,0.03
+Illegal condition x antipathy standard error,,0.04
+R^2,0.00,0.53
+Adjusted R^2,0.00,0.52
+Residual SD,0.23,0.16
