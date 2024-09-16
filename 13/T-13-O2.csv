@@ -1,0 +1,30 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+Panel A.: Imposed  Fact-Check,−0.045,−0.045,−0.049,−0.050,−0.020,−0.020,−0.021,−0.021
+Panel A.: Imposed  Fact-Check standard error,0.016,0.016,(0.017),(0.017),0.006,0.006,0.006,0.007
+Panel A.: Voluntary  Fact-Check,−0.038,−0.038,−0.040,−0.052,−0.021,−0.021,−0.024,−0.026
+Panel A.: Voluntary  Fact-Check standard error,0.016,0.016,(0.017),(0.017),0.005,0.005,0.006,0.006
+Panel A.: Observations ,2537,2537,2265,2078,2537,2537,2265,2078
+Panel A.: R^2,0.004,0.010,0.110,0.166,0.008,0.010,0.073,0.101
+"Panel A.: Mean DV,  Alt-Facts Treatment",0.147,0.147,0.155,0.161,0.0462,0.0462,0.0492,0.0509
+"Panel A.: p-value, Imposed = Voluntary",0.635,0.634,0.530,0.899,0.812,0.812,0.579,0.379
+Panel B.: Voluntary Fact-Check,−0.028,−0.028,−0.041,−0.039,−0.001,−0.001,−0.001,0.004
+Panel B.: Voluntary Fact-Check standard error,0.016,0.016,(0.017),(0.018),0.006,0.006,0.006,0.007
+Panel B.: Observations,1692,1692,1517,1388,1692,1692,1517,1388
+Panel B.: R^2,0.002,0.038,0.100,0.131,0.000,0.004,0.038,0.073
+"Panel B.: Mean DV, Imposed  Fact-Check",0.143,0.143,0.158,0.160,0.0315,0.0315,0.0337,0.0320
+Panel C.: Imposed  Fact-Check,−0.046,−0.045,−0.052,−0.051,−0.021,−0.021,−0.022,-0.021
+Panel C.: Imposed  Fact-Check standard error,0.016,0.016,(0.017),(0.018),0.006,0.006,0.007,0.007
+Panel C.: Voluntary Fact-Check: Viewer,−0.025,−0.028,−0.028,−0.025,−0.023,−0.022,−0.022,−0.020
+Panel C.: Voluntary Fact-Check: Viewer standarderror,0.023,0.023,(0.024),(0.024),0.008,0.008,0.008,0.008
+Panel C.: Voluntary  Fact-Check: Nonviewer,−0.066,−0.063,−0.074,−0.072,−0.026,−0.027,−0.032,−0.030
+Panel C.: Voluntary  Fact-Check: Nonviewer standard error,0.017,0.017,(0.018),(0.019),0.006,0.006,0.007,0.007
+Panel C.: Observations,2219,2219,"2,051","2,018",2349,2349,2112,2078
+Panel C.: R^2,0.007,0.011,0.038,0.069,0.010,0.016,0.046,0.063
+"Panel C.: Mean dep. var.,  Alt-Facts T",−0.0014,−0.0014,0.0036,0.0023,0.0006,0.0006,0.0027,0.0019
+Panel C.: Mean predicted  Alt-Facts T,0.150,0.150,0.156,0.159,0.0474,0.0474,0.0483,0.0490
+Panel C.: Mean predict. Imposed Fact-Check T,0.158,0.158,0.159,0.159,0.0467,0.0467,0.0479,0.0480
+"Panel C.: Mean predict. Voluntary T, Viewer ",0.188,0.188,0.190,0.190,0.0589,0.0589,0.0592,0.0592
+"Panel C.: Mean predict. Voluntary T, Nonviewer",0.136,0.136,0.144,0.144,0.0432,0.0432,0.0442,0.0442
+All panels: Strata controls,,1,1,1,,1,1,1
+All panels: Demographic controls and Facebook use,,,1,1,,,1,1
+All pretreatment characteristics,,,,1,,,,1

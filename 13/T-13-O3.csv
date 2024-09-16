@@ -1,0 +1,20 @@
+,(1),(2),(3),(4),(5),(6)
+Intent to share on Facebook,0.018,0.020,0.018,0.015,0.011,0.014
+Intent to share on Facebook standard error,0.006,0.017,0.006,0.008,0.018,0.008
+Imposed Fact-Check,−0.050,−0.056,,,,
+Imposed Fact-Check standard error,0.013,0.014,,,,
+Voluntary Fact-Check,−0.029,−0.020,,,,
+Voluntary Fact-Check standard error,0.014,0.016,,,,
+Intent to share on Facebook ×  Imposed  Fact-Check,,0.011,,,,
+Intent to share on Facebook ×  Imposed  Fact-Check standard error,,0.022,,,,
+Intent to share on Facebook ×  Voluntary  Fact-Check,,−0.018,,,,
+Intent to share on Facebook ×  Voluntary  Fact-Check standard error,,0.023,,,,
+Intent to share on Facebook × Number of Facebook friends >100,,,,0.007,,
+Intent to share on Facebook × Number of Facebook friends >100 standard error,,,,0.012,,
+Intent to share on Facebook ×  log(Facebook friends+1),,,,,0.001,
+Intent to share on Facebook ×  log(Facebook friends+1) standard error,,,,,0.004,
+Intent to share on Facebook ×  Share on Facebook often,,,,,,0.009
+Intent to share on Facebook ×  Share on Facebook often standard error,,,,,,0.012
+Observations,5074,5074,5074,5074,4970,5074
+R^2,0.005,0.006,0.004,0.004,0.003,0.004
+Respondent fixed effects,,,1,1,1,1
