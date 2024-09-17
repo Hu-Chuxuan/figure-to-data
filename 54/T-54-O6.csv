@@ -1,0 +1,7 @@
+"Empty Column 0","±17","±17 (SE)","±17 (p-value)","±17 (q-value)","±30","±30 (SE)","±30 (p-value)","±30 (q-value)","±45","±45 (SE)","±45 (p-value)","±45 (q-value)","±60","±60 (SE)","±60 (p-value)","±60 (q-value)"
+"Supports the 65+ age-specific curfew - Born before 1955","-0.222","0.088","0.017","-0.129","0.036","0.049","0.010","-0.115","0.022","0.041","0.006","-0.086","0.012","0.034","0.014","0.029"
+"Supports the 65+ age-specific curfew - Observations","505","","","","828","","","","1207","","","","1590","","",""
+"Supports the 65+ age-specific curfew - Control group mean","0.83","","","","0.80","","","","0.79","","","","0.81","","",""
+"Satisfied with the government's COVID-19 policy response - Born before 1955","-0.122","0.099","0.227","0.129","-0.093","0.051","0.071","0.037","-0.032","0.047","0.490","0.325","-0.002","0.038","0.958","0.919"
+"Satisfied with the government's COVID-19 policy response - Observations","501","","","","822","","","","1197","","","","1579","","",""
+"Satisfied with the government's COVID-19 policy response - Control group mean","0.74","","","","0.70","","","","0.69","","","","0.69","","",""
