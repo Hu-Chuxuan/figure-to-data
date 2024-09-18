@@ -1,0 +1,6 @@
+,(1),(2),(3),(4)
+d in Main-Treatment,31.64∗∗∗,37.61∗∗∗,43.58∗∗∗,37.094∗∗∗
+d in Main-Treatment standard error,2.685,3.575,4.683,3.658
+d^rel in Main-Treatment,0.190∗∗∗,0.224∗∗∗,0.259∗∗∗,
+d^rel in Main-Treatment standard error,0.016,0.021,0.027,
+Observations,100,100,100,100

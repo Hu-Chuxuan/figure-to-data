@@ -1,0 +1,18 @@
+,(1),(2),(3),(4)
+d^rel in Mechanism-Treatment,0.075∗∗∗,,,
+d^rel in Mechanism-Treatment standard error,0.019,,,
+Main-Treatment−Mechanism-Treatment,0.149∗∗∗,,,
+Main-Treatment−Mechanism-Treatment standard error,0.028,,,
+d^rel in Donation-Treatment,,0.135∗∗∗,,
+d^rel in Donation-Treatment standard error,,0.021,,
+Donation-Treatment−Donation-Control,,0.158∗∗∗,,
+Donation-Treatment−Donation-Control standard error,,0.022,,
+d^rel in Main-Control,,,−0.023∗∗∗,
+d^rel in Main-Control standard error,,,0.008,
+Main-Treatment−Main-Control,,,0.247∗∗∗,
+Main-Treatment−Main-Control standard error,,,0.023,
+d^rel in Mechanism-Control,,,,−0.014
+d^rel in Mechanism-Control standard error,,,,0.01
+Mechanism-Treatment−Mechanism-Control,,,,0.090∗∗∗
+Mechanism-Treatment−Mechanism-Control standard error,,,,0.021
+Observations,200,200,200,200
