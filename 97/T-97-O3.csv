@@ -1,0 +1,5 @@
+"﻿Explanatory variables - Indicator for county located within 30 miles of MSA","Log of population density one decade before dam completion","Log of population density one decade before dam completion (SE)","Hydro generating capacity at dam completion","Hydro generating capacity at dam completion (SE)","Cost of developing hydro dam per kilowatt of capacity","Cost of developing hydro dam per kilowatt of capacity (SE)","All four explanatory variables together","All four explanatory variables together (SE)","(5)","(5) (SE)"
+"Difference","0.2813***","0.0866","0.2813***","0.0878","0.2813***","0.0874","0.2813***","0.0878","0.2813***","0.0869"
+"Explained","0.0953**","0.0441","0.0102","0.0220","0.0208","0.0167","0.0450","0.0450","0.1284**","0.0555"
+"Unexplained","0.1860**","0.0824","0.2711***","0.0886","0.2606","0.0854","0.2363***","0.0812","0.1530**","0.0732"
+"Observations","549","","549","","549","","549","","549",""
