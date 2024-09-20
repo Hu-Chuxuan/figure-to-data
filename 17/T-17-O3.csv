@@ -1,0 +1,23 @@
+,All Ties (Prop. Known) Base Model,All Ties (Prop. Known) Full Model,Strong Ties (Prop. Friends) Base Model,Strong Ties (Prop. Friends) Full Model
+"Decentralized (Control = 0, Treated = 1)",0.22†,0.24†,0.61∗,1.07∗∗
+"Decentralized (Control = 0, Treated = 1) standard error",0.12,0.14,0.28,0.31
+Female,,0.06,,–0.04
+Female standard error,,0.08,,0.23
+Education,,0.14∗,,0.20
+Education standard error,,0.06,,0.14
+Age,,0.00,,0.01
+Age standard error,,0.01,,0.02
+Years in Health Sector,,–0.00,,0.05∗
+Years in Health Sector standard error,,0.01,,0.02
+Generalized Trust,,0.02,,0.19
+Generalized Trust standard error,,0.06,,0.28
+Player HC (Ref. Cat. is Player M),,0.73∗∗,,–0.72∗
+Player HC (Ref. Cat. is Player M) standard error,,0.24,,0.33
+Player AI (Ref. Cat. is Player M),,0.70∗∗,,–0.78∗
+Player AI (Ref. Cat. is Player M) standard error,,0.25,,0.39
+Player R (Ref. Cat. is Player M),,0.20,,–1.64∗∗
+Player R (Ref. Cat. is Player M) standard error,,0.33,,0.53
+Constant,–0.60∗∗,–2.05∗∗,–2.27∗∗,–3.86∗∗
+Constant standard error,0.11,0.39,0.22,1.03
+N,231,226,231,226
+BIC,110.22,147.40,75.17,112.82
