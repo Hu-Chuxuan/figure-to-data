@@ -1,0 +1,27 @@
+,Centrally-administered,Decentralized,P-value Diff.,SMD
+Female,0.83,0.61,0.0,0.5
+Female Standard Error,0.38,0.49,,
+Education,4.51,4.57,0.4,0.08
+Education Standard Error,0.65,0.74,,
+Age,41.86 ,34.90,0.0,0.68
+Age Standard Error,11.10,9.31,,
+Years in Health Sector,13.09,6.53 ,0.0,0.81
+Years in Health Sector Standard Error,9.57,6.34,,
+Administrator,0.33 ,0.32,0.83,0.01
+Administrator Standard Error,0.47,0.47,,
+Doctor,0.17 ,0.36 ,0.0,0.42
+Doctor Standard Error,0.38,0.48,,
+Nurse,0.36 ,0.19,0.0,0.39
+Nurse Standard Error,0.48,0.39,,
+Social worker,0.01,0.03,0.49,0.1
+Social worker Standard Error,0.12,0.17,,
+Municipal official,0.13 ,0.10 ,0.03,0.1
+Municipal official Standard Error,0.34,0.30,,
+Number of Players,7.78 ,7.09,0.08,0.74
+Number of Players Standard Error,0.81,1.03,,
+People Known,5.60,5.58,0.96,0.01
+People Known Standard Error,1.49,1.77,,
+General Trust,0.43,0.40 ,0.68,0.05
+General Trust Standard Error,0.50,0.49,,
+N Municipalities,10,21,,
+N Individuals,77,148,,
