@@ -1,0 +1,7 @@
+"Parameter","Description","Point estimate","Confidence interval"
+"$\tau_3^B$","Contemporaneous bonus effect (minutes/day)","-55.9","[-61.7, -50.3]"
+"$\tau_4^B$","Long-term bonus effect (minutes/day)","-19.2","[-24.7, -13.7]"
+"$\tau_5^B$","Long-term bonus effect (minutes/day)","-12.3","[-18.1, -6.54]"
+"$\tau_2^L$","Limit effect (minutes/day)","-24.3","[-28.1, -20.4]"
+"$m^C$","Control group misprediction (minutes/day)","6.13","[4.52, 7.72]"
+"$\bar{x_1}$","Average baseline use (minutes/day)","153","[149, 157]"
