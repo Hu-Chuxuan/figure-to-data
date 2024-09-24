@@ -1,0 +1,10 @@
+,(1),(2),(3),(4),(5)
+β_P: Patient voucher,0.35,0.052,0.14,−0.046,−0.022
+β_P: Patient voucher standard error,0.030,0.025,0.027,0.018,0.020
+β_D: Doctor voucher,0.26,0.016,0.085,−0.054,−0.050
+β_D: Doctor voucher standard error,0.024,0.025,0.025,0.021,0.019
+β_P =  β_D,0.011,0.079,0.018,0.735,0.193
+Test for mechanism:,GC,PD,PD,DD,DD
+Significant evidence of mechanism:,Yes,Yes,Yes,No,No
+Mean (control),0.000,0.616,0.461,0.303,0.255
+Observations,2055,2053,2053,2053,2053
