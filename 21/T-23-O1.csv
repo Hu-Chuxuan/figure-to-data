@@ -1,0 +1,12 @@
+,Observations,Mean,All patients,RDT positive,RDT negative
+Respondent suspects illness is malaria (preconsultation),628,0.551,0.610,0.791,0.550
+Simple malaria treatment: Prescribed,627,0.313,0.295,0.163,0.338
+Simple malaria treatment: Purchased,627 ,0.206,0.197,0.140,0.215
+Severe malaria treatment: Prescribed,627,0.303,0.327,0.593,0.238
+Severe malaria treatment: Purchased,627,0.255,0.283,0.535,0.200
+Purchased antibiotics,627,0.426,0.442,0.430,0.446
+Received injection or IV,628,0.398,0.454,0.674,0.381
+Patient referred to hospital or placed under observation,628,0.139,0.179,0.395,0.108
+Total cost no malaria treatment (CFAF),301,2793.349,,,
+Total cost simple malaria (CFAF),126,4474.873,,,
+Total cost severe malaria (CFAF),147,10352.714,,,
