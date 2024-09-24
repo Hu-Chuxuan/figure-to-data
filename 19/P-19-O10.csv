@@ -1,0 +1,11 @@
+,Value,Error Bar Length,Legend
+Baseline,154.3592437,9.558823529,Restricted model
+No naïveté,154.3592437,9.558823529,Restricted model
+No temptation,99.15966387,44.32773109,Restricted model
+No habit formation,77.15336134,51.99579832,Restricted model
+No temptation or habit formation,52.36344538,53.04621849,Restricted model
+Baseline,154.3592437,9.558823529,Unrestricted model
+No naïveté,149.5273109,16.91176471,Unrestricted model
+No temptation,94.01260504,53.57142857,Unrestricted model
+No habit formation,72.26890756,57.98319328,Unrestricted model
+No temptation or habit formation,47.4789916,59.66386555,Unrestricted model
