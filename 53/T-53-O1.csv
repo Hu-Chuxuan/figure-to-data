@@ -1,0 +1,8 @@
+"Empty Column 0","No PR treatment","No PR treatment (SE)","PR treatment","PR treatment (SE)","p-value"
+"Average WTP (over all possible number of visits)","1.10","0.05","1.09","0.05","0.98"
+"Average monthly past attendance","5.75","0.05","5.64","0.05","0.86"
+"Beliefs about attendance assuming public recognition","13.90","0.05","13.41","0.06","0.44"
+"Beliefs about attendance assuming no public recognition","12.51","0.05","11.83","0.06","0.28"
+"Gender (0 = Male; 1 = Female)","0.74","0.04","0.76","0.04","0.63"
+"Age","44.24","0.11","43.70","0.12","0.65"
+"Number of subjects","185","","185","",""

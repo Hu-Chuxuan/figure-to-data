@@ -1,0 +1,78 @@
+Type-1,Type-2,Subplot Value,Value
+0.0,Full sample,Monotonic panicipants,-1.6865671641791042
+1.0,Full sample,Monotonic panicipants,-0.4029850746268657
+2.0,Full sample,Monotonic panicipants,-0.014925373134327735
+3.0,Full sample,Monotonic panicipants,0.2835820895522385
+4.0,Full sample,Monotonic panicipants,0.7014925373134329
+5.5,Full sample,Monotonic panicipants,1.3582089552238807
+7.5,Full sample,Monotonic panicipants,1.716417910447761
+10.5,Full sample,Monotonic panicipants,2.0149253731343286
+15.0,Full sample,Monotonic panicipants,2.283582089552239
+20.0,Full sample,Monotonic panicipants,2.373134328358209
+26.5,Full sample,Monotonic panicipants,2.611940298507463
+0.0,Above median past att.,Monotonic panicipants,-1.1791044776119408
+1.0,Above median past att.,Monotonic panicipants,-0.2238805970149249
+2.0,Above median past att.,Monotonic panicipants,0.31343283582089576
+3.0,Above median past att.,Monotonic panicipants,0.5820895522388057
+4.0,Above median past att.,Monotonic panicipants,0.8208955223880601
+5.5,Above median past att.,Monotonic panicipants,1.477611940298508
+7.5,Above median past att.,Monotonic panicipants,1.626865671641791
+10.5,Above median past att.,Monotonic panicipants,1.9253731343283582
+15.0,Above median past att.,Monotonic panicipants,2.223880597014926
+20.0,Above median past att.,Monotonic panicipants,2.134328358208955
+26.5,Above median past att.,Monotonic panicipants,2.343283582089552
+0.0,Below median past att.,Monotonic panicipants,-2.1940298507462686
+1.0,Below median past att.,Monotonic panicipants,-0.5820895522388057
+2.0,Below median past att.,Monotonic panicipants,-0.4029850746268657
+3.0,Below median past att.,Monotonic panicipants,0.014925373134328623
+4.0,Below median past att.,Monotonic panicipants,0.4925373134328357
+5.5,Below median past att.,Monotonic panicipants,1.2686567164179103
+7.5,Below median past att.,Monotonic panicipants,1.8656716417910446
+10.5,Below median past att.,Monotonic panicipants,2.134328358208955
+15.0,Below median past att.,Monotonic panicipants,2.343283582089552
+20.0,Below median past att.,Monotonic panicipants,2.611940298507463
+26.5,Below median past att.,Monotonic panicipants,2.8805970149253732
+0.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,2.462686567164179
+1.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,3.1492537313432836
+2.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,2.8805970149253732
+3.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,3.1791044776119404
+4.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,3.4477611940298507
+5.5,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,3.835820895522388
+7.5,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,3.3582089552238807
+10.5,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,2.253731343283582
+15.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,0.25373134328358216
+20.0,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,-0.4925373134328357
+26.5,"Coherent, nonmonotonic",Coherent but nonmonotonic participants,-3.35820895522388
+0.0,Full sample,Main sample,-1.7631578947368425
+1.0,Full sample,Main sample,-0.6578947368421053
+2.0,Full sample,Main sample,-0.3947368421052637
+3.0,Full sample,Main sample,-0.10526315789473717
+4.0,Full sample,Main sample,0.21052631578947345
+5.5,Full sample,Main sample,0.7894736842105265
+7.5,Full sample,Main sample,1.0526315789473681
+10.5,Full sample,Main sample,1.2105263157894735
+15.0,Full sample,Main sample,1.236842105263158
+20.0,Full sample,Main sample,1.2894736842105265
+26.5,Full sample,Main sample,1.263157894736842
+0.0,Above median past att.,Main sample,-1.4473684210526319
+1.0,Above median past att.,Main sample,-0.47368421052631593
+2.0,Above median past att.,Main sample,-0.05263157894736814
+3.0,Above median past att.,Main sample,0.13157894736842124
+4.0,Above median past att.,Main sample,0.3157894736842106
+5.5,Above median past att.,Main sample,0.8421052631578947
+7.5,Above median past att.,Main sample,0.9736842105263159
+10.5,Above median past att.,Main sample,1.1578947368421053
+15.0,Above median past att.,Main sample,1.1578947368421053
+20.0,Above median past att.,Main sample,1.1842105263157894
+26.5,Above median past att.,Main sample,1.2894736842105265
+0.0,Below median past att.,Main sample,-2.1052631578947363
+1.0,Below median past att.,Main sample,-0.8421052631578956
+2.0,Below median past att.,Main sample,-0.7105263157894735
+3.0,Below median past att.,Main sample,-0.3421052631578947
+4.0,Below median past att.,Main sample,0.0789473684210531
+5.5,Below median past att.,Main sample,0.7631578947368425
+7.5,Below median past att.,Main sample,1.1578947368421053
+10.5,Below median past att.,Main sample,1.2894736842105265
+15.0,Below median past att.,Main sample,1.4210526315789473
+20.0,Below median past att.,Main sample,1.4210526315789473
+26.5,Below median past att.,Main sample,1.2894736842105265
