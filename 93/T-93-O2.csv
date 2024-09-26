@@ -1,0 +1,8 @@
+"","Income","Income (if > 0)","ln Income","Poverty","Employed","Hours worked"
+"M^{\text{pre}}_{1952\text{--}1963} \times \text{Exposure to Vaccine}","2901","4681","0.1101","-0.0326","0.0186","-1.2511"
+"Standard errors (M^{\text{pre}}_{1952\text{--}1963} \times \text{Exposure to Vaccine})","864","1202","0.0233","0.004","0.0032","0.3769"
+"R^2","0.0726","0.088","0.0908","0.0301","0.0128","0.0827"
+"Observations","15710435","12126516","12126516","15429840","12593724","15710435"
+"Outcome mean (prevaccine cohort)","$40,971","$60,538","10.5789","0.0688","0.9607","30.132"
+"Average measles prevaccine incidence rate (12 years)","0.00964","0.00964","0.00964","0.00964","0.00964","0.00964"
+"Impact to outcome of being born in a state with average prevaccine measles incidence rate and full exposure (16 years) to the vaccine","$447","$722","0.01698","-0.503 percentage points","0.287 percentage points","-0.193 hours"
