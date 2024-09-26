@@ -1,0 +1,8 @@
+"Metric","Employment rate","Part-time rate"
+"\hat{\alpha}_1","0.032","0.011"
+"p-value","0.040","0.101"
+"95 percent CI (lower bound)","0.003","-0.006"
+"95 percent CI (Upper bound)","0.065","0.028"
+"Number of placebos","1836","1836"
+"Preperiod RMSE","0.005","0.005"
+"RMSE percentile","0.312","0.312"

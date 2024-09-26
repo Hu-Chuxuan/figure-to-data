@@ -1,0 +1,8 @@
+"","Employment rate - men - All","Employment rate - men - Married","Employment rate - men - Unmarried","Part-time rate-men - All","Part-time rate-men - Married","Part-time rate-men - Unmarried","Employment rate-women - All","Employment rate-women - Married","Employment rate-women - Unmarried","Part-time rate-women - All","Part-time rate-women - Married","Part-time rate-women - Unmarried"
+"\hat{\alpha}_1","0.029","0.032","-0.004","0.008","0.003","0.012","-0.019","0.015","0.007","0.022","0.035","0.003"
+"p-value","0.093","0.081","0.846","0.192","0.571","0.19","0.234","0.364","0.697","0.032","0.001","0.743"
+"95 percent CI (lower CI)","-0.008","-0.008","-0.045","-0.004","-0.008","-0.008","-0.055","-0.020","-0.032","0.003","0.016","-0.019"
+"95 percent CI (upper CI)","0.065","0.071","0.037","0.019","0.014","0.031","0.017","0.050","0.046","0.042","0.054","0.026"
+"Number of placebos","1836","1836","1836","1836","1836","1836","1836","1836","1836","1836","1836","1836"
+"Preperiod RMSE","0.024","0.011","0.038","0.003","0.007","0.008","0.026","0.015","0.03","0.004","0.009","0.006"
+"RMSE percentile","0.972","0.609","0.981","0.259","0.845","0.466","0.978","0.735","0.966","0.291","0.680","0.286"
