@@ -1,0 +1,8 @@
+"Empty Column 0","(1) Electricity consumption","(1) Electricity consumption (SE)","(2) Electricity expenditure","(2) Electricity expenditure (SE)","(3) Electricity consumption","(3) Electricity consumption (SE)","(4) Electricity expenditure","(4) Electricity expenditure (SE)"
+"Reform T (1 vs 0)","-0.142***","0.0154","-0.113***","0.0151","","","",""
+"Placebo reform","","","","","-0.011","0.0168","0.0784***","0.0165"
+"Estimator","Nearest neighbour","","Nearest neighbour","","Nearest neighbour","","Nearest neighbour",""
+"Matches requested","10","","10","","10","","10",""
+"Distance metric","Mahalanobis","","Mahalanobis","","Mahalanobis","","Mahalanobis",""
+"Sample","2013","","2013","","2012","","2012",""
+"Observations","8185","","8185","","7208","","7208",""
