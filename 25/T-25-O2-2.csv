@@ -1,0 +1,13 @@
+,Israel Sample Perceived degree of violence,Israel Sample Recall violence,Israel Sample Police action required
+Ethiopian protesters ,0.950***,0.285***,0.732***
+Ethiopian protesters standard error,0.139,0.028,0.144
+Arab protesters,0.587***,0.062**,0.802***
+Arab protesters standard error,0.139,0.028,0.144
+Minority group goal,0.628***,0.119***,0.574***
+Minority group goal standard error,0.109,0.022,0.112
+Commitment to nonviolence,−0.309***,0.004,−0.151
+Commitment to nonviolence standard error,0.096,0.02,0.099
+Intercept: white protesters; generic goal; no commitment,3.422***,0.053**,3.914***
+Intercept: white protesters; generic goal; no commitment standard error,0.113,0.023,0.117
+R^2,0.04,0.064,0.030
+Observations,3465 ,3465,3465

@@ -1,0 +1,5 @@
+Tactic,Pr(Campaign Success),Error Bar Length,Status
+Violent,0.04110559886605247,0.07172218285,Majority/dominant
+Nonviolent,0.2531537916371368,0.1907866761,Majority/dominant
+Violent,0.04592487597448636,0.04989369242,Minority/disadvantaged
+Nonviolent,0.016442239546420878,0.1862508859,Minority/disadvantaged

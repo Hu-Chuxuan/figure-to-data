@@ -1,0 +1,10 @@
+x,Coefficient Estimate (Std. Dev. Units),Error Bar Length,Protester Tactic
+Perceived degree of violence,0.39412811387900354,0.3016014235,March in streets
+Perceived degree of violence,0.36032028469750893,0.2900355872,Shut down traffic
+Perceived degree of violence,-0.04804270462633453,0.237544484,Destroy property
+Recall violence,0.18060498220640564,0.2233096085,March in streets
+Recall violence,0.09608540925266895,0.165480427,Shut down traffic
+Recall violence,-0.02313167259786486,0.3701067616,Destroy property
+Police action required,0.5293594306049823,0.3033807829,March in streets
+Police action required,0.45907473309608543,0.3051601423,Shut down traffic
+Police action required,0.040925266903914626,0.2419928826,Destroy property

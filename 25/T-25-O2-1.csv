@@ -1,0 +1,11 @@
+,US Sample Perceived degree of violence,US Sample Recall violence,US Sample Police action required
+Black protesters,0.347***,0.044,0.429***
+Black protesters standard error,0.115,0.114,0.028
+Minority group goal,0.628***,0.168***,0.547***
+Minority group goal standard error,0.115,0.028,0.114
+Commitment to nonviolence,−0.243**,−0.021,−0.212*
+Commitment to nonviolence standard error,0.115,0.027,0.114
+Intercept: white protesters; generic goal; no commitment,3.326***,0.310***,4.130***
+Intercept: white protesters; generic goal; no commitment standard error,0.114,0.027,0.113
+R^2,0.015,0.013,0.014
+Observations,3013,3013,3008
