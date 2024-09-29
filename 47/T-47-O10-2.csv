@@ -1,0 +1,6 @@
+"Parameter","Value"
+"Discount factor, \beta","0.944"
+"Preference housing, \alpha","0.700"
+"Fixed refi cost, f_{0,m}, 2016 USD","5400"
+"Upper bound liquid rate, r_{h}","0.012"
+"Rental rate housing, R","0.049"
