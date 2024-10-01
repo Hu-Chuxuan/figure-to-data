@@ -1,0 +1,17 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+Rags-to-Riches TV Treatment,0.055∗∗,0.150∗∗,0.011,0.010,0.068∗∗,0.085†,0.061,0.066†
+Rags-to-Riches TV Treatment standard error,0.011,0.020,0.017,0.016,0.025,0.047,0.037,0.035
+Republican,0.036∗,,,0.017∗,0.047,,,0.075
+Republican standard error,0.015,,,0.020,0.038,,,0.046
+Democrat,−0.015,,,,−0.057†,,,
+Democrat standard error,0.012,,,,0.034,,,
+Optimism Index,0.025∗∗,0.032∗∗,0.020∗,0.024∗∗,0.048∗∗,0.019,0.064∗,0.049∗
+Optimism Index standard error,0.006,0.012,0.009,0.007,0.018,0.030,0.028,0.021
+System Justification Scale,0.090∗∗,0.071∗∗,0.092∗∗,0.086∗∗,0.101∗∗,0.085∗∗,0.142∗∗,0.121∗∗
+System Justification Scale standard error,0.007,0.013,0.010,0.008,0.018,0.031,0.028,0.022
+Rags-to-Riches TV × Republican,,,,0.140∗∗,,,,0.035
+Rags-to-Riches TV × Republican standard error,,,,0.028,,,,0.063
+Constant,0.187∗∗,0.211∗∗,0.203∗∗,0.208∗∗,0.193∗,0.403∗,−0.037,0.082
+Constant standard error,0.024,0.051,0.034,0.028,0.084,0.152,0.127,0.099
+Observations,763,161,348,509,203,50,109,159
+R^2,0.326,0.443,0.250,0.364,0.311,0.274,0.333,0.348
