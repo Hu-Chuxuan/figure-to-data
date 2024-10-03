@@ -1,0 +1,6 @@
+"Empty Column 0","White","White (SE)","African American","African American (SE)","Hispanic","Hispanic (SE)","Asian","Asian (SE)"
+"Buyers upon Sale - Differentiability score (%)","68","","15","","87","","91",""
+"Buyers upon Sale - Same-race tester","-0.0064","0.0481","-0.0019","0.0149","0.0733*","0.0442","0.1169**","0.0510"
+"Buyers(n)","7598","","217","","1224","","1014",""
+"Observations","9428","","9428","","9428","","9428",""
+"Adjusted R^2","0.3654","","0.2035","","0.3886","","0.4163",""

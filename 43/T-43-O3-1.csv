@@ -1,0 +1,6 @@
+"Empty Column 0","Total incidents","Total incidents (SE)","Fatal incidents - Total","Fatal incidents - Total (SE)","Fatal incidents - Due to violation","Fatal incidents - Due to violation (SE)","Fatality involving driver - Black","Fatality involving driver - Black (SE)","Fatality involving driver - Non-Black","Fatality involving driver - Non-Black (SE)","Fatality involving driver - White","Fatality involving driver - White (SE)","Fatality involving driver - Hispanic","Fatality involving driver - Hispanic (SE)","Fatality involving driver - Mexican","Fatality involving driver - Mexican (SE)"
+"POST-Trump","0.694","0.872","-0.057","1.701","0.157","0.506","0.885","0.901","-1.192","1.555","-1.420","1.567","1.318","1.176","1.043","1.104"
+"Observations","60386","","60386","","60386","","60386","","60386","","60386","","60386","","60386",""
+"R-squared","0.389","","0.074","","0.062","","0.115","","0.090","","0.109","","0.169","","0.137",""
+"Mean dep. var.","94.45","","50.13","","1.68","","7.14","","43.20","","31.93","","7.90","","3.97",""
+"Std. dev. dep. var","20.27","","46.08","","12.07","","24.21","","45.86","","43.13","","25.66","","18.53",""

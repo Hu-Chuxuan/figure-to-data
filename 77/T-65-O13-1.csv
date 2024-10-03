@@ -1,0 +1,8 @@
+"Empty Column 0","Elementary School","Elementary School (SE)","Middle School","Middle School (SE)","Assaults","Assaults (SE)","Elementary School (Housing Search)","Elementary School (Housing Search) (SE)"
+"School Quality and Neighborhood Safety - Racial minority","-0.0618***","0.0131","-0.0326***","0.0092","9.2013**","4.3081","-0.2583***","0.0618"
+"School Quality and Neighborhood Safety - African American","-0.0810***","0.0177","-0.0210*","0.0122","3.9675","","-0.5920***",""
+"School Quality and Neighborhood Safety - Hispanic","-0.0701***","0.0204","-0.0124","0.0138","12.9738**","6.3158","-0.2014**","0.0922"
+"School Quality and Neighborhood Safety - Asian","-0.0557***","0.0183","-0.0510***","0.0128","17.3702***","5.7978","-0.0299","0.0826"
+"School Quality and Neighborhood Safety - Comparison mean (white)","0.02","","0.016","","-7.4","","0.18",""
+"School Quality and Neighborhood Safety - Observations","8951","","9242","","11161","","11032",""
+"School Quality and Neighborhood Safety - Adjusted R^2","0.3187","","0.4313","","0.2657","","0.3751",""
