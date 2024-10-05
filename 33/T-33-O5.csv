@@ -1,0 +1,14 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+Connected (first degree),.109**,.275***,.299***,.104***,.179***,.239***,.191***,.174***
+Connected (first degree) standard error,.054,.091,.112,.039,.062,.090,.058,.048
+Connected (second degree),.096*,.175***,.160*,.158***,.202***,.258***,.082,.138**
+Connected (second degree) standard error,.052,.067,.082,.059,.071,.098,.083,.059
+Connected (third degree),.147,.047,2.084,.154**,.075,2.024,.005,.131
+Connected (third degree) standard error,.144,.181,.197,.072,.118,.133,.126,.116
+Connected (fourth degree),2.023,2.035,.011,2.015,.029,.149,2.047,.063
+Connected (fourth degree) standard error,.079,.049,.044,.122,.133,.131,.110,.064
+R^2,.28,.30,.25,.33,.34,.31,.24,.22
+Commonality controls,X,X,X,X,X,X,X,X
+Distance controls,X,X,X,X,X,X,X,X
+Composer fixed effects,X,X,X,X,X,X,X,X
+Sample,World,World,World,World,World,World,World,World

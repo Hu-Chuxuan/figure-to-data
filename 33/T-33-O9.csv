@@ -1,0 +1,15 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+A: Connected,.093,.275***,.357***,.105**,.151**,.189**,.142***,.136***
+A: Connected standard error,.110,.096,.091,.041,.067,.087,.053,.032
+A: No. of composers in same city (logged),-.014*,-.002,-.012,-.008,-.008,-.017,-.012,-.003
+A: No. of composers in same city (logged) standard error,.008,.012,.011,.007,.011,.012,.009,.007
+A: R^2,.34,.36,.33,.41,.41,.36,.32,.27
+B: Connected,.093,274***,.357***,.104**,.151**,.190**,.142***,.136***
+B: Connected standard error,.110,.096,.091,.041,.067,.087,.054,.032
+B: No. of composers in same city at same time (logged),-.021**,-.007,-.014,-.013*,-.014,-.021*,-.021**,-.006
+B: No. of composers in same city at same time (logged) standard error,.008,.012,.012,.007,.010,.013,.010,.007
+B: R^2,.34,.36,.33,.41,.41,.36,.32,.27
+Commonality controls,X,X,X,X,X,X,X,X
+Distance controls,X,X,X,X,X,X,X,X
+Composer fixed effects,X,X,X,X,X,X,X,X
+Sample,World,World,World,World,World,World,World,World

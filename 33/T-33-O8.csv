@@ -1,0 +1,13 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+Teacher in >75th percentile x Std Sim,.200***,.154***,.110***,.271***,.178***,.123***,.210***,.172**
+Teacher in >75th percentile x Std Sim standard error,.044,.023,.021,.075,.039,.026,.057,.080
+Teacher in 50th–75th percentile x Std Sim,.157***,.101***,.096***,.0172***,.083***,.049,.173**,.208***
+Teacher in 50th–75th percentile x Std Sim standard error,.054,.034,.031,.066,.046,.036,.073,.070
+Teacher in 25th–50th percentile x Std Sim,.032,.049,.047,.230*,.107,.013,.155,.167*
+Teacher in 25th–50th percentile x Std Sim standard error,.105,.063,.073,.131,.091,.071,.100,.088
+Teacher in <25th percentile x Std Sim,-.240**,-.157**,-.177**,.038,-.116,-.136,-.060,-.052
+Teacher in <25th percentile x Std Sim standard error,.111,.064,.074,.30,.081,.090,.074,.072
+R^2,.20,.23,.21,.17,.17,.16,.18,.14
+Commonality controls,X,X,X,X,X,X,X,X
+Teacher quality controls,X,X,X,X,X,X,X,X
+Sample,World,World,World,World,World,World,World,World

@@ -1,0 +1,33 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+ln(Teacher’s Murray index),.108,.360***,.467***,.170***,.358***,.388***,.206***,.159***
+ln(Teacher’s Murray index) standard error,.066,.100,.127,.044,.075,.108,.055,.041
+ln(Teacher’s Murray index): R^2,.04,.11,.12,.13,.18,.15,.12,.09
+ln(Teacher’s Spotify followers),.022,.153***,.213***,.079***,.191***,.242***,.080**,.020
+ln(Teacher’s Spotify followers) standard error,.033,.050,.058,.022,.039,.052,.032,(.024)
+ln(Teacher’s Spotify followers): R^2,.02,.08,.10,.11,.19,.18,.09,.03
+Spotify popularity score,.005,.025***,.032***,.012***,.029***,.035***,.011***,.004
+Spotify popularity score standard error,.004,.007,.008,.003,.005,.006,.004,(.003)
+Spotify popularity score: R^2,.03,.10,.12,.13,.22,.20,.09,.03
+ln(Teacher’s biography word count),.110,.397***,.538***,.182***,.433***,.522***,.222***,.144***
+ln(Teacher’s biography word count) standard error,.068,.106,.136,.042,.076,.110,.062,.047
+ln(Teacher’s biography word count): R^2,.03,.11,.14,.13,.22,.19,.12,.07
+ln(Teacher’s no. of students),-.034,-.049,-.072,-.007,-.058,-.184**,.004,-.057
+ln(Teacher’s no. of students) standard error,.053,.077,.081,.040,.068,.092,.050,.036
+ln(Teacher’s no. of students) : R^2,.02,.03,.032***,.05,.07,.092,.050,.036
+ln(Teacher’s writings word count),.017,.085**,.095**,.025,.061*,.042,.050**,.027
+ln(Teacher’s writings word count) standard error,.027,.042,.048,.018,.033,.043,.024,.018
+ln(Teacher’s writings word count): R^2,.02,.05,.05,.06,.09,.08,.07,.04
+Student composer has no other occupation,-.16,-.088,-.173,-.045,-.145,-.289,-.073,-.048
+Student composer has no other occupation standard error,.130,.210,.265,.090,.163,.229,.128,.095
+Student composer has no other occupation: Observations,211,211,211,211,211,211,211,211
+Student composer has no other occupation: R^2,.02,.03,.032***,.05,.07,.08,.05,.03
+Student’s time to compose,-.010**,-.007,-.003,-.007**,-.007,-.007,-.010**,-.010**
+Student’s time to compose standard error,.005,.007,.008,.003,.006,.008,.005,.004
+Student’s time to compose: Observations,95,95,95,95,95,95,95,95
+Student’s time to compose: R^2-.010**,.108,.085**,.06,.15,.12,.13,.09,.10
+Student’s no. of cities visited,-.026**,-.018,.002,-.013,-.021,.003,-.016,-.019
+Student’s no. of cities visited standard error,.012,.022,.027,.010,.018,.024,.012,.013
+Student’s no. of cities visited : Observations,211,211,211,211,211,211,211,211
+Student’s no. of cities visited: R^2,.03,.03,.03,.06,.07,.07,.06,.04
+Commonality controls,X,X,X,X,X,X,X,X
+Sample,World,World,World,World,World,World,World,World

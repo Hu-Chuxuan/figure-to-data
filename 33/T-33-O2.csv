@@ -1,0 +1,11 @@
+,,,,,,,,
+Connected,.118**,.283***,.305***,.095**,.178***,.241***,.169***,.137***
+Connected standard error,.054,.092,.111,.039,.064,.091,.057,.045
+ln(Geographic distance),-.015***,-.033***,-.040***,-.030***,-.022***,-.005,-.027***,-.011***
+ln(Geographic distance) standard error,.004,.006,.008,.004,.006,.009,.004,.004
+ln(Time distance),-.034***,-.046***,-.045***,-.031***,-.039***,-.039***,-.029***,-.036***
+ln(Time distance) standard error,.006,.008,.010,.006,.008,.011,.009,.006
+R^2,.29,.32,.28,.37,.38,.33,.29,.21
+Commonality controls,X,X,X,X,X,X,X,X
+Composer fixed effects,X,X,X,X,X,X,X,X
+Sample,World,World,World,World,World,World,World,World
