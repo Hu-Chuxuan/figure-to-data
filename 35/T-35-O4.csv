@@ -1,0 +1,11 @@
+,Number of Black registered voters
+Black lynching rate,-477.566
+Black lynching rate standard error,294.208
+Slaves in 1860 (per 10k pop.),-2.805
+Slaves in 1860 (per 10k pop.) standard error,1.430
+Voting age Blacks (per 10k pop.),4.812
+Voting age Blacks (per 10k pop.) standard error,1.232
+Historical controls,Yes
+State fixed effects,Yes
+Number of counties ,267
+R^2,0.166

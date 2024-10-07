@@ -1,0 +1,13 @@
+,(1),(2),(3)
+Black lynching rate × some college experience of Blacks,0.062,,
+Black lynching rate × some college experience of Blacks standard error,0.152,,
+Black lynching rate × monthly earnings of Blacks,,0.002,
+Black lynching rate × monthly earnings of Blacks standard error,,0.005,
+Black lynching rate × Black member rate in 2010,,,0.028
+Black lynching rate × Black member rate in 2010 standard error,,,0.011
+Black lynching rate,-6.394,-9.050,-7.242
+Black lynching rate standard error,4.424,9.306,1.732
+Historical controls,Yes,Yes,Yes
+State fixed effects,Yes,Yes,Yes
+Number of counties,267,267,267
+R^2,0.548,0.548,0.560
