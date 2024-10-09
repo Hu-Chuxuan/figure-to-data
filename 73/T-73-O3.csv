@@ -1,0 +1,8 @@
+"Empty Column 0","Gender attitudes index","Gender attitudes index (SE)","Girls' aspirations index","Girls' aspirations index (SE)","Self-reported behavior index","Self-reported behavior index (SE)"
+"Treated","0.190","0.024","0.018","0.029","0.196","0.023"
+"High social desirability (Soc. D) score","0.106","0.020","0.062","0.030","0.060","0.019"
+"Treated \times High Soc. D score","-0.024","0.030","0.032","0.043","0.001","0.028"
+"p-value: Treated + Treated \times High Soc. D = 0","0.000","","0.171","","0.000",""
+"Control group mean","0.000","","0.000","","0.000",""
+"Basic controls","1","","1","","1",""
+"Number of students","13987","","7767","","13,974",""

@@ -1,0 +1,6 @@
+"Empty Column 0","Gender attitudes index Girls","Gender attitudes index Girls (SE)","Gender attitudes index Boys","Gender attitudes index Boys (SE)","Self-reported behavior index Girls","Self-reported behavior index Girls (SE)","Self-reported behavior index Boys","Self-reported behavior index Boys (SE)","Signed petition Girls","Signed petition Girls (SE)","Signed petition Boys","Signed petition Boys (SE)"
+"Treated","0.111","0.025","0.218","0.028","0.158","0.025","0.311","0.040","0.019","0.013","0.003","0.010"
+"Control group mean","0.562","","0.063","","-0.067","","0.079","","0.189","","0.104",""
+"Basic controls","1","","1","","1","","1","","1","","1",""
+"Number of students","7562","","6117","","7563","","6114","","7347","","5956",""
+"p-value: Girls = Boys","0.003","","","","0.000","","","","0.302","","",""

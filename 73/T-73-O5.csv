@@ -1,0 +1,6 @@
+"Empty Column 0","Gender attitudes index","Gender attitudes index (SE)","Girls' aspirations index","Girls' aspirations index (SE)","Self-reported behavior index","Self-reported behavior index (SE)"
+"Treated","0.174","0.027","0.054","0.033","0.179","0.026"
+"Treated \times baseline parent attitudes","0.026","0.025","0.000","0.026","-0.039","0.021"
+"Control group mean","0.000","","0.000","","0.000",""
+"Basic controls","1","","1","","1",""
+"Number of students","5718","","3231","","5717",""
