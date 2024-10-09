@@ -1,0 +1,34 @@
+Survey block and introductory text,Survey item,Answer options,Survey wave,Variable name
+General perceptions and unspecific policy demand,Gender differences in wages are large in the United States.,"1, 2, ..., 10",A and B,Gender differences in wages are large
+Intro: How do you feel about the following statements where 1 means you fully disagree and 10 means you fully agree?,Gender differences in wages are a problem in the United States.,"1, 2, ..., 10",A and B,Gender differences in wages are a problem
+Intro: How do you feel about the following statements where 1 means you fully disagree and 10 means you fully agree?,The government should do more to promote wage equality between men and women.,"1, 2, ..., 10",A and B,Gov. should mitigate gender wage gap
+"Self-reported specific policy demand Intro: What is your opinion on the following labor market policies? When making your choice, please think of all potential costs and benefits.",Many countries currently have gender quotas in place in order to increase the representation of women in leading positions. Are you in favor or against the introduction of similar statutory gender quotas in the United States?,Strongly against,A and B,Introduce gender quotas
+,,Somewhat against,,
+,,Neither in favor nor against,,
+,,Somewhat in favor,,
+,,Strongly in favor,,
+,"Large public contractors are legally required to have so-called “Affirmative Action Plans”, i.e. they have to support women and minorities at all levels of the hierarchy through measures such as training programs and outreach efforts. Do you think the government should strengthen or soften this requirement in terms of strictness and the set of companies that have to comply?",Soften a lot,A and B,Statutory affirmative action
+,,Soften somewhat,,
+,,Neither strengthen nor soften,,
+,,Strengthen somewhat,,
+,,Strengthen a lot,,
+,"Currently, federal law requires that men and women get equal pay for work that is comparable in terms of skill effort, responsibility and working conditions in the same establishment. In case of suspected discrimination employees may file a lawsuit against their employers. If they win the case, then they are to be compensated by their employers. Should the government give more freedom in wage setting to companies by making legislation less strict or would you like to see stricter enforcement of the existing legislation?",A lot less strict,A and B,Stricter equal pay legislation
+,,Somewhat less strict,,
+,,Keep status quo,,
+,,Somewhat stricter,,
+,,A lot stricter,,
+,"Wage transparency within firms provides a basis for wage negotiations and may discipline companies by making discriminatory wages visible. Currently, wage transparency is not legally required. However, employees are protected by law from retaliation through employers in case they share information on their wages. Would you like the government to enforce more or less wage transparency?",A lot less,A,Wage transparency within companies
+,,Somewhat less,,
+,,Keep current level,,
+,,Somewhat more,,
+,,A lot more,,
+,In the UK large companies have to report their gender pay gap and the information is made publicly available on a website. Are you in favor or against the introduction of a similar website in the US?,Strongly against,B,Introduce reporting website
+,,Somewhat against,,
+,,Neither in favor nor against,,
+,,Somewhat in favor,,
+,,Strongly in favor,,
+,Child day care may enable mothers as well as fathers to work full-time if they want to. Should the government increase or decrease the amount of resources spent on making child care available and affordable?,Decrease strongly,A and B,Increase subsidies to child care
+,,Decrease somewhat,,
+,,Neither increase nor decrease,,
+,,Increase somewhat,,
+,,Increase strongly,,

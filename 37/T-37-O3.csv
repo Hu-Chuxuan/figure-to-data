@@ -1,0 +1,14 @@
+,(1),(2),(3),(4)
+Panel A: Democrat,0.577,0.683,0.803,0.691
+Panel A: Democrat standard error,0.072,0.073,0.073,0.066
+Panel A: Female,0.173,0.264,0.153,0.181
+Panel A: Female standard error,0.064,0.063,0.062,0.057
+Panel B: Prior (z-scored),−0.815,−0.849,−0.595,−0.729
+Panel B: Prior (z-scored) standard error,0.072,0.071,0.071,0.065
+Panel C: Prior (z-scored),−0.742,−0.757,−0.498,−0.643
+Panel C: Prior (z-scored) standard error,0.070,0.067,0.069,0.062
+Panel C: Democrat,0.482,0.586,0.739,0.609
+Panel C: Democrat standard error,0.067,0.067,0.071,0.061
+Panel C: Female,0.096,0.186,0.102,0.115
+Panel C: Female standard error,0.059,0.058,0.060,0.053
+Observations,921,921,921,921

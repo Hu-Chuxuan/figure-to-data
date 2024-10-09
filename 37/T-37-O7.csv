@@ -1,0 +1,22 @@
+,(1),(2),(3),(4),(5),(6),(7),(8)
+Panel A. Het. by gender: T^74,−12.076,0.115,0.112,0.113,−0.004,0.096,−0.015,0.066
+Panel A. Het. by gender: T^74 standard error,0.868,0.053,0.052,0.052,0.063,0.098,0.051,0.038
+Panel A. Het. by gender: T^74 × female,−1.616,−0.119,0.001,0.004,−0.021,0.003,0.035,−0.020
+Panel A. Het. by gender: T^74 × female standard error,1.193,0.071,0.069,0.070,0.085,0.125,0.069,0.050
+Panel A. Het. by gender: p-value  [ T^74 +  T^74 × female],0.000,0.935,0.012,0.011,0.658,0.202,0.672,0.160
+Panel A. Het. by gender: Female,−0.814,0.313,0.178,0.235,0.208,0.309,0.094,0.213
+Panel A. Het. by gender: Female standard error,0.783,0.052,0.050,0.049,0.061,0.090,0.050,0.036
+Panel A. Het. by gender: Observations,3022,3031,3031,3031,2012,1019,3031,3031
+Panel B. Het. by pol. orientation: T^74,−13.754,0.107,0.075,−0.027,−0.024,0.115,−0.114,0.008
+Panel B. Het. by pol. orientation: T^74 standard error,0.962,0.061,0.061,0.059,0.074,0.114,0.061,0.045
+Panel B. Het. by pol. orientation: T^74 × Democrat,1.610,−0.056,0.048,0.247,−0.015,−0.006,0.145,0.073
+Panel B. Het. by pol. orientation: T^74 × Democrat standard error,1.313,0.080,0.078,0.078,0.095,0.142,0.078,0.057
+Panel B. Het. by pol. orientation: p-value  [ T^74 + T^74 × Democrat],0.000,0.309,0.010,0.000,0.516,0.198,0.522,0.018
+Panel B. Het. by pol. orientation: T^74  ×  Independent,1.300,−0.132,0.072,0.198,0.081,0.008,0.290,0.097
+Panel B. Het. by pol. orientation: T^74  ×  Independent standard error,1.634,0.107,0.103,0.100,0.126,0.186,0.103,0.075
+Panel B. Het. by pol. orientation: p-value  [ T^74 + T^74 × Independent],0.000,0.781,0.077,0.034,0.570,0.407,0.033,0.083
+Panel B. Het. by pol. orientation: Democrat,−0.741,0.587,0.646,0.494,0.574,0.601,0.505,0.557
+Panel B. Het. by pol. orientation: Democrat standard error,0.876,0.057,0.055,0.054,0.066,0.107,0.056,0.040
+Panel B. Het. by pol. orientation: Independent,−0.268,0.224,0.218,0.135,0.199,0.244,−0.038,0.143
+Panel B. Het. by pol. orientation: Independent standard error,1.122,0.079,0.076,0.074,0.094,0.135,0.075,0.056
+Observations,2965,2974,2974,2974,1974,1000,2974,2974
