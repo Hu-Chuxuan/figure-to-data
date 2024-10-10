@@ -1,0 +1,12 @@
+,(1),(2),(3),(4),(5)
+"D(GNI > IDA threshold)_i,t",-.244***,.054** ,.029,.018**,-.001
+"D(GNI > IDA threshold)_i,t standard error",.075,.021,.017,.009,.008
+GNI per capita,-.116**,.071***,.036**,-.007**,-.007**
+GNI per capita standard error,.048,.013,.015,.003,.003
+Country fixed effects,Yes,Yes,Yes,Yes,Yes
+Year fixed effects,Yes,Yes,Yes,Yes,Yes
+Country-year trend,No,Yes,Yes,No,No
+GDP data correction,No,No,Yes,No,Yes
+Observations,1799,1799,1799,1799,1799
+Countries,86,86,86,86,86
+(Within country) R^2,.245,.904,.882,.0788,.0699
