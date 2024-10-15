@@ -1,4 +1,4 @@
-"Empty Column 0","Attended meetings: No","Attended meetings: Yes","Attended meetings: Total"
-"Sponsor's party? No","-0.3 (8.9)","6.9 (7.9)","1.0 (8.4)"
-"Sponsor's party? Yes","0.0 (1.8)","1.1 (3.0)","0.2 (1.9)"
-"Sponsor's party? Total","-0.1 (3.7)","3.7 (4.2)","0.5 (3.6)"
+"Empty Column 0","No","No (SE)","Yes","Yes (SE)","Total","Total (SE)"
+"No","-0.3","8.9","6.9","7.9","1.0","8.4"
+"Yes","0.0","1.8","1.1","3.0","0.2","1.9"
+"Total","-0.1","3.7","3.7","4.2","0.5","3.6"

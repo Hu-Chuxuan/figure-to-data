@@ -1,0 +1,65 @@
+Type-1,Type-2,Subplot Value,Value
+Govt. should care about everyone,Italy,1,0.3082802547770701
+Govt. should care about everyone,France,1,0.3299363057324841
+Govt. should care about everyone,Germany,1,0.35414012738853506
+Govt. should care about everyone,US,1,0.3923566878980892
+Govt. should care about everyone,Sweden,1,0.45605095541401275
+American upon citiz. or before,UK,1,0.515923566878981
+American upon citiz. or before,Germany,1,0.5503184713375797
+American upon citiz. or before,Italy,1,0.5745222929936307
+American upon citiz. or before,Sweden,1,0.6076433121019109
+American upon citiz. or before,France,1,0.6407643312101912
+American upon citiz. or before,US,1,0.8
+Imm. allowed to get citiz. sonn,Italy,1,0.58343949044586
+Imm. allowed to get citiz. sonn,France,1,0.6573248407643313
+Imm. allowed to get citiz. sonn,Germany,1,0.6891719745222931
+Imm. allowed to get citiz. sonn,UK,1,0.7299363057324841
+Imm. allowed to get citiz. sonn,US,1,0.8343949044585988
+Imm. allowed to get citiz. sonn,Sweden,1,0.8433121019108281
+Imm. should get benefits soon,US,1,0.3872611464968153
+Imm. should get benefits soon,UK,1,0.4445859872611465
+Imm. should get benefits soon,France,1,0.45987261146496816
+Imm. should get benefits soon,Italy,1,0.5146496815286625
+Imm. should get benefits soon,Germany,1,0.5605095541401275
+Imm. should get benefits soon,Sweden,1,0.6292993630573249
+Imm. not a problem,Italy,1,0.1872611464968153
+Imm. not a problem,UK,1,0.19235668789808918
+Imm. not a problem,Germany,1,0.23057324840764332
+Imm. not a problem,Sweden,1,0.2445859872611465
+Imm. not a problem,France,1,0.2573248407643312
+Imm. not a problem,US,1,0.3707006369426752
+Govt. should care about everyone,Right-Wing,2,0.22768595041322312
+Govt. should care about everyone,"H Imm, No College",2,0.2871900826446281
+Govt. should care about everyone,No College,2,0.3243801652892562
+Govt. should care about everyone,No H Imm,2,0.38140495867768587
+Govt. should care about everyone,College,2,0.40247933884297515
+Govt. should care about everyone,"H Imm, College",2,0.40991735537190077
+Govt. should care about everyone,Left-Wing,2,0.4657024793388429
+American upon citiz. or before,Right-Wing,2,0.5289256198347108
+American upon citiz. or before,"H Imm, No College",2,0.5462809917355371
+American upon citiz. or before,No College,2,0.5698347107438015
+American upon citiz. or before,No H Imm,2,0.6330578512396693
+American upon citiz. or before,College,2,0.6851239669421487
+American upon citiz. or before,"H Imm, College",2,0.6851239669421487
+American upon citiz. or before,Left-Wing,2,0.6851239669421487
+Imm. allowed to get citiz. sonn,Right-Wing,2,0.6169421487603305
+Imm. allowed to get citiz. sonn,"H Imm, No College",2,0.646694214876033
+Imm. allowed to get citiz. sonn,No College,2,0.6789256198347106
+Imm. allowed to get citiz. sonn,No H Imm,2,0.7297520661157024
+Imm. allowed to get citiz. sonn,College,2,0.7607438016528925
+Imm. allowed to get citiz. sonn,"H Imm, College",2,0.7793388429752065
+Imm. allowed to get citiz. sonn,Left-Wing,2,0.7892561983471074
+Imm. should get benefits soon,Right-Wing,2,0.3479338842975206
+Imm. should get benefits soon,"H Imm, No College",2,0.45082644628099167
+Imm. should get benefits soon,No College,2,0.46322314049586777
+Imm. should get benefits soon,No H Imm,2,0.4867768595041322
+Imm. should get benefits soon,College,2,0.5276859504132231
+Imm. should get benefits soon,"H Imm, College",2,0.6801652892561982
+Imm. should get benefits soon,Left-Wing,2,0.5921487603305784
+Imm. not a problem,Right-Wing,2,0.12479338842975207
+Imm. not a problem,"H Imm, No College",2,0.15578512396694214
+Imm. not a problem,No College,2,0.19421487603305784
+Imm. not a problem,No H Imm,2,0.2834710743801653
+Imm. not a problem,"H Imm, College",2,0.3107438016528925
+Imm. not a problem,College,2,0.3243801652892562
+Imm. not a problem,Lef-Wing,2,0.346694214876033

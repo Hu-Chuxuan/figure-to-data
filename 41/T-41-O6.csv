@@ -1,0 +1,6 @@
+"Empty Column 0","Imm. not a problem","Imm. not a problem (SE)","Imm. benefits soon","Imm. benefits soon (SE)","Imm. citizenship soon","Imm. citizenship soon (SE)","American upon citizenship/before","American upon citizenship/before (SE)","Govt. should care about everyone","Govt. should care about everyone (SE)","Imm support index","Imm support index (SE)"
+"T: share of immigrants","0.0242***","0.00825","0.00991","0.00959","0.0158*","0.00857","0.00508","0.00936","-0.00395","0.0359","0.0364**","0.0181"
+"T: origin of immigrants","0.00527","0.00822","0.00360","0.00961","0.000649","0.00863","0.00448","0.00937","-0.00222","0.0361","0.00877","0.0182"
+"T: hard work","0.0252***","0.00829","0.0202**","0.00957","0.0133","0.00857","0.0171*","0.00934","0.131***","0.0359","0.0708***","0.0181"
+"Observations","19727","","19749","","19745","","19742","","19754","","19765",""
+"Control mean","0.25","","0.49","","0.71","","0.62","","4.53","","0.00",""

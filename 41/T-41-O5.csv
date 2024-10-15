@@ -1,0 +1,6 @@
+"Empty Column 0","All immigrants","All immigrants (SE)","Accurate perception all immigrants","Accurate perception all immigrants (SE)","M. East and N. Africa","M. East and N. Africa (SE)","N. America, W. and E. Europe","N. America, W. and E. Europe (SE)","Muslim","Muslim (SE)","Christian","Christian (SE)","Lack of effort reason poor","Lack of effort reason poor (SE)"
+"T: share of immigrants","-4.864***","0.411","0.227***","0.00691","-0.248","0.313","0.173","0.357","0.00857","0.419","0.144","0.397","0.000297","0.00921"
+"T: origin of immigrants","2.315***","0.426","0.00251","0.00411","-4.794***","0.295","1.827***","0.356","-1.829***","0.405","2.456***","0.397","-0.000234","0.00925"
+"T: hard work","0.709*","0.409","-0.00420","0.00396","-0.385","0.308","0.378","0.352","-0.869**","0.404","0.796**","0.393","-0.0535***","0.00899"
+"Observations","19735","","19735","","19747","","19728","","19761","","19757","","19721",""
+"Control mean","17.02","","0.04","","12.60","","-5.56","","11.30","","-23.98","","0.36",""
