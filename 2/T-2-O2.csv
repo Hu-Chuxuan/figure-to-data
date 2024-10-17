@@ -1,9 +1,6 @@
-Randomly Assigned,Coefficient Estimate
-Female judge condition,0.27**
-Female judge condition SE,0.08
-Hispanic judge condition,0.47**
-Hispanic judge condition SE,0.10
-African American judge condition,0.14
-African American judge condition SE,0.10
-Pseudo-R2,0.09
-N,3117
+"Randomly Assigned","Coefficient Estimate","Coefficient (SE)"
+"Female judge condition","0.27**","0.08"
+"Hispanic judge condition","0.47**","0.10"
+"African American judge condition","0.14","0.10"
+"Pseudo-R2","0.09",""
+"N","3117",""
