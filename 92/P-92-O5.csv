@@ -1,0 +1,21 @@
+"Type-1","Type-2","Subplot Value","Value"
+"No","","Tried new sport discipline(s)",69.38992042440319
+"Yes","","Tried new sport discipline(s)",30.132625994694962
+"No","","Could redeem voucher for desired discipline",9.283819628647223
+"Yes","","Could redeem voucher for desired discipline",90.45092838196287
+"No","","Could not afford membership without voucher",96.80851063829788
+"Yes","","Could not afford membership without voucher",19.68085106382979
+"No","","Parents happy to save money because of voucher",74.6949602122016
+"Yes","","Parents happy to save money because of voucher",24.827586206896548
+"","Foot","Transport as a supply-side barrier",0.252808988764045
+"","Bike","Transport as a supply-side barrier",0.3160112359550562
+"","Public transport","Transport as a supply-side barrier",0.1825842696629214
+"","Driven by parents","Transport as a supply-side barrier",0.4452247191011236
+"Rural","Foot","Mode of transportation (urban versus rural)",0.30208333333333337
+"Rural","Bike","Mode of transportation (urban versus rural)",0.33779761904761907
+"Rural","Public transport","Mode of transportation (urban versus rural)",0.08482142857142866
+"Rural","Driven by parents","Mode of transportation (urban versus rural)",0.4955357142857143
+"Urban","Foot","Mode of transportation (urban versus rural)",0.2321428571428572
+"Urban","Bike","Mode of transportation (urban versus rural)",0.30654761904761907
+"Urban","Public transport","Mode of transportation (urban versus rural)",0.2232142857142858
+"Urban","Driven by parents","Mode of transportation (urban versus rural)",0.4241071428571429
