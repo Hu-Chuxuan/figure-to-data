@@ -1,8 +1,0 @@
-"Components Fixed","DV: Pedestrian Stops b","DV: Pedestrian Stops (SE)","DV: Vehicle Stops b","DV: Vehicle Stops (SE)","DV: Drug Arrests b","DV: Drug Arrests (SE)","DV: Disorder Arrests b","DV: Disorder Arrests (SE)"
-"COVID-19 period","-2.565**",".723","-6.785**","1.782","-.456",".187","-.399**",".081"
-"Floyd period","-2.656**",".823","-7.152**","1.769","-.615**",".187","-.329**",".068"
-"Constant","-.584",".313","-2.262","1.257","-.367***",".110",".135*",".065"
-"Random","SD","","SD","","SD","","SD",""
-"Neighborhoods","2.179","","8.923","",".821","",".449",""
-"COVID-19 period","5.782","","11.700","","1.423","",".427",""
-"Floyd period","7.009","","13.688","","1.620","",".445",""

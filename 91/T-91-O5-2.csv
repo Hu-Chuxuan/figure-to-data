@@ -1,4 +1,0 @@
-"Channel","Formula","Predicted effect","Source"
-"Microeconomic effect","\text{Income effect} \times \frac{\text{PF dividend (PDV)}}{\$140K}","-0.017","Cesarini et al. (2017)"
-"Macroeconomic effect (version 1)","$\frac{1}{1 + \kappa} \mathcal{M}(1 - \alpha) \eta \times MPC \times \frac{PFDividends}{LaborIncome} \times EPOP$","0.010","Chodorow-Reich et al. (2019)"
-"Macroeconomic effect (version 2)","$\eta \times MPC \times \beta \times \frac{PFDividends}{\$100,000}$","0.010","Chodorow-Reich (2019)"
