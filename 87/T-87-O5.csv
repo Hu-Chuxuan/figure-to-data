@@ -1,0 +1,23 @@
+,(1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11)
+A. Baseline Results: J-I Post,.002,.043***,.029,-.021,.037,.032,.029,-.027,-.036**,-.004,.019
+A. Baseline Results: J-I Post standard error,.006,.013,.027,.034,.028,.025,.021,.025,.014,.015,.023
+A. Baseline Results: J-R Post,-.001,.060***,.020,-.048,-.007,.015,-.113***,.426***,.007,-.002,-.027
+A. Baseline Results: J-R Post standard error,.006,.011,.026,.038,.025,.024,.022,.037,.011,.014,.024
+A. Baseline Results: J-M Post,-.000,.071***,.020,.045,.009,-.007,.021,-.053**,-.269***,.020*,.321***
+A. Baseline Results: J-M Post standard error,.006,.018,.022,.039,.023,.025,.018,.024,(.052),.011,.042
+A. Baseline Results: Observations,10594,10594,10594,10594,10594,10594,10594,10594,10594,10594,10594
+A. Baseline Results: R^2,.855,.426,.232,.221,.221,.278,.208,.314,.301,.186,.278
+B. Differentiating between Old and New Firms: J-I Post,-.004,.024,-.021,.021,-.015,.060,.027,-.006,-.048***,-.005,.033
+B. Differentiating between Old and New Firms: J-I Post standard error,.005,.018,.036,.055,.039,.038,.031,.037,.010,.018,.037
+B. Differentiating between Old and New Firms: J-R Post,.001,.057***,.018,-.078,-.012,.019,-.122***,.461***,.003,-.000,.029
+B. Differentiating between Old and New Firms: J-R Post standard error,.004,.017,.041,.066,.044,.036,.029,.059,.012,.020,.039
+B. Differentiating between Old and New Firms: J-M Post,-.001,.083***,.016,.020,.004,-.010,.008,-.042,-.418***,.039**,.332***
+B. Differentiating between Old and New Firms: J-M Post standard error,.004,.029,.037,.065,.039,.032,.031,(.032),.078,.018,.050
+B. Differentiating between Old and New Firms: J-I Post x Pre-TWI firm,.005,.035,.083,-.079,.087,-.052,.002,-.035,.017,.001,-.032
+B. Differentiating between Old and New Firms: J-I Post x Pre-TWI firm standard error,.007,.024,.051,.073,.053,.048,.042,.046,.022,.025,.039
+B. Differentiating between Old and New Firms: J-R Post x Pre-TWI firm,-.002,.006,.003,.051,.007,-.006,.016,-.056,.006,-.003,-.088
+B. Differentiating between Old and New Firms: J-R Post x Pre-TWI firm standard error,.007,.021,.050,.079,.050,.050,.043,.073,.017,.028,.059
+B. Differentiating between Old and New Firms: J-M Post x Pre-TWI firm,.000,-.021,.005,.041,.007,.006,.020,-.021,.243***,-.030,-.020
+B. Differentiating between Old and New Firms: J-M Post x Pre-TWI firm standard error,.007,.034,.046,.084,.053,.044,.040,.049,.091,.023,.062
+B. Differentiating between Old and New Firms: Observations,10594,10594,10594,10594,10594,10594,10594,10594,10594,10594,10594
+B. Differentiating between Old and New Firms: R^2,.907,.433,.235,.224,.224,.280,.210,.317,.312,.187,.295
