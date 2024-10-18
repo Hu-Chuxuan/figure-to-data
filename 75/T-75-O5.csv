@@ -1,0 +1,25 @@
+Dependent variable ,Postelection effect
+Panel A. Cubic specification: Dropout rate ,−0.11
+Panel A. Cubic specification: Dropout rate  standard error,0.07
+Panel A. Cubic specification: Percent adv. or prof. tenth grade math,5.89
+Panel A. Cubic specification: Percent adv. or prof. tenth grade math standard error,1.80
+Panel A. Cubic specification: Average tenth grade math score,4.53
+Panel A. Cubic specification: Average tenth grade math score standard error,1.81
+Panel A. Cubic specification: log(postsecondary enrollment),0.07
+Panel A. Cubic specification: log(postsecondary enrollment) standard error,0.05
+Panel B. Quadratic specification: Dropout rate,−0.08
+Panel B. Quadratic specification: Dropout rate standard error,0.07
+Panel B. Quadratic specification: Percent adv. or prof. tenth grade math,3.91
+Panel B. Quadratic specification: Percent adv. or prof. tenth grade math standard error,1.67
+Panel B. Quadratic specification: Average tenth grade math score,3.29
+Panel B. Quadratic specification: Average tenth grade math score standard error,1.62
+Panel B. Quadratic specification: log(postsecondary enrollment),0.12
+Panel B. Quadratic specification: log(postsecondary enrollment) standard error,0.04
+Panel C. Linear specification: Dropout rate ,−0.07
+Panel C. Linear specification: Dropout rate standard error,0.07
+Panel C. Linear specification: Percent adv. or prof. tenth grade math ,4.40
+Panel C. Linear specification: Percent adv. or prof. tenth grade math standard error,2.00
+Panel C. Linear specification: Average tenth grade math score,3.56
+Panel C. Linear specification: Average tenth grade math score standard error,1.88
+Panel C. Linear specification: log(postsecondary enrollment),0.14
+Panel C. Linear specification: log(postsecondary enrollment) standard error,0.04
