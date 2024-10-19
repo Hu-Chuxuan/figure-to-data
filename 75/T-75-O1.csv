@@ -1,0 +1,14 @@
+Variable,Observations,Mean,Median,SD,Min,Max
+Panel A. All referenda: Referendum passed,2331,0.53,1,0.50,0,1
+Panel A. All referenda: Percent in favor,2331,50.81,50.94,12.71,11,100
+Panel A. All referenda: Amount approved PP,1238,4863,2625,5960,7,61808
+Panel A. All referenda: Number of questions per district,404,5.77,5,4.07,1,27
+Panel B. Recurring referenda: Referendum passed,427,0.36,0,0.48,0,1
+Panel B. Recurring referenda: Percent in favor,427,45.63,46.08,11.85,11,81
+Panel B. Recurring referenda: Amount approved PP,154,738,402,921,7,5208
+Panel C. Nonrecurring referenda: Referendum passed,593,0.59,1,0.49,0,1
+Panel C. Nonrecurring referenda: Percent in favor,593,51.86,52.09,11.52,17,87
+Panel C. Nonrecurring referenda: Amount approved PP,348,3389,2364,4221,30,45771
+Panel D. Capital bond referenda: Referendum passed,1311,0.56,1,0.50,0,1
+Percent in favorPanel D. Capital bond referenda: ,1311,52.02,52.16,13.08,12,100
+Panel D. Capital bond referenda: Amount approved PP,736,6422,4365,6646,35,61808
