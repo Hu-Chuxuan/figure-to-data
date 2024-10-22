@@ -1,4 +1,4 @@
 "Empty Column 0","Only payment reduction - All","Only payment reduction - Underwater","Payment and principal reduction - All","Payment and principal reduction - Underwater"
-"Fraction better off","0.87","","0.97","","1","","1"
-"\Delta welfare/transfer","0.16","","0.22","","1","","1"
-"\Delta consumption/transfer","0.36","","0.46","","0.39","","0.47"
+"Fraction better off","0.87","0.97","1","1"
+"\Delta welfare/transfer","0.16","0.22","1","1"
+"\Delta consumption/transfer","0.36","0.46","0.39","0.47"
