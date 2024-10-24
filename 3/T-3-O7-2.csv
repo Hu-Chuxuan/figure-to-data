@@ -1,0 +1,9 @@
+,Woman married a commoner,Woman married a commoner p-values adjusted for weak IV,Woman married a commoner CLR p-values adjusted for family clusters,Any brother is MP,Any brother is MP p-values adjusted for weak IV,Any brother is MP CLR p-values adjusted for family clusters,All brothers' MP years,All brothers' MP years p-values adjusted for weak IV,All brothers' MP years CLR p-values adjusted for family clusters,Any brother is local MP,Any brother is local MP p-values adjusted for weak IV,Any brother is local MP CLR p-values adjusted for family clusters,All brothers' local years,All brothers' local years p-values adjusted for weak IV,All brothers' local years CLR p-values adjusted for family clusters,Family head is MP,Family head is MP p-values adjusted for weak IV,Family head is MP CLR p-values adjusted for family clusters,Family head's MP years,Family head's MP years p-values adjusted for weak IV,Family head's MP years CLR p-values adjusted for family clusters
+Treatment^a,0.008,0.027,0.056,−0.008,0.001,0.003,−0.170,0.006,0.008,−0.004,0.086,0.053,−0.085,0.018,0.008,−0.009,0.001,0.005,−0.053,0.046,0.050
+Birth order,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
+F-stat,4.33,,,10.0,,,6.16,,,10.74,,,5.85,,,1.68,,,3.16,,
+Observations,387,,,374,,,374,,,374,,,374,,,387,,,387,,
+Baseline co.,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
+County co.,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
+Number of brothers,No,,,Yes,,,Yes,,,Yes,,,Yes,,,No,,,No,,
+Pol. before,No,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,

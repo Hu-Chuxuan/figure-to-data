@@ -1,0 +1,16 @@
+Type-1,Value,Error Bar Length,Type-2,Subplot Value
+18-20,20.78613542925838,12.20475255,All peers’ daughters,Left
+21-23,18.317848848108937,10.64766839,All peers’ daughters,Left
+24-26,7.801500804016413,9.109344293,All peers’ daughters,Left
+27-29,6.523137391792002,10.45470788,All peers’ daughters,Left
+>=30,3.5000893344471713,6.257816687,All peers’ daughters,Left
+18-20,30.929074360750324,18.76352395,"Dukes’, marquesses’, earls’ daughters",Right
+21-23,25.2344152485064,16.73364245,"Dukes’, marquesses’, earls’ daughters",Right
+24-26,9.998282671707187,14.41181521,"Dukes’, marquesses’, earls’ daughters",Right
+27-29,4.547484115627377,11.04928731,"Dukes’, marquesses’, earls’ daughters",Right
+>=30,5.979735531058033,11.66065602,"Dukes’, marquesses’, earls’ daughters",Right
+18-20,8.620985745269074,12.51588528,"Barons’, viscounts’ daughters",Right
+21-23,11.427099434646628,12.36476043,"Barons’, viscounts’ daughters",Right
+24-26,5.687789799072647,11.16950026,"Barons’, viscounts’ daughters",Right
+27-29,8.51451141977519,16.56534432,"Barons’, viscounts’ daughters",Right
+>=30,4.011677827477875,5.323716291,"Barons’, viscounts’ daughters",Right

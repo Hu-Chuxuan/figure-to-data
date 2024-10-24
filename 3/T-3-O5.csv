@@ -1,0 +1,6 @@
+,Low-treatment,Low-treatment p-value,High-treatment,High-treatment p-value,Difference,Difference p-value
+,,,,,,
+"Pearson’s chi-squared,  χ^2",24.6,0.000,3.5,0.320,21.1,0.000
+"Likelihood ratio, L R −  χ^2",24.9,0.000,3.6,0.315,21.3,0.000
+"Kendall’s rank correlation, τ_b",0.20,0.000,0.11,0.191,0.09,0.164
+Observations,523,,121,,644,
