@@ -1,0 +1,11 @@
+Type-1,Value,Type-2,Subplot Value
+Control,0.2058911632551173,No voucher used,Panel A. Simple malaria treatment
+Patient voucher,0.062106839740389386,No voucher used,Panel A. Simple malaria treatment
+Doctor voucher,0.09226160758861707,No voucher used,Panel A. Simple malaria treatment
+Patient voucher,0.3680479281078382,Voucher used,Panel A. Simple malaria treatment
+Doctor voucher,0.3528706939590614,Voucher used,Panel A. Simple malaria treatment
+Control,0.25557565893615597,No voucher used,Panel B. Severe malaria treatment
+Patient voucher,0.21066082203122954,No voucher used,Panel B. Severe malaria treatment
+Doctor voucher,0.18972531433532308,No voucher used,Panel B. Severe malaria treatment
+Patient voucher,0.25547636913172533,Voucher used,Panel B. Severe malaria treatment
+Doctor voucher,0.20132295250013615,Voucher used,Panel B. Severe malaria treatment
