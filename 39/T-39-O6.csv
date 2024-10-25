@@ -1,16 +1,16 @@
 ,(1),(2),(3),(4),(5)
-"ln(NTL)_i,t",.302***,.299***,.219***,.223***,.222***
-"ln(NTL)_i,t standard error",.046,.048,.048,.049,.049
-"ln(NTL)_i,t x D(SDDS country)_i",-.049,-.046,-.022,-.037,-.038
-"ln(NTL)_i,t x D(SDDS country)_i standard error",.041,.039,.036,.043,.043
-"ln(NTL)_i,t x D(SDDS compliant)_i,t",,-.036***,-.028**,-.027**,-.020*
-"ln(NTL)_i,t x D(SDDS compliant)_i,t standard error",,.012,.012,.011,.011
-"ln(NTL)_i,t x FiW_i,t",,,.021***,.019***,.019***
-"ln(NTL)_i,t x FiW_i,t standard error",,,.006,.007,.007
-"ln(NTL)_i,t x FiW_i,t x D(SDDS country)_i",,,,.007,-.002
-"ln(NTL)_i,t x FiW_i,t x D(SDDS country)_i standard error",,,,.010,.012
-"ln(NTL)_i,t x FiW_i,t x D(SDDS compliant)_i,t",,,,,.006
-"ln(NTL)_i,t x FiW_i,t x D(SDDS compliant)_i,t standard error",,,,,.011
+ln(NTL)_it,.302***,.299***,.219***,.223***,.222***
+ln(NTL)_it standard error,.046,.048,.048,.049,.049
+ln(NTL)_it x D(SDDS country)_i,-.049,-.046,-.022,-.037,-.038
+ln(NTL)_it x D(SDDS country)_i standard error,.041,.039,.036,.043,.043
+ln(NTL)_it x D(SDDS compliant)_it,,-.036***,-.028**,-.027**,-.020*
+ln(NTL)_it x D(SDDS compliant)_it standard error,,.012,.012,.011,.011
+ln(NTL)_it x FiW_it,,,.021***,.019***,.019***
+ln(NTL)_it x FiW_it standard error,,,.006,.007,.007
+ln(NTL)_it x FiW_it x D(SDDS country)_i,,,,.007,-.002
+ln(NTL)_it x FiW_it x D(SDDS country)_i standard error,,,,.010,.012
+ln(NTL)_it x FiW_it x D(SDDS compliant)_it,,,,,.006
+ln(NTL)_it x FiW_it x D(SDDS compliant)_it standard error,,,,,.011
 Country fixed effects,Yes,Yes,Yes,Yes,Yes
 Year fixed effects,Yes,Yes,Yes,Yes,Yes
 Observations,3895,3895,3895,3895,3895

@@ -1,16 +1,16 @@
 ,(1),(2),(3),(4),(5),(6)
-"ln(NTL)_i,t",.272***,.208***,.260***,.262***,.230***,.340**
-"ln(NTL)_i,t standard error",.043,.052,.042,.040,.050,.143
-"ln(NTL)_i,t x FiW_i,t",,.016** .008,,,.008,.008
-"ln(NTL)_i,t x FiW_i,t standard error",,.007,,,.007,.007
-"ln(NTL)_i,t x D(GNI > IDA threshold)_i,t",,,.060*,.085***,.013,.014
-"ln(NTL)_i,t x D(GNI > IDA threshold)_i,t standard error",,,.031,.024,.034,.034
-"ln(NTL)_i,t x GNI_i,t",,,,-.035***,-.032***,-.035***
-"ln(NTL)_i,t x GNI_i,t standard error",,,,.007,.007,.008
-"ln(NTL)_i,t x FiW_i,t x D(GNI > IDA threshold)_i,t",,,,,.023*,.024*
-"ln(NTL)_i,t x FiW_i,t x D(GNI > IDA threshold)_i,t standard error",,,,,.013,.013
-"ln(NTL)_i,t x share of cells unlit_i,t",,,,,,-.108
-"ln(NTL)_i,t x share of cells unlit_i,t standard error",,,,,,.127
+ln(NTL)_it,.272***,.208***,.260***,.262***,.230***,.340**
+ln(NTL)_it standard error,.043,.052,.042,.040,.050,.143
+ln(NTL)_it x FiW_it,,.016** .008,,,.008,.008
+ln(NTL)_it x FiW_it standard error,,.007,,,.007,.007
+ln(NTL)_it x D(GNI > IDA threshold)_it,,,.060*,.085***,.013,.014
+ln(NTL)_it x D(GNI > IDA threshold)_it standard error,,,.031,.024,.034,.034
+ln(NTL)_it x GNI_it,,,,-.035***,-.032***,-.035***
+ln(NTL)_it x GNI_it standard error,,,,.007,.007,.008
+ln(NTL)_it x FiW_it x D(GNI > IDA threshold)_it,,,,,.023*,.024*
+ln(NTL)_it x FiW_it x D(GNI > IDA threshold)_it standard error,,,,,.013,.013
+ln(NTL)_it x share of cells unlit_it,,,,,,-.108
+ln(NTL)_it x share of cells unlit_it standard error,,,,,,.127
 Country fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
 Year fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
 Observations,1832,1832,1832,1832,1832,1832

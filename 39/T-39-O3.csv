@@ -1,20 +1,20 @@
 ,(1),(2),(3),(4),(5)
-"ln(NTL)_i,t",.280***,.203***,.214***,.239***,.241***
-"ln(NTL)_i,t standard error",.063,.055,.053,.060,.057
-"ln(NTL)_i,t x D(low growth)_i,t",.003,-.001,-.018***,.000,-.011*
-"ln(NTL)_i,t x D(low growth)_i,t standard error",.005,.005,.007,.005,.006
-"ln(NTL)_i,t x FiW_i,t",,.022***,.016***,,
-"ln(NTL)_i,t x FiW_i,t standard error",,.005,.005,,
-"ln(NTL)_i,t x FiW_i,t x D(low growth)_i,t",,,.007**,,
-"ln(NTL)_i,t x FiW_i,t x D(low growth)_i,t standard error",,,.003,,
-"ln(NTL)_i,t x D(partially free)_i,t",,,,.041***,.035**
-"ln(NTL)_i,t x D(partially free)_i,t standard error",,,,.015,.014
-"ln(NTL)_i,t x D(not free)_i,t",,,,.067***,.046**
-"ln(NTL)_i,t x D(not free)_i,t standard error",,,,.021,.020
-"ln(NTL)_i,t x D(partially free)_i,t x D(low growth)_i,t",,,,,.012
-"ln(NTL)_i,t x D(partially free)_i,t x D(low growth)_i,t standard error",,,,,.009
-"ln(NTL)_i,t x D(not free)_i,t x D(low growth)_i,t",,,,,.034**
-"ln(NTL)_i,t x D(not free)_i,t x D(low growth)_i,t standard error",,,,,.016
+ln(NTL)_it,.280***,.203***,.214***,.239***,.241***
+ln(NTL)_it standard error,.063,.055,.053,.060,.057
+ln(NTL)_it x D(low growth)_it,.003,-.001,-.018***,.000,-.011*
+ln(NTL)_it x D(low growth)_it standard error,.005,.005,.007,.005,.006
+ln(NTL)_it x FiW_it,,.022***,.016***,,
+ln(NTL)_it x FiW_it standard error,,.005,.005,,
+ln(NTL)_it x FiW_it x D(low growth)_it,,,.007**,,
+ln(NTL)_it x FiW_it x D(low growth)_it standard error,,,.003,,
+ln(NTL)_it x D(partially free)_it,,,,.041***,.035**
+ln(NTL)_it x D(partially free)_it standard error,,,,.015,.014
+ln(NTL)_it x D(not free)_it,,,,.067***,.046**
+ln(NTL)_it x D(not free)_it standard error,,,,.021,.020
+ln(NTL)_it x D(partially free)_it x D(low growth)_it,,,,,.012
+ln(NTL)_it x D(partially free)_it x D(low growth)_it standard error,,,,,.009
+ln(NTL)_it x D(not free)_it x D(low growth)_it,,,,,.034**
+ln(NTL)_it x D(not free)_it x D(low growth)_it standard error,,,,,.016
 Country fixed effects,Yes,Yes,Yes,Yes,Yes
 Year fixed effects,Yes,Yes,Yes,Yes,Yes
 Observations,3895,3895,3895,3895,3895
