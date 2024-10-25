@@ -1,0 +1,9 @@
+Type-1,Value,Error Bar Length,Type-2,Subplot Value
+Violent,0.04110559886605247,0.07172218285,Majority/dominant,Group Status
+Nonviolent,0.2531537916371368,0.1907866761,Majority/dominant,Group Status
+Violent,0.04592487597448636,0.04989369242,Minority/disadvantaged,Group Status
+Nonviolent,0.016442239546420878,0.1862508859,Minority/disadvantaged,Group Status
+Violent,0.0363636363636366,0.04375,Majority/dominant,Group Size
+Nonviolent,0.26505681818181853,0.1625,Majority/dominant,Group Size
+Violent,0.03323863636363644,0.03522727273,Minority/disadvantaged,Group Size
+Nonviolent,0.02897727272727313,-0.1590909091,Minority/disadvantaged,Group Size
