@@ -1,0 +1,19 @@
+Type-1,Type-2,Value,Subplot Value
+T0,MLP,5.010263561639583,Panel A. Number of health providers
+T1,MLP,6.01735258581212,Panel A. Number of health providers
+T2,MLP,5.953465989501,Panel A. Number of health providers
+T0,Control,4.992008030777749,Panel A. Number of health providers
+T1,Control,5.001135796208667,Panel A. Number of health providers
+T2,Control,5.399722648397338,Panel A. Number of health providers
+T0,Doctor,4.906815553422525,Panel A. Number of health providers
+T1,Doctor,5.865230923668803,Panel A. Number of health providers
+T2,Doctor,6.3611806071205885,Panel A. Number of health providers
+T0,Control,0.014344262295082233,Panel B. Doctor on staff
+T1,Control,0.01639344262295106,Panel B. Doctor on staff
+T2,Control,0,Panel B. Doctor on staff
+T0,MLP,0,Panel B. Doctor on staff
+T1,MLP,0,Panel B. Doctor on staff
+T2,MLP,0,Panel B. Doctor on staff
+T0,Doctor,0.006147540983606925,Panel B. Doctor on staff
+T1,Doctor,0.9487704918032788,Panel B. Doctor on staff
+T2,Doctor,0.9508196721311477,Panel B. Doctor on staff
