@@ -1,0 +1,33 @@
+Type-1,Relative GDP per worker (US = 1),Type-2,Subplot Value
+India,0.05687203791469253,Data,Micro-data sample
+India,0.6953899181387335,"Counterfactual, θ_Q = θ_AQ",Micro-data sample
+India,0.1051271003877643,"Counterfactual, θ_Q = 0",Micro-data sample
+India,0.10857389056441225,"Counterfactual, migrant-based calibration",Micro-data sample
+Indonesia,0.08961654459284762,Data,Micro-data sample
+Indonesia,1.6320551486428265,"Counterfactual, θ_Q = θ_AQ",Micro-data sample
+Indonesia,0.09564842740198198,"Counterfactual, θ_Q = 0",Micro-data sample
+Indonesia,0.1051271003877643,"Counterfactual, migrant-based calibration",Micro-data sample
+Jamaica,0.15510555794916048,Data,Micro-data sample
+Jamaica,1.7595863851788023,"Counterfactual, θ_Q = θ_AQ",Micro-data sample
+Jamaica,0.14735028005170214,"Counterfactual, θ_Q = 0",Micro-data sample
+Jamaica,0.1602757432141324,"Counterfactual, migrant-based calibration",Micro-data sample
+Brazil,0.1999138302455843,Data,Micro-data sample
+Brazil,1.5381301163291687,"Counterfactual, θ_Q = θ_AQ",Micro-data sample
+Brazil,0.33520034467901794,"Counterfactual, θ_Q = 0",Micro-data sample
+Brazil,0.40672124084446404,"Counterfactual, migrant-based calibration",Micro-data sample
+Liberia (1st perc),0.01729783653296979,Data,Broad sample
+Liberia (1st perc),0.18136972799735424,"Counterfactual, θ_Q = θ_AQ",Broad sample
+Liberia (1st perc),0.024303783973133597,"Counterfactual, θ_Q = 0",Broad sample
+Liberia (1st perc),0.027808933453290163,"Counterfactual, migrant-based calibration",Broad sample
+Tanzania (5th perc),0.029486444470795292,Data,Broad sample
+Tanzania (5th perc),0.4979808946507851,"Counterfactual, θ_Q = θ_AQ",Broad sample
+Tanzania (5th perc),0.04051482834884823,"Counterfactual, θ_Q = 0",Broad sample
+Tanzania (5th perc),0.04022708407898434,"Counterfactual, migrant-based calibration",Broad sample
+Vietnam (10th perc),0.04770517145533315,Data,Broad sample
+Vietnam (10th perc),0.5001359850046616,"Counterfactual, θ_Q = θ_AQ",Broad sample
+Vietnam (10th perc),0.06385910212908996,"Counterfactual, θ_Q = 0",Broad sample
+Vietnam (10th perc),0.06558012834808669,"Counterfactual, migrant-based calibration",Broad sample
+El Salvador (15th perc),0.058555686947288965,Data,Broad sample
+El Salvador (15th perc),0.42223507129421833,"Counterfactual, θ_Q = θ_AQ",Broad sample
+El Salvador (15th perc),0.0858625637633686,"Counterfactual, θ_Q = 0",Broad sample
+El Salvador (15th perc),0.10185875183171789,"Counterfactual, migrant-based calibration",Broad sample
