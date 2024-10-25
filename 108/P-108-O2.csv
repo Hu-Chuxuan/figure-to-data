@@ -1,0 +1,37 @@
+Type-1,Value,Error Bar Length,Subplot Value
+Trading days per year,0.4108065800657634,0.5212910037,Dependent variable: probability of selling
+Married,0.2617352542069469,0.5522587861,Dependent variable: probability of selling
+Male,-0.047336280717068746,0.1032259413,Dependent variable: probability of selling
+Got Partnership/S-corp income,0.30423820888618636,1.238711296,Dependent variable: probability of selling
+Got Social Security,0.4700060040911449,0.7329041835,Dependent variable: probability of selling
+Avg. dividends in [99.9-100],2.251265007777878,7.520009826,Dependent variable: probability of selling
+Avg. dividends in [99-99.9),2.494447032352184,6.988391002,Dependent variable: probability of selling
+Avg. dividends in [95-99),2.329891815293509,4.020650415,Dependent variable: probability of selling
+Avg. dividends in [75-95),1.3395290675757519,2.250320294,Dependent variable: probability of selling
+Age 70+,-0.022441842308655424,0.0619355648,Dependent variable: probability of selling
+Age 60-9,-0.021840779865454962,0.0619355648,Dependent variable: probability of selling
+Age 50-9,-0.02122403753243063,0.0619355648,Dependent variable: probability of selling
+Age 40-9,-0.020612521829347585,0.0464516736,Dependent variable: probability of selling
+Age 30-9,0.04192933204322635,0.08258075307,Dependent variable: probability of selling
+AGI in [99.9-100],5.074795034440221,9.501953126,Dependent variable: probability of selling
+AGI in [99-99.9),2.210886678169606,4.815490163,Dependent variable: probability of selling
+AGI in [95-99),0.04374819926265161,2.085164015,Dependent variable: probability of selling
+AGI in [75-95),-0.18274258259545384,0.8670979072,Dependent variable: probability of selling
+Trading days per year,0.03380468404772463,0.04838709677,Dependent variable: log sales
+Married,0.02585064074237753,0.04971277066,Dependent variable: log sales
+Male,-0.0019885108263362206,0.004639858595,Dependent variable: log sales
+Got Partnership/S-corp income,0.03513035793194885,0.103402563,Dependent variable: log sales
+Got Social Security,0.036456031816173295,0.05766681396,Dependent variable: log sales
+Avg. dividends in [99.9-100],0.36058329650905874,0.6257180734,Dependent variable: log sales
+Avg. dividends in [99-99.9),0.37781705700397716,0.6005302696,Dependent variable: log sales
+Avg. dividends in [95-99),0.2319929297392842,0.3327441449,Dependent variable: log sales
+Avg. dividends in [75-95),0.10804242156429544,0.1756517897,Dependent variable: log sales
+Age 70+,-0.0033141847105611077,0.005302695537,Dependent variable: log sales
+Age 60-9,-0.00530269553689755,0.005965532479,Dependent variable: log sales
+Age 50-9,-0.003977021652673107,0.005302695537,Dependent variable: log sales
+Age 40-9,-0.00530269553689755,0.007291206363,Dependent variable: log sales
+Age 30-9,-0.00530269553689755,0.006628369421,Dependent variable: log sales
+AGI in [99.9-100],0.8789217852408304,0.9823243482,Dependent variable: log sales
+AGI in [99-99.9),0.26513477684489617,0.4441007512,Dependent variable: log sales
+AGI in [95-99),0.015908086610693983,0.1650463986,Dependent variable: log sales
+AGI in [75-95),-0.008616880247459102,0.05634114008,Dependent variable: log sales
