@@ -1,20 +1,30 @@
-,"Log gross sales
+Unnamed: 0,"Log gross sales
 volume taxable 
-accounts","Net sales volume
+accounts","Log gross sales
+volume taxable 
+accounts (SE)","Net sales volume
 (% of portfolio value)
 taxable accounts","Gross sales volume
 (% of portfolio value)
-taxable accounts","Net sales volume
+taxable accounts","Gross sales volume
 (% of portfolio value)
-taxable accounts","Log gross sales
+taxable accounts (SE)","Net sales volume
+(% of portfolio value)
+taxable accounts.1","Net sales volume
+(% of portfolio value)
+taxable accounts.1 (SE)","Log gross sales
 volume non-taxable
 accounts","Log gross sales
+volume non-taxable
+accounts (SE)","Log gross sales
 volume taxable
 accounts large–small
-portfolios"
-Change in log VIX,1.753,,0.917,0.315,2.231,1.152
-Change in log VIX Standard error,0.463,,0.131,0.149,0.652,0.320
-Contemp. gross sales volume,,0.342,,,,
-(% of portfolio value),,0.029,,,,
-Adjusted R^2,0.0263,0.2685,0.0429,0.0111,0.0164,0.0101
-Observations,1496,1475,1474,1474,1496,1474
+portfolios","Log gross sales
+volume taxable
+accounts large–small
+portfolios (SE)"
+Change in log VIX,1.753,0.463,,0.917,0.131,0.315,0.149,2.231,0.652,1.152,0.32
+Contemp. gross sales volume,,,0.342,,,,,,,,
+(% of portfolio value),,,0.029,,,,,,,,
+Adjusted R^2,0.0263,,0.2685,0.0429,,0.0111,,0.0164,,0.0101,
+Observations,1496.0,,1475.0,1474.0,,1474.0,,1496.0,,1474.0,

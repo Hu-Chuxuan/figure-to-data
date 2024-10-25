@@ -1,20 +1,11 @@
-Dependent variable,(1),(2),(3),(4)
-Revenue limits PP,243,160,13,47
-Revenue limits PP standard error,91,128,16,27
-Total expenditures PP,283,196,0,4
-Total expenditures PP standard error,113,163,31,43
-Instructional expenditures PP,153,154,−22,−21
-Instructional expenditures PP standard error,70,108,20,27
-Support services PP,133,56,20,23
-Support services PP standard error,50,68,18,25
-Other expenditures PP,−4,−14,1,2
-Other expenditures PP standard error,8,11,2,3
-Dropout rate,0.02,0.08,−0.05,−0.10
-Dropout rate standard error,0.05,0.07,0.05,0.07
-Percent adv. or prof. tenth grade,2.29,−0.23,−0.15,0.21
-Percent adv. or prof. tenth grade standard error,1.03,1.58,0.79,1.19
-Average scale score tenth grade,1.61,−0.80,−0.01,0.73
-Average scale score tenth grade standard error,0.93,1.42,0.72,1.02
-Postsecondary enrollment share,0.01,−0.01,0.01,0.01
-Postsecondary enrollment share standard error,0.01,0.01,0.01,0.01
-Only narrow elections,N,Y,N,Y
+Dependent variable,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE)
+Revenue limits PP,243,91,160,128,13,16,47,27
+Total expenditures PP,283,113,196,163,0,31,4,43
+Instructional expenditures PP,153,70,154,108,−22,20,−21,27
+Support services PP,133,50,56,68,20,18,23,25
+Other expenditures PP,−4,8,−14,11,1,2,2,3
+Dropout rate,0.02,0.05,0.08,0.07,−0.05,0.05,−0.10,0.07
+Percent adv. or prof. tenth grade,2.29,1.03,−0.23,1.58,−0.15,0.79,0.21,1.19
+Average scale score tenth grade,1.61,0.93,−0.80,1.42,−0.01,0.72,0.73,1.02
+Postsecondary enrollment share,0.01,0.01,−0.01,0.01,0.01,0.01,0.01,0.01
+Only narrow elections,N,,Y,,N,,Y,

@@ -1,21 +1,13 @@
-,(1),(2)
-Intercept,0.71***,0.36***
-Intercept standard error,0.01,0.01
-Humanization,-0.01,-0.00
-Humanization standard error,0.01,0.02
-Information,0.01,0.04*
-Information standard error,0.01,0.02
-Combined,-0.01,-0.00
-Combined standard error,0.01,0.02
-Out-group antipathy,,0.67***
-Out-group antipathy standard error,,0.02
-Humanization x antipathy,,-0.01
-Humanization x antipathy standard error,,0.03
-Information x antipathy,,-0.06+
-Information x antipathy standard error,,0.03
-Combined x antipathy,,-0.01
-Combined x antipathy standard error,,0.03
-N,3489,3482
-R^2,0.00,0.51
-Adjusted R^2,0.00,0.51
-Residual SD,0.22,0.15
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE)
+Intercept,0.71***,0.01,0.36***,0.01
+Humanization,-0.01,0.01,-0.00,0.02
+Information,0.01,0.01,0.04*,0.02
+Combined,-0.01,0.01,-0.00,0.02
+Out-group antipathy,,,0.67***,0.02
+Humanization x antipathy,,,-0.01,0.03
+Information x antipathy,,,-0.06+,0.03
+Combined x antipathy,,,-0.01,0.03
+N,3489,,3482,
+R^2,0.00,,0.51,
+Adjusted R^2,0.00,,0.51,
+Residual SD,0.22,,0.15,

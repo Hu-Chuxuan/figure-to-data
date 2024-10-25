@@ -1,11 +1,8 @@
-Out-Migrants versus stayers,log(wage),Age,Female,Ninth-grade,Full-time,Rent
-Black lynching rate × out-migrant status,−0.004,0.002,−0.004,0.000,0.002,−0.997
-Black lynching rate × out-migrant status standard error,0.006,0.030,0.002,0.002,0.001,0.815
-Out-migrant,0.500,−0.447,0.075,0.107,−0.034,26.361
-Out-migrant standard error,0.018,0.235,0.009,0.012,0.010,2.955
-Black lynching rate,0.004,0.009,0.000,−0.001,0.001,−0.343
-Black lynching rate standard error,0.002,0.010,0.000,0.001,0.000,0.197
-Historical controls,Yes,Yes,Yes,Yes,Yes,Yes
-State fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
-Observations,89868,218832,218832,185722,218832,168215
-R^2,0.071,0.006,0.003,0.037,0.005,0.005
+Out-Migrants versus stayers,log(wage),log(wage) (SE),Age,Age (SE),Female,Female (SE),Ninth-grade,Ninth-grade (SE),Full-time,Full-time (SE),Rent,Rent (SE)
+Black lynching rate × out-migrant status,−0.004,0.006,0.002,0.030,−0.004,0.002,0.000,0.002,0.002,0.001,−0.997,0.815
+Out-migrant,0.500,0.018,−0.447,0.235,0.075,0.009,0.107,0.012,−0.034,0.010,26.361,2.955
+Black lynching rate,0.004,0.002,0.009,0.010,0.000,0.000,−0.001,0.001,0.001,0.000,−0.343,0.197
+Historical controls,Yes,,Yes,,Yes,,Yes,,Yes,,Yes,
+State fixed effects,Yes,,Yes,,Yes,,Yes,,Yes,,Yes,
+Observations,89868,,218832,,218832,,185722,,218832,,168215,
+R^2,0.071,,0.006,,0.003,,0.037,,0.005,,0.005,

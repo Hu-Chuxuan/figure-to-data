@@ -1,28 +1,16 @@
-,OLS,logistic,OLS
-Initial tax: PNR (I don’t know),,,−0.179
-Initial tax: PNR (I don’t know) Standard Error,,,0.023
-Initial tax: Approves,,,"−0.284"
-Initial tax: Approves Standard Error,,,0.031
-Yellow Vests: PNR,0.039,0.035,0.024
-Yellow Vests: PNR Standard Error,0.036,0.035,0.036
-Yellow Vests: understands,0.081,0.062,0.041
-Yellow Vests: understands Standard Error,0.025,0.024,0.025
-Yellow Vests: supports,0.108,0.103,0.051
-Yellow Vests: supports Standard Error,0.026,0.025,0.026
-Yellow Vests: is part,0.202,0.193,0.147
-Yellow Vests: is part Standard Error,0.048,0.04,0.047
-Environmentalist,-0.064,-0.061,-0.025
-Environmentalist Standard Error,0.026,0.026,0.026
-Left-right: left,-0.066,-0.044,-0.045
-Left-right: left Standard Error,0.063,0.065,0.061
-Left-right: center,-0.062,-0.048,-0.046
-Left-right: center Standard Error,0.065,0.068,0.064
-Left-right: right,-0.024,-0.01,-0.026
-Left-right: right Standard Error,0.064,0.066,0.063
-Left-right:  extreme right,-0.076,-0.057,-0.088
-Left-right:  extreme right Standard Error,0.066,0.069,0.065
-Left-right: indeterminate,-0.009,0.017,-0.007
-Left-right: indeterminate Standard Error,0.061,0.063,0.06
-Controls: sociodemo political leaning,1,1,1
-Observations,3002,3002,3002
-R^2,0.061,,0.098
+Unnamed: 0,OLS,OLS (SE),logistic,logistic (SE),OLS.1,OLS.1 (SE)
+Initial tax: PNR (I don’t know),,,,,−0.179,0.023
+Initial tax: Approves,,,,,−0.284,0.031
+Yellow Vests: PNR,0.039,0.036,0.035,0.035,0.024,0.036
+Yellow Vests: understands,0.081,0.025,0.062,0.024,0.041,0.025
+Yellow Vests: supports,0.108,0.026,0.103,0.025,0.051,0.026
+Yellow Vests: is part,0.202,0.048,0.193,0.04,0.147,0.047
+Environmentalist,-0.064,0.026,-0.061,0.026,-0.025,0.026
+Left-right: left,-0.066,0.063,-0.044,0.065,-0.045,0.061
+Left-right: center,-0.062,0.065,-0.048,0.068,-0.046,0.064
+Left-right: right,-0.024,0.064,-0.01,0.066,-0.026,0.063
+Left-right:  extreme right,-0.076,0.066,-0.057,0.069,-0.088,0.065
+Left-right: indeterminate,-0.009,0.061,0.017,0.063,-0.007,0.06
+Controls: sociodemo political leaning,1.0,,1.0,,1,
+Observations,3002.0,,3002.0,,3002,
+R^2,0.061,,,,0.098,

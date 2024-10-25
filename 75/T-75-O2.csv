@@ -1,34 +1,18 @@
-,All districts,Never proposed,Proposed at least one,Difference (2) − (3)
-Revenue limits PP,9520,9485,9525,−40
-Revenue limits PP standard error,954,816,972,95
-Total expenditures PP,10555,11826,10375,1450
-Total expenditures PP standard error,1384,1391,1286,298
-Instructional expenditures PP,6432,6991,6353,637
-Instructional expenditures PP standard error,780,698,758,145
-Support services PP,3739,4401,3645,756
-Support services PP standard error,702,716,648,141
-Other expenditures PP,384,434,377,57
-Other expenditures PP standard error,100,96,99,18
-Dropout rate (percent),1.59,5.76,0.99,4.77
-Dropout rate (percent) standard error,2.08,2.67,1.04,0.88
-Percent adv. or prof. tenth grade,43.22,15.89,46.86,−30.98
-Percent adv. or prof. tenth grade standard error,15.96),14.87,12.10,6.01
-Average scale score tenth grade,562.73,523.98,567.90,−43.91
-Average scale score tenth grade standard error,19.62,20.74,12.35,8.39
-Postsecondary enrollment share,0.39,0.18,0.42,−0.24
-Postsecondary enrollment share standard error,0.13,0.12,0.10,0.05
-Student-staff ratio,8.51,8.48,8.51,−0.03
-Student-staff ratio standard error,1.32,0.94,1.37,0.10
-Teacher experience,12.40,11.09,12.58,−1.49
-Teacher experience standard error,1.87,1.41,1.85,0.16
-Teacher compensation,74664,77267,74299,2968
-Teacher compensation standard error,8167,9915,7824,1220
-Teacher attrition (percent),10.01,11.68,9.78,1.90
-Teacher attrition (percent) standard error,4.20,3.37,4.25,0.15
-Property values PP,516895,337130,542250,−205120
-Property values PP standard error,430530,263487,443324,68660
-Urban centric locale,2.31,1.32,2.45,−1.13
-Urban centric locale standard error,1.13,0.82,1.09,0.30
-Fall enrollment,2067,6329,1888,4442
-Fall enrollment standard error,5149,21199,2823,5117
-Number of school districts,421,17,404,421
+Unnamed: 0,All districts,All districts (SE),Never proposed,Never proposed (SE),Proposed at least one,Proposed at least one (SE),Difference (2) − (3),Difference (2) − (3) (SE)
+Revenue limits PP,9520,954,9485.0,816.0,9525.0,972.0,−40,95
+Total expenditures PP,10555,1384,11826.0,1391.0,10375.0,1286.0,1450,298
+Instructional expenditures PP,6432,780,6991.0,698.0,6353.0,758.0,637,145
+Support services PP,3739,702,4401.0,716.0,3645.0,648.0,756,141
+Other expenditures PP,384,100,434.0,96.0,377.0,99.0,57,18
+Dropout rate (percent),1.59,2.08,5.76,2.67,0.99,1.04,4.77,0.88
+Percent adv. or prof. tenth grade,43.22,15.96),15.89,14.87,46.86,12.1,−30.98,6.01
+Average scale score tenth grade,562.73,19.62,523.98,20.74,567.9,12.35,−43.91,8.39
+Postsecondary enrollment share,0.39,0.13,0.18,0.12,0.42,0.1,−0.24,0.05
+Student-staff ratio,8.51,1.32,8.48,0.94,8.51,1.37,−0.03,0.10
+Teacher experience,12.40,1.87,11.09,1.41,12.58,1.85,−1.49,0.16
+Teacher compensation,74664,8167,77267.0,9915.0,74299.0,7824.0,2968,1220
+Teacher attrition (percent),10.01,4.20,11.68,3.37,9.78,4.25,1.90,0.15
+Property values PP,516895,430530,337130.0,263487.0,542250.0,443324.0,−205120,68660
+Urban centric locale,2.31,1.13,1.32,0.82,2.45,1.09,−1.13,0.30
+Fall enrollment,2067,5149,6329.0,21199.0,1888.0,2823.0,4442,5117
+Number of school districts,421,,17.0,,404.0,,421,

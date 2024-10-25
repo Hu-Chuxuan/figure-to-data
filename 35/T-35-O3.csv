@@ -1,9 +1,7 @@
-,(1),(2)
-Black lynching rate,-0.469,-0.363
-Black lynching rate standard error,0.144,0.140
-Slaves in 1860 (per 10k pop.),,0.003
-Slaves in 1860 (per 10k pop.) standard error,,0.001
-Historical controls,Yes,Yes
-State fixed effects,Yes,Yes
-Number of counties,267,267
-R^2,0.548,0.548
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE)
+Black lynching rate,-0.469,0.144,-0.363,0.140
+Slaves in 1860 (per 10k pop.),,,0.003,0.001
+Historical controls,Yes,,Yes,
+State fixed effects,Yes,,Yes,
+Number of counties,267,,267,
+R^2,0.548,,0.548,

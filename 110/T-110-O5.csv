@@ -1,17 +1,12 @@
-,Targeted dividend ( G^T ) (1),Targeted dividend ( G^T ) (2),After feedback ( G F ) (4)
-Transfer to respondent ( T 1 ),0.199,0.224,
-Transfer to respondent ( T 1 ) Standard error,0.034,0.03,
-Transfer to spouse ( T 2 ),0.172,0.156,
-Transfer to spouse ( T 2 ) Standard error,0.042,0.039,
-T 1  × ​T 2,-0.145,-0.158,
-T 1  × ​T 2 Standard error,-0.158,0.037,
-Predicted winner (Γ),,,0.269
-Predicted winner (Γ) Standard error,,,0.058
-Initial policy acceptance (A^0),0.123,0.154,0.306
-Initial policy acceptance (A^0) Standard error,0.041,0.033,0.066
-Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1/0,1/0,1/0
-Controls: policy assigned,1/0,1/0,
-Subsample,[p10; p60],,|γ| < 50
-Effective F-statistic,15.6,23.8,21.3
-Observations,1969,3002,757
-R^2,0.221,0.196,0.301
+Unnamed: 0,Targeted dividend ( G^T ) (1),Targeted dividend ( G^T ) (1) (SE),Targeted dividend ( G^T ) (2),Targeted dividend ( G^T ) (2) (SE),After feedback ( G F ) (4),After feedback ( G F ) (4) (SE)
+Transfer to respondent ( T 1 ),0.199,0.034,0.224,0.03,,
+Transfer to spouse ( T 2 ),0.172,0.042,0.156,0.039,,
+T 1  × ​T 2,-0.145,-0.158,-0.158,0.037,,
+Predicted winner (Γ),,,,,0.269,0.058
+Initial policy acceptance (A^0),0.123,0.041,0.154,0.033,0.306,0.066
+Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1/0,,1/0,,1/0,
+Controls: policy assigned,1/0,,1/0,,,
+Subsample,[p10; p60],,,,|γ| < 50,
+Effective F-statistic,15.6,,23.8,,21.3,
+Observations,1969,,3002,,757,
+R^2,0.221,,0.196,,0.301,

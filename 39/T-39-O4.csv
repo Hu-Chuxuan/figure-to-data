@@ -1,27 +1,15 @@
-,(1),(2),(3),(4),(5),(6)
-ln(NTL)_it,.272***,.208***,.260***,.262***,.230***,.340**
-ln(NTL)_it standard error,.043,.052,.042,.040,.050,.143
-ln(NTL)_it x FiW_it,,.016** .008,,,.008,.008
-ln(NTL)_it x FiW_it standard error,,.007,,,.007,.007
-ln(NTL)_it x D(GNI > IDA threshold)_it,,,.060*,.085***,.013,.014
-ln(NTL)_it x D(GNI > IDA threshold)_it standard error,,,.031,.024,.034,.034
-ln(NTL)_it x GNI_it,,,,-.035***,-.032***,-.035***
-ln(NTL)_it x GNI_it standard error,,,,.007,.007,.008
-ln(NTL)_it x FiW_it x D(GNI > IDA threshold)_it,,,,,.023*,.024*
-ln(NTL)_it x FiW_it x D(GNI > IDA threshold)_it standard error,,,,,.013,.013
-ln(NTL)_it x share of cells unlit_it,,,,,,-.108
-ln(NTL)_it x share of cells unlit_it standard error,,,,,,.127
-Country fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
-Year fixed effects,Yes,Yes,Yes,Yes,Yes,Yes
-Observations,1832,1832,1832,1832,1832,1832
-Countries,88,88,88,88,88,88
-(Within country) R^2,.211,.242,.273,.346,.380,.382
-sigma,,.234,,,,
-sigma standard error,,.173,,,,
-sigma 95% confidence interval,,[.03; .74],,,,
-sigma high growth,,,,,.100,.091
-sigma high growth standard error,,,,,.114,.106
-sigma high growth 95% confidence interval,,,,,[2.05; .39],[2.04; .36]
-sigma low growth,,,,,.383,.357
-sigma low growth standard error,,,,,.321,.436
-sigma low growth 95% confidence interval,,,,,[.02; 1.49] ,[.01; 1.61]
+Unnamed: 0,(1),(1) (CI),(2),(2) (CI),(2) (SE),(3),(3) (CI),(4),(4) (CI),(5),(5) (CI),(5) (SE),(6),(6) (CI),(6) (SE)
+ln(NTL)_it,.272***,.043,.208***,.052,,.260***,.042,.262***,.040,.230***,.050,,.340**,.143,
+ln(NTL)_it x FiW_it,,,.016** .008,.007,,,,,,.008,.007,,.008,.007,
+ln(NTL)_it x D(GNI > IDA threshold)_it,,,,,,.060*,.031,.085***,.024,.013,.034,,.014,.034,
+ln(NTL)_it x GNI_it,,,,,,,,-.035***,.007,-.032***,.007,,-.035***,.008,
+ln(NTL)_it x FiW_it x D(GNI > IDA threshold)_it,,,,,,,,,,.023*,.013,,.024*,.013,
+ln(NTL)_it x share of cells unlit_it,,,,,,,,,,,,,-.108,.127,
+Country fixed effects,Yes,,Yes,,,Yes,,Yes,,Yes,,,Yes,,
+Year fixed effects,Yes,,Yes,,,Yes,,Yes,,Yes,,,Yes,,
+Observations,1832,,1832,,,1832,,1832,,1832,,,1832,,
+Countries,88,,88,,,88,,88,,88,,,88,,
+(Within country) R^2,.211,,.242,,,.273,,.346,,.380,,,.382,,
+sigma,,,.234,.173,[.03; .74],,,,,,,,,,
+sigma high growth,,,,,,,,,,.100,.114,[2.05; .39],.091,.106,[2.04; .36]
+sigma low growth,,,,,,,,,,.383,.321,[.02; 1.49] ,.357,.436,[.01; 1.61]

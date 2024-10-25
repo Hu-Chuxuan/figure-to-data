@@ -1,14 +1,10 @@
-,(1),(2),(3),(4),(5),(6),(7),(8)
-Connected (first degree),.109**,.275***,.299***,.104***,.179***,.239***,.191***,.174***
-Connected (first degree) standard error,.054,.091,.112,.039,.062,.090,.058,.048
-Connected (second degree),.096*,.175***,.160*,.158***,.202***,.258***,.082,.138**
-Connected (second degree) standard error,.052,.067,.082,.059,.071,.098,.083,.059
-Connected (third degree),.147,.047,2.084,.154**,.075,2.024,.005,.131
-Connected (third degree) standard error,.144,.181,.197,.072,.118,.133,.126,.116
-Connected (fourth degree),2.023,2.035,.011,2.015,.029,.149,2.047,.063
-Connected (fourth degree) standard error,.079,.049,.044,.122,.133,.131,.110,.064
-R^2,.28,.30,.25,.33,.34,.31,.24,.22
-Commonality controls,X,X,X,X,X,X,X,X
-Distance controls,X,X,X,X,X,X,X,X
-Composer fixed effects,X,X,X,X,X,X,X,X
-Sample,World,World,World,World,World,World,World,World
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),(6) (SE),(7),(7) (SE),(8),(8) (SE)
+Connected (first degree),.109**,.054,.275***,.091,.299***,.112,.104***,.039,.179***,.062,.239***,.090,.191***,.058,.174***,.048
+Connected (second degree),.096*,.052,.175***,.067,.160*,.082,.158***,.059,.202***,.071,.258***,.098,.082,.083,.138**,.059
+Connected (third degree),.147,.144,.047,.181,2.084,.197,.154**,.072,.075,.118,2.024,.133,.005,.126,.131,.116
+Connected (fourth degree),2.023,.079,2.035,.049,.011,.044,2.015,.122,.029,.133,.149,.131,2.047,.110,.063,.064
+R^2,.28,,.30,,.25,,.33,,.34,,.31,,.24,,.22,
+Commonality controls,X,,X,,X,,X,,X,,X,,X,,X,
+Distance controls,X,,X,,X,,X,,X,,X,,X,,X,
+Composer fixed effects,X,,X,,X,,X,,X,,X,,X,,X,
+Sample,World,,World,,World,,World,,World,,World,,World,,World,

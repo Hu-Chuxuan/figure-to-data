@@ -1,29 +1,17 @@
-,(1),(2),(3),(4),(5),(6),(7)
-ln(NTL)_it,.296***,.292***,.215***,.214***,.251***,.265***,.288***
-ln(NTL)_it standard error,.044,.042,.043,.043,.044,.042,.067
-FiW_it,,-.023**,-.006,-.015,,,-.086*
-FiW_it standard error,,.010,.010,.025,,,.048
-FiW_it^2,,,,.002,,,.012
-FiW_it^2 standard error,,,,.005,,,.008
-ln(NTL)_it x FiW_it,,,.021***,.022***,,,.032***
-ln(NTL)_it x FiW_it standard error,,,.005,.005,,,.008
-D(partially free)_it,,,,,.001,,
-D(partially free)_it standard error,,,,,.020,,
-D(not free)_it,,,,,.014,,
-D(not free)_it standard error,,,,,.039,,
-ln(NTL)_it x D(partially free)_it,,,,,.041***,,
-ln(NTL)_it x D(partially free)_it standard error,,,,,.015,,
-ln(NTL)_it x D(not free)_it,,,,,.067***,,
-ln(NTL)_it x D(not free)_it standard error,,,,,.021,,
-D(autocracy)_it,,,,,,.043**,
-D(autocracy)_it standard error,,,,,,.018,
-ln(NTL)_it x D(autocracy)_it,,,,,,.047***,
-ln(NTL)_it x D(autocracy)_it standard error,,,,,,.011,
-Country fixed effects,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-Year fixed effects,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-Observations,3895,3895,3895,3895,3895,3895,332
-Countries,184,184,184,184,184,184,166
-(Within country) R^2,.219,.226,.259,.260,.238,.240,.466
-sigma,,,.342,.354,.269,.177,.388
-sigma standard error,,,.158,.354,.269,.177,.388
-sigma 95% confidence interval,,,[.14; .78],[.14; .82],[.09; .62],[.09; .32],[.11; 1.05]
+Unnamed: 0,(1),(1) (CI),(2),(2) (CI),(3),(3) (CI),(3) (SE),(4),(4) (CI),(4) (SE),(5),(5) (CI),(5) (SE),(6),(6) (CI),(6) (SE),(7),(7) (CI),(7) (SE)
+ln(NTL)_it,.296***,.044,.292***,.042,.215***,.043,,.214***,.043,,.251***,.044,,.265***,.042,,.288***,.067,
+FiW_it,,,-.023**,.010,-.006,.010,,-.015,.025,,,,,,,,-.086*,.048,
+FiW_it^2,,,,,,,,.002,.005,,,,,,,,.012,.008,
+ln(NTL)_it x FiW_it,,,,,.021***,.005,,.022***,.005,,,,,,,,.032***,.008,
+D(partially free)_it,,,,,,,,,,,.001,.020,,,,,,,
+D(not free)_it,,,,,,,,,,,.014,.039,,,,,,,
+ln(NTL)_it x D(partially free)_it,,,,,,,,,,,.041***,.015,,,,,,,
+ln(NTL)_it x D(not free)_it,,,,,,,,,,,.067***,.021,,,,,,,
+D(autocracy)_it,,,,,,,,,,,,,,.043**,.018,,,,
+ln(NTL)_it x D(autocracy)_it,,,,,,,,,,,,,,.047***,.011,,,,
+Country fixed effects,Yes,,Yes,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
+Year fixed effects,Yes,,Yes,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
+Observations,3895,,3895,,3895,,,3895,,,3895,,,3895,,,332,,
+Countries,184,,184,,184,,,184,,,184,,,184,,,166,,
+(Within country) R^2,.219,,.226,,.259,,,.260,,,.238,,,.240,,,.466,,
+sigma,,,,,.342,.158,[.14; .78],.354,.354,[.14; .82],.269,.269,[.09; .62],.177,.177,[.09; .32],.388,.388,[.11; 1.05]

@@ -1,14 +1,9 @@
-,Polling locations
-Proportion of Blacks,-0.119
-Proportion of Blacks standard error,0.112
-Black lynching rate,-0.003
-Black lynching rate standard error,0.001
-Proportion of Blacks × Black lynching rate,0.006
-Proportion of Blacks × Black lynching rate standard error,0.009
-Population density,-0.006
-Population density standard error,0.002
-Constant,1.796
-Constant standard error,0.154
-State fixed effects,Yes
-Observations,11712
-R^2,0.081
+Unnamed: 0,Polling locations,Polling locations (SE)
+Proportion of Blacks,-0.119,0.112
+Black lynching rate,-0.003,0.001
+Proportion of Blacks × Black lynching rate,0.006,0.009
+Population density,-0.006,0.002
+Constant,1.796,0.154
+State fixed effects,Yes,
+Observations,11712,
+R^2,0.081,

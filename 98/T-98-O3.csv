@@ -1,19 +1,10 @@
-,Broad sample (observations = 102 ) θ_Q,Broad sample (observations = 102 ) θ_Q  / θ_AQ  σ  = 1.5,Broad sample (observations = 102 ) θ_Q  / θ_AQ σ  = 1.3,Broad sample (observations = 102 ) θ_Q  / θ_AQ σ  = 2,Microdata sample (observations = 12) θ_Q,Microdata sample (observations = 12) θ_Q  / θ_AQ  σ  = 1.5,Microdata sample (observations = 12) θ_Q  / θ_AQ σ  = 1.3,Microdata sample (observations = 12) θ_Q  / θ_AQ σ  = 2
-US immigrants,0.105,0.095,0.057,0.189,0.043,0.030,0.018,0.068
-US immigrants standard error,0.016,,,,0.048,,,
-All host countries,0.098,0.088,0.053,0.176,0.078,0.055,0.032,0.123
-All host countries standard error,0.016,,,,0.047,,,
-Bilateral controls,0.062,0.056,0.034,0.112,0.095,0.067,0.039,0.149
-Bilateral controls standard error,0.026,,,,0.087,,,
-Selection adjusted,0.039,0.035,0.021,0.070,0.067,0.047,0.027,0.105
-Selection adjusted standard error,0.026,,,,0.080,,,
-10+ years in US,0.065,0.059,0.035,0.118,0.078,0.055,0.032,0.122
-10+ years in US standard error,0.017,,,,0.060,,,
-English speakers,0.096,0.087,0.052,0.173,0.039,0.028,0.016,0.061
-English speakers standard error,0.015,,,,0.041,,,
-Skill downgrading,0.072,0.065,0.039,0.130,0.007,0.005,0.003,0.012
-Skill downgrading standard error,0.014,,,,0.038,,,
-Sorting (sectors),0.094,0.085,0.051,0.170,0.078,0.056,0.032,0.123
-Sorting (sectors) standard error,0.012,,,,0.037,,,
-Sorting (geographic),0.101,0.091,0.055 ,0.182,0.033,0.024,0.014,0.052
-Sorting (geographic) standard error,0.016,,,,0.044,,,
+Unnamed: 0,Broad sample (observations = 102 ) θ_Q,Broad sample (observations = 102 ) θ_Q (SE),Broad sample (observations = 102 ) θ_Q  / θ_AQ  σ  = 1.5,Broad sample (observations = 102 ) θ_Q  / θ_AQ σ  = 1.3,Broad sample (observations = 102 ) θ_Q  / θ_AQ σ  = 2,Microdata sample (observations = 12) θ_Q,Microdata sample (observations = 12) θ_Q (SE),Microdata sample (observations = 12) θ_Q  / θ_AQ  σ  = 1.5,Microdata sample (observations = 12) θ_Q  / θ_AQ σ  = 1.3,Microdata sample (observations = 12) θ_Q  / θ_AQ σ  = 2
+US immigrants,0.105,0.016,0.095,0.057,0.189,0.043,0.048,0.03,0.018,0.068
+All host countries,0.098,0.016,0.088,0.053,0.176,0.078,0.047,0.055,0.032,0.123
+Bilateral controls,0.062,0.026,0.056,0.034,0.112,0.095,0.087,0.067,0.039,0.149
+Selection adjusted,0.039,0.026,0.035,0.021,0.07,0.067,0.08,0.047,0.027,0.105
+10+ years in US,0.065,0.017,0.059,0.035,0.118,0.078,0.06,0.055,0.032,0.122
+English speakers,0.096,0.015,0.087,0.052,0.173,0.039,0.041,0.028,0.016,0.061
+Skill downgrading,0.072,0.014,0.065,0.039,0.13,0.007,0.038,0.005,0.003,0.012
+Sorting (sectors),0.094,0.012,0.085,0.051,0.17,0.078,0.037,0.056,0.032,0.123
+Sorting (geographic),0.101,0.016,0.091,0.055,0.182,0.033,0.044,0.024,0.014,0.052

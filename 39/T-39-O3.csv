@@ -1,31 +1,17 @@
-,(1),(2),(3),(4),(5)
-ln(NTL)_it,.280***,.203***,.214***,.239***,.241***
-ln(NTL)_it standard error,.063,.055,.053,.060,.057
-ln(NTL)_it x D(low growth)_it,.003,-.001,-.018***,.000,-.011*
-ln(NTL)_it x D(low growth)_it standard error,.005,.005,.007,.005,.006
-ln(NTL)_it x FiW_it,,.022***,.016***,,
-ln(NTL)_it x FiW_it standard error,,.005,.005,,
-ln(NTL)_it x FiW_it x D(low growth)_it,,,.007**,,
-ln(NTL)_it x FiW_it x D(low growth)_it standard error,,,.003,,
-ln(NTL)_it x D(partially free)_it,,,,.041***,.035**
-ln(NTL)_it x D(partially free)_it standard error,,,,.015,.014
-ln(NTL)_it x D(not free)_it,,,,.067***,.046**
-ln(NTL)_it x D(not free)_it standard error,,,,.021,.020
-ln(NTL)_it x D(partially free)_it x D(low growth)_it,,,,,.012
-ln(NTL)_it x D(partially free)_it x D(low growth)_it standard error,,,,,.009
-ln(NTL)_it x D(not free)_it x D(low growth)_it,,,,,.034**
-ln(NTL)_it x D(not free)_it x D(low growth)_it standard error,,,,,.016
-Country fixed effects,Yes,Yes,Yes,Yes,Yes
-Year fixed effects,Yes,Yes,Yes,Yes,Yes
-Observations,3895,3895,3895,3895,3895
-Countries,184,184,184,184,184
-(Within country) R^2,.219,.260,.267,.238,.247
-sigma,,.374,,.281,
-sigma standard error,,.211,,.153,
-sigma 95% confidence interval,,[.13; .95],,[.09; .73],
-sigma high growth,,,.268,,.190
-sigma high growth standard error,,,.159,,.121
-sigma high growth 95% confidence interval,,,[.07; .66],,[.02; .50]
-sigma low growth,,,.424,,.346
-sigma low growth standard error,,,.234,,.179
-sigma low growth 95% confidence interval,,,[.16; 1.08],,[.13; .87]
+Unnamed: 0,(1),(1) (CI),(2),(2) (CI),(2) (SE),(3),(3) (CI),(3) (SE),(4),(4) (CI),(4) (SE),(5),(5) (CI),(5) (SE)
+ln(NTL)_it,.280***,.063,.203***,.055,,.214***,.053,,.239***,.060,,.241***,.057,
+ln(NTL)_it x D(low growth)_it,.003,.005,-.001,.005,,-.018***,.007,,.000,.005,,-.011*,.006,
+ln(NTL)_it x FiW_it,,,.022***,.005,,.016***,.005,,,,,,,
+ln(NTL)_it x FiW_it x D(low growth)_it,,,,,,.007**,.003,,,,,,,
+ln(NTL)_it x D(partially free)_it,,,,,,,,,.041***,.015,,.035**,.014,
+ln(NTL)_it x D(not free)_it,,,,,,,,,.067***,.021,,.046**,.020,
+ln(NTL)_it x D(partially free)_it x D(low growth)_it,,,,,,,,,,,,.012,.009,
+ln(NTL)_it x D(not free)_it x D(low growth)_it,,,,,,,,,,,,.034**,.016,
+Country fixed effects,Yes,,Yes,,,Yes,,,Yes,,,Yes,,
+Year fixed effects,Yes,,Yes,,,Yes,,,Yes,,,Yes,,
+Observations,3895,,3895,,,3895,,,3895,,,3895,,
+Countries,184,,184,,,184,,,184,,,184,,
+(Within country) R^2,.219,,.260,,,.267,,,.238,,,.247,,
+sigma,,,.374,.211,[.13; .95],,,,.281,.153,[.09; .73],,,
+sigma high growth,,,,,,.268,.159,[.07; .66],,,,.190,.121,[.02; .50]
+sigma low growth,,,,,,.424,.234,[.16; 1.08],,,,.346,.179,[.13; .87]

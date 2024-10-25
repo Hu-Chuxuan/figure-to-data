@@ -1,28 +1,26 @@
-"Empty Column 0","ln(electr. consum.)","ln(electr. consum.) (SE)","ln(electr. consum.)","ln(electr. consum.) (SE)","ln(electr. consum.)","ln(electr. consum.) (SE)","ln(electr. consum.)","ln(electr. consum.) (SE)"
-"Reform (T)","-0.137***","0.046","-0.101***","0.025","-0.130**","0.062","-0.145**","0.059"
-"ln(price kWh)","-0.671","0.540","-1.088***","0.139","-0.561","0.667","-0.807","0.615"
-"ln(income)","0.263***","0.097","0.173","0.361","0.192**","0.085","0.317***","0.081"
-"ln(income)²","-0.027***","0.010","0.002","0.036","-0.019**","0.009","-0.030***","0.009"
-"Months since reform","0.011","0.007","","","0.009","0.004","0.006"
-"ln(investment home appliances)","","","0.016***","0.005","","","",""
-"ln(investment bulbs & other)","","","-0.002","0.004","","","",""
-"Change energy source water boiler (=1)","","","0.060","0.051","","","",""
-"Change energy source heating (=1)","","","0.069","0.045","","","",""
-"Observations","16394","","1653","","18729","","19117",""
-"R²","0.163","","0.198","","0.148","","0.176",""
-"Household FEs","1","","0","","1","","1",""
-"Year FEs","1","","0","","1","","1",""
-"Controls","1","","0","","1","","1",""
-"First-stage F-stat","8.092","","36.67","","5.616","","7.549",""
-"Kleibergen-Paap rk LM statistic (df)","24.34 (3)","","115.0 (3)","","17.57 (3)","","23.16 (3)",""
-"Kleibergen-Paap p-value","0.00","","0.00","","0.00","","0.00",""
-"Cragg-Donald Wald F","7.916","","112.6","","5.553","","7.939",""
-"(Stock-Yogo weak ID critical value)","6.460","","6.460","","6.460","","6.460",""
-"Montiel-Pflueger effective F-stat","7.816","","42.278","","5.406","","7.098",""
-"(Montiel-Pflueger critical value LIML—10%)","8.9","","15.377","","9.186","","9.724",""
-"(Montiel-Pflueger critical value LIML—20%)","6.123","","9.724","","6.295","","6.621",""
-"(Montiel-Pflueger critical value LIML—30%)","","","","","5.225","","",""
-"Sargan","1.591","","1.214","","2.041","","3.585",""
-"Sargan chi-sq(2) p-value","0.452","","0.545","","0.360","","0.167",""
-"Hansen","1.603","","0.869","","2.002","","3.282",""
-"Hansen p-value","0.449","","0.648","","0.367","","0.194",""
+Empty Column 0,ln(electr. consum.),ln(electr. consum.) (p-value),ln(electr. consum.) (SE),ln(electr. consum.).1,ln(electr. consum.).1 (p-value),ln(electr. consum.) (SE).1,ln(electr. consum.).2,ln(electr. consum.).2 (p-value),ln(electr. consum.) (SE).2,ln(electr. consum.).3,ln(electr. consum.).3 (p-value),ln(electr. consum.) (SE).3
+Reform (T),-0.137***,,0.046,-0.101***,,0.025,-0.130**,,0.062,-0.145**,,0.059
+ln(price kWh),-0.671,,0.54,-1.088***,,0.139,-0.561,,0.667,-0.807,,0.615
+ln(income),0.263***,,0.097,0.173,,0.361,0.192**,,0.085,0.317***,,0.081
+ln(income)²,-0.027***,,0.01,0.002,,0.036,-0.019**,,0.009,-0.030***,,0.009
+Months since reform,0.011,,0.007,,,,0.009,,0.004,0.006,,
+ln(investment home appliances),,,,0.016***,,0.005,,,,,,
+ln(investment bulbs & other),,,,-0.002,,0.004,,,,,,
+Change energy source water boiler (=1),,,,0.060,,0.051,,,,,,
+Change energy source heating (=1),,,,0.069,,0.045,,,,,,
+Observations,16394,,,1653,,,18729,,,19117,,
+R²,0.163,,,0.198,,,0.148,,,0.176,,
+Household FEs,1,,,0,,,1,,,1,,
+Year FEs,1,,,0,,,1,,,1,,
+Controls,1,,,0,,,1,,,1,,
+First-stage F-stat,8.092,,,36.67,,,5.616,,,7.549,,
+Kleibergen-Paap rk LM statistic (df),24.34 (3),,,115.0 (3),,,17.57 (3),,,23.16 (3),,
+Kleibergen-Paap p-value,0.00,,,0.00,,,0.00,,,0.00,,
+Cragg-Donald Wald F,7.916,,,112.6,,,5.553,,,7.939,,
+(Stock-Yogo weak ID critical value),6.460,,,6.460,,,6.460,,,6.460,,
+Montiel-Pflueger effective F-stat,7.816,,,42.278,,,5.406,,,7.098,,
+(Montiel-Pflueger critical value LIML—10%),8.9,,,15.377,,,9.186,,,9.724,,
+(Montiel-Pflueger critical value LIML—20%),6.123,,,9.724,,,6.295,,,6.621,,
+(Montiel-Pflueger critical value LIML—30%),,,,,,,5.225,,,,,
+Sargan,1.591,0.452,,1.214,0.545,,2.041,0.360,,3.585,0.167,
+Hansen,1.603,0.449,,0.869,0.648,,2.002,0.367,,3.282,0.194,

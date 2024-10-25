@@ -1,13 +1,12 @@
-,Number of transactions (millions),Dollar volume (billions of USD)
-All 1099-Bs in 2008–9,1433,$37181
-Eliminate non-trading and partial days,1428,$37101
-Eliminate negative and trades over $2 billion,1411,$36284
-Individual taxpayers,870,$9575
-Taxpayers age over 17,861,$9548
-Stocks and stock mutual funds,274,$6794
-Dependent variable: log 1099-B sales volume USD,,
-Change in log VIX,6.831,
-Change in log VIX Standard Error,1.316,
-Observations (days),498,
-Observations (individuals),24.9 million,
-R^2,0.21,
+Unnamed: 0,Number of transactions (millions),Number of transactions (millions) (SE),Dollar volume (billions of USD)
+All 1099-Bs in 2008–9,1433,,$37181
+Eliminate non-trading and partial days,1428,,$37101
+Eliminate negative and trades over $2 billion,1411,,$36284
+Individual taxpayers,870,,$9575
+Taxpayers age over 17,861,,$9548
+Stocks and stock mutual funds,274,,$6794
+Dependent variable: log 1099-B sales volume USD,,,
+Change in log VIX,6.831,1.316,
+Observations (days),498,,
+Observations (individuals),24.9 million,,
+R^2,0.21,,

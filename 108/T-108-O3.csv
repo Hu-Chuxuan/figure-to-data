@@ -1,39 +1,20 @@
-,Coefficient on characteristic given no change in log VIX (1),Interaction between characteristic and change in log VIX (2)
-AGI in [75; 95),-0.077,-0.711
-AGI in [75; 95) Standard Error,0.008,0.745
-AGI in [95; 99),0.182,0.041
-AGI in [95; 99) Standard Error,0.021,1.778
-AGI in [99; 99.9),1.539,7.398
-AGI in [99; 99.9) Standard Error,0.064,4.098
-AGI in [99.9; 100],3.724,16.948
-AGI in [99.9; 100] Standard Error,0.138,8.084
-Age 30–9,0.008,-0.068
-Age 30–9 Standard Error,0.001,0.051
-Age 40–9,0.003,-0.050
-Age 40–9 Standard Error,0.000,0.026
-Age 50–9,0.000,-0.021
-Age 50–9 Standard Error,0.000,0.012
-Age 60–9,-0.003,-0.007
-Age 60–9 Standard Error,0.000,0.011
-Age 70+,-0.008,-0.031
-Age 70+ Standard Error,0.000,0.016
-Average dividends in [75; 95),-0.479,4.518
-Average dividends in [75; 95) Standard Error,0.038,1.919
-Average dividends in [95; 99),-0.092,7.825
-Average dividends in [95; 99) Standard Error,0.046,3.423
-Average dividends in [99; 99.9),0.980,8.349
-Average dividends in [99; 99.9) Standard Error,0.070,5.944
-Average dividends in [99.9; 100],0.937,7.543
-Average dividends in [99.9; 100] Standard Error,0.075,6.399
-Receipt of partnership/S corp income indicator,0.347,0.999
-Receipt of partnership/S corp income indicator Standard Error,0.019,1.062
-Social Security receipt indicator,0.022,1.589
-Social Security receipt indicator Standard Error,0.013,0.628
-Male,-0.011,-0.196
-Male Standard Error,0.002,0.071
-Married,0.404,0.908
-Married Standard Error,0.008,0.470
-Trading days per year,0.310,1.404
-Trading days per year Standard Error,0.009,0.449
-Intercept,0.956,-6.273
-Intercept Standard Error,0.071,2.976
+Unnamed: 0,Coefficient on characteristic given no change in log VIX (1),Coefficient on characteristic given no change in log VIX (1) (SE),Interaction between characteristic and change in log VIX (2),Interaction between characteristic and change in log VIX (2) (SE)
+AGI in [75; 95),-0.077,0.008,-0.711,0.745
+AGI in [95; 99),0.182,0.021,0.041,1.778
+AGI in [99; 99.9),1.539,0.064,7.398,4.098
+AGI in [99.9; 100],3.724,0.138,16.948,8.084
+Age 30–9,0.008,0.001,-0.068,0.051
+Age 40–9,0.003,0.0,-0.05,0.026
+Age 50–9,0.0,0.0,-0.021,0.012
+Age 60–9,-0.003,0.0,-0.007,0.011
+Age 70+,-0.008,0.0,-0.031,0.016
+Average dividends in [75; 95),-0.479,0.038,4.518,1.919
+Average dividends in [95; 99),-0.092,0.046,7.825,3.423
+Average dividends in [99; 99.9),0.98,0.07,8.349,5.944
+Average dividends in [99.9; 100],0.937,0.075,7.543,6.399
+Receipt of partnership/S corp income indicator,0.347,0.019,0.999,1.062
+Social Security receipt indicator,0.022,0.013,1.589,0.628
+Male,-0.011,0.002,-0.196,0.071
+Married,0.404,0.008,0.908,0.47
+Trading days per year,0.31,0.009,1.404,0.449
+Intercept,0.956,0.071,-6.273,2.976

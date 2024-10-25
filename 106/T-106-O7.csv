@@ -1,5 +1,4 @@
-,Made work environment more pleasant,Reduced workload of other providers,Allowed facility to extend hours,Allowed facility to provide more services,Challenged others to be more hardworking,Helped other providers improve knowledge/ skills,Introduced new ways of doing things
-Doctor,0.086,0.022,0.072,0.149,0.164,0.338,0.128
-Doctor Standard error,0.091,0.070,0.067,0.068,0.088,0.064,0.066
-Observations,116,116,116,116,116,116,116
-Control mean,0.400,0.717,0.533,0.367,0.417,0.417,0.317
+Unnamed: 0,Made work environment more pleasant,Made work environment more pleasant (SE),Reduced workload of other providers,Reduced workload of other providers (SE),Allowed facility to extend hours,Allowed facility to extend hours (SE),Allowed facility to provide more services,Allowed facility to provide more services (SE),Challenged others to be more hardworking,Challenged others to be more hardworking (SE),Helped other providers improve knowledge/ skills,Helped other providers improve knowledge/ skills (SE),Introduced new ways of doing things,Introduced new ways of doing things (SE)
+Doctor,0.086,0.091,0.022,0.07,0.072,0.067,0.149,0.068,0.164,0.088,0.338,0.064,0.128,0.066
+Observations,116.0,,116.0,,116.0,,116.0,,116.0,,116.0,,116.0,
+Control mean,0.4,,0.717,,0.533,,0.367,,0.417,,0.417,,0.317,

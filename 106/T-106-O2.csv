@@ -1,13 +1,8 @@
-,Number of health providers (1),Number of health providers (2),Doctor available (3),Doctor available (4)
-MLP arm,1.017,0.899,-0.017,-0.013
-MLP arm Standard error,0.505,0.385,0.017,0.019
-Doctor arm,0.867,0.787,0.933,0.94
-Doctor arm Standard error,0.475,0.379,0.033,0.029
-T2,0.400,0.400,-0.017,-0.017
-T2 Standard error,0.174,0.185,0.017,0.018
-MLP arm × T2,-0.467,-0.467,0.017,0.017
-MLP arm × T2 Standard error,0.252,0.268,0.017,0.018
-Doctor arm × T2,0.083,0.083,0.017,0.017
-Doctor arm × T2 Standard error,0.279,0.298,0.029,0.031
-Observations,360,360,360,360
-Control group mean,5.200,5.200,0.008,0.008
+Unnamed: 0,Number of health providers (1),Number of health providers (1) (SE),Number of health providers (2),Number of health providers (2) (SE),Doctor available (3),Doctor available (3) (SE),Doctor available (4),Doctor available (4) (SE)
+MLP arm,1.017,0.505,0.899,0.385,-0.017,0.017,-0.013,0.019
+Doctor arm,0.867,0.475,0.787,0.379,0.933,0.033,0.94,0.029
+T2,0.4,0.174,0.4,0.185,-0.017,0.017,-0.017,0.018
+MLP arm × T2,-0.467,0.252,-0.467,0.268,0.017,0.017,0.017,0.018
+Doctor arm × T2,0.083,0.279,0.083,0.298,0.017,0.029,0.017,0.031
+Observations,360.0,,360.0,,360.0,,360.0,
+Control group mean,5.2,,5.2,,0.008,,0.008,

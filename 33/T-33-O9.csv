@@ -1,15 +1,11 @@
-,(1),(2),(3),(4),(5),(6),(7),(8)
-A: Connected,.093,.275***,.357***,.105**,.151**,.189**,.142***,.136***
-A: Connected standard error,.110,.096,.091,.041,.067,.087,.053,.032
-A: No. of composers in same city (logged),-.014*,-.002,-.012,-.008,-.008,-.017,-.012,-.003
-A: No. of composers in same city (logged) standard error,.008,.012,.011,.007,.011,.012,.009,.007
-A: R^2,.34,.36,.33,.41,.41,.36,.32,.27
-B: Connected,.093,274***,.357***,.104**,.151**,.190**,.142***,.136***
-B: Connected standard error,.110,.096,.091,.041,.067,.087,.054,.032
-B: No. of composers in same city at same time (logged),-.021**,-.007,-.014,-.013*,-.014,-.021*,-.021**,-.006
-B: No. of composers in same city at same time (logged) standard error,.008,.012,.012,.007,.010,.013,.010,.007
-B: R^2,.34,.36,.33,.41,.41,.36,.32,.27
-Commonality controls,X,X,X,X,X,X,X,X
-Distance controls,X,X,X,X,X,X,X,X
-Composer fixed effects,X,X,X,X,X,X,X,X
-Sample,World,World,World,World,World,World,World,World
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),(6) (SE),(7),(7) (SE),(8),(8) (SE)
+A: Connected,.093,.110,.275***,.096,.357***,.091,.105**,.041,.151**,.067,.189**,.087,.142***,.053,.136***,.032
+A: No. of composers in same city (logged),-.014*,.008,-.002,.012,-.012,.011,-.008,.007,-.008,.011,-.017,.012,-.012,.009,-.003,.007
+A: R^2,.34,,.36,,.33,,.41,,.41,,.36,,.32,,.27,
+B: Connected,.093,.110,274***,.096,.357***,.091,.104**,.041,.151**,.067,.190**,.087,.142***,.054,.136***,.032
+B: No. of composers in same city at same time (logged),-.021**,.008,-.007,.012,-.014,.012,-.013*,.007,-.014,.010,-.021*,.013,-.021**,.010,-.006,.007
+B: R^2,.34,,.36,,.33,,.41,,.41,,.36,,.32,,.27,
+Commonality controls,X,,X,,X,,X,,X,,X,,X,,X,
+Distance controls,X,,X,,X,,X,,X,,X,,X,,X,
+Composer fixed effects,X,,X,,X,,X,,X,,X,,X,,X,
+Sample,World,,World,,World,,World,,World,,World,,World,,World,

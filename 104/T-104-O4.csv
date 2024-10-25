@@ -1,18 +1,14 @@
-,(1),(2),(3),(4),(5),(6)
-Panel A: 2SLS,0.82,0.83,0.85,0.77,0.75,0.76
-Panel A: 2SLS Standard error,0.15,0.15,0.16,0.15,0.16,0.15
-Panel B: OLS,0.54,0.54,0.50,0.50,0.49,0.50
-Panel B: OLS Standard error,0.03,0.03,0.03,0.03,0.03,0.03
-Panel C: 2SLS,0.00,-0.01,-0.02,0.00,0.00,0.00
-Panel C: 2SLS Standard error,0.11,0.11,0.13,0.14,0.13,0.13
-Panel D: OLS,0.09,0.08,0.09,0.09,0.09,0.09
-Panel D: OLS Standard error,0.03,0.03,0.03,0.03,0.03,0.03
-Regiment/province FE,1,1,1,1,1,1
-Demographic controls,1,1,1,1,1,1
-Geographic controls,0,1,1,1,1,1
-Socialist share in 1913,0,0,1,1,1,1
-Military controls,0,0,0,1,1,1
-Agriculture controls,0,0,0,0,1,1
-Urban controls,0,0,0,0,0,1
-Observations ,5775,5775,5775,5775,5775,5775
-Number of clusters,181,181,181,181,181,181
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),(6) (SE)
+Panel A: 2SLS,0.82,0.15,0.83,0.15,0.85,0.16,0.77,0.15,0.75,0.16,0.76,0.15
+Panel B: OLS,0.54,0.03,0.54,0.03,0.5,0.03,0.5,0.03,0.49,0.03,0.5,0.03
+Panel C: 2SLS,0.0,0.11,-0.01,0.11,-0.02,0.13,0.0,0.14,0.0,0.13,0.0,0.13
+Panel D: OLS,0.09,0.03,0.08,0.03,0.09,0.03,0.09,0.03,0.09,0.03,0.09,0.03
+Regiment/province FE,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Demographic controls,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Geographic controls,0.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Socialist share in 1913,0.0,,0.0,,1.0,,1.0,,1.0,,1.0,
+Military controls,0.0,,0.0,,0.0,,1.0,,1.0,,1.0,
+Agriculture controls,0.0,,0.0,,0.0,,0.0,,1.0,,1.0,
+Urban controls,0.0,,0.0,,0.0,,0.0,,0.0,,1.0,
+Observations ,5775.0,,5775.0,,5775.0,,5775.0,,5775.0,,5775.0,
+Number of clusters,181.0,,181.0,,181.0,,181.0,,181.0,,181.0,

@@ -1,19 +1,16 @@
-,(1),(2),(3),(4),(5),(6)
-Panel A: Fascist vote share in 1924,0.89,0.81,0.82,0.77,0.83,0.82
-Panel A: Fascist vote share in 1924 Standard error,0.46,0.42,0.42,0.38,0.42,0.43
-Panel B: Fascist vote share in 1924,1.08,0.99,0.99,0.92,0.99,0.97
-Panel B: Fascist vote share in 1924 Standard error,0.50,0.44,0.43,0.38,0.43,0.44
-Panel C: Fascist vote share in 1924,0.95,0.88,0.88,0.81,0.87,0.86
-Panel C: Fascist vote share in 1924 Standard error,0.46,0.41,0.41,0.36,0.40,0.41
-Regiment/province FE,1,1,1,1,1,1
-Demographic controls,1,1,1,1,1,1
-Share of Jewish pop. in 1911,1,1,1,1,1,1
-Days of German occupation,1,1,1,1,1,1
-Geographic controls,0,1,1,1,1,1
-Socialist share in 1913,0,0,1,1,1,1
-Military controls,0,0,0,1,1,1
-Agriculture controls,0,0,0,0,1,1
-Urban controls,0,0,0,0,0,1
-Observations,5775,5775,5775,5775,5775,5775
-Number of clusters,181,181,181,181,181,181
-First-stage F-stat,6.52,9.22,9.82,11.56,9.88,10.04
+Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),(6) (SE)
+Panel A: Fascist vote share in 1924,0.89,0.46,0.81,0.42,0.82,0.42,0.77,0.38,0.83,0.42,0.82,0.43
+Panel B: Fascist vote share in 1924,1.08,0.5,0.99,0.44,0.99,0.43,0.92,0.38,0.99,0.43,0.97,0.44
+Panel C: Fascist vote share in 1924,0.95,0.46,0.88,0.41,0.88,0.41,0.81,0.36,0.87,0.4,0.86,0.41
+Regiment/province FE,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Demographic controls,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Share of Jewish pop. in 1911,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Days of German occupation,1.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Geographic controls,0.0,,1.0,,1.0,,1.0,,1.0,,1.0,
+Socialist share in 1913,0.0,,0.0,,1.0,,1.0,,1.0,,1.0,
+Military controls,0.0,,0.0,,0.0,,1.0,,1.0,,1.0,
+Agriculture controls,0.0,,0.0,,0.0,,0.0,,1.0,,1.0,
+Urban controls,0.0,,0.0,,0.0,,0.0,,0.0,,1.0,
+Observations,5775.0,,5775.0,,5775.0,,5775.0,,5775.0,,5775.0,
+Number of clusters,181.0,,181.0,,181.0,,181.0,,181.0,,181.0,
+First-stage F-stat,6.52,,9.22,,9.82,,11.56,,9.88,,10.04,

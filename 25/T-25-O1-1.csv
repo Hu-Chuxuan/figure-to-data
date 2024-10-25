@@ -1,11 +1,7 @@
-,US Sample Perceived degree of violence,US Sample Recall violence,US Sample Police action required
-Black protesters,0.235**,0.039**,0.268**
-Black protesters standard error,0.117,0.018,0.127
-Shut down traffic,0.271*,0.017,0.429***
-Shut down traffic standard error,0.143,0.022,0.155
-Destroy police cars,3.382***,0.644***,2.971***
-Destroy police cars standard error,0.143,0.022,0.155
-Intercept: white protesters; march in streets,2.774***,0.052***,3.837***
-Intercept: white protesters; march in streets standard error,0.117,0.018,0.127
-R2,0.235,0.322,0.160
-Observations,2269,2269,2269
+Unnamed: 0,US Sample Perceived degree of violence,US Sample Perceived degree of violence (SE),US Sample Recall violence,US Sample Recall violence (SE),US Sample Police action required,US Sample Police action required (SE)
+Black protesters,0.235**,0.117,0.039**,0.018,0.268**,0.127
+Shut down traffic,0.271*,0.143,0.017,0.022,0.429***,0.155
+Destroy police cars,3.382***,0.143,0.644***,0.022,2.971***,0.155
+Intercept: white protesters; march in streets,2.774***,0.117,0.052***,0.018,3.837***,0.127
+R2,0.235,,0.322,,0.160,
+Observations,2269,,2269,,2269,

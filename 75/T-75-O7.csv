@@ -1,18 +1,10 @@
-Dependent variable,Postelection effect unrestricted,Postelection effect. proposed both,Postelection effect passed both
-Panel A. Operational referenda: Dropout rate,−0.11,−0.15,−0.21
-Panel A. Operational referenda: Dropout rate standard error,0.07,0.08,0.10
-Panel A. Operational referenda: Percent adv. or prof. tenth grade math,5.89,4.11,4.86
-Panel A. Operational referenda: Percent adv. or prof. tenth grade math standard error,1.80,1.69,2.38
-Panel A. Operational referenda: Average tenth grade math score,4.53,2.93,3.26
-Panel A. Operational referenda: Average tenth grade math score standard error,1.81,1.79,2.19
-Panel A. Operational referenda: log(postsecondary enrollment),0.07,0.06,0.07
-Panel A. Operational referenda: log(postsecondary enrollment) standard error,0.05,0.05,0.06
-Panel B. Capital bond referenda: Dropout rate,−0.04,−0.01,0.03
-Panel B. Capital bond referenda: Dropout rate standard error,0.08,0.10,0.13
-Panel B. Capital bond referenda: Percent adv. or prof. tenth grade math,−1.03,−0.49,0.33
-Panel B. Capital bond referenda: Percent adv. or prof. tenth grade math standard error,1.80,1.96,1.98
-Panel B. Capital bond referenda: Average tenth grade math score,−1.13,−0.19,0.22
-Panel B. Capital bond referenda: Average tenth grade math score standard error,1.69,1.93,2.05
-Panel B. Capital bond referenda: log(postsecondary enrollment),−0.02,−0.02,−0.04
-Panel B. Capital bond referenda: log(postsecondary enrollment) standard error,0.05,0.04,0.05
-Number of school districts,404,286,207
+Dependent variable,Postelection effect unrestricted,Postelection effect unrestricted (SE),Postelection effect. proposed both,Postelection effect. proposed both (SE),Postelection effect passed both,Postelection effect passed both (SE)
+Panel A. Operational referenda: Dropout rate,−0.11,0.07,−0.15,0.08,−0.21,0.10
+Panel A. Operational referenda: Percent adv. or prof. tenth grade math,5.89,1.80,4.11,1.69,4.86,2.38
+Panel A. Operational referenda: Average tenth grade math score,4.53,1.81,2.93,1.79,3.26,2.19
+Panel A. Operational referenda: log(postsecondary enrollment),0.07,0.05,0.06,0.05,0.07,0.06
+Panel B. Capital bond referenda: Dropout rate,−0.04,0.08,−0.01,0.10,0.03,0.13
+Panel B. Capital bond referenda: Percent adv. or prof. tenth grade math,−1.03,1.80,−0.49,1.96,0.33,1.98
+Panel B. Capital bond referenda: Average tenth grade math score,−1.13,1.69,−0.19,1.93,0.22,2.05
+Panel B. Capital bond referenda: log(postsecondary enrollment),−0.02,0.05,−0.02,0.04,−0.04,0.05
+Number of school districts,404,,286,,207,

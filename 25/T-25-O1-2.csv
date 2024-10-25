@@ -1,13 +1,8 @@
-,Israel Sample Perceived degree of violence,Israel Sample Recall violence,Israel Sample Police action required
-Ethiopian protesters,0.425***,0.085***,0.181
-Ethiopian protesters standard error,0.107,0.023,0.118
-Arab protesters,0.623***,0.047**,0.964***
-Arab protesters standard error,0.108,0.023,0.119
-Shut down traffic,0.254**,−0.032,0.394***
-Shut down traffic standard error,0.108,0.023,0.120
-Destroy garbage cans,2.538***,0.414***,2.150***
-Destroy garbage cans standard error,0.107,0.023,0.118
-Intercept: white protesters; march in streets,3.915***,0.091***,4.679***
-Intercept: white protesters; march in streets standard error,0.099,0.021,0.110
-R2,0.192,0.137,0.130
-Observations,3063,3063,3063
+Unnamed: 0,Israel Sample Perceived degree of violence,Israel Sample Perceived degree of violence (SE),Israel Sample Recall violence,Israel Sample Recall violence (SE),Israel Sample Police action required,Israel Sample Police action required (SE)
+Ethiopian protesters,0.425***,0.107,0.085***,0.023,0.181,0.118
+Arab protesters,0.623***,0.108,0.047**,0.023,0.964***,0.119
+Shut down traffic,0.254**,0.108,−0.032,0.023,0.394***,0.120
+Destroy garbage cans,2.538***,0.107,0.414***,0.023,2.150***,0.118
+Intercept: white protesters; march in streets,3.915***,0.099,0.091***,0.021,4.679***,0.110
+R2,0.192,,0.137,,0.130,
+Observations,3063,,3063,,3063,

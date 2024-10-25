@@ -1,30 +1,16 @@
-,(1),(2),(3),(4),(5)
-ln(NTL)_it,.302***,.299***,.219***,.223***,.222***
-ln(NTL)_it standard error,.046,.048,.048,.049,.049
-ln(NTL)_it x D(SDDS country)_i,-.049,-.046,-.022,-.037,-.038
-ln(NTL)_it x D(SDDS country)_i standard error,.041,.039,.036,.043,.043
-ln(NTL)_it x D(SDDS compliant)_it,,-.036***,-.028**,-.027**,-.020*
-ln(NTL)_it x D(SDDS compliant)_it standard error,,.012,.012,.011,.011
-ln(NTL)_it x FiW_it,,,.021***,.019***,.019***
-ln(NTL)_it x FiW_it standard error,,,.006,.007,.007
-ln(NTL)_it x FiW_it x D(SDDS country)_i,,,,.007,-.002
-ln(NTL)_it x FiW_it x D(SDDS country)_i standard error,,,,.010,.012
-ln(NTL)_it x FiW_it x D(SDDS compliant)_it,,,,,.006
-ln(NTL)_it x FiW_it x D(SDDS compliant)_it standard error,,,,,.011
-Country fixed effects,Yes,Yes,Yes,Yes,Yes
-Year fixed effects,Yes,Yes,Yes,Yes,Yes
-Observations,3895,3895,3895,3895,3895
-Countries,184,184,184,184,184
-(Within country) R^2,.221,.229,.265,.265,.269
-sigma,,,.328,,
-sigma standard error,,,.168,,
-sigma 95% confidence interval,,,[.12; .82],,
-sigma non-SDDS,,,,.300,.301
-sigma non-SDDS standard error,,,,.182,.183
-sigma non-SDDS 95% confidence interval,,,,[.08; .82],[.08; .81]
-sigma SDDS country,,,,.486,.327
-sigma SDDS country standard error,,,,.373,.352
-sigma SDDS country 95% confidence interval,,,,[.11; 1.54],[-.10; 1.47]
-sigma SDDS compliant,,,,,.489
-sigma SDDS compliant standard error,,,,,.572
-sigma SDDS compliant 95% confidence interval,,,,,[.01; 1.73]
+Unnamed: 0,(1),(1) (CI),(2),(2) (CI),(3),(3) (CI),(3) (SE),(4),(4) (CI),(4) (SE),(5),(5) (CI),(5) (SE)
+ln(NTL)_it,.302***,.046,.299***,.048,.219***,.048,,.223***,.049,,.222***,.049,
+ln(NTL)_it x D(SDDS country)_i,-.049,.041,-.046,.039,-.022,.036,,-.037,.043,,-.038,.043,
+ln(NTL)_it x D(SDDS compliant)_it,,,-.036***,.012,-.028**,.012,,-.027**,.011,,-.020*,.011,
+ln(NTL)_it x FiW_it,,,,,.021***,.006,,.019***,.007,,.019***,.007,
+ln(NTL)_it x FiW_it x D(SDDS country)_i,,,,,,,,.007,.010,,-.002,.012,
+ln(NTL)_it x FiW_it x D(SDDS compliant)_it,,,,,,,,,,,.006,.011,
+Country fixed effects,Yes,,Yes,,Yes,,,Yes,,,Yes,,
+Year fixed effects,Yes,,Yes,,Yes,,,Yes,,,Yes,,
+Observations,3895,,3895,,3895,,,3895,,,3895,,
+Countries,184,,184,,184,,,184,,,184,,
+(Within country) R^2,.221,,.229,,.265,,,.265,,,.269,,
+sigma,,,,,.328,.168,[.12; .82],,,,,,
+sigma non-SDDS,,,,,,,,.300,.182,[.08; .82],.301,.183,[.08; .81]
+sigma SDDS country,,,,,,,,.486,.373,[.11; 1.54],.327,.352,[-.10; 1.47]
+sigma SDDS compliant,,,,,,,,,,,.489,.572,[.01; 1.73]
