@@ -1,0 +1,29 @@
+Type-1,Value,Error Bar Length,Subplot Value
+Alt-facts,0.15429512799304632,0.0512419419,Actual: sharing intent alt-facts
+Imposed fact-check,0.11405461092765765,0.04820496145,Actual: sharing intent alt-facts
+Voluntary fact-check: Viewer,0.1642794905954629,0.08346539884,Actual: sharing intent alt-facts
+Voluntary fact-check: Nonviewer,0.06936648545806218,0.04648705758,Actual: sharing intent alt-facts
+Alt-facts,0.1535373512245365,0.02188850066,Predicted: sharing intent alt-facts
+Imposed fact-check,0.15775429517624168,0.0233463035,Predicted: sharing intent alt-facts
+Voluntary fact-check: Viewer,0.18920591096360725,0.03647859922,Predicted: sharing intent alt-facts
+Voluntary fact-check: Nonviewer,0.13991867418173495,0.02772373541,Predicted: sharing intent alt-facts
+Alt-facts,0.04825818699572852,0.01913621262,Actual: sharing action alt-facts
+Imposed fact-check,0.027451352634076887,0.01773137162,Actual: sharing action alt-facts
+Voluntary fact-check: Viewer,0.03641196013289036,0.02422401519,Actual: sharing action alt-facts
+Voluntary fact-check: Nonviewer,0.017503559563360235,0.01488372093,Actual: sharing action alt-facts
+Alt-facts,0.04846591856474925,0.006751726573,Predicted: sharing action alt-facts
+Imposed fact-check,0.04998385760893616,0.00722292265,Predicted: sharing action alt-facts
+Voluntary fact-check: Viewer,0.05923480613910625,0.01099121914,Predicted: sharing action alt-facts
+Voluntary fact-check: Nonviewer,0.04430511617932821,0.008164878646,Predicted: sharing action alt-facts
+Imposed fact-check,0.16845293224427976,0.05678053114,Actual: sharing intent fact-check
+Voluntary fact-check: Viewer,0.31255442822598545,0.1065607228,Actual: sharing intent fact-check
+Alt-facts,0.16718893540691576,0.02038990418,Predicted: sharing intent fact-check
+Imposed fact-check,0.16967113409174256,0.02039063039,Predicted: sharing intent fact-check
+Voluntary fact-check: Viewer,0.20744732226825607,0.0313724351,Predicted: sharing intent fact-check
+Voluntary fact-check: Nonviewer,0.13385427068166056,0.02705799906,Predicted: sharing intent fact-check
+Imposed fact-check,0.034482758620689655,0.01659482759,Actual: sharing action fact-check
+Voluntary fact-check: Viewer,0.08728448275862069,0.04547413793,Actual: sharing action fact-check
+Alt-facts,0.034892957365394606,0.004256137777,Predicted: sharing action fact-check
+Imposed fact-check,0.034834871733769215,0.004426423005,Predicted: sharing action fact-check
+Voluntary fact-check: Viewer,0.0421000438124529,0.00681140911,Predicted: sharing action fact-check
+Voluntary fact-check: Nonviewer,0.030803133148899015,0.005619412516,Predicted: sharing action fact-check
