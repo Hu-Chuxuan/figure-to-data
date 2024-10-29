@@ -1,0 +1,264 @@
+File_name,Type,# Subplot,# Curve,Vector/Pixel,Axis,Notes,Height,Width,Extension
+P-1-O1,Dot,1.0,2.0,Pixel,Grid line on dv,,947,1500,png
+P-2-O1,Dot,1.0,2.0,Pixel,Grid line on both,,420,951,jpeg
+P-2-O2,Dot,3.0,3.0,Pixel,Grid line on both,,1365,1350,jpeg
+P-2-O3,Dot,1.0,2.0,Pixel,Grid line on both,,412,951,jpeg
+P-2-O4,Dot,1.0,2.0,Pixel,Grid line on both,,412,951,jpeg
+P-3-O1,Histogram,1.0,2.0,Vector,Grid line on dv,,1977,2498,png
+P-3-O2,Dot,2.0,3.0,Vector,Grid line on dv,,2195,3024,png
+P-3-O3,Combo,1.0,6.0,Vector,Grid line on dv,,1662,2427,png
+P-3-O4,Dot,1.0,1.0,Vector,Grid line on dv,,1695,2416,png
+P-3-O5,Combo,1.0,2.0,Vector,Grid line on dv,,1529,2457,png
+P-3-O6,Dot,1.0,1.0,Vector,Two lines,,1789,2516,png
+P-3-O7,Combo,2.0,4.0,Vector,Grid line on dv,,1739,2499,png
+P-5-O1,Dot,1.0,2.0,Vector,Grid line on both,,1112,2470,png
+P-5-O5,Dot,2.0,8.0,Vector,Grid line on both,,2597,2501,png
+P-5-O8,Dot,2.0,8.0,Vector,Grid line on both,,2341,2501,png
+P-5-O9,Dot,1.0,2.0,Vector,Grid line on both,,1288,2481,png
+P-5-O11,Dot,1.0,9.0,Vector,Grid line on both,,1271,2484,png
+P-6-O6,Continuous,2.0,2.0,Vector,Grid line on dv,,2026,2441,png
+P-6-O7,Dot,2.0,8.0,Vector,Grid line on dv,,1983,2521,png
+P-6-O8,Continuous,1.0,1.0,Vector,Grid line on dv,,1308,1656,png
+P-6-O9,Continuous,2.0,2.0,Vector,Grid line on dv,,2052,2515,png
+P-6-O10,Continuous,2.0,6.0,Vector,Grid line on dv,,2018,2468,png
+P-7-O1,Combo,1.0,2.0,Vector,Grid line on both,No name on curves,2069,3335,png
+P-7-O2,Combo,1.0,2.0,Vector,Grid line on both,No name on curves,1822,3044,png
+P-7-O3,Combo,1.0,2.0,Vector,Grid line on both,No name on curves,1847,3041,png
+P-9-O2,Dot,1.0,1.0,Vector,Two lines,,1848,2515,png
+P-9-O3,Dot,3.0,3.0,Vector,Four lines,,2241,3105,png
+P-10-O1,Histogram,1.0,1.0,Vector,Grid line on both,,2525,2531,png
+P-11-O1,Dot,1.0,2.0,Pixel,Grid line on both,,674,864,jpeg
+P-11-O3,Dot,1.0,1.0,Pixel,Grid line on both,,569,996,jpeg
+P-11-O4,Dot,1.0,2.0,Pixel,Grid line on both,,599,664,jpeg
+P-11-O5,Dot,2.0,3.0,Pixel,Grid line on both,,1006,664,jpeg
+P-11-O6,Dot,1.0,2.0,Pixel,Grid line on both,,608,664,jpeg
+P-12-O1,Dot,3.0,6.0,Pixel,Two lines,No name for curves. The meanings are in the caption,744,1700,png
+P-13-O4,Histogram,4.0,10.0,Vector,Grid line on dv,,3342,2431,png
+P-13-O5,Histogram,8.0,28.0,Vector,Two lines,No x-axis,2427,3078,png
+P-13-O6,Histogram,12.0,40.0,Vector,Two lines,,3791,3084,png
+P-14-O1,Dot,1.0,2.0,Vector,Grid line on dv,,1467,2491,png
+P-14-O2,Histogram,3.0,3.0,Vector,Grid line on dv,,4447,2122,png
+P-15-O3,Histogram,1.0,1.0,Vector,Grid line on dv,,927,3110,png
+P-16-O4,Dot,1.0,1.0,Pixel,Two lines,,880,1300,png
+P-17-O3,Dot,1.0,2.0,Vector,Two lines,,1428,1937,png
+P-17-O4,Histogram,1.0,2.0,Pixel,One line on dv,,1123,951,jpeg
+P-19-O1,Dot,1.0,1.0,Vector,Grid line on dv,,2476,3643,png
+P-19-O3,Histogram,4.0,4.0,Vector,Grid line on dv,,2651,3927,png
+P-19-O4,Dot,1.0,2.0,Vector,Grid line on dv,,2439,3488,png
+P-19-O5,Dot,1.0,2.0,Vector,Grid line on dv,,1688,3501,png
+P-19-O6,Dot,1.0,4.0,Vector,Grid line on dv,,2512,3775,png
+P-19-O7,Dot,1.0,3.0,Vector,Grid line on dv,,2282,3383,png
+P-19-O8,Dot,1.0,2.0,Vector,Grid line on dv,,2505,3725,png
+P-19-O10,Dot,1.0,2.0,Vector,Two lines,,2454,3467,png
+P-20-O1,Continuous,1.0,2.0,Vector,Grid line on dv,,1589,2484,png
+P-20-O2,Histogram,6.0,6.0,Vector,Two lines,,4127,3101,png
+P-20-O3,Dot,1.0,2.0,Vector,Grid line on dv,,1741,2508,png
+P-21-O1,Dot,1.0,3.0,Pixel,Grid line on both,,900,1500,png
+P-21-O2,Dot,1.0,3.0,Pixel,Grid line on both,,900,1500,png
+P-21-O3,Dot,2.0,6.0,Pixel,Grid line on both,,1200,1500,png
+P-21-O4,Dot,8.0,8.0,Pixel,Line to x-axis,Both axes need estimation,2012,1500,png
+P-22-O1,Dot,12.0,18.0,Vector,Grid line on both,,4575,3846,png
+P-23-O3,Continuous,3.0,6.0,Vector,Grid line on both,,2334,2525,png
+P-23-O4,Continuous,3.0,6.0,Vector,Grid line on both,,2677,2579,png
+P-23-O5,Histogram,2.0,4.0,Vector,Grid line on dv,,1258,3080,png
+P-24-O1,Histogram,2.0,2.0,Pixel,Grid line on dv,,464,1063,jpeg
+P-25-O1,Dot,2.0,4.0,Vector,Grid line on both,,1989,3895,png
+P-25-O3,Dot,3.0,9.0,Vector,Grid line on both,,3021,3170,png
+P-25-O4,Dot,4.0,8.0,Vector,Grid line on both,,2952,3122,png
+P-25-O6,Dot,1.0,2.0,Vector,Grid line on both,,1959,2512,png
+P-25-O7,Dot,1.0,2.0,Vector,Grid line on both,,2048,2800,png
+P-25-O8,Dot,1.0,1.0,Vector,Grid line on both,,2883,3889,png
+P-25-O9,Dot,1.0,1.0,Vector,Grid line on both,,2969,3885,png
+P-25-O10,Dot,1.0,1.0,Vector,Grid line on both,,2893,3820,png
+P-26-O3,Histogram,1.0,2.0,Pixel,Grid line on dv,,1332,1832,png
+P-26-O4,Histogram,1.0,1.0,Vector,Grid line on dv,,2410,3362,png
+P-26-O5,Histogram,1.0,1.0,Pixel,Grid line on dv,,1332,1832,png
+P-26-O6,Dot,1.0,4.0,Vector,Grid line on dv,,2421,3374,png
+P-26-O7,Histogram,1.0,1.0,Vector,Grid line on dv,,1801,2509,png
+P-27-O1,Histogram,1.0,1.0,Pixel,No line,,707,1350,jpeg
+P-27-O3,Dot,1.0,1.0,Pixel,Grid line on both,,730,1600,jpeg
+P-28-O2,Histogram,2.0,4.0,Vector,Grid line on dv,,1457,3754,png
+P-28-O3,Continuous,2.0,4.0,Vector,Grid line on dv,,1501,3697,png
+P-28-O4,Dot,2.0,2.0,Vector,Grid line on dv,,1479,3816,png
+P-29-O4,Dot,1.0,4.0,Pixel,Grid line on both,,969,960,png
+P-29-O5,Dot,1.0,4.0,Pixel,Grid line on both,,957,951,png
+P-29-O6,Dot,1.0,3.0,Pixel,Grid line on both,,959,951,png
+P-30-O1,Continuous,1.0,2.0,Pixel,Grid line on dv,,802,1103,jpeg
+P-30-O2,Dot,4.0,4.0,Pixel,Grid line on dv,,1320,1855,jpeg
+P-31-O4,Dot,1.0,1.0,Vector,Grid line on both,,1799,2833,png
+P-32-O3,Dot,1.0,3.0,Vector,Two lines,,1804,2515,png
+P-32-O4,Dot,2.0,6.0,Vector,Two lines,,3941,2574,png
+P-34-O1,Combo,3.0,5.0,Vector,Two lines,,1564,4128,png
+P-34-O2,Dot,3.0,3.0,Vector,Two lines,,4339,1743,png
+P-34-O3,Histogram,1.0,1.0,Pixel,One line on dv,"Axis is vector, bars are pixel",1097,1875,png
+P-34-O4,Dot,1.0,1.0,Vector,Two lines,,1105,1936,png
+P-35-O10,Dot,1.0,1.0,Vector,Grid line on dv,,1741,2499,png
+P-37-O2,Histogram,1.0,2.0,Vector,Grid line on dv,,1564,2477,png
+P-37-O3,Histogram,1.0,2.0,Vector,Grid line on dv,,1832,2507,png
+P-38-O1,Dot,1.0,4.0,Vector,Grid line on dv,,1788,2493,png
+P-38-O2,Dot,1.0,2.0,Vector,Grid line on dv,,1579,2454,png
+P-38-O3,Dot,1.0,2.0,Vector,Grid line on dv,,1580,2461,png
+P-38-O4,Dot,1.0,2.0,Vector,Grid line on dv,,1570,2427,png
+P-38-O5,Dot,1.0,2.0,Vector,Grid line on dv,,1614,2517,png
+P-38-O6,Dot,2.0,3.0,Vector,Grid line on dv,,3537,2545,png
+P-39-O4,Dot,2.0,2.0,Pixel,Grid line on dv,,1688,1199,png
+P-39-O5,Dot,1.0,1.0,Pixel,Grid line on dv,,911,1300,png
+P-39-O6,Histogram,2.0,3.0,Pixel,Grid line on dv,,1819,1300,png
+P-40-O2,Dot,4.0,7.0,Vector,Two lines,Weird x value,3113,4087,png
+P-40-O3,Dot,4.0,6.0,Vector,Two lines,Weird x value,3129,4064,png
+P-40-O4,Dot,2.0,6.0,Vector,One line on dv,,2103,4012,png
+P-40-O5,Dot,1.0,3.0,Vector,One line on dv,,2016,4040,png
+P-40-O6,Dot,1.0,6.0,Vector,One line on dv,,1992,4056,png
+P-41-O2,Dot,2.0,3.0,Vector,Grid line on both,Data points and error bars are pixel; only part of data has error bar,1697,2972,png
+P-41-O3,Dot,4.0,6.0,Vector,Grid line on both,Data points and error bars are pixel; only part of data has error bar,3968,3082,png
+P-41-O4,Dot,4.0,8.0,Vector,Grid line on both,Data points and error bars are pixel,3761,3057,png
+P-41-O5,Dot,4.0,6.0,Vector,Grid line on both,Data points and error bars are pixel; only part of data has error bar,3865,3150,png
+P-41-O6,Dot,4.0,4.0,Vector,Grid line on both,Data points and error bars are pixel,3885,3171,png
+P-41-O7,Dot,2.0,4.0,Vector,Grid line on both,Data points and error bars are pixel,1923,3137,png
+P-41-O8,Dot,2.0,13.0,Vector,Grid line on both,,3877,2551,png
+P-41-O9,Dot,1.0,3.0,Vector,Grid line on both,Data points and error bars are pixel; only part of data has error bar,2372,1967,png
+P-41-O10,Dot,1.0,2.0,Vector,Grid line on both,,1519,1940,png
+P-42-O1,Histogram,1.0,2.0,Vector,Grid line on both,,1829,2758,png
+P-43-O2,Dot,1.0,1.0,Vector,Grid line on dv,,1793,2494,png
+P-45-O3,Histogram,2.0,4.0,Vector,Two lines,X-axis has no meaning,1324,3047,png
+P-45-O4,Dot,1.0,1.0,Vector,Two lines,,2076,2621,png
+P-45-O5,Dot,1.0,1.0,Vector,Two lines,,1993,2626,png
+P-45-O6,Dot,1.0,1.0,Vector,Two lines,,2080,2617,png
+P-45-O7,Dot,1.0,1.0,Vector,Two lines,,2109,2625,png
+P-46-O1,Histogram,2.0,2.0,Vector,Grid line on dv,,1270,3215,png
+P-46-O6,Dot,2.0,2.0,Vector,Three lines,Extra line on y=0,1276,3210,png
+P-47-O1,Continuous,4.0,6.0,Vector,Grid line on dv,,2265,2679,png
+P-47-O2,Continuous,1.0,3.0,Vector,Grid line on dv,,2096,2890,png
+P-47-O3,Dot,4.0,8.0,Vector,Grid line on dv,,2065,2662,png
+P-47-O4,Dot,4.0,4.0,Vector,Grid line on dv,,2597,2647,png
+P-47-O5,Dot,4.0,4.0,Vector,Grid line on dv,,2500,2642,png
+P-48-O1,Dot,2.0,4.0,Vector,Grid line on dv,Repeat identification,3279,2555,png
+P-49-O5,Continuous,2.0,2.0,Vector,Grid line on dv,,1570,2946,png
+P-49-O6,Histogram,3.0,3.0,Vector,Grid line on dv,,1982,2863,png
+P-50-O2,Histogram,2.0,4.0,Vector,Two lines,,1224,3073,png
+P-53-O3,Continuous,1.0,2.0,Vector,Grid line on dv,,1597,2479,png
+P-53-O4,Dot,3.0,7.0,Vector,Grid line on dv,,2287,3074,png
+P-53-O5,Dot,1.0,1.0,Vector,Grid line on dv,,1930,2454,png
+P-53-O6,Dot,1.0,1.0,Vector,Grid line on dv,,1884,2488,png
+P-53-O7,Continuous,3.0,9.0,Vector,Grid line on dv,,2259,3120,png
+P-53-O8,Dot,3.0,9.0,Vector,Grid line on dv,,2286,3134,png
+P-53-O9,Dot,3.0,3.0,Vector,Grid line on dv,,3047,3112,png
+P-55-O1,Histogram,1.0,1.0,Pixel,Grid line on dv,,392,539,png
+P-55-O2,Dot,1.0,1.0,Pixel,Grid line on dv,,492,677,png
+P-55-O3-1,Dot,1.0,1.0,Pixel,Grid line on dv,,503,692,png
+P-55-O3-2,Dot,1.0,1.0,Pixel,Grid line on dv,,503,692,png
+P-55-O3-3,Dot,1.0,1.0,Pixel,Grid line on dv,,503,692,png
+P-55-O3-4,Dot,1.0,1.0,Pixel,Grid line on dv,,503,692,png
+P-57-O1,Histogram,1.0,1.0,Vector,Grid line on dv,,2013,3009,png
+P-57-O2,Histogram,2.0,2.0,Vector,Grid line on dv,,2472,3059,png
+P-57-O3,Histogram,3.0,3.0,Vector,Grid line on dv,,2048,3072,png
+P-57-O4,Histogram,1.0,1.0,Vector,Grid line on dv,,2241,3071,png
+P-57-O5,Histogram,1.0,1.0,Vector,Grid line on dv,,1784,2477,png
+P-58-O1,Dot,2.0,2.0,Pixel,Grid line on dv,,631,1700,png
+P-58-O2,Dot,2.0,2.0,Pixel,Grid line on dv,,619,1700,png
+P-61-O1,Combo,1.0,2.0,Pixel,Grid line on dv,,719,1000,png
+P-61-O2,Dot,1.0,1.0,Pixel,Grid line on dv,Might have problem in the format of x ticks,758,1000,png
+P-65-O3,Continuous,1.0,1.0,Pixel,No line,Histogram above no y-axis,1051,1000,png
+P-65-O4,Continuous,2.0,4.0,Pixel,No line,,1064,1500,png
+P-65-O5,Dot,1.0,3.0,Pixel,No line,,1330,1000,png
+P-66-O1,Histogram,2.0,2.0,Vector,One line on dv,,2042,4164,png
+P-66-O3,Dot,1.0,2.0,Vector,One line on dv,,1857,3019,png
+P-66-O4,Dot,6.0,12.0,Vector,One line on dv,,3104,4034,png
+P-66-O5,Dot,4.0,8.0,Vector,One line on dv,,3569,3546,png
+P-69-O1,Histogram,1.0,1.0,Vector,Two lines,,2742,2819,png
+P-71-O4,Dot,1.0,1.0,Vector,Grid line on dv,,1493,2501,png
+P-72-O4,Dot,3.0,9.0,Vector,Grid line on both,,2176,3064,png
+P-74-O3,Dot,1.0,1.0,Pixel,Grid line on dv,,1004,1792,jpeg
+P-74-O6,Dot,2.0,2.0,Vector,Grid line on dv,,1278,3243,png
+P-74-O7,Histogram,2.0,2.0,Vector,Grid line on dv,,1020,3213,png
+P-74-O10,Histogram,2.0,2.0,Vector,Grid line on dv,,1006,3200,png
+P-75-O1,Dot,6.0,6.0,Vector,Grid line on dv,,3281,3080,png
+P-75-O2,Dot,4.0,12.0,Vector,Grid line on dv,,2351,3080,png
+P-75-O5,Dot,4.0,4.0,Vector,Grid line on dv,,2402,3064,png
+P-75-O6,Dot,4.0,12.0,Vector,Grid line on dv,,2307,3074,png
+P-76-O2,Histogram,1.0,1.0,Pixel,Grid line on dv,,674,945,jpeg
+P-76-O3,Histogram,1.0,1.0,Pixel,Grid line on dv,,1127,1254,png
+P-76-O4,Histogram,1.0,1.0,Pixel,Grid line on dv,,899,1260,jpeg
+P-76-O5,Histogram,1.0,1.0,Pixel,Grid line on dv,,1144,1260,png
+P-79-O1,Dot,2.0,3.0,Pixel,Grid line on dv,,1101,1500,png
+P-79-O2,Dot,2.0,3.0,Pixel,Grid line on dv,,1110,1500,png
+P-79-O3,Dot,2.0,3.0,Pixel,Grid line on dv,,1095,1500,png
+P-79-O4,Dot,2.0,3.0,Pixel,Grid line on dv,,1114,1500,png
+P-79-O5,Dot,2.0,3.0,Pixel,Grid line on dv,,1118,1500,png
+P-79-O6,Histogram,1.0,1.0,Pixel,Two lines,,928,1300,png
+P-79-O7,Dot,2.0,3.0,Pixel,Grid line on dv,,1102,1500,png
+P-79-O8,Dot,2.0,3.0,Pixel,Grid line on dv,,1092,1500,png
+P-80-O3,Continuous,3.0,6.0,Vector,Two lines,Two curves in one subplot use different y-axis,2587,3080,png
+P-80-O4,Histogram,2.0,4.0,Vector,Two lines,,1031,3070,png
+P-82-O1,Histogram,1.0,1.0,Vector,Grid line on dv,,1684,2497,png
+P-82-O4,Histogram,1.0,1.0,Vector,Grid line on dv,,2109,3051,png
+P-83-O1,Histogram,2.0,4.0,Vector,Grid line on dv,,4066,1888,png
+P-84-O4,Dot,3.0,6.0,Vector,Grid line on dv,,2378,3103,png
+P-84-O5,Histogram,1.0,1.0,Vector,Grid line on dv,,1508,2075,png
+P-85-O2,Continuous,1.0,2.0,Vector,Grid line on dv,,1173,1907,png
+P-85-O3,Continuous,2.0,4.0,Vector,Grid line on dv,,1183,3121,png
+P-85-O4,Continuous,2.0,4.0,Vector,Grid line on dv,,1147,3104,png
+P-85-O5,Continuous,2.0,4.0,Vector,Grid line on dv,,1271,3062,png
+P-85-O6,Continuous,2.0,4.0,Vector,Grid line on dv,,1244,3090,png
+P-85-O7,Continuous,2.0,6.0,Vector,Grid line on dv,,1622,3061,png
+P-85-O8,Continuous,2.0,8.0,Vector,Grid line on dv,,1478,3092,png
+P-85-O9,Continuous,2.0,6.0,Vector,Grid line on dv,,1478,3090,png
+P-86-O1,Combo,1.0,2.0,Vector,Grid line on dv,,1627,2625,png
+P-86-O2,Dot,1.0,2.0,Vector,Grid line on dv,,1949,3121,png
+P-86-O3,Dot,2.0,10.0,Vector,Two lines,X-axis has no meaning,1933,3629,png
+P-87-O2,Histogram,2.0,2.0,Pixel,Grid line on dv,,1733,1300,png
+P-87-O3,Dot,6.0,6.0,Pixel,Three lines,Extra line on y=0,941,1817,png
+P-88-O4,Dot,1.0,1.0,Pixel,Grid line on dv,,716,1000,png
+P-89-O4,Dot,2.0,5.0,Pixel,Grid line on dv,"Extremely amount of data points, almost unrecognizable",1419,1300,png
+P-89-O6,Dot,2.0,2.0,Pixel,Grid line on dv,,1526,1300,png
+P-90-O2,Dot,1.0,3.0,Vector,Two lines,,1969,2740,png
+P-90-O4,Dot,1.0,1.0,Vector,Two lines,,1997,2738,png
+P-91-O1,Dot,1.0,2.0,Vector,Grid line on dv,,1445,2476,png
+P-91-O2-1,Continuous,1.0,2.0,Vector,Grid line on dv,Separated. Second panel unrecognizable,1527,2498,png
+P-91-O3-1,Continuous,1.0,2.0,Vector,Grid line on dv,Separated. Second panel unrecognizable,1533,2497,png
+P-92-O1,Dot,6.0,12.0,Pixel,Two lines,"Data points are pixel, axes are vector",3487,3086,png
+P-92-O2,Dot,6.0,6.0,Pixel,Three lines,Extra line on dv = 0,4208,3072,png
+P-92-O3,Dot,6.0,6.0,Pixel,Three lines,,3929,3050,png
+P-92-O4,Dot,2.0,4.0,Pixel,Two lines,,1339,3053,png
+P-92-O5,Histogram,6.0,12.0,Pixel,Grid line on dv,,3912,3095,png
+P-92-O6,Histogram,2.0,2.0,Pixel,Two lines,,3851,2563,png
+P-92-O7,Histogram,2.0,2.0,Pixel,Two lines,,3684,2572,png
+P-92-O8,Dot,4.0,4.0,Vector,Two lines,,2215,3070,png
+P-93-O1,Continuous,1.0,2.0,Vector,Grid line on dv,,1511,2521,png
+P-93-O3,Continuous,1.0,1.0,Vector,Four lines,Extract lines on x = 0 and y = 0,1686,2476,png
+P-93-O4,Continuous,4.0,4.0,Vector,Four lines,Extract lines on x = 0 and y = 1,2122,3093,png
+P-95-O2,Dot,2.0,4.0,Pixel,One line on dv,,1001,1500,png
+P-95-O3,Dot,2.0,2.0,Pixel,Two lines,,845,1700,png
+P-95-O4,Dot,2.0,2.0,Pixel,Two lines,,840,1700,png
+P-95-O5,Dot,1.0,1.0,Pixel,Two lines,,920,1500,png
+P-96-O6,Dot,1.0,1.0,Pixel,Grid line on dv,,815,1000,png
+P-97-O1,Continuous,4.0,12.0,Vector,Grid line on dv,,2182,3036,png
+P-97-O4,Dot,2.0,2.0,Vector,Grid line on dv,,1551,3072,png
+P-97-O5,Dot,2.0,3.0,Vector,Grid line on dv,,3332,2273,png
+P-97-O6,Dot,2.0,8.0,Vector,Grid line on dv,,1583,3065,png
+P-97-O7,Combo,2.0,14.0,Vector,Grid line on dv,,1524,3061,png
+P-97-O8,Histogram,7.0,14.0,Vector,Grid line on dv,Might be regression,3852,2696,png
+P-97-O9,Dot,4.0,8.0,Vector,Grid line on dv,,2653,2946,png
+P-98-O5,Histogram,1.0,1.0,Vector,Grid line on dv,,1806,2529,png
+P-98-O8,Histogram,2.0,8.0,Vector,Grid line on dv,,1958,3061,png
+P-99-O2,Histogram,1.0,1.0,Vector,Grid line on dv,,1714,2519,png
+P-99-O4,Dot,1.0,1.0,Vector,Four lines,,1439,2539,png
+P-101-O2,Continuous,2.0,4.0,Pixel,Grid line on dv,,1307,2717,png
+P-103-O1,Continuous,1.0,2.0,Vector,Grid line on dv,,2472,2422,png
+P-103-O2,Dot,9.0,9.0,Vector,Grid line on dv,,3421,3099,png
+P-103-O3,Dot,9.0,9.0,Vector,Grid line on dv,,3591,3127,png
+P-104-O3,Dot,1.0,3.0,Vector,Three lines,Extra line on x=0. No name for curves,1105,788,png
+P-104-O5,Dot,4.0,12.0,Vector,Three lines,Extra line on x=0. No name for curves,553,819,png
+P-104-O6,Dot,1.0,3.0,Vector,Three lines,Extra line on x=0. No name for curves,775,819,png
+P-106-O2,Dot,2.0,6.0,Vector,Grid line on dv,,1097,3084,png
+P-106-O3,Dot,1.0,3.0,Vector,Grid line on dv,,1480,2116,png
+P-106-O4,Dot,2.0,4.0,Vector,Grid line on dv,,1154,3087,png
+P-107-O2,Dot,1.0,2.0,Vector,Grid line on dv,,1972,2532,png
+P-107-O3,Dot,2.0,8.0,Vector,Grid line on dv,,4158,2550,png
+P-107-O4,Dot,1.0,2.0,Vector,Grid line on dv,,1937,2558,png
+P-107-O5,Dot,1.0,1.0,Vector,Grid line on dv,,2039,2561,png
+P-108-O2,Histogram,2.0,1.0,Pixel,Grid line on iv,,1946,1428,png
+P-108-O3,Dot,1.0,2.0,Pixel,Grid line on dv,,768,1103,jpeg
+P-109-O1,Continuous,2.0,4.0,Vector,Two lines,,2808,1934,png
+P-109-O2,Continuous,4.0,4.0,Vector,Three lines,Extra line on y=0,2441,3029,png
+P-109-O3,Continuous,1.0,2.0,Vector,Three lines,Extra line on y=1,1667,2353,png
