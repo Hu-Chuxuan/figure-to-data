@@ -1,4 +1,4 @@
-Variable,Value,STD Error Bar Length,CI Error Bar Length,Legend
+Type-1,Value,Error Bar Length 1,Error Bar Length 2,Type-2
 Church trust ctrl mean = 1.15,0.18239684805520745,0.1409037797,0.2760256014,All
 dem satisfaction control mean = 1.16,0.1370760628822248,0.1282857655,0.2476344261,All
 govt satisfaction ctrl mean = 0.80,0.152743728373764,0.1430082592,0.2791801764,All

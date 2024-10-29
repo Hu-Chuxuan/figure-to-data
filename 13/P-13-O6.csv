@@ -1,0 +1,41 @@
+Type-1,Value,Error Bar Length,Subplot Value
+Alt-facts,0.15431519699812382,0.05300187617,Actual: sharing intent alt-facts only
+Imposed fact-check,0.07082551594746717,0.03893058161,Actual: sharing intent alt-facts only
+Voluntary fact-check: Viewer,0.05792682926829268,0.05487804878,Actual: sharing intent alt-facts only
+Voluntary fact-check: Nonviewer,0.06930112570356473,0.04737335835,Actual: sharing intent alt-facts only
+Alt-facts,0.15404956371753242,0.02414772727,Predicted: sharing intent alt-facts only
+Imposed fact-check,0.15941642992424232,0.0241456135,Predicted: sharing intent alt-facts only
+Voluntary fact-check: Viewer,0.19070394937094148,0.0388236438,Predicted: sharing intent alt-facts only
+Voluntary fact-check: Nonviewer,0.14078987418831157,0.02793666295,Predicted: sharing intent alt-facts only
+Alt-facts,0.048622677770659824,0.01932364544,Actual: sharing action alt-facts only
+Imposed fact-check,0.034086112141339886,0.01684210526,Actual: sharing action alt-facts only
+Voluntary fact-check: Viewer,0.027220068107488435,0.01879631815,Actual: sharing action alt-facts only
+Voluntary fact-check: Nonviewer,0.017344482281938023,0.01488772379,Actual: sharing action alt-facts only
+Alt-facts,0.0485925925925926,0.006962962963,Predicted: sharing action alt-facts only
+Imposed fact-check,0.050074074074074076,0.007111111111,Predicted: sharing action alt-facts only
+Voluntary fact-check: Viewer,0.05925925925925926,0.01140740741,Predicted: sharing action alt-facts only
+Voluntary fact-check: Nonviewer,0.044148148148148145,0.008888888889,Predicted: sharing action alt-facts only
+Imposed fact-check,0.125233426704015,0.05134090673,Actual: sharing intent fact-check only
+Voluntary fact-check: Viewer,0.20391119410727263,0.09212573918,Actual: sharing intent fact-check only
+Alt-facts,0.122036996934968,0.01492537313,Predicted: sharing intent fact-check only
+Imposed fact-check,0.12281158382196158,0.01679104478,Predicted: sharing intent fact-check only
+Voluntary fact-check: Viewer,0.13851362606609802,0.02611784132,Predicted: sharing intent fact-check only
+Voluntary fact-check: Nonviewer,0.11130522054904043,0.02005597015,Predicted: sharing intent fact-check only
+Imposed fact-check,0.3215256718602947,0.1674471269,Actual: sharing action fact-check only
+Voluntary fact-check: Viewer,0.7666396528286096,0.4236641221,Actual: sharing action fact-check only
+Alt-facts,0.3328333552501809,0.04291044776,Predicted: sharing action fact-check only
+Imposed fact-check,0.3223975113419686,0.03917910448,Predicted: sharing action fact-check only
+Voluntary fact-check: Viewer,0.3772745578276019,0.06389206227,Predicted: sharing action fact-check only
+Voluntary fact-check: Nonviewer,0.30528593267144444,0.05457449126,Predicted: sharing action fact-check only
+Imposed fact-check,0.04476744186046516,0.03284883721,Actual: sharing intent alt-facts and fact-check
+Voluntary fact-check: Viewer,0.10668604651162793,0.07063953488,Actual: sharing intent alt-facts and fact-check
+Alt-facts,0.047143867262255834,0.01161105667,Predicted: sharing intent alt-facts and fact-check
+Imposed fact-check,0.04479729706870442,0.01103050383,Predicted: sharing intent alt-facts and fact-check
+Voluntary fact-check: Viewer,0.06480167264172967,0.01799747615,Predicted: sharing intent alt-facts and fact-check
+Voluntary fact-check: Nonviewer,0.03458890476475093,0.01393292968,Predicted: sharing intent alt-facts and fact-check
+Imposed fact-check,0.0019885694256477314,0.003121014147,Actual: sharing action alt-facts and fact-check
+Voluntary fact-check: Viewer,0.009453007097860925,0.009983667131,Actual: sharing action alt-facts and fact-check
+Alt-facts,0.0024332061068702317,0.0008301526718,Predicted: sharing action alt-facts and fact-check
+Imposed fact-check,0.002089694656488554,0.0008874045802,Predicted: sharing action alt-facts and fact-check
+Voluntary fact-check: Viewer,0.003435114503816797,0.001345419847,Predicted: sharing action alt-facts and fact-check
+Voluntary fact-check: Nonviewer,0.0012309160305343514,0.001001908397,Predicted: sharing action alt-facts and fact-check

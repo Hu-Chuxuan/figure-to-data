@@ -1,4 +1,4 @@
-x,Value,STD Error Bar Length,CI Error Bar Length,Legend
+Type-1,Value,Error Bar Length 1,Error Bar Length 2,Type-2
 accountable(0-4) ctrl mean = 2.79,-0.008287292817679814,0.2320441989,0.4540431944,All
 advance (0-4) ctrl mean = 1.94,-0.3166750376695129,0.2933199397,0.5846308388,All
 compensation (0-3) ctrl mean = 1.93,0.19964841788046184,0.1486690105,0.2933199397,All
