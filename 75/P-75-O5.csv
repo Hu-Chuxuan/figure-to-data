@@ -1,0 +1,53 @@
+Year (relative to election),Change in long-term debt PP ($),Error Bar Length,Subplot Value
+-2,-156.51973735774664,1290.827483,Panel A. Long-term debt
+-1,-269.76637140008825,1396.708482,Panel A. Long-term debt
+0,0,0,Panel A. Long-term debt
+1,6247.899643322312,3112.90137,Panel A. Long-term debt
+2,6467.947980425406,2838.531477,Panel A. Long-term debt
+3,5213.027966717663,2897.456555,Panel A. Long-term debt
+4,5312.464035311653,2900.218667,Panel A. Long-term debt
+5,4756.358614412476,2969.271492,Panel A. Long-term debt
+6,3754.6322940058235,3004.258258,Panel A. Long-term debt
+7,3070.5489701307806,3148.808839,Panel A. Long-term debt
+8,2838.5314767448062,3165.381517,Panel A. Long-term debt
+9,2600.9897580575453,3662.56186,Panel A. Long-term debt
+10,1960.179537497902,3956.266544,Panel A. Long-term debt
+-2,-13.381799983178837,65.65402824,Panel B. Debt interest payments
+-1,-35.19699724114156,70.16167599,Panel B. Debt interest payments
+0,0,0,Panel B. Debt interest payments
+1,211.32419615197392,99.02021525,Panel B. Debt interest payments
+2,288.6758120172939,132.1412839,Panel B. Debt interest payments
+3,273.4259365609157,149.0445659,Panel B. Debt interest payments
+4,260.57679069579365,141.9895366,Panel B. Debt interest payments
+5,228.52150565878503,146.6439767,Panel B. Debt interest payments
+6,189.21479855995955,149.0445659,Panel B. Debt interest payments
+7,148.63409828089067,159.382634,Panel B. Debt interest payments
+8,131.22855757059597,156.7366781,Panel B. Debt interest payments
+9,99.5158634833769,176.9226425,Panel B. Debt interest payments
+10,100.23871038763872,188.3382464,Panel B. Debt interest payments
+-2,-133.45377242523045,680.5888594,Panel C. Capital outlays
+-1,-383.8165293985112,610.2955549,Panel C. Capital outlays
+0,0,0,Panel C. Capital outlays
+1,4254.183592690673,1324.787006,Panel C. Capital outlays
+2,2285.4016474034515,1473.640486,Panel C. Capital outlays
+3,-136.5560452008176,1132.933483,Panel C. Capital outlays
+4,-535.7690220828008,884.8425985,Panel C. Capital outlays
+5,-620.7376748603929,860.0370955,Panel C. Capital outlays
+6,-818.1739851657439,848.458225,Panel C. Capital outlays
+7,-594.6897422962138,922.8827011,Panel C. Capital outlays
+8,-501.0374791793529,714.492357,Panel C. Capital outlays
+9,-592.6221639344403,967.5449934,Panel C. Capital outlays
+10,-549.4149282378985,952.656476,Panel C. Capital outlays
+-2,63.31950929940399,246.1977431,Panel D. Operational expenditures
+-1,-33.3761406415133,286.6161471,Panel D. Operational expenditures
+0,0,0,Panel D. Operational expenditures
+1,-34.670113563754285,297.6441686,Panel D. Operational expenditures
+2,-6.431009334305145,327.0387931,Panel D. Operational expenditures
+3,-11.261476253120009,371.1317903,Panel D. Operational expenditures
+4,-48.145271583761996,411.5544363,Panel D. Operational expenditures
+5,-116.05719735245611,400.5306567,Panel D. Operational expenditures
+6,-35.35306823337214,437.2771777,Panel D. Operational expenditures
+7,-13.441840850534163,492.3960754,Panel D. Operational expenditures
+8,-140.55578141941783,510.7665669,Panel D. Operational expenditures
+9,-88.22803088968931,553.8437926,Panel D. Operational expenditures
+10,-103.06214615686986,587.9354981,Panel D. Operational expenditures

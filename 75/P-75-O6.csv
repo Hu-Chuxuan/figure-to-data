@@ -1,0 +1,157 @@
+Type-1,Value,Error Bar Length,Type-2,Subplot Value
+-2,0.07188186850104183,0.3070259442,Linear,Panel A. Dropout rate
+-1,0.1742824998475847,0.347737062,Linear,Panel A. Dropout rate
+0,0.0024003266272594193,0,Linear,Panel A. Dropout rate
+1,-0.23087833801829127,0.4830582231,Linear,Panel A. Dropout rate
+2,-0.1314383616366126,0.2906535101,Linear,Panel A. Dropout rate
+3,-0.20916134369954587,0.33568339,Linear,Panel A. Dropout rate
+4,-0.013744391641800968,0.3970880693,Linear,Panel A. Dropout rate
+5,-0.12421697272564769,0.3725258701,Linear,Panel A. Dropout rate
+6,0.060056837378724914,0.3807149074,Linear,Panel A. Dropout rate
+7,-0.08725986139810216,0.454402324,Linear,Panel A. Dropout rate
+8,0.06358065631679621,0.466681786,Linear,Panel A. Dropout rate
+9,-0.26726884358410663,0.2128740312,Linear,Panel A. Dropout rate
+10,0.09712598708065734,0.5198990657,Linear,Panel A. Dropout rate
+-2,0.035051670313768435,0.3152148906,Quadratic,Panel A. Dropout rate
+-1,0.2684523353328707,0.1596527031,Quadratic,Panel A. Dropout rate
+0,0.0024173848450559365,0,Quadratic,Panel A. Dropout rate
+1,-0.26361647391685716,0.5403708402,Quadratic,Panel A. Dropout rate
+2,-0.1277855979157443,0.3029329721,Quadratic,Panel A. Dropout rate
+3,-0.2020963445291737,0.3274976278,Quadratic,Panel A. Dropout rate
+4,-0.04056613037735923,0.4298393059,Quadratic,Panel A. Dropout rate
+5,-0.07917153577173108,0.3152165282,Quadratic,Panel A. Dropout rate
+6,0.013220408680186146,0.3929943695,Quadratic,Panel A. Dropout rate
+7,-0.011284929859582293,0.413466144,Quadratic,Panel A. Dropout rate
+8,0.07701422448635964,0.454402324,Quadratic,Panel A. Dropout rate
+9,0.03272280624680812,0.4503061677,Quadratic,Panel A. Dropout rate
+10,0.11761018002906631,0.5012499884,Quadratic,Panel A. Dropout rate
+-2,0.034384489299999155,0.3284061559,Cubic,Panel A. Dropout rate
+-1,0.07719786188682298,0.3177168233,Cubic,Panel A. Dropout rate
+0,0.0035682612814087467,0,Cubic,Panel A. Dropout rate
+1,-0.2765660282437419,0.5235389106,Cubic,Panel A. Dropout rate
+2,-0.1571090419814467,0.310438953,Cubic,Panel A. Dropout rate
+3,-0.14363430664630505,0.3559242343,Cubic,Panel A. Dropout rate
+4,-0.04646542383403185,0.5221741622,Cubic,Panel A. Dropout rate
+5,-0.01252209813363403,0.3754832499,Cubic,Panel A. Dropout rate
+6,0.07759647831988858,0.4969304985,Cubic,Panel A. Dropout rate
+7,0.13087202880633253,0.4678186975,Cubic,Panel A. Dropout rate
+8,0.18300971259049148,0.5117122573,Cubic,Panel A. Dropout rate
+9,0.19352825084166958,0.5001134408,Cubic,Panel A. Dropout rate
+10,0.10648073013849135,0.6115528214,Cubic,Panel A. Dropout rate
+-2,-0.7327525392124201,5.667462471,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+-1,-0.270655270690618,4.288331584,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+0,0.02229403896787474,0,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+1,0.8304860496612854,5.152224824,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+2,0.0070997610760059615,5.199032904,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+3,-0.32184573183243614,6.323169848,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+4,-1.3533673371530526,6.604230621,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+5,-0.7923982516227248,6.932099473,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+6,-1.4492109121064018,7.416081191,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+7,-2.165882758477931,8.290398126,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+8,-1.982218852029348,9.086651054,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+9,-0.23464982058289863,9.065833985,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+10,0.07390133776410579,9.03982781,Linear,"Panel B. Percent adv. or prof., 10th grade math"
+-2,-1.789491793369539,5.667432143,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+-1,-0.9943323552522685,4.990877369,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+0,0.035029229636396764,0,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+1,1.0826124920292095,6.135846546,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+2,-0.2741893134796136,5.948461745,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+3,-0.3689486660095511,6.604215457,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+4,-1.608649395031705,7.072569204,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+5,-1.3625342806589096,7.306776405,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+6,-2.0271575535660666,7.728322073,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+7,-2.5668868350416822,8.618236651,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+8,-2.2479010232471204,9.320827927,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+9,-0.6226499675867245,9.367696663,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+10,-0.2360238429399395,9.836065574,Quadratic,"Panel B. Percent adv. or prof., 10th grade math"
+-2,-2.2711594885038835,5.474883511,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+-1,-1.8715201674393995,4.793141317,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+0,0.021748136768167114,0,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+1,0.5306829703432285,6.289353055,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+2,-1.5338899433940512,5.586792113,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+3,-1.8550307209712393,6.325787143,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+4,-2.3114832945937387,6.994535517,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+5,-1.5761695632960944,7.226125423,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+6,-3.4976293354223564,8.391896506,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+7,-3.097992541682533,9.013806472,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+8,-3.4659784662869733,9.929742389,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+9,-2.087926747422781,10.25764157,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+10,-2.3231996375513724,10.63230334,Cubic,"Panel B. Percent adv. or prof., 10th grade math"
+-2,-1.0370374544711893,5.643421528,Linear,Panel C. Average 10th grade math score
+-1,0.04287363730432858,3.809300977,Linear,Panel C. Average 10th grade math score
+0,0.08031753152069498,0,Linear,Panel C. Average 10th grade math score
+1,0.2745435005023964,5.032007275,Linear,Panel C. Average 10th grade math score
+2,0.5758646018863836,5.220217462,Linear,Panel C. Average 10th grade math score
+3,0.27102395424118697,6.442899319,Linear,Panel C. Average 10th grade math score
+4,-1.2356351908722267,6.160657363,Linear,Panel C. Average 10th grade math score
+5,0.4556657120647891,6.583910311,Linear,Panel C. Average 10th grade math score
+6,-2.367755942240098,7.007236583,Linear,Panel C. Average 10th grade math score
+7,-1.6379918501470883,7.82754243,Linear,Panel C. Average 10th grade math score
+8,-1.901043317343646,7.759588504,Linear,Panel C. Average 10th grade math score
+9,-1.103276416521421,7.994753472,Linear,Panel C. Average 10th grade math score
+10,-1.4342084859797843,8.182914776,Linear,Panel C. Average 10th grade math score
+-2,-1.5913286653054755,5.361228454,Quadratic,Panel C. Average 10th grade math score
+-1,-0.6969281877261686,4.091469609,Quadratic,Panel C. Average 10th grade math score
+0,0.05377530363136884,0,Quadratic,Panel C. Average 10th grade math score
+1,0.2479727577712154,6.066650035,Quadratic,Panel C. Average 10th grade math score
+2,0.2383899044614992,5.78443252,Quadratic,Panel C. Average 10th grade math score
+3,0.09554174165912954,6.724994627,Quadratic,Panel C. Average 10th grade math score
+4,-1.586142020708575,6.442874878,Quadratic,Panel C. Average 10th grade math score
+5,-0.0019959955607866675,6.913155931,Quadratic,Panel C. Average 10th grade math score
+6,-3.0213721614361297,7.383412544,Quadratic,Panel C. Average 10th grade math score
+7,-2.4065439339728663,7.994802355,Quadratic,Panel C. Average 10th grade math score
+8,-2.2175609634621267,8.041781578,Quadratic,Panel C. Average 10th grade math score
+9,-1.3937094300783386,8.323999093,Quadratic,Panel C. Average 10th grade math score
+10,-1.9336620897572345,8.982383063,Quadratic,Panel C. Average 10th grade math score
+-2,-2.3416096980295222,5.238421978,Cubic,Panel C. Average 10th grade math score
+-1,-1.8600141916686752,4.01045232,Cubic,Panel C. Average 10th grade math score
+0,0.07422316132628737,0,Cubic,Panel C. Average 10th grade math score
+1,0.043737570693885175,6.061386668,Cubic,Panel C. Average 10th grade math score
+2,-0.8437005359821725,5.497056193,Cubic,Panel C. Average 10th grade math score
+3,-0.9943622740152875,6.604844279,Cubic,Panel C. Average 10th grade math score
+4,-1.9889403221354556,6.704139415,Cubic,Panel C. Average 10th grade math score
+5,0.07855690895540945,7.132593268,Cubic,Panel C. Average 10th grade math score
+6,-3.6122856000608543,7.676007428,Cubic,Panel C. Average 10th grade math score
+7,-2.686543912952285,8.342238919,Cubic,Panel C. Average 10th grade math score
+8,-2.607289112690559,8.475485219,Cubic,Panel C. Average 10th grade math score
+9,-2.2328172535770925,9.034594421,Cubic,Panel C. Average 10th grade math score
+10,-3.572254493870222,9.747905617,Cubic,Panel C. Average 10th grade math score
+-2,-1.0964815490244533,13.37529637,Linear,Panel D. log(postsecondary enrollment)
+-1,5.5098121851661475,15.13525382,Linear,Panel D. log(postsecondary enrollment)
+0,0.08338131844285357,0,Linear,Panel D. log(postsecondary enrollment)
+1,3.2218173165330484,15.6045198,Linear,Panel D. log(postsecondary enrollment)
+2,7.246860762616748,15.90440109,Linear,Panel D. log(postsecondary enrollment)
+3,-1.1974953908467754,16.42585686,Linear,Panel D. log(postsecondary enrollment)
+4,-1.0768520477313217,17.95107078,Linear,Panel D. log(postsecondary enrollment)
+5,-5.88409839346194,20.76693196,Linear,Panel D. log(postsecondary enrollment)
+6,-3.299620732394679,19.24180645,Linear,Panel D. log(postsecondary enrollment)
+7,-6.731394845313112,21.0017639,Linear,Panel D. log(postsecondary enrollment)
+8,-1.7677752179930408,20.18029421,Linear,Panel D. log(postsecondary enrollment)
+9,-2.2338580409451225,21.58826901,Linear,Panel D. log(postsecondary enrollment)
+10,-8.566229891625682,21.47094146,Linear,Panel D. log(postsecondary enrollment)
+-2,-2.5557422726158805,14.31396098,Quadratic,Panel D. log(postsecondary enrollment)
+-1,7.003230915195424,16.30852931,Quadratic,Panel D. log(postsecondary enrollment)
+0,0.23407845169627706,0,Quadratic,Panel D. log(postsecondary enrollment)
+1,4.930444625939067,17.12977794,Quadratic,Panel D. log(postsecondary enrollment)
+2,7.41061885509324,16.89507863,Quadratic,Panel D. log(postsecondary enrollment)
+3,-0.042946769509825344,17.95120341,Quadratic,Panel D. log(postsecondary enrollment)
+4,-0.4894504421169472,18.6551245,Quadratic,Panel D. log(postsecondary enrollment)
+5,5.849452294941969,10.74196437,Quadratic,Panel D. log(postsecondary enrollment)
+6,-0.48291955573859013,20.19338956,Quadratic,Panel D. log(postsecondary enrollment)
+7,-6.313451627412846,21.11900303,Quadratic,Panel D. log(postsecondary enrollment)
+8,1.8570817018291095,20.64961669,Quadratic,Panel D. log(postsecondary enrollment)
+9,-2.604599486192754,22.05762342,Quadratic,Panel D. log(postsecondary enrollment)
+10,-6.342797633597733,21.88807415,Quadratic,Panel D. log(postsecondary enrollment)
+-2,-1.7336094285876555,15.46764503,Cubic,Panel D. log(postsecondary enrollment)
+-1,7.049661458693805,16.79740146,Cubic,Panel D. log(postsecondary enrollment)
+0,4.644464304417653,0,Cubic,Panel D. log(postsecondary enrollment)
+1,4.644464304417653,19.37208198,Cubic,Panel D. log(postsecondary enrollment)
+2,8.076270746201779,19.17651887,Cubic,Panel D. log(postsecondary enrollment)
+3,-0.5310034830162067,19.65890721,Cubic,Panel D. log(postsecondary enrollment)
+4,-3.4544171696590737,21.53621186,Cubic,Panel D. log(postsecondary enrollment)
+5,-4.291990561721711,22.98317303,Cubic,Panel D. log(postsecondary enrollment)
+6,-0.5994513141237263,22.64429064,Cubic,Panel D. log(postsecondary enrollment)
+7,-8.026936774727645,24.54101233,Cubic,Panel D. log(postsecondary enrollment)
+8,0.6976948917331782,23.69994384,Cubic,Panel D. log(postsecondary enrollment)
+9,-2.199655823918782,25.14721949,Cubic,Panel D. log(postsecondary enrollment)
+10,-5.866148894531726,25.68174104,Cubic,Panel D. log(postsecondary enrollment)

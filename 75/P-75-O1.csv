@@ -1,0 +1,79 @@
+Type-1,Value,Error Bar Length,Subplot Value
+-2,56.00749836471596,231.675199,Panel A. Revenue limits
+-1,37.076384475338955,277.0689465,Panel A. Revenue limits
+0,0.10262052532834787,0,Panel A. Revenue limits
+1,334.6434237329105,401.9382341,Panel A. Revenue limits
+2,390.3429550534753,431.306313,Panel A. Revenue limits
+3,441.94220049202966,413.5605647,Panel A. Revenue limits
+4,377.90477785556607,450.4715292,Panel A. Revenue limits
+5,369.6349135066114,475.4450526,Panel A. Revenue limits
+6,344.9632728206212,466.1780443,Panel A. Revenue limits
+7,289.9468588099769,477.6442835,Panel A. Revenue limits
+8,186.54333781854234,464.6080621,Panel A. Revenue limits
+9,233.2218605132873,510.7842235,Panel A. Revenue limits
+10,115.87597534322936,585.5442289,Panel A. Revenue limits
+-2,51.68955873134337,391.0953919,Panel B. Total operational expenditures
+-1,199.4042860442148,512.3354128,Panel B. Total operational expenditures
+0,-0.17099255627181265,0,Panel B. Total operational expenditures
+1,331.4517807336115,583.8164,Panel B. Total operational expenditures
+2,320.7100220037921,603.3405422,Panel B. Total operational expenditures
+3,422.4480550627758,612.1518325,Panel B. Total operational expenditures
+4,312.36342802323793,786.6032282,Panel B. Total operational expenditures
+5,409.1750354674732,751.0075645,Panel B. Total operational expenditures
+6,418.1380274755538,731.1868931,Panel B. Total operational expenditures
+7,257.9709813894117,667.5803644,Panel B. Total operational expenditures
+8,69.88932118175921,657.5016465,Panel B. Total operational expenditures
+9,206.93113092382964,870.0552423,Panel B. Total operational expenditures
+10,146.10727038776986,946.8894311,Panel B. Total operational expenditures
+-2,-255.32385730940769,1366.530097,Panel C. Long-term debt
+-1,84.25022552857081,1576.636013,Panel C. Long-term debt
+0,5.3221954635273505,0,Panel C. Long-term debt
+1,-593.429511681059,2117.869524,Panel C. Long-term debt
+2,-77.64229743009855,1932.133295,Panel C. Long-term debt
+3,385.2797765792966,2370.833342,Panel C. Long-term debt
+4,-90.12393939387312,2362.433028,Panel C. Long-term debt
+5,82.04929828289733,2316.213056,Panel C. Long-term debt
+6,-675.294398678755,2828.868579,Panel C. Long-term debt
+7,162.0769342438698,2753.227012,Panel C. Long-term debt
+8,113.98933287931322,3084.364339,Panel C. Long-term debt
+9,-471.54823352215226,3120.489486,Panel C. Long-term debt
+10,-224.4834286089208,3278.502379,Panel C. Long-term debt
+-2,-16.15319182804467,76.06639828,Panel D. Debt interest payments
+-1,0.39825099861207036,82.97307135,Panel D. Debt interest payments
+0,0.4865964612070002,0,Panel D. Debt interest payments
+1,-12.701749498828804,90.9091073,Panel D. Debt interest payments
+2,3.850091280362335,104.5149576,Panel D. Debt interest payments
+3,2.8766993816809645,104.20545,Panel D. Debt interest payments
+4,11.992797059130453,108.7404854,Panel D. Debt interest payments
+5,-3.850887185431361,113.1724269,Panel D. Debt interest payments
+6,-3.7625417228364313,119.7692541,Panel D. Debt interest payments
+7,8.540757801112704,135.4355436,Panel D. Debt interest payments
+8,2.256689333379086,143.6813352,Panel D. Debt interest payments
+9,-10.400986922285597,151.1032984,Panel D. Debt interest payments
+10,-15.622920076208516,159.3486166,Panel D. Debt interest payments
+-2,51.64541376185025,718.9177582,Panel E. Capital outlays
+-1,-77.06909426712946,525.6602953,Panel E. Capital outlays
+0,2.595300120766751,0,Panel E. Capital outlays
+1,-209.9009030211182,1113.16298,Panel E. Capital outlays
+2,-291.3552157226154,1092.978313,Panel E. Capital outlays
+3,-196.65404168929763,802.2331969,Panel E. Capital outlays
+4,316.9515362108309,726.6480567,Panel E. Capital outlays
+5,188.23621384230682,698.3036286,Panel E. Capital outlays
+6,38.0402430314939,1021.687782,Panel E. Capital outlays
+7,300.30236427199316,1086.965858,Panel E. Capital outlays
+8,180.18076709156412,848.1855271,Panel E. Capital outlays
+9,-94.61322536276566,1020.399399,Panel E. Capital outlays
+10,137.57452224735152,897.5735455,Panel E. Capital outlays
+-2,-48.42722833687549,76.08578627,Panel F. Operation and maintenance
+-1,-26.680839755514626,76.08578627,Panel F. Operation and maintenance
+0,1.5279848391719497,0,Panel F. Operation and maintenance
+1,25.429065981815256,68.47720764,Panel F. Operation and maintenance
+2,16.98102947106281,98.91152215,Panel F. Operation and maintenance
+3,-8.716860058874772,91.30294352,Panel F. Operation and maintenance
+4,-58.13114279763295,220.6497271,Panel F. Operation and maintenance
+5,52.021665946724625,197.8247487,Panel F. Operation and maintenance
+6,-29.740092774907225,144.5629939,Panel F. Operation and maintenance
+7,-61.9045224944789,136.9544153,Panel F. Operation and maintenance
+8,-74.66358579832104,197.8247487,Panel F. Operation and maintenance
+9,87.24124450937961,273.9110095,Panel F. Operation and maintenance
+10,31.35631740468125,174.9973084,Panel F. Operation and maintenance
