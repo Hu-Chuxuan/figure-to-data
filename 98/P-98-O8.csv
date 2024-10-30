@@ -1,4 +1,4 @@
-Type-1,Relative GDP per worker (US = 1),Type-2,Subplot Value
+Type-1,Value,Type-2,Subplot Value
 India,0.05687203791469253,Data,Micro-data sample
 India,0.6953899181387335,"Counterfactual, θ_Q = θ_AQ",Micro-data sample
 India,0.1051271003877643,"Counterfactual, θ_Q = 0",Micro-data sample
