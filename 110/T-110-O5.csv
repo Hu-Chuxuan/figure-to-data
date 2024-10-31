@@ -4,8 +4,8 @@ Transfer to spouse ( T 2 ),0.172,0.042,0.156,0.039,,
 T 1  × ​T 2,-0.145,-0.158,-0.158,0.037,,
 Predicted winner (Γ),,,,,0.269,0.058
 Initial policy acceptance (A^0),0.123,0.041,0.154,0.033,0.306,0.066
-Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1/0,,1/0,,1/0,
-Controls: policy assigned,1/0,,1/0,,,
+Controls: incomes (piecewise continuous); estimated gains; sociodemo; other motives,1,,1,,1,
+Controls: policy assigned,1,,1,,,
 Subsample,[p10; p60],,,,|γ| < 50,
 Effective F-statistic,15.6,,23.8,,21.3,
 Observations,1969,,3002,,757,
