@@ -6,8 +6,8 @@ Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE)
 β  5: Clientelist relationship,0.119,0.026,0.071,0.018,0.118,0.026,0.080,0.025,0.075,0.020
 β1  + β2,−0.109,(0.032),,,−0.108,(0.032),−0.072,(0.031),−0.062,0.024
 β 3 + β 4,,,−0.035,0.016,−0.032,0.015,−0.019,0.014,−0.027,0.013
-Municipality fixed effects,Yes,,Yes,,Yes,,Yes,,Yes,
-Year fixed effects,Yes,,Yes,,Yes,,Yes,,Yes,
+Municipality fixed effects,1,,1,,1,,1,,1,
+Year fixed effects,1,,1,,1,,1,,1,
 Observations,4288,,4288,,4288,,4288,,4284,
 Mean of Y: treatment group,0.149,,0.149,,0.149,,0.120,,0.089,
 Mean of Y: control group,0.177,,0.177,,0.177,,0.146,,0.094,
