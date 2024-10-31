@@ -104,8 +104,8 @@ P-38-O6,Dot,2.0,3.0,Vector,Grid line on dv,,3537,2545,png
 P-39-O4,Dot,2.0,2.0,Pixel,Grid line on dv,,1688,1199,png
 P-39-O5,Dot,1.0,1.0,Pixel,Grid line on dv,,911,1300,png
 P-39-O6,Histogram,2.0,3.0,Pixel,Grid line on dv,,1819,1300,png
-P-40-O2,Dot,4.0,7.0,Vector,Two lines,Weird x value,3113,4087,png
-P-40-O3,Dot,4.0,6.0,Vector,Two lines,Weird x value,3129,4064,png
+P-40-O2,Dot,4.0,9.0,Vector,Two lines,Weird x value,3113,4087,png
+P-40-O3,Dot,4.0,10.0,Vector,Two lines,Weird x value,3129,4064,png
 P-40-O4,Dot,2.0,6.0,Vector,One line on dv,,2103,4012,png
 P-40-O5,Dot,1.0,3.0,Vector,One line on dv,,2016,4040,png
 P-40-O6,Dot,1.0,6.0,Vector,One line on dv,,1992,4056,png
@@ -120,7 +120,7 @@ P-41-O9,Dot,1.0,3.0,Vector,Grid line on both,Data points and error bars are pixe
 P-41-O10,Dot,1.0,2.0,Vector,Grid line on both,,1519,1940,png
 P-42-O1,Histogram,1.0,2.0,Vector,Grid line on both,,1829,2758,png
 P-43-O2,Dot,1.0,1.0,Vector,Grid line on dv,,1793,2494,png
-P-45-O3,Histogram,2.0,4.0,Vector,Two lines,X-axis has no meaning,1324,3047,png
+P-45-O3,Histogram,2.0,8.0,Vector,Two lines,X-axis has no meaning,1324,3047,png
 P-45-O4,Dot,1.0,1.0,Vector,Two lines,,2076,2621,png
 P-45-O5,Dot,1.0,1.0,Vector,Two lines,,1993,2626,png
 P-45-O6,Dot,1.0,1.0,Vector,Two lines,,2080,2617,png
@@ -204,7 +204,7 @@ P-85-O7,Continuous,2.0,6.0,Vector,Grid line on dv,,1622,3061,png
 P-85-O8,Continuous,2.0,8.0,Vector,Grid line on dv,,1478,3092,png
 P-85-O9,Continuous,2.0,6.0,Vector,Grid line on dv,,1478,3090,png
 P-86-O1,Combo,1.0,2.0,Vector,Grid line on dv,,1627,2625,png
-P-86-O2,Dot,1.0,2.0,Vector,Grid line on dv,,1949,3121,png
+P-86-O2,Dot,2.0,2.0,Vector,Grid line on dv,,1949,3121,png
 P-86-O3,Dot,2.0,10.0,Vector,Two lines,X-axis has no meaning,1933,3629,png
 P-87-O2,Histogram,2.0,2.0,Pixel,Grid line on dv,,1733,1300,png
 P-87-O3,Dot,6.0,6.0,Pixel,Three lines,Extra line on y=0,941,1817,png
