@@ -2,10 +2,10 @@ Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),
 Occasional viewer (1–2 programs),0.019,0.012,0.013,0.011,0.006,0.010,0.013,0.010,−0.004,0.009,−0.007,0.009
 Frequent viewer (3–5 programs),0.047∗∗,0.012,0.032∗∗,0.011,0.008,0.010,0.017†,0.010,0.009,0.009,0.005,0.01
 Heavy viewer (6+ programs),0.076∗∗,0.013,0.040∗,0.016,0.052∗∗,0.011,0.052∗∗,0.014,0.039∗∗,0.011,0.014,0.013
-Other media consumption,N,,Y,,N,,Y,,N,,Y,
-Demographics,N,,Y,,N,,Y,,N,,Y,
-Personal economic context,N,,Y,,N,,Y,,N,,Y,
-County-level economic context,N,,Y,,N,,Y,,N,,Y,
-State fixed effect,N,,Y,,N,,Y,,N,,Y,
+Other media consumption,0,,1,,0,,1,,0,,1,
+Demographics,0,,1,,0,,1,,0,,1,
+Personal economic context,0,,1,,0,,1,,0,,1,
+County-level economic context,0,,1,,0,,1,,0,,1,
+State fixed effect,0,,1,,0,,1,,0,,1,
 Observations,3004,,2998,,3004,,2998,,3004,,2998,
 R^2,0.013,,0.239,,0.008,,0.143,,0.006,,0.11,
