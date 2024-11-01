@@ -1,717 +1,717 @@
-"Type-1","Type-2","Value","Subplot Value"
-"-42","Estimate","0.0002008","Panel A. CV"
-"-41.5","Estimate","0.0002005","Panel A. CV"
-"-41","Estimate","0.0002206","Panel A. CV"
-"-40.5","Estimate","0.0003128","Panel A. CV"
-"-40","Estimate","0.0002996","Panel A. CV"
-"-39.5","Estimate","0.0003024","Panel A. CV"
-"-39","Estimate","0.000302","Panel A. CV"
-"-38.5","Estimate","0.000302","Panel A. CV"
-"-38","Estimate","0.000302","Panel A. CV"
-"-37.5","Estimate","0.000302","Panel A. CV"
-"-37","Estimate","0.0003021","Panel A. CV"
-"-36.5","Estimate","0.0003019","Panel A. CV"
-"-36","Estimate","0.0003019","Panel A. CV"
-"-35.5","Estimate","0.0003062","Panel A. CV"
-"-35","Estimate","0.0002662","Panel A. CV"
-"-34.5","Estimate","0.0001918","Panel A. CV"
-"-34","Estimate","0.0002036","Panel A. CV"
-"-33.5","Estimate","0.0002","Panel A. CV"
-"-33","Estimate","0.0001944","Panel A. CV"
-"-32.5","Estimate","0.0000906","Panel A. CV"
-"-32","Estimate","0.0001033","Panel A. CV"
-"-31.5","Estimate","0.0001009","Panel A. CV"
-"-31","Estimate","0.0000985","Panel A. CV"
-"-30.5","Estimate","0.0001013","Panel A. CV"
-"-30","Estimate","-0.0000079","Panel A. CV"
-"-29.5","Estimate","0.0000029","Panel A. CV"
-"-29","Estimate","-0.0000007","Panel A. CV"
-"-28.5","Estimate","0.0000001","Panel A. CV"
-"-28","Estimate","0","Panel A. CV"
-"-27.5","Estimate","0","Panel A. CV"
-"-27","Estimate","0","Panel A. CV"
-"-26.5","Estimate","0","Panel A. CV"
-"-26","Estimate","0","Panel A. CV"
-"-25.5","Estimate","0","Panel A. CV"
-"-25","Estimate","0","Panel A. CV"
-"-24.5","Estimate","0.0000008","Panel A. CV"
-"-24","Estimate","-0.0000069","Panel A. CV"
-"-23.5","Estimate","0.0000497","Panel A. CV"
-"-23","Estimate","0.00011","Panel A. CV"
-"-22.5","Estimate","0.0000941","Panel A. CV"
-"-22","Estimate","0.0002052","Panel A. CV"
-"-21.5","Estimate","0.0003328","Panel A. CV"
-"-21","Estimate","0.0003648","Panel A. CV"
-"-20.5","Estimate","0.0003505","Panel A. CV"
-"-20","Estimate","0.000409","Panel A. CV"
-"-19.5","Estimate","0.0004032","Panel A. CV"
-"-19","Estimate","0.000411","Panel A. CV"
-"-18.5","Estimate","0.0005139","Panel A. CV"
-"-18","Estimate","0.0004998","Panel A. CV"
-"-17.5","Estimate","0.0005068","Panel A. CV"
-"-17","Estimate","0.0004954","Panel A. CV"
-"-16.5","Estimate","0.0006046","Panel A. CV"
-"-16","Estimate","0.0006015","Panel A. CV"
-"-15.5","Estimate","0.000607","Panel A. CV"
-"-15","Estimate","0.0005927","Panel A. CV"
-"-14.5","Estimate","0.0006824","Panel A. CV"
-"-14","Estimate","0.0007029","Panel A. CV"
-"-13.5","Estimate","0.0008168","Panel A. CV"
-"-13","Estimate","0.0009087","Panel A. CV"
-"-12.5","Estimate","0.0009398","Panel A. CV"
-"-12","Estimate","0.0010732","Panel A. CV"
-"-11.5","Estimate","0.0011826","Panel A. CV"
-"-11","Estimate","0.0014043","Panel A. CV"
-"-10.5","Estimate","0.001763","Panel A. CV"
-"-10","Estimate","0.0020971","Panel A. CV"
-"-9.5","Estimate","0.002637","Panel A. CV"
-"-9","Estimate","0.004247","Panel A. CV"
-"-8.5","Estimate","0.0074793","Panel A. CV"
-"-8","Estimate","0.0110607","Panel A. CV"
-"-7.5","Estimate","0.015111","Panel A. CV"
-"-7","Estimate","0.0183453","Panel A. CV"
-"-6.5","Estimate","0.0218441","Panel A. CV"
-"-6","Estimate","0.0252661","Panel A. CV"
-"-5.5","Estimate","0.0292288","Panel A. CV"
-"-5","Estimate","0.0318673","Panel A. CV"
-"-4.5","Estimate","0.0342388","Panel A. CV"
-"-4","Estimate","0.0362509","Panel A. CV"
-"-3.5","Estimate","0.0384068","Panel A. CV"
-"-3","Estimate","0.0399903","Panel A. CV"
-"-2.5","Estimate","0.0415097","Panel A. CV"
-"-2","Estimate","0.0429144","Panel A. CV"
-"-1.5","Estimate","0.0443246","Panel A. CV"
-"-1","Estimate","0.0452722","Panel A. CV"
-"-0.5","Estimate","0.0458323","Panel A. CV"
-"0","Estimate","0.0459951","Panel A. CV"
-"0.5","Estimate","0.0462177","Panel A. CV"
-"1","Estimate","0.0461828","Panel A. CV"
-"1.5","Estimate","0.0457255","Panel A. CV"
-"2","Estimate","0.0447816","Panel A. CV"
-"2.5","Estimate","0.0438363","Panel A. CV"
-"3","Estimate","0.042784","Panel A. CV"
-"3.5","Estimate","0.0413373","Panel A. CV"
-"4","Estimate","0.0396065","Panel A. CV"
-"4.5","Estimate","0.0376733","Panel A. CV"
-"5","Estimate","0.035878","Panel A. CV"
-"5.5","Estimate","0.0336104","Panel A. CV"
-"6","Estimate","0.0298899","Panel A. CV"
-"6.5","Estimate","0.0273893","Panel A. CV"
-"7","Estimate","0.0249196","Panel A. CV"
-"7.5","Estimate","0.0222221","Panel A. CV"
-"8","Estimate","0.0191158","Panel A. CV"
-"8.5","Estimate","0.0152896","Panel A. CV"
-"9","Estimate","0.0123899","Panel A. CV"
-"9.5","Estimate","0.0111496","Panel A. CV"
-"10","Estimate","0.0101806","Panel A. CV"
-"10.5","Estimate","0.0095425","Panel A. CV"
-"11","Estimate","0.0097587","Panel A. CV"
-"11.5","Estimate","0.0098667","Panel A. CV"
-"12","Estimate","0.0102589","Panel A. CV"
-"12.5","Estimate","0.0110384","Panel A. CV"
-"13","Estimate","0.0110059","Panel A. CV"
-"13.5","Estimate","0.0110517","Panel A. CV"
-"14","Estimate","0.0114514","Panel A. CV"
-"14.5","Estimate","0.0118106","Panel A. CV"
-"15","Estimate","0.0121841","Panel A. CV"
-"15.5","Estimate","0.0124379","Panel A. CV"
-"16","Estimate","0.0126204","Panel A. CV"
-"16.5","Estimate","0.0130565","Panel A. CV"
-"17","Estimate","0.0136995","Panel A. CV"
-"17.5","Estimate","0.0141685","Panel A. CV"
-"18","Estimate","0.0144035","Panel A. CV"
-"18.5","Estimate","0.0145036","Panel A. CV"
-"19","Estimate","0.0146091","Panel A. CV"
-"19.5","Estimate","0.0145957","Panel A. CV"
-"20","Estimate","0.0145964","Panel A. CV"
-"20.5","Estimate","0.0145972","Panel A. CV"
-"21","Estimate","0.0145939","Panel A. CV"
-"21.5","Estimate","0.0146084","Panel A. CV"
-"22","Estimate","0.0145089","Panel A. CV"
-"22.5","Estimate","0.0144965","Panel A. CV"
-"23","Estimate","0.0143943","Panel A. CV"
-"23.5","Estimate","0.0143302","Panel A. CV"
-"24","Estimate","0.0141901","Panel A. CV"
-"24.5","Estimate","0.0140653","Panel A. CV"
-"25","Estimate","0.013813","Panel A. CV"
-"25.5","Estimate","0.0135767","Panel A. CV"
-"26","Estimate","0.0133395","Panel A. CV"
-"26.5","Estimate","0.0131027","Panel A. CV"
-"27","Estimate","0.0128616","Panel A. CV"
-"27.5","Estimate","0.0126368","Panel A. CV"
-"28","Estimate","0.0122913","Panel A. CV"
-"28.5","Estimate","0.0120459","Panel A. CV"
-"29","Estimate","0.011669","Panel A. CV"
-"29.5","Estimate","0.0113895","Panel A. CV"
-"30","Estimate","0.0109934","Panel A. CV"
-"30.5","Estimate","0.0107025","Panel A. CV"
-"31","Estimate","0.0102495","Panel A. CV"
-"31.5","Estimate","0.009759","Panel A. CV"
-"32","Estimate","0.0096239","Panel A. CV"
-"32.5","Estimate","0.0091436","Panel A. CV"
-"33","Estimate","0.0086969","Panel A. CV"
-"33.5","Estimate","0.0084737","Panel A. CV"
-"34","Estimate","0.0081244","Panel A. CV"
-"34.5","Estimate","0.0079131","Panel A. CV"
-"35","Estimate","0.0078331","Panel A. CV"
-"35.5","Estimate","0.0074911","Panel A. CV"
-"36","Estimate","0.0071719","Panel A. CV"
-"36.5","Estimate","0.0069437","Panel A. CV"
-"37","Estimate","0.0065951","Panel A. CV"
-"37.5","Estimate","0.0063949","Panel A. CV"
-"38","Estimate","0.0059661","Panel A. CV"
-"38.5","Estimate","0.0055642","Panel A. CV"
-"39","Estimate","0.0054494","Panel A. CV"
-"39.5","Estimate","0.0052156","Panel A. CV"
-"40","Estimate","0.0049974","Panel A. CV"
-"40.5","Estimate","0.0046163","Panel A. CV"
-"41","Estimate","0.0041622","Panel A. CV"
-"41.5","Estimate","0.0041059","Panel A. CV"
-"42","Estimate","0.003899","Panel A. CV"
-"42.5","Estimate","0.0034795","Panel A. CV"
-"43","Estimate","0.0032586","Panel A. CV"
-"43.5","Estimate","0.0030139","Panel A. CV"
-"44","Estimate","0.0027848","Panel A. CV"
-"44.5","Estimate","0.0025291","Panel A. CV"
-"45","Estimate","0.0025121","Panel A. CV"
-"45.5","Estimate","0.002259","Panel A. CV"
-"46","Estimate","0.0020653","Panel A. CV"
-"46.5","Estimate","0.0019553","Panel A. CV"
-"47","Estimate","0.001834","Panel A. CV"
-"47.5","Estimate","0.001717","Panel A. CV"
-"48","Estimate","0.0016081","Panel A. CV"
-"48.5","Estimate","0.0015852","Panel A. CV"
-"49","Estimate","0.0014964","Panel A. CV"
-"49.5","Estimate","0.0015233","Panel A. CV"
-"50","Estimate","0.0014197","Panel A. CV"
-"50.5","Estimate","0.0014085","Panel A. CV"
-"51","Estimate","0.0012796","Panel A. CV"
-"51.5","Estimate","0.0012168","Panel A. CV"
-"52","Estimate","0.0010943","Panel A. CV"
-"52.5","Estimate","0.0009932","Panel A. CV"
-"53","Estimate","0.0010109","Panel A. CV"
-"53.5","Estimate","0.0008953","Panel A. CV"
-"54","Estimate","0.0007714","Panel A. CV"
-"54.5","Estimate","0.0007033","Panel A. CV"
-"55","Estimate","0.0006501","Panel A. CV"
-"55.5","Estimate","0.0005147","Panel A. CV"
-"56","Estimate","0.0005033","Panel A. CV"
-"56.5","Estimate","0.0004871","Panel A. CV"
-"57","Estimate","0.0004029","Panel A. CV"
-"57.5","Estimate","0.0003349","Panel A. CV"
-"58","Estimate","0.0003897","Panel A. CV"
-"58.5","Estimate","0.0002228","Panel A. CV"
-"59","Estimate","0.0002079","Panel A. CV"
-"59.5","Estimate","0.0003396","Panel A. CV"
-"-30","Updated est","-0.0000076","Panel A. CV"
-"-29.5","Updated est","-0.0000069","Panel A. CV"
-"-29","Updated est","-0.0000368","Panel A. CV"
-"-28.5","Updated est","-0.00002","Panel A. CV"
-"-28","Updated est","0.0000455","Panel A. CV"
-"-27.5","Updated est","0.0001266","Panel A. CV"
-"-27","Updated est","0.000219","Panel A. CV"
-"-26.5","Updated est","0.0003092","Panel A. CV"
-"-26","Updated est","0.0003836","Panel A. CV"
-"-25.5","Updated est","0.0004237","Panel A. CV"
-"-25","Updated est","0.0003997","Panel A. CV"
-"-24.5","Updated est","0.0005111","Panel A. CV"
-"-24","Updated est","0.0004886","Panel A. CV"
-"-23.5","Updated est","0.0005203","Panel A. CV"
-"-23","Updated est","0.0005767","Panel A. CV"
-"-22.5","Updated est","0.0006437","Panel A. CV"
-"-22","Updated est","0.0007116","Panel A. CV"
-"-21.5","Updated est","0.0008091","Panel A. CV"
-"-21","Updated est","0.0008075","Panel A. CV"
-"-20.5","Updated est","0.0007889","Panel A. CV"
-"-20","Updated est","0.000905","Panel A. CV"
-"-19.5","Updated est","0.0007959","Panel A. CV"
-"-19","Updated est","0.0008932","Panel A. CV"
-"-18.5","Updated est","0.0010333","Panel A. CV"
-"-18","Updated est","0.0011659","Panel A. CV"
-"-17.5","Updated est","0.0012281","Panel A. CV"
-"-17","Updated est","0.0012965","Panel A. CV"
-"-16.5","Updated est","0.00131","Panel A. CV"
-"-16","Updated est","0.0014897","Panel A. CV"
-"-15.5","Updated est","0.0014527","Panel A. CV"
-"-15","Updated est","0.0016948","Panel A. CV"
-"-14.5","Updated est","0.0019645","Panel A. CV"
-"-14","Updated est","0.0021224","Panel A. CV"
-"-13.5","Updated est","0.0021309","Panel A. CV"
-"-13","Updated est","0.0024786","Panel A. CV"
-"-12.5","Updated est","0.0024668","Panel A. CV"
-"-12","Updated est","0.0032829","Panel A. CV"
-"-11.5","Updated est","0.0037894","Panel A. CV"
-"-11","Updated est","0.0056871","Panel A. CV"
-"-10.5","Updated est","0.0074709","Panel A. CV"
-"-10","Updated est","0.0098423","Panel A. CV"
-"-9.5","Updated est","0.0127939","Panel A. CV"
-"-9","Updated est","0.0156847","Panel A. CV"
-"-8.5","Updated est","0.0181711","Panel A. CV"
-"-8","Updated est","0.0207058","Panel A. CV"
-"-7.5","Updated est","0.0232905","Panel A. CV"
-"-7","Updated est","0.0258109","Panel A. CV"
-"-6.5","Updated est","0.0281081","Panel A. CV"
-"-6","Updated est","0.029776","Panel A. CV"
-"-5.5","Updated est","0.0314321","Panel A. CV"
-"-5","Updated est","0.033021","Panel A. CV"
-"-4.5","Updated est","0.0353354","Panel A. CV"
-"-4","Updated est","0.0367741","Panel A. CV"
-"-3.5","Updated est","0.0386229","Panel A. CV"
-"-3","Updated est","0.0397478","Panel A. CV"
-"-2.5","Updated est","0.0406379","Panel A. CV"
-"-2","Updated est","0.0405695","Panel A. CV"
-"-1.5","Updated est","0.040963","Panel A. CV"
-"-1","Updated est","0.0412756","Panel A. CV"
-"-0.5","Updated est","0.0415374","Panel A. CV"
-"0","Updated est","0.0415856","Panel A. CV"
-"0.5","Updated est","0.0414538","Panel A. CV"
-"1","Updated est","0.0412759","Panel A. CV"
-"1.5","Updated est","0.0405167","Panel A. CV"
-"2","Updated est","0.039653","Panel A. CV"
-"2.5","Updated est","0.0388366","Panel A. CV"
-"3","Updated est","0.0377507","Panel A. CV"
-"3.5","Updated est","0.0362168","Panel A. CV"
-"4","Updated est","0.0352839","Panel A. CV"
-"4.5","Updated est","0.0344835","Panel A. CV"
-"5","Updated est","0.032789","Panel A. CV"
-"5.5","Updated est","0.029796","Panel A. CV"
-"6","Updated est","0.027976","Panel A. CV"
-"6.5","Updated est","0.0256731","Panel A. CV"
-"7","Updated est","0.0234396","Panel A. CV"
-"7.5","Updated est","0.0201986","Panel A. CV"
-"8","Updated est","0.0181516","Panel A. CV"
-"8.5","Updated est","0.0152732","Panel A. CV"
-"9","Updated est","0.0130739","Panel A. CV"
-"9.5","Updated est","0.0122241","Panel A. CV"
-"10","Updated est","0.012055","Panel A. CV"
-"10.5","Updated est","0.0116532","Panel A. CV"
-"11","Updated est","0.0115601","Panel A. CV"
-"11.5","Updated est","0.0115756","Panel A. CV"
-"12","Updated est","0.0115734","Panel A. CV"
-"12.5","Updated est","0.011612","Panel A. CV"
-"13","Updated est","0.0117017","Panel A. CV"
-"13.5","Updated est","0.0116247","Panel A. CV"
-"14","Updated est","0.0115756","Panel A. CV"
-"14.5","Updated est","0.0118056","Panel A. CV"
-"15","Updated est","0.0120489","Panel A. CV"
-"15.5","Updated est","0.0121943","Panel A. CV"
-"16","Updated est","0.0121901","Panel A. CV"
-"16.5","Updated est","0.0120882","Panel A. CV"
-"17","Updated est","0.0120793","Panel A. CV"
-"17.5","Updated est","0.0120148","Panel A. CV"
-"18","Updated est","0.0119195","Panel A. CV"
-"18.5","Updated est","0.0118152","Panel A. CV"
-"19","Updated est","0.0116057","Panel A. CV"
-"19.5","Updated est","0.0115745","Panel A. CV"
-"20","Updated est","0.0115752","Panel A. CV"
-"20.5","Updated est","0.011589","Panel A. CV"
-"21","Updated est","0.0115591","Panel A. CV"
-"21.5","Updated est","0.0114961","Panel A. CV"
-"22","Updated est","0.0114269","Panel A. CV"
-"22.5","Updated est","0.0113756","Panel A. CV"
-"23","Updated est","0.0113695","Panel A. CV"
-"23.5","Updated est","0.0112292","Panel A. CV"
-"24","Updated est","0.0111703","Panel A. CV"
-"24.5","Updated est","0.011128","Panel A. CV"
-"25","Updated est","0.0110143","Panel A. CV"
-"25.5","Updated est","0.0109211","Panel A. CV"
-"26","Updated est","0.010826","Panel A. CV"
-"26.5","Updated est","0.0106777","Panel A. CV"
-"27","Updated est","0.0104335","Panel A. CV"
-"27.5","Updated est","0.0103628","Panel A. CV"
-"28","Updated est","0.0101884","Panel A. CV"
-"28.5","Updated est","0.0099","Panel A. CV"
-"29","Updated est","0.0095977","Panel A. CV"
-"29.5","Updated est","0.0093437","Panel A. CV"
-"30","Updated est","0.0093814","Panel A. CV"
-"30.5","Updated est","0.0091994","Panel A. CV"
-"31","Updated est","0.0089602","Panel A. CV"
-"31.5","Updated est","0.0089289","Panel A. CV"
-"32","Updated est","0.0086783","Panel A. CV"
-"32.5","Updated est","0.008417","Panel A. CV"
-"33","Updated est","0.0083532","Panel A. CV"
-"33.5","Updated est","0.008068","Panel A. CV"
-"34","Updated est","0.0080446","Panel A. CV"
-"34.5","Updated est","0.0077965","Panel A. CV"
-"35","Updated est","0.0077818","Panel A. CV"
-"35.5","Updated est","0.0074982","Panel A. CV"
-"36","Updated est","0.007171","Panel A. CV"
-"36.5","Updated est","0.0069437","Panel A. CV"
-"37","Updated est","0.0065949","Panel A. CV"
-"37.5","Updated est","0.0063963","Panel A. CV"
-"38","Updated est","0.0059588","Panel A. CV"
-"38.5","Updated est","0.0056288","Panel A. CV"
-"39","Updated est","0.0056484","Panel A. CV"
-"39.5","Updated est","0.0053007","Panel A. CV"
-"40","Updated est","0.0050485","Panel A. CV"
-"40.5","Updated est","0.0050305","Panel A. CV"
-"41","Updated est","0.0043417","Panel A. CV"
-"41.5","Updated est","0.0044051","Panel A. CV"
-"42","Updated est","0.0041646","Panel A. CV"
-"42.5","Updated est","0.0040814","Panel A. CV"
-"43","Updated est","0.0037492","Panel A. CV"
-"43.5","Updated est","0.0036716","Panel A. CV"
-"44","Updated est","0.0034914","Panel A. CV"
-"44.5","Updated est","0.0032833","Panel A. CV"
-"45","Updated est","0.0030977","Panel A. CV"
-"45.5","Updated est","0.0030118","Panel A. CV"
-"46","Updated est","0.0028626","Panel A. CV"
-"46.5","Updated est","0.0028098","Panel A. CV"
-"47","Updated est","0.0026253","Panel A. CV"
-"47.5","Updated est","0.0024502","Panel A. CV"
-"48","Updated est","0.0022888","Panel A. CV"
-"48.5","Updated est","0.002205","Panel A. CV"
-"49","Updated est","0.0022455","Panel A. CV"
-"49.5","Updated est","0.0020454","Panel A. CV"
-"50","Updated est","0.0018378","Panel A. CV"
-"50.5","Updated est","0.0017088","Panel A. CV"
-"51","Updated est","0.0015458","Panel A. CV"
-"51.5","Updated est","0.0012917","Panel A. CV"
-"52","Updated est","0.0012766","Panel A. CV"
-"52.5","Updated est","0.0011575","Panel A. CV"
-"53","Updated est","0.0011069","Panel A. CV"
-"53.5","Updated est","0.0009918","Panel A. CV"
-"54","Updated est","0.0009094","Panel A. CV"
-"54.5","Updated est","0.0008269","Panel A. CV"
-"55","Updated est","0.0006189","Panel A. CV"
-"55.5","Updated est","0.0006105","Panel A. CV"
-"56","Updated est","0.0005034","Panel A. CV"
-"56.5","Updated est","0.0005045","Panel A. CV"
-"57","Updated est","0.0005113","Panel A. CV"
-"57.5","Updated est","0.0004439","Panel A. CV"
-"58","Updated est","0.0004148","Panel A. CV"
-"58.5","Updated est","0.000222","Panel A. CV"
-"59","Updated est","0.0002101","Panel A. CV"
-"59.5","Updated est","0.0004016","Panel A. CV"
-"60","Updated est","0.0005339","Panel A. CV"
-"60.5","Updated est","0.0004969","Panel A. CV"
-"61","Updated est","0.0005042","Panel A. CV"
-"61.5","Updated est","0.0005033","Panel A. CV"
-"62","Updated est","0.0005035","Panel A. CV"
-"62.5","Updated est","0.0005029","Panel A. CV"
-"63","Updated est","0.0005012","Panel A. CV"
-"63.5","Updated est","0.0005005","Panel A. CV"
-"64","Updated est","0.0005028","Panel A. CV"
-"64.5","Updated est","0.0005002","Panel A. CV"
-"65","Updated est","0.0003926","Panel A. CV"
-"65.5","Updated est","0.0004108","Panel A. CV"
-"66","Updated est","0.0003776","Panel A. CV"
-"66.5","Updated est","0.0004382","Panel A. CV"
-"67","Updated est","0.00051","Panel A. CV"
-"67.5","Updated est","0.0005761","Panel A. CV"
-"68","Updated est","0.0005977","Panel A. CV"
-"68.5","Updated est","0.0004875","Panel A. CV"
-"69","Updated est","0.0005064","Panel A. CV"
-"69.5","Updated est","0.000503","Panel A. CV"
-"70","Updated est","0.0005033","Panel A. CV"
-"-28.425","Estimate","0.0054299","Panel B. CP"
-"-27.925","Estimate","0.0042162","Panel B. CP"
-"-27.425","Estimate","0.0030059","Panel B. CP"
-"-26.925","Estimate","0.0017849","Panel B. CP"
-"-26.425","Estimate","0.0012072","Panel B. CP"
-"-25.925","Estimate","0.0012062","Panel B. CP"
-"-25.425","Estimate","0.0012062","Panel B. CP"
-"-24.925","Estimate","0.0012061","Panel B. CP"
-"-24.425","Estimate","0.0012061","Panel B. CP"
-"-23.925","Estimate","0.0012061","Panel B. CP"
-"-23.425","Estimate","0.0012061","Panel B. CP"
-"-22.925","Estimate","0.0012061","Panel B. CP"
-"-22.425","Estimate","0.0012061","Panel B. CP"
-"-21.925","Estimate","0.0012061","Panel B. CP"
-"-21.425","Estimate","0.0012061","Panel B. CP"
-"-20.925","Estimate","0.0012061","Panel B. CP"
-"-20.425","Estimate","0.0012061","Panel B. CP"
-"-19.925","Estimate","0.0012061","Panel B. CP"
-"-19.425","Estimate","0.0012061","Panel B. CP"
-"-18.925","Estimate","0.0012061","Panel B. CP"
-"-18.425","Estimate","0.0012061","Panel B. CP"
-"-17.925","Estimate","0.0012054","Panel B. CP"
-"-17.425","Estimate","0.001195","Panel B. CP"
-"-16.925","Estimate","0.0018898","Panel B. CP"
-"-16.425","Estimate","0.003073","Panel B. CP"
-"-15.925","Estimate","0.0048756","Panel B. CP"
-"-15.425","Estimate","0.0054125","Panel B. CP"
-"-14.925","Estimate","0.0039883","Panel B. CP"
-"-14.425","Estimate","0.0023763","Panel B. CP"
-"-13.925","Estimate","0.0018424","Panel B. CP"
-"-13.425","Estimate","0.0011625","Panel B. CP"
-"-12.925","Estimate","0.0012092","Panel B. CP"
-"-12.425","Estimate","0.0012993","Panel B. CP"
-"-11.925","Estimate","0.0019765","Panel B. CP"
-"-11.425","Estimate","0.0031623","Panel B. CP"
-"-10.925","Estimate","0.004188","Panel B. CP"
-"-10.425","Estimate","0.004145","Panel B. CP"
-"-9.925","Estimate","0.0028994","Panel B. CP"
-"-9.425","Estimate","0.0016691","Panel B. CP"
-"-8.925","Estimate","0.0012172","Panel B. CP"
-"-8.425","Estimate","0.0012055","Panel B. CP"
-"-7.925","Estimate","0.0011849","Panel B. CP"
-"-7.425","Estimate","0.0019584","Panel B. CP"
-"-6.925","Estimate","0.0032284","Panel B. CP"
-"-6.425","Estimate","0.005467","Panel B. CP"
-"-5.925","Estimate","0.0069515","Panel B. CP"
-"-5.425","Estimate","0.0093872","Panel B. CP"
-"-4.925","Estimate","0.0113646","Panel B. CP"
-"-4.425","Estimate","0.0149908","Panel B. CP"
-"-3.925","Estimate","0.019365","Panel B. CP"
-"-3.425","Estimate","0.0262056","Panel B. CP"
-"-2.925","Estimate","0.0319438","Panel B. CP"
-"-2.425","Estimate","0.0352792","Panel B. CP"
-"-1.925","Estimate","0.0378285","Panel B. CP"
-"-1.425","Estimate","0.0418773","Panel B. CP"
-"-0.925","Estimate","0.0787567","Panel B. CP"
-"-0.425","Estimate","0.1503637","Panel B. CP"
-"0.075","Estimate","0.2098897","Panel B. CP"
-"1.075","Estimate","0.1505055","Panel B. CP"
-"1.575","Estimate","0.0728213","Panel B. CP"
-"2.075","Estimate","0.022785","Panel B. CP"
-"2.575","Estimate","0.0153827","Panel B. CP"
-"3.075","Estimate","0.0188826","Panel B. CP"
-"3.575","Estimate","0.019952","Panel B. CP"
-"4.075","Estimate","0.0199054","Panel B. CP"
-"4.575","Estimate","0.0199062","Panel B. CP"
-"5.075","Estimate","0.0199653","Panel B. CP"
-"5.575","Estimate","0.0181332","Panel B. CP"
-"6.075","Estimate","0.0169016","Panel B. CP"
-"6.575","Estimate","0.0140646","Panel B. CP"
-"7.075","Estimate","0.0127737","Panel B. CP"
-"7.575","Estimate","0.0104228","Panel B. CP"
-"8.075","Estimate","0.0083256","Panel B. CP"
-"8.575","Estimate","0.0052487","Panel B. CP"
-"9.075","Estimate","0.0036044","Panel B. CP"
-"9.575","Estimate","0.0026374","Panel B. CP"
-"10.075","Estimate","0.0011777","Panel B. CP"
-"10.575","Estimate","0.0012039","Panel B. CP"
-"11.075","Estimate","0.0012025","Panel B. CP"
-"11.575","Estimate","0.001157","Panel B. CP"
-"12.075","Estimate","0.001928","Panel B. CP"
-"12.575","Estimate","0.0011566","Panel B. CP"
-"13.075","Estimate","0.001393","Panel B. CP"
-"13.575","Estimate","0.0034478","Panel B. CP"
-"14.075","Estimate","0.0049054","Panel B. CP"
-"14.575","Estimate","0.0056956","Panel B. CP"
-"15.075","Estimate","0.0047046","Panel B. CP"
-"15.575","Estimate","0.0040034","Panel B. CP"
-"16.075","Estimate","0.0024814","Panel B. CP"
-"16.575","Estimate","0.001175","Panel B. CP"
-"17.075","Estimate","0.00122","Panel B. CP"
-"17.575","Estimate","0.0014977","Panel B. CP"
-"18.075","Estimate","0.0019622","Panel B. CP"
-"18.575","Estimate","0.0037227","Panel B. CP"
-"19.075","Estimate","0.0053722","Panel B. CP"
-"19.575","Estimate","0.00694","Panel B. CP"
-"20.075","Estimate","0.0062185","Panel B. CP"
-"20.575","Estimate","0.0054153","Panel B. CP"
-"21.075","Estimate","0.0045899","Panel B. CP"
-"21.575","Estimate","0.0032291","Panel B. CP"
-"22.075","Estimate","0.002372","Panel B. CP"
-"22.575","Estimate","0.0014487","Panel B. CP"
-"23.075","Estimate","0.001751","Panel B. CP"
-"23.575","Estimate","0.0030104","Panel B. CP"
-"24.075","Estimate","0.0043445","Panel B. CP"
-"24.575","Estimate","0.0042302","Panel B. CP"
-"25.075","Estimate","0.0042208","Panel B. CP"
-"25.575","Estimate","0.0042024","Panel B. CP"
-"26.075","Estimate","0.0038463","Panel B. CP"
-"26.575","Estimate","0.0050025","Panel B. CP"
-"27.075","Estimate","0.0056787","Panel B. CP"
-"27.575","Estimate","0.0063582","Panel B. CP"
-"28.075","Estimate","0.004866","Panel B. CP"
-"28.575","Estimate","0.0023149","Panel B. CP"
-"29.075","Estimate","0.0012081","Panel B. CP"
-"29.575","Estimate","0.0037563","Panel B. CP"
-"30.075","Estimate","0.0068264","Panel B. CP"
-"30.575","Estimate","0.0093264","Panel B. CP"
-"31.075","Estimate","0.0083789","Panel B. CP"
-"31.575","Estimate","0.0052426","Panel B. CP"
-"32.075","Estimate","0.0031132","Panel B. CP"
-"32.575","Estimate","0.0028456","Panel B. CP"
-"33.075","Estimate","0.0011295","Panel B. CP"
-"33.575","Estimate","0.0011963","Panel B. CP"
-"34.075","Estimate","0.0011444","Panel B. CP"
-"34.575","Estimate","0.0019022","Panel B. CP"
-"35.075","Estimate","0.0007552","Panel B. CP"
-"35.575","Estimate","0.0006301","Panel B. CP"
-"36.075","Estimate","0.0010332","Panel B. CP"
-"36.575","Estimate","0.0015432","Panel B. CP"
-"37.075","Estimate","0.0023268","Panel B. CP"
-"37.575","Estimate","0.004062","Panel B. CP"
-"38.075","Estimate","0.0070816","Panel B. CP"
-"38.575","Estimate","0.0107143","Panel B. CP"
-"39.075","Estimate","0.0089557","Panel B. CP"
-"39.575","Estimate","0.0049615","Panel B. CP"
-"40.075","Estimate","0.0026204","Panel B. CP"
-"40.575","Estimate","0.0015267","Panel B. CP"
-"41.075","Estimate","0.0011696","Panel B. CP"
-"41.575","Estimate","0.001904","Panel B. CP"
-"42.075","Estimate","0.0011169","Panel B. CP"
-"42.575","Estimate","0.0019021","Panel B. CP"
-"43.075","Estimate","0.0011755","Panel B. CP"
-"43.575","Estimate","0.0012201","Panel B. CP"
-"44.075","Estimate","0.0016813","Panel B. CP"
-"44.575","Estimate","0.0018561","Panel B. CP"
-"45.075","Estimate","0.0011343","Panel B. CP"
-"45.575","Estimate","0.0023512","Panel B. CP"
-"46.075","Estimate","0.0034039","Panel B. CP"
-"46.575","Estimate","0.004565","Panel B. CP"
-"47.075","Estimate","0.0043616","Panel B. CP"
-"47.575","Estimate","0.0031482","Panel B. CP"
-"48.075","Estimate","0.0019583","Panel B. CP"
-"48.575","Estimate","0.0016224","Panel B. CP"
-"49.075","Estimate","0.0022992","Panel B. CP"
-"49.575","Estimate","0.0052942","Panel B. CP"
-"0.609657","Estimate","0.2521739","Panel B. CP"
-"1.1233032","Estimate","0.2099379","Panel B. CP"
-"-17.425","Updated est","0.0011946","Panel B. CP"
-"-16.925","Updated est","0.0018922","Panel B. CP"
-"-16.425","Updated est","0.0031075","Panel B. CP"
-"-15.925","Updated est","0.0036419","Panel B. CP"
-"-15.425","Updated est","0.0023779","Panel B. CP"
-"-14.925","Updated est","0.0023165","Panel B. CP"
-"-14.425","Updated est","0.0023184","Panel B. CP"
-"-13.925","Updated est","0.0024741","Panel B. CP"
-"-13.425","Updated est","0.0025133","Panel B. CP"
-"-12.925","Updated est","0.0043693","Panel B. CP"
-"-12.425","Updated est","0.0056159","Panel B. CP"
-"-11.925","Updated est","0.0068532","Panel B. CP"
-"-11.425","Updated est","0.007922","Panel B. CP"
-"-10.925","Updated est","0.0046269","Panel B. CP"
-"-10.425","Updated est","0.0053086","Panel B. CP"
-"-9.925","Updated est","0.0090535","Panel B. CP"
-"-9.425","Updated est","0.0106219","Panel B. CP"
-"-8.925","Updated est","0.0109895","Panel B. CP"
-"-8.425","Updated est","0.0135333","Panel B. CP"
-"-7.925","Updated est","0.0150275","Panel B. CP"
-"-7.425","Updated est","0.0149126","Panel B. CP"
-"-6.925","Updated est","0.014267","Panel B. CP"
-"-6.425","Updated est","0.0115321","Panel B. CP"
-"-5.925","Updated est","0.0121253","Panel B. CP"
-"-5.425","Updated est","0.0122787","Panel B. CP"
-"-4.925","Updated est","0.0127371","Panel B. CP"
-"-4.425","Updated est","0.0148581","Panel B. CP"
-"-3.925","Updated est","0.0192282","Panel B. CP"
-"-3.425","Updated est","0.0268371","Panel B. CP"
-"-2.925","Updated est","0.0522692","Panel B. CP"
-"-2.425","Updated est","0.0969731","Panel B. CP"
-"-1.925","Updated est","0.1459089","Panel B. CP"
-"-1.425","Updated est","0.1971318","Panel B. CP"
-"-0.925","Updated est","0.2505239","Panel B. CP"
-"-0.425","Updated est","0.2636145","Panel B. CP"
-"0.075","Updated est","0.2020697","Panel B. CP"
-"0.575","Updated est","0.1338091","Panel B. CP"
-"1.075","Updated est","0.049689","Panel B. CP"
-"1.575","Updated est","0.0313241","Panel B. CP"
-"2.075","Updated est","0.0183839","Panel B. CP"
-"2.575","Updated est","0.0139999","Panel B. CP"
-"3.075","Updated est","0.0102868","Panel B. CP"
-"3.575","Updated est","0.0099675","Panel B. CP"
-"4.075","Updated est","0.0078124","Panel B. CP"
-"4.575","Updated est","0.0047318","Panel B. CP"
-"5.075","Updated est","0.00292","Panel B. CP"
-"5.575","Updated est","0.0051602","Panel B. CP"
-"6.075","Updated est","0.0109725","Panel B. CP"
-"6.575","Updated est","0.0136697","Panel B. CP"
-"7.075","Updated est","0.0130111","Panel B. CP"
-"7.575","Updated est","0.0103283","Panel B. CP"
-"8.075","Updated est","0.0082006","Panel B. CP"
-"8.575","Updated est","0.0107334","Panel B. CP"
-"9.075","Updated est","0.0134533","Panel B. CP"
-"9.575","Updated est","0.0067538","Panel B. CP"
-"10.075","Updated est","0.0053927","Panel B. CP"
-"10.575","Updated est","0.0059386","Panel B. CP"
-"11.075","Updated est","0.0065998","Panel B. CP"
-"11.575","Updated est","0.0040329","Panel B. CP"
-"12.075","Updated est","0.002467","Panel B. CP"
-"12.575","Updated est","0.0011269","Panel B. CP"
-"13.075","Updated est","0.0021406","Panel B. CP"
-"13.575","Updated est","0.0046124","Panel B. CP"
-"14.075","Updated est","0.0048648","Panel B. CP"
-"14.575","Updated est","0.0056921","Panel B. CP"
-"15.075","Updated est","0.0046951","Panel B. CP"
-"15.575","Updated est","0.0038738","Panel B. CP"
-"16.075","Updated est","0.0035752","Panel B. CP"
-"16.575","Updated est","0.0023808","Panel B. CP"
-"17.075","Updated est","0.001286","Panel B. CP"
-"17.575","Updated est","0.0015262","Panel B. CP"
-"18.075","Updated est","0.0023647","Panel B. CP"
-"18.575","Updated est","0.0048444","Panel B. CP"
-"19.075","Updated est","0.0079352","Panel B. CP"
-"19.575","Updated est","0.007358","Panel B. CP"
-"20.075","Updated est","0.006964","Panel B. CP"
-"20.575","Updated est","0.0053387","Panel B. CP"
-"21.075","Updated est","0.0042722","Panel B. CP"
-"21.575","Updated est","0.0057995","Panel B. CP"
-"22.075","Updated est","0.004256","Panel B. CP"
-"22.575","Updated est","0.0019579","Panel B. CP"
-"23.075","Updated est","0.0017797","Panel B. CP"
-"23.575","Updated est","0.0030326","Panel B. CP"
-"24.075","Updated est","0.0047244","Panel B. CP"
-"24.575","Updated est","0.0056859","Panel B. CP"
-"25.075","Updated est","0.004219","Panel B. CP"
-"25.575","Updated est","0.0057987","Panel B. CP"
-"26.075","Updated est","0.004078","Panel B. CP"
-"26.575","Updated est","0.0050378","Panel B. CP"
-"27.075","Updated est","0.0029474","Panel B. CP"
-"27.575","Updated est","0.0008701","Panel B. CP"
-"28.075","Updated est","0.0011159","Panel B. CP"
-"28.575","Updated est","0.0018311","Panel B. CP"
-"29.075","Updated est","0.0012806","Panel B. CP"
-"29.575","Updated est","0.0022317","Panel B. CP"
-"30.075","Updated est","0.0010666","Panel B. CP"
-"30.575","Updated est","0.0011074","Panel B. CP"
-"31.075","Updated est","0.0015203","Panel B. CP"
-"31.575","Updated est","0.0047489","Panel B. CP"
-"32.075","Updated est","0.0035353","Panel B. CP"
-"32.575","Updated est","0.0042648","Panel B. CP"
-"33.075","Updated est","0.004176","Panel B. CP"
-"33.575","Updated est","0.0040074","Panel B. CP"
-"34.075","Updated est","0.0030248","Panel B. CP"
-"34.575","Updated est","0.0019331","Panel B. CP"
-"35.075","Updated est","0.0011636","Panel B. CP"
-"35.575","Updated est","0.001204","Panel B. CP"
-"36.075","Updated est","0.0012182","Panel B. CP"
-"36.575","Updated est","0.0015583","Panel B. CP"
-"37.075","Updated est","0.0023774","Panel B. CP"
-"37.575","Updated est","0.0030315","Panel B. CP"
-"38.075","Updated est","0.0024387","Panel B. CP"
-"38.575","Updated est","0.0031311","Panel B. CP"
-"39.075","Updated est","0.0032062","Panel B. CP"
-"39.575","Updated est","0.0036538","Panel B. CP"
-"40.075","Updated est","0.0031272","Panel B. CP"
-"40.575","Updated est","0.001677","Panel B. CP"
-"41.075","Updated est","0.0011792","Panel B. CP"
-"41.575","Updated est","0.001906","Panel B. CP"
-"42.075","Updated est","0.0011355","Panel B. CP"
-"42.575","Updated est","0.0023952","Panel B. CP"
-"43.075","Updated est","0.0007352","Panel B. CP"
-"43.575","Updated est","0.0045668","Panel B. CP"
-"44.075","Updated est","0.0024378","Panel B. CP"
-"44.575","Updated est","0.0019937","Panel B. CP"
-"45.075","Updated est","0.0011267","Panel B. CP"
-"45.575","Updated est","0.0018534","Panel B. CP"
-"46.075","Updated est","0.0022941","Panel B. CP"
-"46.575","Updated est","0.0023806","Panel B. CP"
-"47.075","Updated est","0.0024532","Panel B. CP"
-"47.575","Updated est","0.0024394","Panel B. CP"
-"48.075","Updated est","0.001851","Panel B. CP"
-"48.575","Updated est","0.0016814","Panel B. CP"
-"49.075","Updated est","0.0018529","Panel B. CP"
-"49.575","Updated est","0.0016119","Panel B. CP"
-"50.075","Updated est","0.0013317","Panel B. CP"
-"50.575","Updated est","0.0011821","Panel B. CP"
-"51.075","Updated est","0.0012045","Panel B. CP"
-"51.575","Updated est","0.001206","Panel B. CP"
-"52.075","Updated est","0.0012062","Panel B. CP"
-"52.575","Updated est","0.0012062","Panel B. CP"
-"53.075","Updated est","0.0012061","Panel B. CP"
-"53.575","Updated est","0.0012061","Panel B. CP"
-"54.075","Updated est","0.0012061","Panel B. CP"
-"54.575","Updated est","0.0012061","Panel B. CP"
-"55.075","Updated est","0.0012061","Panel B. CP"
-"55.575","Updated est","0.0012061","Panel B. CP"
-"56.075","Updated est","0.0012061","Panel B. CP"
-"56.575","Updated est","0.0012061","Panel B. CP"
-"57.075","Updated est","0.0012061","Panel B. CP"
-"57.575","Updated est","0.0012061","Panel B. CP"
-"58.075","Updated est","0.0012061","Panel B. CP"
-"58.575","Updated est","0.0012061","Panel B. CP"
+Subplot Value,Type-2,Type-1,Value
+Panel A. CV,Estimate,-42.0,0.0002008
+Panel A. CV,Estimate,-41.5,0.0002005
+Panel A. CV,Estimate,-41.0,0.0002206
+Panel A. CV,Estimate,-40.5,0.0003128
+Panel A. CV,Estimate,-40.0,0.0002996
+Panel A. CV,Estimate,-39.5,0.0003024
+Panel A. CV,Estimate,-39.0,0.000302
+Panel A. CV,Estimate,-38.5,0.000302
+Panel A. CV,Estimate,-38.0,0.000302
+Panel A. CV,Estimate,-37.5,0.000302
+Panel A. CV,Estimate,-37.0,0.0003021
+Panel A. CV,Estimate,-36.5,0.0003019
+Panel A. CV,Estimate,-36.0,0.0003019
+Panel A. CV,Estimate,-35.5,0.0003062
+Panel A. CV,Estimate,-35.0,0.0002662
+Panel A. CV,Estimate,-34.5,0.0001918
+Panel A. CV,Estimate,-34.0,0.0002036
+Panel A. CV,Estimate,-33.5,0.0002
+Panel A. CV,Estimate,-33.0,0.0001944
+Panel A. CV,Estimate,-32.5,9.06e-05
+Panel A. CV,Estimate,-32.0,0.0001033
+Panel A. CV,Estimate,-31.5,0.0001009
+Panel A. CV,Estimate,-31.0,9.85e-05
+Panel A. CV,Estimate,-30.5,0.0001013
+Panel A. CV,Estimate,-30.0,-7.9e-06
+Panel A. CV,Estimate,-29.5,2.9e-06
+Panel A. CV,Estimate,-29.0,-7e-07
+Panel A. CV,Estimate,-28.5,1e-07
+Panel A. CV,Estimate,-28.0,0.0
+Panel A. CV,Estimate,-27.5,0.0
+Panel A. CV,Estimate,-27.0,0.0
+Panel A. CV,Estimate,-26.5,0.0
+Panel A. CV,Estimate,-26.0,0.0
+Panel A. CV,Estimate,-25.5,0.0
+Panel A. CV,Estimate,-25.0,0.0
+Panel A. CV,Estimate,-24.5,8e-07
+Panel A. CV,Estimate,-24.0,-6.9e-06
+Panel A. CV,Estimate,-23.5,4.97e-05
+Panel A. CV,Estimate,-23.0,0.00011
+Panel A. CV,Estimate,-22.5,9.41e-05
+Panel A. CV,Estimate,-22.0,0.0002052
+Panel A. CV,Estimate,-21.5,0.0003328
+Panel A. CV,Estimate,-21.0,0.0003648
+Panel A. CV,Estimate,-20.5,0.0003505
+Panel A. CV,Estimate,-20.0,0.000409
+Panel A. CV,Estimate,-19.5,0.0004032
+Panel A. CV,Estimate,-19.0,0.000411
+Panel A. CV,Estimate,-18.5,0.0005139
+Panel A. CV,Estimate,-18.0,0.0004998
+Panel A. CV,Estimate,-17.5,0.0005068
+Panel A. CV,Estimate,-17.0,0.0004954
+Panel A. CV,Estimate,-16.5,0.0006046
+Panel A. CV,Estimate,-16.0,0.0006015
+Panel A. CV,Estimate,-15.5,0.000607
+Panel A. CV,Estimate,-15.0,0.0005927
+Panel A. CV,Estimate,-14.5,0.0006824
+Panel A. CV,Estimate,-14.0,0.0007029
+Panel A. CV,Estimate,-13.5,0.0008168
+Panel A. CV,Estimate,-13.0,0.0009087
+Panel A. CV,Estimate,-12.5,0.0009398
+Panel A. CV,Estimate,-12.0,0.0010732
+Panel A. CV,Estimate,-11.5,0.0011826
+Panel A. CV,Estimate,-11.0,0.0014043
+Panel A. CV,Estimate,-10.5,0.001763
+Panel A. CV,Estimate,-10.0,0.0020971
+Panel A. CV,Estimate,-9.5,0.002637
+Panel A. CV,Estimate,-9.0,0.004247
+Panel A. CV,Estimate,-8.5,0.0074793
+Panel A. CV,Estimate,-8.0,0.0110607
+Panel A. CV,Estimate,-7.5,0.015111
+Panel A. CV,Estimate,-7.0,0.0183453
+Panel A. CV,Estimate,-6.5,0.0218441
+Panel A. CV,Estimate,-6.0,0.0252661
+Panel A. CV,Estimate,-5.5,0.0292288
+Panel A. CV,Estimate,-5.0,0.0318673
+Panel A. CV,Estimate,-4.5,0.0342388
+Panel A. CV,Estimate,-4.0,0.0362509
+Panel A. CV,Estimate,-3.5,0.0384068
+Panel A. CV,Estimate,-3.0,0.0399903
+Panel A. CV,Estimate,-2.5,0.0415097
+Panel A. CV,Estimate,-2.0,0.0429144
+Panel A. CV,Estimate,-1.5,0.0443246
+Panel A. CV,Estimate,-1.0,0.0452722
+Panel A. CV,Estimate,-0.5,0.0458323
+Panel A. CV,Estimate,0.0,0.0459951
+Panel A. CV,Estimate,0.5,0.0462177
+Panel A. CV,Estimate,1.0,0.0461828
+Panel A. CV,Estimate,1.5,0.0457255
+Panel A. CV,Estimate,2.0,0.0447816
+Panel A. CV,Estimate,2.5,0.0438363
+Panel A. CV,Estimate,3.0,0.042784
+Panel A. CV,Estimate,3.5,0.0413373
+Panel A. CV,Estimate,4.0,0.0396065
+Panel A. CV,Estimate,4.5,0.0376733
+Panel A. CV,Estimate,5.0,0.035878
+Panel A. CV,Estimate,5.5,0.0336104
+Panel A. CV,Estimate,6.0,0.0298899
+Panel A. CV,Estimate,6.5,0.0273893
+Panel A. CV,Estimate,7.0,0.0249196
+Panel A. CV,Estimate,7.5,0.0222221
+Panel A. CV,Estimate,8.0,0.0191158
+Panel A. CV,Estimate,8.5,0.0152896
+Panel A. CV,Estimate,9.0,0.0123899
+Panel A. CV,Estimate,9.5,0.0111496
+Panel A. CV,Estimate,10.0,0.0101806
+Panel A. CV,Estimate,10.5,0.0095425
+Panel A. CV,Estimate,11.0,0.0097587
+Panel A. CV,Estimate,11.5,0.0098667
+Panel A. CV,Estimate,12.0,0.0102589
+Panel A. CV,Estimate,12.5,0.0110384
+Panel A. CV,Estimate,13.0,0.0110059
+Panel A. CV,Estimate,13.5,0.0110517
+Panel A. CV,Estimate,14.0,0.0114514
+Panel A. CV,Estimate,14.5,0.0118106
+Panel A. CV,Estimate,15.0,0.0121841
+Panel A. CV,Estimate,15.5,0.0124379
+Panel A. CV,Estimate,16.0,0.0126204
+Panel A. CV,Estimate,16.5,0.0130565
+Panel A. CV,Estimate,17.0,0.0136995
+Panel A. CV,Estimate,17.5,0.0141685
+Panel A. CV,Estimate,18.0,0.0144035
+Panel A. CV,Estimate,18.5,0.0145036
+Panel A. CV,Estimate,19.0,0.0146091
+Panel A. CV,Estimate,19.5,0.0145957
+Panel A. CV,Estimate,20.0,0.0145964
+Panel A. CV,Estimate,20.5,0.0145972
+Panel A. CV,Estimate,21.0,0.0145939
+Panel A. CV,Estimate,21.5,0.0146084
+Panel A. CV,Estimate,22.0,0.0145089
+Panel A. CV,Estimate,22.5,0.0144965
+Panel A. CV,Estimate,23.0,0.0143943
+Panel A. CV,Estimate,23.5,0.0143302
+Panel A. CV,Estimate,24.0,0.0141901
+Panel A. CV,Estimate,24.5,0.0140653
+Panel A. CV,Estimate,25.0,0.013813
+Panel A. CV,Estimate,25.5,0.0135767
+Panel A. CV,Estimate,26.0,0.0133395
+Panel A. CV,Estimate,26.5,0.0131027
+Panel A. CV,Estimate,27.0,0.0128616
+Panel A. CV,Estimate,27.5,0.0126368
+Panel A. CV,Estimate,28.0,0.0122913
+Panel A. CV,Estimate,28.5,0.0120459
+Panel A. CV,Estimate,29.0,0.011669
+Panel A. CV,Estimate,29.5,0.0113895
+Panel A. CV,Estimate,30.0,0.0109934
+Panel A. CV,Estimate,30.5,0.0107025
+Panel A. CV,Estimate,31.0,0.0102495
+Panel A. CV,Estimate,31.5,0.009759
+Panel A. CV,Estimate,32.0,0.0096239
+Panel A. CV,Estimate,32.5,0.0091436
+Panel A. CV,Estimate,33.0,0.0086969
+Panel A. CV,Estimate,33.5,0.0084737
+Panel A. CV,Estimate,34.0,0.0081244
+Panel A. CV,Estimate,34.5,0.0079131
+Panel A. CV,Estimate,35.0,0.0078331
+Panel A. CV,Estimate,35.5,0.0074911
+Panel A. CV,Estimate,36.0,0.0071719
+Panel A. CV,Estimate,36.5,0.0069437
+Panel A. CV,Estimate,37.0,0.0065951
+Panel A. CV,Estimate,37.5,0.0063949
+Panel A. CV,Estimate,38.0,0.0059661
+Panel A. CV,Estimate,38.5,0.0055642
+Panel A. CV,Estimate,39.0,0.0054494
+Panel A. CV,Estimate,39.5,0.0052156
+Panel A. CV,Estimate,40.0,0.0049974
+Panel A. CV,Estimate,40.5,0.0046163
+Panel A. CV,Estimate,41.0,0.0041622
+Panel A. CV,Estimate,41.5,0.0041059
+Panel A. CV,Estimate,42.0,0.003899
+Panel A. CV,Estimate,42.5,0.0034795
+Panel A. CV,Estimate,43.0,0.0032586
+Panel A. CV,Estimate,43.5,0.0030139
+Panel A. CV,Estimate,44.0,0.0027848
+Panel A. CV,Estimate,44.5,0.0025291
+Panel A. CV,Estimate,45.0,0.0025121
+Panel A. CV,Estimate,45.5,0.002259
+Panel A. CV,Estimate,46.0,0.0020653
+Panel A. CV,Estimate,46.5,0.0019553
+Panel A. CV,Estimate,47.0,0.001834
+Panel A. CV,Estimate,47.5,0.001717
+Panel A. CV,Estimate,48.0,0.0016081
+Panel A. CV,Estimate,48.5,0.0015852
+Panel A. CV,Estimate,49.0,0.0014964
+Panel A. CV,Estimate,49.5,0.0015233
+Panel A. CV,Estimate,50.0,0.0014197
+Panel A. CV,Estimate,50.5,0.0014085
+Panel A. CV,Estimate,51.0,0.0012796
+Panel A. CV,Estimate,51.5,0.0012168
+Panel A. CV,Estimate,52.0,0.0010943
+Panel A. CV,Estimate,52.5,0.0009932
+Panel A. CV,Estimate,53.0,0.0010109
+Panel A. CV,Estimate,53.5,0.0008953
+Panel A. CV,Estimate,54.0,0.0007714
+Panel A. CV,Estimate,54.5,0.0007033
+Panel A. CV,Estimate,55.0,0.0006501
+Panel A. CV,Estimate,55.5,0.0005147
+Panel A. CV,Estimate,56.0,0.0005033
+Panel A. CV,Estimate,56.5,0.0004871
+Panel A. CV,Estimate,57.0,0.0004029
+Panel A. CV,Estimate,57.5,0.0003349
+Panel A. CV,Estimate,58.0,0.0003897
+Panel A. CV,Estimate,58.5,0.0002228
+Panel A. CV,Estimate,59.0,0.0002079
+Panel A. CV,Estimate,59.5,0.0003396
+Panel A. CV,Updated est,-30.0,-7.6e-06
+Panel A. CV,Updated est,-29.5,-6.9e-06
+Panel A. CV,Updated est,-29.0,-3.68e-05
+Panel A. CV,Updated est,-28.5,-2e-05
+Panel A. CV,Updated est,-28.0,4.55e-05
+Panel A. CV,Updated est,-27.5,0.0001266
+Panel A. CV,Updated est,-27.0,0.000219
+Panel A. CV,Updated est,-26.5,0.0003092
+Panel A. CV,Updated est,-26.0,0.0003836
+Panel A. CV,Updated est,-25.5,0.0004237
+Panel A. CV,Updated est,-25.0,0.0003997
+Panel A. CV,Updated est,-24.5,0.0005111
+Panel A. CV,Updated est,-24.0,0.0004886
+Panel A. CV,Updated est,-23.5,0.0005203
+Panel A. CV,Updated est,-23.0,0.0005767
+Panel A. CV,Updated est,-22.5,0.0006437
+Panel A. CV,Updated est,-22.0,0.0007116
+Panel A. CV,Updated est,-21.5,0.0008091
+Panel A. CV,Updated est,-21.0,0.0008075
+Panel A. CV,Updated est,-20.5,0.0007889
+Panel A. CV,Updated est,-20.0,0.000905
+Panel A. CV,Updated est,-19.5,0.0007959
+Panel A. CV,Updated est,-19.0,0.0008932
+Panel A. CV,Updated est,-18.5,0.0010333
+Panel A. CV,Updated est,-18.0,0.0011659
+Panel A. CV,Updated est,-17.5,0.0012281
+Panel A. CV,Updated est,-17.0,0.0012965
+Panel A. CV,Updated est,-16.5,0.00131
+Panel A. CV,Updated est,-16.0,0.0014897
+Panel A. CV,Updated est,-15.5,0.0014527
+Panel A. CV,Updated est,-15.0,0.0016948
+Panel A. CV,Updated est,-14.5,0.0019645
+Panel A. CV,Updated est,-14.0,0.0021224
+Panel A. CV,Updated est,-13.5,0.0021309
+Panel A. CV,Updated est,-13.0,0.0024786
+Panel A. CV,Updated est,-12.5,0.0024668
+Panel A. CV,Updated est,-12.0,0.0032829
+Panel A. CV,Updated est,-11.5,0.0037894
+Panel A. CV,Updated est,-11.0,0.0056871
+Panel A. CV,Updated est,-10.5,0.0074709
+Panel A. CV,Updated est,-10.0,0.0098423
+Panel A. CV,Updated est,-9.5,0.0127939
+Panel A. CV,Updated est,-9.0,0.0156847
+Panel A. CV,Updated est,-8.5,0.0181711
+Panel A. CV,Updated est,-8.0,0.0207058
+Panel A. CV,Updated est,-7.5,0.0232905
+Panel A. CV,Updated est,-7.0,0.0258109
+Panel A. CV,Updated est,-6.5,0.0281081
+Panel A. CV,Updated est,-6.0,0.029776
+Panel A. CV,Updated est,-5.5,0.0314321
+Panel A. CV,Updated est,-5.0,0.033021
+Panel A. CV,Updated est,-4.5,0.0353354
+Panel A. CV,Updated est,-4.0,0.0367741
+Panel A. CV,Updated est,-3.5,0.0386229
+Panel A. CV,Updated est,-3.0,0.0397478
+Panel A. CV,Updated est,-2.5,0.0406379
+Panel A. CV,Updated est,-2.0,0.0405695
+Panel A. CV,Updated est,-1.5,0.040963
+Panel A. CV,Updated est,-1.0,0.0412756
+Panel A. CV,Updated est,-0.5,0.0415374
+Panel A. CV,Updated est,0.0,0.0415856
+Panel A. CV,Updated est,0.5,0.0414538
+Panel A. CV,Updated est,1.0,0.0412759
+Panel A. CV,Updated est,1.5,0.0405167
+Panel A. CV,Updated est,2.0,0.039653
+Panel A. CV,Updated est,2.5,0.0388366
+Panel A. CV,Updated est,3.0,0.0377507
+Panel A. CV,Updated est,3.5,0.0362168
+Panel A. CV,Updated est,4.0,0.0352839
+Panel A. CV,Updated est,4.5,0.0344835
+Panel A. CV,Updated est,5.0,0.032789
+Panel A. CV,Updated est,5.5,0.029796
+Panel A. CV,Updated est,6.0,0.027976
+Panel A. CV,Updated est,6.5,0.0256731
+Panel A. CV,Updated est,7.0,0.0234396
+Panel A. CV,Updated est,7.5,0.0201986
+Panel A. CV,Updated est,8.0,0.0181516
+Panel A. CV,Updated est,8.5,0.0152732
+Panel A. CV,Updated est,9.0,0.0130739
+Panel A. CV,Updated est,9.5,0.0122241
+Panel A. CV,Updated est,10.0,0.012055
+Panel A. CV,Updated est,10.5,0.0116532
+Panel A. CV,Updated est,11.0,0.0115601
+Panel A. CV,Updated est,11.5,0.0115756
+Panel A. CV,Updated est,12.0,0.0115734
+Panel A. CV,Updated est,12.5,0.011612
+Panel A. CV,Updated est,13.0,0.0117017
+Panel A. CV,Updated est,13.5,0.0116247
+Panel A. CV,Updated est,14.0,0.0115756
+Panel A. CV,Updated est,14.5,0.0118056
+Panel A. CV,Updated est,15.0,0.0120489
+Panel A. CV,Updated est,15.5,0.0121943
+Panel A. CV,Updated est,16.0,0.0121901
+Panel A. CV,Updated est,16.5,0.0120882
+Panel A. CV,Updated est,17.0,0.0120793
+Panel A. CV,Updated est,17.5,0.0120148
+Panel A. CV,Updated est,18.0,0.0119195
+Panel A. CV,Updated est,18.5,0.0118152
+Panel A. CV,Updated est,19.0,0.0116057
+Panel A. CV,Updated est,19.5,0.0115745
+Panel A. CV,Updated est,20.0,0.0115752
+Panel A. CV,Updated est,20.5,0.011589
+Panel A. CV,Updated est,21.0,0.0115591
+Panel A. CV,Updated est,21.5,0.0114961
+Panel A. CV,Updated est,22.0,0.0114269
+Panel A. CV,Updated est,22.5,0.0113756
+Panel A. CV,Updated est,23.0,0.0113695
+Panel A. CV,Updated est,23.5,0.0112292
+Panel A. CV,Updated est,24.0,0.0111703
+Panel A. CV,Updated est,24.5,0.011128
+Panel A. CV,Updated est,25.0,0.0110143
+Panel A. CV,Updated est,25.5,0.0109211
+Panel A. CV,Updated est,26.0,0.010826
+Panel A. CV,Updated est,26.5,0.0106777
+Panel A. CV,Updated est,27.0,0.0104335
+Panel A. CV,Updated est,27.5,0.0103628
+Panel A. CV,Updated est,28.0,0.0101884
+Panel A. CV,Updated est,28.5,0.0099
+Panel A. CV,Updated est,29.0,0.0095977
+Panel A. CV,Updated est,29.5,0.0093437
+Panel A. CV,Updated est,30.0,0.0093814
+Panel A. CV,Updated est,30.5,0.0091994
+Panel A. CV,Updated est,31.0,0.0089602
+Panel A. CV,Updated est,31.5,0.0089289
+Panel A. CV,Updated est,32.0,0.0086783
+Panel A. CV,Updated est,32.5,0.008417
+Panel A. CV,Updated est,33.0,0.0083532
+Panel A. CV,Updated est,33.5,0.008068
+Panel A. CV,Updated est,34.0,0.0080446
+Panel A. CV,Updated est,34.5,0.0077965
+Panel A. CV,Updated est,35.0,0.0077818
+Panel A. CV,Updated est,35.5,0.0074982
+Panel A. CV,Updated est,36.0,0.007171
+Panel A. CV,Updated est,36.5,0.0069437
+Panel A. CV,Updated est,37.0,0.0065949
+Panel A. CV,Updated est,37.5,0.0063963
+Panel A. CV,Updated est,38.0,0.0059588
+Panel A. CV,Updated est,38.5,0.0056288
+Panel A. CV,Updated est,39.0,0.0056484
+Panel A. CV,Updated est,39.5,0.0053007
+Panel A. CV,Updated est,40.0,0.0050485
+Panel A. CV,Updated est,40.5,0.0050305
+Panel A. CV,Updated est,41.0,0.0043417
+Panel A. CV,Updated est,41.5,0.0044051
+Panel A. CV,Updated est,42.0,0.0041646
+Panel A. CV,Updated est,42.5,0.0040814
+Panel A. CV,Updated est,43.0,0.0037492
+Panel A. CV,Updated est,43.5,0.0036716
+Panel A. CV,Updated est,44.0,0.0034914
+Panel A. CV,Updated est,44.5,0.0032833
+Panel A. CV,Updated est,45.0,0.0030977
+Panel A. CV,Updated est,45.5,0.0030118
+Panel A. CV,Updated est,46.0,0.0028626
+Panel A. CV,Updated est,46.5,0.0028098
+Panel A. CV,Updated est,47.0,0.0026253
+Panel A. CV,Updated est,47.5,0.0024502
+Panel A. CV,Updated est,48.0,0.0022888
+Panel A. CV,Updated est,48.5,0.002205
+Panel A. CV,Updated est,49.0,0.0022455
+Panel A. CV,Updated est,49.5,0.0020454
+Panel A. CV,Updated est,50.0,0.0018378
+Panel A. CV,Updated est,50.5,0.0017088
+Panel A. CV,Updated est,51.0,0.0015458
+Panel A. CV,Updated est,51.5,0.0012917
+Panel A. CV,Updated est,52.0,0.0012766
+Panel A. CV,Updated est,52.5,0.0011575
+Panel A. CV,Updated est,53.0,0.0011069
+Panel A. CV,Updated est,53.5,0.0009918
+Panel A. CV,Updated est,54.0,0.0009094
+Panel A. CV,Updated est,54.5,0.0008269
+Panel A. CV,Updated est,55.0,0.0006189
+Panel A. CV,Updated est,55.5,0.0006105
+Panel A. CV,Updated est,56.0,0.0005034
+Panel A. CV,Updated est,56.5,0.0005045
+Panel A. CV,Updated est,57.0,0.0005113
+Panel A. CV,Updated est,57.5,0.0004439
+Panel A. CV,Updated est,58.0,0.0004148
+Panel A. CV,Updated est,58.5,0.000222
+Panel A. CV,Updated est,59.0,0.0002101
+Panel A. CV,Updated est,59.5,0.0004016
+Panel A. CV,Updated est,60.0,0.0005339
+Panel A. CV,Updated est,60.5,0.0004969
+Panel A. CV,Updated est,61.0,0.0005042
+Panel A. CV,Updated est,61.5,0.0005033
+Panel A. CV,Updated est,62.0,0.0005035
+Panel A. CV,Updated est,62.5,0.0005029
+Panel A. CV,Updated est,63.0,0.0005012
+Panel A. CV,Updated est,63.5,0.0005005
+Panel A. CV,Updated est,64.0,0.0005028
+Panel A. CV,Updated est,64.5,0.0005002
+Panel A. CV,Updated est,65.0,0.0003926
+Panel A. CV,Updated est,65.5,0.0004108
+Panel A. CV,Updated est,66.0,0.0003776
+Panel A. CV,Updated est,66.5,0.0004382
+Panel A. CV,Updated est,67.0,0.00051
+Panel A. CV,Updated est,67.5,0.0005761
+Panel A. CV,Updated est,68.0,0.0005977
+Panel A. CV,Updated est,68.5,0.0004875
+Panel A. CV,Updated est,69.0,0.0005064
+Panel A. CV,Updated est,69.5,0.000503
+Panel A. CV,Updated est,70.0,0.0005033
+Panel B. CP,Estimate,-28.425,0.0054299
+Panel B. CP,Estimate,-27.925,0.0042162
+Panel B. CP,Estimate,-27.425,0.0030059
+Panel B. CP,Estimate,-26.925,0.0017849
+Panel B. CP,Estimate,-26.425,0.0012072
+Panel B. CP,Estimate,-25.925,0.0012062
+Panel B. CP,Estimate,-25.425,0.0012062
+Panel B. CP,Estimate,-24.925,0.0012061
+Panel B. CP,Estimate,-24.425,0.0012061
+Panel B. CP,Estimate,-23.925,0.0012061
+Panel B. CP,Estimate,-23.425,0.0012061
+Panel B. CP,Estimate,-22.925,0.0012061
+Panel B. CP,Estimate,-22.425,0.0012061
+Panel B. CP,Estimate,-21.925,0.0012061
+Panel B. CP,Estimate,-21.425,0.0012061
+Panel B. CP,Estimate,-20.925,0.0012061
+Panel B. CP,Estimate,-20.425,0.0012061
+Panel B. CP,Estimate,-19.925,0.0012061
+Panel B. CP,Estimate,-19.425,0.0012061
+Panel B. CP,Estimate,-18.925,0.0012061
+Panel B. CP,Estimate,-18.425,0.0012061
+Panel B. CP,Estimate,-17.925,0.0012054
+Panel B. CP,Estimate,-17.425,0.001195
+Panel B. CP,Estimate,-16.925,0.0018898
+Panel B. CP,Estimate,-16.425,0.003073
+Panel B. CP,Estimate,-15.925,0.0048756
+Panel B. CP,Estimate,-15.425,0.0054125
+Panel B. CP,Estimate,-14.925,0.0039883
+Panel B. CP,Estimate,-14.425,0.0023763
+Panel B. CP,Estimate,-13.925,0.0018424
+Panel B. CP,Estimate,-13.425,0.0011625
+Panel B. CP,Estimate,-12.925,0.0012092
+Panel B. CP,Estimate,-12.425,0.0012993
+Panel B. CP,Estimate,-11.925,0.0019765
+Panel B. CP,Estimate,-11.425,0.0031623
+Panel B. CP,Estimate,-10.925,0.004188
+Panel B. CP,Estimate,-10.425,0.004145
+Panel B. CP,Estimate,-9.925,0.0028994
+Panel B. CP,Estimate,-9.425,0.0016691
+Panel B. CP,Estimate,-8.925,0.0012172
+Panel B. CP,Estimate,-8.425,0.0012055
+Panel B. CP,Estimate,-7.925,0.0011849
+Panel B. CP,Estimate,-7.425,0.0019584
+Panel B. CP,Estimate,-6.925,0.0032284
+Panel B. CP,Estimate,-6.425,0.005467
+Panel B. CP,Estimate,-5.925,0.0069515
+Panel B. CP,Estimate,-5.425,0.0093872
+Panel B. CP,Estimate,-4.925,0.0113646
+Panel B. CP,Estimate,-4.425,0.0149908
+Panel B. CP,Estimate,-3.925,0.019365
+Panel B. CP,Estimate,-3.425,0.0262056
+Panel B. CP,Estimate,-2.925,0.0319438
+Panel B. CP,Estimate,-2.425,0.0352792
+Panel B. CP,Estimate,-1.925,0.0378285
+Panel B. CP,Estimate,-1.425,0.0418773
+Panel B. CP,Estimate,-0.925,0.0787567
+Panel B. CP,Estimate,-0.425,0.1503637
+Panel B. CP,Estimate,0.075,0.2098897
+Panel B. CP,Estimate,1.075,0.1505055
+Panel B. CP,Estimate,1.575,0.0728213
+Panel B. CP,Estimate,2.075,0.022785
+Panel B. CP,Estimate,2.575,0.0153827
+Panel B. CP,Estimate,3.075,0.0188826
+Panel B. CP,Estimate,3.575,0.019952
+Panel B. CP,Estimate,4.075,0.0199054
+Panel B. CP,Estimate,4.575,0.0199062
+Panel B. CP,Estimate,5.075,0.0199653
+Panel B. CP,Estimate,5.575,0.0181332
+Panel B. CP,Estimate,6.075,0.0169016
+Panel B. CP,Estimate,6.575,0.0140646
+Panel B. CP,Estimate,7.075,0.0127737
+Panel B. CP,Estimate,7.575,0.0104228
+Panel B. CP,Estimate,8.075,0.0083256
+Panel B. CP,Estimate,8.575,0.0052487
+Panel B. CP,Estimate,9.075,0.0036044
+Panel B. CP,Estimate,9.575,0.0026374
+Panel B. CP,Estimate,10.075,0.0011777
+Panel B. CP,Estimate,10.575,0.0012039
+Panel B. CP,Estimate,11.075,0.0012025
+Panel B. CP,Estimate,11.575,0.001157
+Panel B. CP,Estimate,12.075,0.001928
+Panel B. CP,Estimate,12.575,0.0011566
+Panel B. CP,Estimate,13.075,0.001393
+Panel B. CP,Estimate,13.575,0.0034478
+Panel B. CP,Estimate,14.075,0.0049054
+Panel B. CP,Estimate,14.575,0.0056956
+Panel B. CP,Estimate,15.075,0.0047046
+Panel B. CP,Estimate,15.575,0.0040034
+Panel B. CP,Estimate,16.075,0.0024814
+Panel B. CP,Estimate,16.575,0.001175
+Panel B. CP,Estimate,17.075,0.00122
+Panel B. CP,Estimate,17.575,0.0014977
+Panel B. CP,Estimate,18.075,0.0019622
+Panel B. CP,Estimate,18.575,0.0037227
+Panel B. CP,Estimate,19.075,0.0053722
+Panel B. CP,Estimate,19.575,0.00694
+Panel B. CP,Estimate,20.075,0.0062185
+Panel B. CP,Estimate,20.575,0.0054153
+Panel B. CP,Estimate,21.075,0.0045899
+Panel B. CP,Estimate,21.575,0.0032291
+Panel B. CP,Estimate,22.075,0.002372
+Panel B. CP,Estimate,22.575,0.0014487
+Panel B. CP,Estimate,23.075,0.001751
+Panel B. CP,Estimate,23.575,0.0030104
+Panel B. CP,Estimate,24.075,0.0043445
+Panel B. CP,Estimate,24.575,0.0042302
+Panel B. CP,Estimate,25.075,0.0042208
+Panel B. CP,Estimate,25.575,0.0042024
+Panel B. CP,Estimate,26.075,0.0038463
+Panel B. CP,Estimate,26.575,0.0050025
+Panel B. CP,Estimate,27.075,0.0056787
+Panel B. CP,Estimate,27.575,0.0063582
+Panel B. CP,Estimate,28.075,0.004866
+Panel B. CP,Estimate,28.575,0.0023149
+Panel B. CP,Estimate,29.075,0.0012081
+Panel B. CP,Estimate,29.575,0.0037563
+Panel B. CP,Estimate,30.075,0.0068264
+Panel B. CP,Estimate,30.575,0.0093264
+Panel B. CP,Estimate,31.075,0.0083789
+Panel B. CP,Estimate,31.575,0.0052426
+Panel B. CP,Estimate,32.075,0.0031132
+Panel B. CP,Estimate,32.575,0.0028456
+Panel B. CP,Estimate,33.075,0.0011295
+Panel B. CP,Estimate,33.575,0.0011963
+Panel B. CP,Estimate,34.075,0.0011444
+Panel B. CP,Estimate,34.575,0.0019022
+Panel B. CP,Estimate,35.075,0.0007552
+Panel B. CP,Estimate,35.575,0.0006301
+Panel B. CP,Estimate,36.075,0.0010332
+Panel B. CP,Estimate,36.575,0.0015432
+Panel B. CP,Estimate,37.075,0.0023268
+Panel B. CP,Estimate,37.575,0.004062
+Panel B. CP,Estimate,38.075,0.0070816
+Panel B. CP,Estimate,38.575,0.0107143
+Panel B. CP,Estimate,39.075,0.0089557
+Panel B. CP,Estimate,39.575,0.0049615
+Panel B. CP,Estimate,40.075,0.0026204
+Panel B. CP,Estimate,40.575,0.0015267
+Panel B. CP,Estimate,41.075,0.0011696
+Panel B. CP,Estimate,41.575,0.001904
+Panel B. CP,Estimate,42.075,0.0011169
+Panel B. CP,Estimate,42.575,0.0019021
+Panel B. CP,Estimate,43.075,0.0011755
+Panel B. CP,Estimate,43.575,0.0012201
+Panel B. CP,Estimate,44.075,0.0016813
+Panel B. CP,Estimate,44.575,0.0018561
+Panel B. CP,Estimate,45.075,0.0011343
+Panel B. CP,Estimate,45.575,0.0023512
+Panel B. CP,Estimate,46.075,0.0034039
+Panel B. CP,Estimate,46.575,0.004565
+Panel B. CP,Estimate,47.075,0.0043616
+Panel B. CP,Estimate,47.575,0.0031482
+Panel B. CP,Estimate,48.075,0.0019583
+Panel B. CP,Estimate,48.575,0.0016224
+Panel B. CP,Estimate,49.075,0.0022992
+Panel B. CP,Estimate,49.575,0.0052942
+Panel B. CP,Estimate,0.609657,0.2521739
+Panel B. CP,Estimate,1.1233032,0.2099379
+Panel B. CP,Updated est,-17.425,0.0011946
+Panel B. CP,Updated est,-16.925,0.0018922
+Panel B. CP,Updated est,-16.425,0.0031075
+Panel B. CP,Updated est,-15.925,0.0036419
+Panel B. CP,Updated est,-15.425,0.0023779
+Panel B. CP,Updated est,-14.925,0.0023165
+Panel B. CP,Updated est,-14.425,0.0023184
+Panel B. CP,Updated est,-13.925,0.0024741
+Panel B. CP,Updated est,-13.425,0.0025133
+Panel B. CP,Updated est,-12.925,0.0043693
+Panel B. CP,Updated est,-12.425,0.0056159
+Panel B. CP,Updated est,-11.925,0.0068532
+Panel B. CP,Updated est,-11.425,0.007922
+Panel B. CP,Updated est,-10.925,0.0046269
+Panel B. CP,Updated est,-10.425,0.0053086
+Panel B. CP,Updated est,-9.925,0.0090535
+Panel B. CP,Updated est,-9.425,0.0106219
+Panel B. CP,Updated est,-8.925,0.0109895
+Panel B. CP,Updated est,-8.425,0.0135333
+Panel B. CP,Updated est,-7.925,0.0150275
+Panel B. CP,Updated est,-7.425,0.0149126
+Panel B. CP,Updated est,-6.925,0.014267
+Panel B. CP,Updated est,-6.425,0.0115321
+Panel B. CP,Updated est,-5.925,0.0121253
+Panel B. CP,Updated est,-5.425,0.0122787
+Panel B. CP,Updated est,-4.925,0.0127371
+Panel B. CP,Updated est,-4.425,0.0148581
+Panel B. CP,Updated est,-3.925,0.0192282
+Panel B. CP,Updated est,-3.425,0.0268371
+Panel B. CP,Updated est,-2.925,0.0522692
+Panel B. CP,Updated est,-2.425,0.0969731
+Panel B. CP,Updated est,-1.925,0.1459089
+Panel B. CP,Updated est,-1.425,0.1971318
+Panel B. CP,Updated est,-0.925,0.2505239
+Panel B. CP,Updated est,-0.425,0.2636145
+Panel B. CP,Updated est,0.075,0.2020697
+Panel B. CP,Updated est,0.575,0.1338091
+Panel B. CP,Updated est,1.075,0.049689
+Panel B. CP,Updated est,1.575,0.0313241
+Panel B. CP,Updated est,2.075,0.0183839
+Panel B. CP,Updated est,2.575,0.0139999
+Panel B. CP,Updated est,3.075,0.0102868
+Panel B. CP,Updated est,3.575,0.0099675
+Panel B. CP,Updated est,4.075,0.0078124
+Panel B. CP,Updated est,4.575,0.0047318
+Panel B. CP,Updated est,5.075,0.00292
+Panel B. CP,Updated est,5.575,0.0051602
+Panel B. CP,Updated est,6.075,0.0109725
+Panel B. CP,Updated est,6.575,0.0136697
+Panel B. CP,Updated est,7.075,0.0130111
+Panel B. CP,Updated est,7.575,0.0103283
+Panel B. CP,Updated est,8.075,0.0082006
+Panel B. CP,Updated est,8.575,0.0107334
+Panel B. CP,Updated est,9.075,0.0134533
+Panel B. CP,Updated est,9.575,0.0067538
+Panel B. CP,Updated est,10.075,0.0053927
+Panel B. CP,Updated est,10.575,0.0059386
+Panel B. CP,Updated est,11.075,0.0065998
+Panel B. CP,Updated est,11.575,0.0040329
+Panel B. CP,Updated est,12.075,0.002467
+Panel B. CP,Updated est,12.575,0.0011269
+Panel B. CP,Updated est,13.075,0.0021406
+Panel B. CP,Updated est,13.575,0.0046124
+Panel B. CP,Updated est,14.075,0.0048648
+Panel B. CP,Updated est,14.575,0.0056921
+Panel B. CP,Updated est,15.075,0.0046951
+Panel B. CP,Updated est,15.575,0.0038738
+Panel B. CP,Updated est,16.075,0.0035752
+Panel B. CP,Updated est,16.575,0.0023808
+Panel B. CP,Updated est,17.075,0.001286
+Panel B. CP,Updated est,17.575,0.0015262
+Panel B. CP,Updated est,18.075,0.0023647
+Panel B. CP,Updated est,18.575,0.0048444
+Panel B. CP,Updated est,19.075,0.0079352
+Panel B. CP,Updated est,19.575,0.007358
+Panel B. CP,Updated est,20.075,0.006964
+Panel B. CP,Updated est,20.575,0.0053387
+Panel B. CP,Updated est,21.075,0.0042722
+Panel B. CP,Updated est,21.575,0.0057995
+Panel B. CP,Updated est,22.075,0.004256
+Panel B. CP,Updated est,22.575,0.0019579
+Panel B. CP,Updated est,23.075,0.0017797
+Panel B. CP,Updated est,23.575,0.0030326
+Panel B. CP,Updated est,24.075,0.0047244
+Panel B. CP,Updated est,24.575,0.0056859
+Panel B. CP,Updated est,25.075,0.004219
+Panel B. CP,Updated est,25.575,0.0057987
+Panel B. CP,Updated est,26.075,0.004078
+Panel B. CP,Updated est,26.575,0.0050378
+Panel B. CP,Updated est,27.075,0.0029474
+Panel B. CP,Updated est,27.575,0.0008701
+Panel B. CP,Updated est,28.075,0.0011159
+Panel B. CP,Updated est,28.575,0.0018311
+Panel B. CP,Updated est,29.075,0.0012806
+Panel B. CP,Updated est,29.575,0.0022317
+Panel B. CP,Updated est,30.075,0.0010666
+Panel B. CP,Updated est,30.575,0.0011074
+Panel B. CP,Updated est,31.075,0.0015203
+Panel B. CP,Updated est,31.575,0.0047489
+Panel B. CP,Updated est,32.075,0.0035353
+Panel B. CP,Updated est,32.575,0.0042648
+Panel B. CP,Updated est,33.075,0.004176
+Panel B. CP,Updated est,33.575,0.0040074
+Panel B. CP,Updated est,34.075,0.0030248
+Panel B. CP,Updated est,34.575,0.0019331
+Panel B. CP,Updated est,35.075,0.0011636
+Panel B. CP,Updated est,35.575,0.001204
+Panel B. CP,Updated est,36.075,0.0012182
+Panel B. CP,Updated est,36.575,0.0015583
+Panel B. CP,Updated est,37.075,0.0023774
+Panel B. CP,Updated est,37.575,0.0030315
+Panel B. CP,Updated est,38.075,0.0024387
+Panel B. CP,Updated est,38.575,0.0031311
+Panel B. CP,Updated est,39.075,0.0032062
+Panel B. CP,Updated est,39.575,0.0036538
+Panel B. CP,Updated est,40.075,0.0031272
+Panel B. CP,Updated est,40.575,0.001677
+Panel B. CP,Updated est,41.075,0.0011792
+Panel B. CP,Updated est,41.575,0.001906
+Panel B. CP,Updated est,42.075,0.0011355
+Panel B. CP,Updated est,42.575,0.0023952
+Panel B. CP,Updated est,43.075,0.0007352
+Panel B. CP,Updated est,43.575,0.0045668
+Panel B. CP,Updated est,44.075,0.0024378
+Panel B. CP,Updated est,44.575,0.0019937
+Panel B. CP,Updated est,45.075,0.0011267
+Panel B. CP,Updated est,45.575,0.0018534
+Panel B. CP,Updated est,46.075,0.0022941
+Panel B. CP,Updated est,46.575,0.0023806
+Panel B. CP,Updated est,47.075,0.0024532
+Panel B. CP,Updated est,47.575,0.0024394
+Panel B. CP,Updated est,48.075,0.001851
+Panel B. CP,Updated est,48.575,0.0016814
+Panel B. CP,Updated est,49.075,0.0018529
+Panel B. CP,Updated est,49.575,0.0016119
+Panel B. CP,Updated est,50.075,0.0013317
+Panel B. CP,Updated est,50.575,0.0011821
+Panel B. CP,Updated est,51.075,0.0012045
+Panel B. CP,Updated est,51.575,0.001206
+Panel B. CP,Updated est,52.075,0.0012062
+Panel B. CP,Updated est,52.575,0.0012062
+Panel B. CP,Updated est,53.075,0.0012061
+Panel B. CP,Updated est,53.575,0.0012061
+Panel B. CP,Updated est,54.075,0.0012061
+Panel B. CP,Updated est,54.575,0.0012061
+Panel B. CP,Updated est,55.075,0.0012061
+Panel B. CP,Updated est,55.575,0.0012061
+Panel B. CP,Updated est,56.075,0.0012061
+Panel B. CP,Updated est,56.575,0.0012061
+Panel B. CP,Updated est,57.075,0.0012061
+Panel B. CP,Updated est,57.575,0.0012061
+Panel B. CP,Updated est,58.075,0.0012061
+Panel B. CP,Updated est,58.575,0.0012061

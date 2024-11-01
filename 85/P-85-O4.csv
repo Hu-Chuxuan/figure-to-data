@@ -1,1046 +1,1046 @@
-"Type-1","Type-2","Value","Subplot Value"
-"-50","CV","0.0004072","Panel A. Nonstrategic (naïve) bid factors"
-"-49.5","CV","0.0004217","Panel A. Nonstrategic (naïve) bid factors"
-"-49","CV","0.0005487","Panel A. Nonstrategic (naïve) bid factors"
-"-48.5","CV","0.0005896","Panel A. Nonstrategic (naïve) bid factors"
-"-48","CV","0.0006919","Panel A. Nonstrategic (naïve) bid factors"
-"-47.5","CV","0.0006799","Panel A. Nonstrategic (naïve) bid factors"
-"-47","CV","0.0006659","Panel A. Nonstrategic (naïve) bid factors"
-"-46.5","CV","0.0008072","Panel A. Nonstrategic (naïve) bid factors"
-"-46","CV","0.0008172","Panel A. Nonstrategic (naïve) bid factors"
-"-45.5","CV","0.0009628","Panel A. Nonstrategic (naïve) bid factors"
-"-45","CV","0.0009375","Panel A. Nonstrategic (naïve) bid factors"
-"-44.5","CV","0.001007","Panel A. Nonstrategic (naïve) bid factors"
-"-44","CV","0.001102","Panel A. Nonstrategic (naïve) bid factors"
-"-43.5","CV","0.0010692","Panel A. Nonstrategic (naïve) bid factors"
-"-43","CV","0.0012024","Panel A. Nonstrategic (naïve) bid factors"
-"-42.5","CV","0.0012226","Panel A. Nonstrategic (naïve) bid factors"
-"-42","CV","0.00122","Panel A. Nonstrategic (naïve) bid factors"
-"-41.5","CV","0.0012447","Panel A. Nonstrategic (naïve) bid factors"
-"-41","CV","0.0013745","Panel A. Nonstrategic (naïve) bid factors"
-"-40.5","CV","0.001341","Panel A. Nonstrategic (naïve) bid factors"
-"-40","CV","0.0014399","Panel A. Nonstrategic (naïve) bid factors"
-"-39.5","CV","0.0015082","Panel A. Nonstrategic (naïve) bid factors"
-"-39","CV","0.0014734","Panel A. Nonstrategic (naïve) bid factors"
-"-38.5","CV","0.0017629","Panel A. Nonstrategic (naïve) bid factors"
-"-38","CV","0.0017619","Panel A. Nonstrategic (naïve) bid factors"
-"-37.5","CV","0.0017515","Panel A. Nonstrategic (naïve) bid factors"
-"-37","CV","0.0018636","Panel A. Nonstrategic (naïve) bid factors"
-"-36.5","CV","0.0020536","Panel A. Nonstrategic (naïve) bid factors"
-"-36","CV","0.0021036","Panel A. Nonstrategic (naïve) bid factors"
-"-35.5","CV","0.002296","Panel A. Nonstrategic (naïve) bid factors"
-"-35","CV","0.0022939","Panel A. Nonstrategic (naïve) bid factors"
-"-34.5","CV","0.0025824","Panel A. Nonstrategic (naïve) bid factors"
-"-34","CV","0.0026103","Panel A. Nonstrategic (naïve) bid factors"
-"-33.5","CV","0.0028623","Panel A. Nonstrategic (naïve) bid factors"
-"-33","CV","0.002958","Panel A. Nonstrategic (naïve) bid factors"
-"-32.5","CV","0.0031238","Panel A. Nonstrategic (naïve) bid factors"
-"-32","CV","0.0032975","Panel A. Nonstrategic (naïve) bid factors"
-"-31.5","CV","0.003511","Panel A. Nonstrategic (naïve) bid factors"
-"-31","CV","0.0036557","Panel A. Nonstrategic (naïve) bid factors"
-"-30.5","CV","0.0038076","Panel A. Nonstrategic (naïve) bid factors"
-"-30","CV","0.0039931","Panel A. Nonstrategic (naïve) bid factors"
-"-29.5","CV","0.0042165","Panel A. Nonstrategic (naïve) bid factors"
-"-29","CV","0.0043125","Panel A. Nonstrategic (naïve) bid factors"
-"-28.5","CV","0.0045805","Panel A. Nonstrategic (naïve) bid factors"
-"-28","CV","0.004691","Panel A. Nonstrategic (naïve) bid factors"
-"-27.5","CV","0.0049997","Panel A. Nonstrategic (naïve) bid factors"
-"-27","CV","0.0050195","Panel A. Nonstrategic (naïve) bid factors"
-"-26.5","CV","0.0053039","Panel A. Nonstrategic (naïve) bid factors"
-"-26","CV","0.0053461","Panel A. Nonstrategic (naïve) bid factors"
-"-25.5","CV","0.0055734","Panel A. Nonstrategic (naïve) bid factors"
-"-25","CV","0.0057006","Panel A. Nonstrategic (naïve) bid factors"
-"-24.5","CV","0.0058299","Panel A. Nonstrategic (naïve) bid factors"
-"-24","CV","0.0060511","Panel A. Nonstrategic (naïve) bid factors"
-"-23.5","CV","0.0061084","Panel A. Nonstrategic (naïve) bid factors"
-"-23","CV","0.0062472","Panel A. Nonstrategic (naïve) bid factors"
-"-22.5","CV","0.0063978","Panel A. Nonstrategic (naïve) bid factors"
-"-22","CV","0.0065625","Panel A. Nonstrategic (naïve) bid factors"
-"-21.5","CV","0.0066498","Panel A. Nonstrategic (naïve) bid factors"
-"-21","CV","0.0067264","Panel A. Nonstrategic (naïve) bid factors"
-"-20.5","CV","0.0067826","Panel A. Nonstrategic (naïve) bid factors"
-"-20","CV","0.0068985","Panel A. Nonstrategic (naïve) bid factors"
-"-19.5","CV","0.0069245","Panel A. Nonstrategic (naïve) bid factors"
-"-19","CV","0.0069229","Panel A. Nonstrategic (naïve) bid factors"
-"-18.5","CV","0.0069223","Panel A. Nonstrategic (naïve) bid factors"
-"-18","CV","0.0069224","Panel A. Nonstrategic (naïve) bid factors"
-"-17.5","CV","0.0069234","Panel A. Nonstrategic (naïve) bid factors"
-"-17","CV","0.0069187","Panel A. Nonstrategic (naïve) bid factors"
-"-16.5","CV","0.0069362","Panel A. Nonstrategic (naïve) bid factors"
-"-16","CV","0.0068048","Panel A. Nonstrategic (naïve) bid factors"
-"-15.5","CV","0.0067854","Panel A. Nonstrategic (naïve) bid factors"
-"-15","CV","0.0067756","Panel A. Nonstrategic (naïve) bid factors"
-"-14.5","CV","0.0066452","Panel A. Nonstrategic (naïve) bid factors"
-"-14","CV","0.00661","Panel A. Nonstrategic (naïve) bid factors"
-"-13.5","CV","0.0064969","Panel A. Nonstrategic (naïve) bid factors"
-"-13","CV","0.0065332","Panel A. Nonstrategic (naïve) bid factors"
-"-12.5","CV","0.006408","Panel A. Nonstrategic (naïve) bid factors"
-"-12","CV","0.0063772","Panel A. Nonstrategic (naïve) bid factors"
-"-11.5","CV","0.0063798","Panel A. Nonstrategic (naïve) bid factors"
-"-11","CV","0.0063607","Panel A. Nonstrategic (naïve) bid factors"
-"-10.5","CV","0.0062667","Panel A. Nonstrategic (naïve) bid factors"
-"-10","CV","0.0063743","Panel A. Nonstrategic (naïve) bid factors"
-"-9.5","CV","0.0065237","Panel A. Nonstrategic (naïve) bid factors"
-"-9","CV","0.0066596","Panel A. Nonstrategic (naïve) bid factors"
-"-8.5","CV","0.006753","Panel A. Nonstrategic (naïve) bid factors"
-"-8","CV","0.0069073","Panel A. Nonstrategic (naïve) bid factors"
-"-7.5","CV","0.0072072","Panel A. Nonstrategic (naïve) bid factors"
-"-7","CV","0.0075348","Panel A. Nonstrategic (naïve) bid factors"
-"-6.5","CV","0.0079619","Panel A. Nonstrategic (naïve) bid factors"
-"-6","CV","0.0083197","Panel A. Nonstrategic (naïve) bid factors"
-"-5.5","CV","0.0087117","Panel A. Nonstrategic (naïve) bid factors"
-"-5","CV","0.0090845","Panel A. Nonstrategic (naïve) bid factors"
-"-4.5","CV","0.0096862","Panel A. Nonstrategic (naïve) bid factors"
-"-4","CV","0.0101654","Panel A. Nonstrategic (naïve) bid factors"
-"-3.5","CV","0.0106302","Panel A. Nonstrategic (naïve) bid factors"
-"-3","CV","0.0112658","Panel A. Nonstrategic (naïve) bid factors"
-"-2.5","CV","0.0117687","Panel A. Nonstrategic (naïve) bid factors"
-"-2","CV","0.012205","Panel A. Nonstrategic (naïve) bid factors"
-"-1.5","CV","0.0126511","Panel A. Nonstrategic (naïve) bid factors"
-"-1","CV","0.013155","Panel A. Nonstrategic (naïve) bid factors"
-"-0.5","CV","0.0136619","Panel A. Nonstrategic (naïve) bid factors"
-"0","CV","0.0141165","Panel A. Nonstrategic (naïve) bid factors"
-"0.5","CV","0.0145623","Panel A. Nonstrategic (naïve) bid factors"
-"1","CV","0.0148932","Panel A. Nonstrategic (naïve) bid factors"
-"1.5","CV","0.0153269","Panel A. Nonstrategic (naïve) bid factors"
-"2","CV","0.0155968","Panel A. Nonstrategic (naïve) bid factors"
-"2.5","CV","0.0160163","Panel A. Nonstrategic (naïve) bid factors"
-"3","CV","0.016364","Panel A. Nonstrategic (naïve) bid factors"
-"3.5","CV","0.0166834","Panel A. Nonstrategic (naïve) bid factors"
-"4","CV","0.0166994","Panel A. Nonstrategic (naïve) bid factors"
-"4.5","CV","0.0170284","Panel A. Nonstrategic (naïve) bid factors"
-"5","CV","0.0172452","Panel A. Nonstrategic (naïve) bid factors"
-"5.5","CV","0.0173244","Panel A. Nonstrategic (naïve) bid factors"
-"6","CV","0.0176791","Panel A. Nonstrategic (naïve) bid factors"
-"6.5","CV","0.017884","Panel A. Nonstrategic (naïve) bid factors"
-"7","CV","0.0180188","Panel A. Nonstrategic (naïve) bid factors"
-"7.5","CV","0.0183099","Panel A. Nonstrategic (naïve) bid factors"
-"8","CV","0.0186178","Panel A. Nonstrategic (naïve) bid factors"
-"8.5","CV","0.0189187","Panel A. Nonstrategic (naïve) bid factors"
-"9","CV","0.0192721","Panel A. Nonstrategic (naïve) bid factors"
-"9.5","CV","0.0196949","Panel A. Nonstrategic (naïve) bid factors"
-"10","CV","0.019947","Panel A. Nonstrategic (naïve) bid factors"
-"10.5","CV","0.0204985","Panel A. Nonstrategic (naïve) bid factors"
-"11","CV","0.0208636","Panel A. Nonstrategic (naïve) bid factors"
-"11.5","CV","0.0213068","Panel A. Nonstrategic (naïve) bid factors"
-"12","CV","0.0216121","Panel A. Nonstrategic (naïve) bid factors"
-"12.5","CV","0.0219222","Panel A. Nonstrategic (naïve) bid factors"
-"13","CV","0.0222294","Panel A. Nonstrategic (naïve) bid factors"
-"13.5","CV","0.0225277","Panel A. Nonstrategic (naïve) bid factors"
-"14","CV","0.0228703","Panel A. Nonstrategic (naïve) bid factors"
-"14.5","CV","0.0229317","Panel A. Nonstrategic (naïve) bid factors"
-"15","CV","0.0231745","Panel A. Nonstrategic (naïve) bid factors"
-"15.5","CV","0.0234846","Panel A. Nonstrategic (naïve) bid factors"
-"16","CV","0.0235083","Panel A. Nonstrategic (naïve) bid factors"
-"16.5","CV","0.0238182","Panel A. Nonstrategic (naïve) bid factors"
-"17","CV","0.0238961","Panel A. Nonstrategic (naïve) bid factors"
-"17.5","CV","0.0238871","Panel A. Nonstrategic (naïve) bid factors"
-"18","CV","0.0238932","Panel A. Nonstrategic (naïve) bid factors"
-"18.5","CV","0.0238793","Panel A. Nonstrategic (naïve) bid factors"
-"19","CV","0.0240177","Panel A. Nonstrategic (naïve) bid factors"
-"19.5","CV","0.0240136","Panel A. Nonstrategic (naïve) bid factors"
-"20","CV","0.0236912","Panel A. Nonstrategic (naïve) bid factors"
-"20.5","CV","0.0234255","Panel A. Nonstrategic (naïve) bid factors"
-"21","CV","0.0232967","Panel A. Nonstrategic (naïve) bid factors"
-"21.5","CV","0.0230604","Panel A. Nonstrategic (naïve) bid factors"
-"22","CV","0.0227387","Panel A. Nonstrategic (naïve) bid factors"
-"22.5","CV","0.022447","Panel A. Nonstrategic (naïve) bid factors"
-"23","CV","0.0219965","Panel A. Nonstrategic (naïve) bid factors"
-"23.5","CV","0.0216923","Panel A. Nonstrategic (naïve) bid factors"
-"24","CV","0.0213579","Panel A. Nonstrategic (naïve) bid factors"
-"24.5","CV","0.0208854","Panel A. Nonstrategic (naïve) bid factors"
-"25","CV","0.02043","Panel A. Nonstrategic (naïve) bid factors"
-"25.5","CV","0.0199638","Panel A. Nonstrategic (naïve) bid factors"
-"26","CV","0.0195219","Panel A. Nonstrategic (naïve) bid factors"
-"26.5","CV","0.0189211","Panel A. Nonstrategic (naïve) bid factors"
-"27","CV","0.0184505","Panel A. Nonstrategic (naïve) bid factors"
-"27.5","CV","0.0178477","Panel A. Nonstrategic (naïve) bid factors"
-"28","CV","0.0173815","Panel A. Nonstrategic (naïve) bid factors"
-"28.5","CV","0.0166838","Panel A. Nonstrategic (naïve) bid factors"
-"29","CV","0.0159964","Panel A. Nonstrategic (naïve) bid factors"
-"29.5","CV","0.0152932","Panel A. Nonstrategic (naïve) bid factors"
-"30","CV","0.0146144","Panel A. Nonstrategic (naïve) bid factors"
-"30.5","CV","0.0141484","Panel A. Nonstrategic (naïve) bid factors"
-"31","CV","0.0135403","Panel A. Nonstrategic (naïve) bid factors"
-"31.5","CV","0.012923","Panel A. Nonstrategic (naïve) bid factors"
-"32","CV","0.0123525","Panel A. Nonstrategic (naïve) bid factors"
-"32.5","CV","0.0118544","Panel A. Nonstrategic (naïve) bid factors"
-"33","CV","0.0112028","Panel A. Nonstrategic (naïve) bid factors"
-"33.5","CV","0.0107178","Panel A. Nonstrategic (naïve) bid factors"
-"34","CV","0.0101156","Panel A. Nonstrategic (naïve) bid factors"
-"34.5","CV","0.0097833","Panel A. Nonstrategic (naïve) bid factors"
-"35","CV","0.0091671","Panel A. Nonstrategic (naïve) bid factors"
-"35.5","CV","0.0086115","Panel A. Nonstrategic (naïve) bid factors"
-"36","CV","0.0082882","Panel A. Nonstrategic (naïve) bid factors"
-"36.5","CV","0.0077949","Panel A. Nonstrategic (naïve) bid factors"
-"37","CV","0.0074212","Panel A. Nonstrategic (naïve) bid factors"
-"37.5","CV","0.0071407","Panel A. Nonstrategic (naïve) bid factors"
-"38","CV","0.0066958","Panel A. Nonstrategic (naïve) bid factors"
-"38.5","CV","0.0063771","Panel A. Nonstrategic (naïve) bid factors"
-"39","CV","0.0060692","Panel A. Nonstrategic (naïve) bid factors"
-"39.5","CV","0.0057652","Panel A. Nonstrategic (naïve) bid factors"
-"40","CV","0.0054479","Panel A. Nonstrategic (naïve) bid factors"
-"40.5","CV","0.005209","Panel A. Nonstrategic (naïve) bid factors"
-"41","CV","0.0050799","Panel A. Nonstrategic (naïve) bid factors"
-"41.5","CV","0.0048185","Panel A. Nonstrategic (naïve) bid factors"
-"42","CV","0.0044889","Panel A. Nonstrategic (naïve) bid factors"
-"42.5","CV","0.0044742","Panel A. Nonstrategic (naïve) bid factors"
-"43","CV","0.0041431","Panel A. Nonstrategic (naïve) bid factors"
-"43.5","CV","0.003929","Panel A. Nonstrategic (naïve) bid factors"
-"44","CV","0.003852","Panel A. Nonstrategic (naïve) bid factors"
-"44.5","CV","0.003474","Panel A. Nonstrategic (naïve) bid factors"
-"45","CV","0.0034056","Panel A. Nonstrategic (naïve) bid factors"
-"45.5","CV","0.0031701","Panel A. Nonstrategic (naïve) bid factors"
-"46","CV","0.0029892","Panel A. Nonstrategic (naïve) bid factors"
-"46.5","CV","0.0028258","Panel A. Nonstrategic (naïve) bid factors"
-"47","CV","0.0025683","Panel A. Nonstrategic (naïve) bid factors"
-"47.5","CV","0.0025067","Panel A. Nonstrategic (naïve) bid factors"
-"48","CV","0.0022192","Panel A. Nonstrategic (naïve) bid factors"
-"48.5","CV","0.0021115","Panel A. Nonstrategic (naïve) bid factors"
-"49","CV","0.0018168","Panel A. Nonstrategic (naïve) bid factors"
-"49.5","CV","0.0017645","Panel A. Nonstrategic (naïve) bid factors"
-"50","CV","0.0016288","Panel A. Nonstrategic (naïve) bid factors"
-"50.5","CV","0.0014939","Panel A. Nonstrategic (naïve) bid factors"
-"51","CV","0.0014353","Panel A. Nonstrategic (naïve) bid factors"
-"51.5","CV","0.0011856","Panel A. Nonstrategic (naïve) bid factors"
-"52","CV","0.0012566","Panel A. Nonstrategic (naïve) bid factors"
-"52.5","CV","0.0010377","Panel A. Nonstrategic (naïve) bid factors"
-"53","CV","0.0009351","Panel A. Nonstrategic (naïve) bid factors"
-"53.5","CV","0.0009567","Panel A. Nonstrategic (naïve) bid factors"
-"54","CV","0.0008086","Panel A. Nonstrategic (naïve) bid factors"
-"54.5","CV","0.0006527","Panel A. Nonstrategic (naïve) bid factors"
-"55","CV","0.0005293","Panel A. Nonstrategic (naïve) bid factors"
-"55.5","CV","0.0005581","Panel A. Nonstrategic (naïve) bid factors"
-"56","CV","0.0004658","Panel A. Nonstrategic (naïve) bid factors"
-"56.5","CV","0.0003945","Panel A. Nonstrategic (naïve) bid factors"
-"57","CV","0.0004194","Panel A. Nonstrategic (naïve) bid factors"
-"57.5","CV","0.0002763","Panel A. Nonstrategic (naïve) bid factors"
-"58","CV","0.0002751","Panel A. Nonstrategic (naïve) bid factors"
-"58.5","CV","0.0002469","Panel A. Nonstrategic (naïve) bid factors"
-"59","CV","0.0001215","Panel A. Nonstrategic (naïve) bid factors"
-"59.5","CV","0.0001394","Panel A. Nonstrategic (naïve) bid factors"
-"60","CV","0.0001349","Panel A. Nonstrategic (naïve) bid factors"
-"60.5","CV","0.0001359","Panel A. Nonstrategic (naïve) bid factors"
-"61","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"61.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"62","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"62.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"63","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"63.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"64","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"64.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"65","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"65.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"66","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"66.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"67","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"67.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"68","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"68.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"69","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"69.5","CV","0.0001357","Panel A. Nonstrategic (naïve) bid factors"
-"70","CV","0.0001356","Panel A. Nonstrategic (naïve) bid factors"
-"70.5","CV","0.0001364","Panel A. Nonstrategic (naïve) bid factors"
-"71","CV","0.0001323","Panel A. Nonstrategic (naïve) bid factors"
-"71.5","CV","0.0001503","Panel A. Nonstrategic (naïve) bid factors"
-"72","CV","0.0000336","Panel A. Nonstrategic (naïve) bid factors"
-"72.5","CV","-0.0000041","Panel A. Nonstrategic (naïve) bid factors"
-"73","CV","0.0000001","Panel A. Nonstrategic (naïve) bid factors"
-"73.5","CV","0.0000001","Panel A. Nonstrategic (naïve) bid factors"
-"74","CV","-0.0000001","Panel A. Nonstrategic (naïve) bid factors"
-"74.5","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"75","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"75.5","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"76","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"76.5","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"77","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"77.5","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"78","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"78.5","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"79","CV","0","Panel A. Nonstrategic (naïve) bid factors"
-"-42","CP","0.0010261","Panel A. Nonstrategic (naïve) bid factors"
-"-41.5","CP","0.0011034","Panel A. Nonstrategic (naïve) bid factors"
-"-41","CP","0.0012201","Panel A. Nonstrategic (naïve) bid factors"
-"-40.5","CP","0.0013549","Panel A. Nonstrategic (naïve) bid factors"
-"-40","CP","0.0015047","Panel A. Nonstrategic (naïve) bid factors"
-"-39.5","CP","0.0016664","Panel A. Nonstrategic (naïve) bid factors"
-"-39","CP","0.0018369","Panel A. Nonstrategic (naïve) bid factors"
-"-38.5","CP","0.002013","Panel A. Nonstrategic (naïve) bid factors"
-"-38","CP","0.0021917","Panel A. Nonstrategic (naïve) bid factors"
-"-37.5","CP","0.0023699","Panel A. Nonstrategic (naïve) bid factors"
-"-37","CP","0.0025445","Panel A. Nonstrategic (naïve) bid factors"
-"-36.5","CP","0.0027123","Panel A. Nonstrategic (naïve) bid factors"
-"-36","CP","0.0028703","Panel A. Nonstrategic (naïve) bid factors"
-"-35.5","CP","0.0030154","Panel A. Nonstrategic (naïve) bid factors"
-"-35","CP","0.0031445","Panel A. Nonstrategic (naïve) bid factors"
-"-34.5","CP","0.0032923","Panel A. Nonstrategic (naïve) bid factors"
-"-34","CP","0.0035324","Panel A. Nonstrategic (naïve) bid factors"
-"-33.5","CP","0.003675","Panel A. Nonstrategic (naïve) bid factors"
-"-33","CP","0.0038962","Panel A. Nonstrategic (naïve) bid factors"
-"-32.5","CP","0.0041238","Panel A. Nonstrategic (naïve) bid factors"
-"-32","CP","0.0044246","Panel A. Nonstrategic (naïve) bid factors"
-"-31.5","CP","0.0046777","Panel A. Nonstrategic (naïve) bid factors"
-"-31","CP","0.0050083","Panel A. Nonstrategic (naïve) bid factors"
-"-30.5","CP","0.0051637","Panel A. Nonstrategic (naïve) bid factors"
-"-30","CP","0.0055063","Panel A. Nonstrategic (naïve) bid factors"
-"-29.5","CP","0.0059076","Panel A. Nonstrategic (naïve) bid factors"
-"-29","CP","0.0062776","Panel A. Nonstrategic (naïve) bid factors"
-"-28.5","CP","0.0066175","Panel A. Nonstrategic (naïve) bid factors"
-"-28","CP","0.0068958","Panel A. Nonstrategic (naïve) bid factors"
-"-27.5","CP","0.0074984","Panel A. Nonstrategic (naïve) bid factors"
-"-27","CP","0.008122","Panel A. Nonstrategic (naïve) bid factors"
-"-26.5","CP","0.0084462","Panel A. Nonstrategic (naïve) bid factors"
-"-26","CP","0.008982","Panel A. Nonstrategic (naïve) bid factors"
-"-25.5","CP","0.0094226","Panel A. Nonstrategic (naïve) bid factors"
-"-25","CP","0.0102709","Panel A. Nonstrategic (naïve) bid factors"
-"-24.5","CP","0.0107902","Panel A. Nonstrategic (naïve) bid factors"
-"-24","CP","0.0112709","Panel A. Nonstrategic (naïve) bid factors"
-"-23.5","CP","0.0115728","Panel A. Nonstrategic (naïve) bid factors"
-"-23","CP","0.0123049","Panel A. Nonstrategic (naïve) bid factors"
-"-22.5","CP","0.0131632","Panel A. Nonstrategic (naïve) bid factors"
-"-22","CP","0.0135968","Panel A. Nonstrategic (naïve) bid factors"
-"-21.5","CP","0.0141891","Panel A. Nonstrategic (naïve) bid factors"
-"-21","CP","0.0149444","Panel A. Nonstrategic (naïve) bid factors"
-"-20.5","CP","0.0153802","Panel A. Nonstrategic (naïve) bid factors"
-"-20","CP","0.0159168","Panel A. Nonstrategic (naïve) bid factors"
-"-19.5","CP","0.0160712","Panel A. Nonstrategic (naïve) bid factors"
-"-19","CP","0.0168444","Panel A. Nonstrategic (naïve) bid factors"
-"-18.5","CP","0.0175981","Panel A. Nonstrategic (naïve) bid factors"
-"-18","CP","0.0177026","Panel A. Nonstrategic (naïve) bid factors"
-"-17.5","CP","0.0181341","Panel A. Nonstrategic (naïve) bid factors"
-"-17","CP","0.0186441","Panel A. Nonstrategic (naïve) bid factors"
-"-16.5","CP","0.0191637","Panel A. Nonstrategic (naïve) bid factors"
-"-16","CP","0.0196043","Panel A. Nonstrategic (naïve) bid factors"
-"-15.5","CP","0.0197752","Panel A. Nonstrategic (naïve) bid factors"
-"-15","CP","0.0203538","Panel A. Nonstrategic (naïve) bid factors"
-"-14.5","CP","0.0206937","Panel A. Nonstrategic (naïve) bid factors"
-"-14","CP","0.0213655","Panel A. Nonstrategic (naïve) bid factors"
-"-13.5","CP","0.0218193","Panel A. Nonstrategic (naïve) bid factors"
-"-13","CP","0.0220299","Panel A. Nonstrategic (naïve) bid factors"
-"-12.5","CP","0.0224678","Panel A. Nonstrategic (naïve) bid factors"
-"-12","CP","0.0225617","Panel A. Nonstrategic (naïve) bid factors"
-"-11.5","CP","0.023108","Panel A. Nonstrategic (naïve) bid factors"
-"-11","CP","0.0236476","Panel A. Nonstrategic (naïve) bid factors"
-"-10.5","CP","0.0237485","Panel A. Nonstrategic (naïve) bid factors"
-"-10","CP","0.0241153","Panel A. Nonstrategic (naïve) bid factors"
-"-9.5","CP","0.0243232","Panel A. Nonstrategic (naïve) bid factors"
-"-9","CP","0.0247105","Panel A. Nonstrategic (naïve) bid factors"
-"-8.5","CP","0.0251049","Panel A. Nonstrategic (naïve) bid factors"
-"-8","CP","0.0254535","Panel A. Nonstrategic (naïve) bid factors"
-"-7.5","CP","0.0257552","Panel A. Nonstrategic (naïve) bid factors"
-"-7","CP","0.0262276","Panel A. Nonstrategic (naïve) bid factors"
-"-6.5","CP","0.0264","Panel A. Nonstrategic (naïve) bid factors"
-"-6","CP","0.0267742","Panel A. Nonstrategic (naïve) bid factors"
-"-5.5","CP","0.0275303","Panel A. Nonstrategic (naïve) bid factors"
-"-5","CP","0.0281223","Panel A. Nonstrategic (naïve) bid factors"
-"-4.5","CP","0.0285732","Panel A. Nonstrategic (naïve) bid factors"
-"-4","CP","0.0292716","Panel A. Nonstrategic (naïve) bid factors"
-"-3.5","CP","0.0298684","Panel A. Nonstrategic (naïve) bid factors"
-"-3","CP","0.0301141","Panel A. Nonstrategic (naïve) bid factors"
-"-2.5","CP","0.0304953","Panel A. Nonstrategic (naïve) bid factors"
-"-2","CP","0.0308793","Panel A. Nonstrategic (naïve) bid factors"
-"-1.5","CP","0.0308544","Panel A. Nonstrategic (naïve) bid factors"
-"-1","CP","0.0307452","Panel A. Nonstrategic (naïve) bid factors"
-"-0.5","CP","0.0306317","Panel A. Nonstrategic (naïve) bid factors"
-"0","CP","0.0304854","Panel A. Nonstrategic (naïve) bid factors"
-"0.5","CP","0.0301514","Panel A. Nonstrategic (naïve) bid factors"
-"1","CP","0.0298205","Panel A. Nonstrategic (naïve) bid factors"
-"1.5","CP","0.0294494","Panel A. Nonstrategic (naïve) bid factors"
-"2","CP","0.0285875","Panel A. Nonstrategic (naïve) bid factors"
-"2.5","CP","0.0282034","Panel A. Nonstrategic (naïve) bid factors"
-"3","CP","0.0276208","Panel A. Nonstrategic (naïve) bid factors"
-"3.5","CP","0.0274283","Panel A. Nonstrategic (naïve) bid factors"
-"4","CP","0.0259764","Panel A. Nonstrategic (naïve) bid factors"
-"4.5","CP","0.0257112","Panel A. Nonstrategic (naïve) bid factors"
-"5","CP","0.0245903","Panel A. Nonstrategic (naïve) bid factors"
-"5.5","CP","0.0234316","Panel A. Nonstrategic (naïve) bid factors"
-"6","CP","0.0231397","Panel A. Nonstrategic (naïve) bid factors"
-"6.5","CP","0.0228073","Panel A. Nonstrategic (naïve) bid factors"
-"7","CP","0.0220636","Panel A. Nonstrategic (naïve) bid factors"
-"7.5","CP","0.0211669","Panel A. Nonstrategic (naïve) bid factors"
-"8","CP","0.0207303","Panel A. Nonstrategic (naïve) bid factors"
-"8.5","CP","0.0201774","Panel A. Nonstrategic (naïve) bid factors"
-"9","CP","0.0191737","Panel A. Nonstrategic (naïve) bid factors"
-"9.5","CP","0.0184683","Panel A. Nonstrategic (naïve) bid factors"
-"10","CP","0.0180978","Panel A. Nonstrategic (naïve) bid factors"
-"10.5","CP","0.0177658","Panel A. Nonstrategic (naïve) bid factors"
-"11","CP","0.0164388","Panel A. Nonstrategic (naïve) bid factors"
-"11.5","CP","0.0157183","Panel A. Nonstrategic (naïve) bid factors"
-"12","CP","0.0151618","Panel A. Nonstrategic (naïve) bid factors"
-"12.5","CP","0.0136095","Panel A. Nonstrategic (naïve) bid factors"
-"13","CP","0.0133089","Panel A. Nonstrategic (naïve) bid factors"
-"13.5","CP","0.0122219","Panel A. Nonstrategic (naïve) bid factors"
-"14","CP","0.0113538","Panel A. Nonstrategic (naïve) bid factors"
-"14.5","CP","0.0108145","Panel A. Nonstrategic (naïve) bid factors"
-"15","CP","0.0103746","Panel A. Nonstrategic (naïve) bid factors"
-"15.5","CP","0.0091951","Panel A. Nonstrategic (naïve) bid factors"
-"16","CP","0.0090228","Panel A. Nonstrategic (naïve) bid factors"
-"16.5","CP","0.0084428","Panel A. Nonstrategic (naïve) bid factors"
-"17","CP","0.0079072","Panel A. Nonstrategic (naïve) bid factors"
-"17.5","CP","0.0071572","Panel A. Nonstrategic (naïve) bid factors"
-"18","CP","0.0065844","Panel A. Nonstrategic (naïve) bid factors"
-"18.5","CP","0.0061581","Panel A. Nonstrategic (naïve) bid factors"
-"19","CP","0.0058649","Panel A. Nonstrategic (naïve) bid factors"
-"19.5","CP","0.005305","Panel A. Nonstrategic (naïve) bid factors"
-"20","CP","0.0047855","Panel A. Nonstrategic (naïve) bid factors"
-"20.5","CP","0.0046908","Panel A. Nonstrategic (naïve) bid factors"
-"21","CP","0.0043175","Panel A. Nonstrategic (naïve) bid factors"
-"21.5","CP","0.0041266","Panel A. Nonstrategic (naïve) bid factors"
-"22","CP","0.0037039","Panel A. Nonstrategic (naïve) bid factors"
-"22.5","CP","0.0032869","Panel A. Nonstrategic (naïve) bid factors"
-"23","CP","0.0029838","Panel A. Nonstrategic (naïve) bid factors"
-"23.5","CP","0.0031214","Panel A. Nonstrategic (naïve) bid factors"
-"24","CP","0.0027525","Panel A. Nonstrategic (naïve) bid factors"
-"24.5","CP","0.0025664","Panel A. Nonstrategic (naïve) bid factors"
-"25","CP","0.0024953","Panel A. Nonstrategic (naïve) bid factors"
-"25.5","CP","0.0022181","Panel A. Nonstrategic (naïve) bid factors"
-"26","CP","0.0020497","Panel A. Nonstrategic (naïve) bid factors"
-"26.5","CP","0.0018869","Panel A. Nonstrategic (naïve) bid factors"
-"27","CP","0.0017544","Panel A. Nonstrategic (naïve) bid factors"
-"27.5","CP","0.0016084","Panel A. Nonstrategic (naïve) bid factors"
-"28","CP","0.0014833","Panel A. Nonstrategic (naïve) bid factors"
-"28.5","CP","0.0014503","Panel A. Nonstrategic (naïve) bid factors"
-"29","CP","0.0012773","Panel A. Nonstrategic (naïve) bid factors"
-"29.5","CP","0.0011985","Panel A. Nonstrategic (naïve) bid factors"
-"30","CP","0.0011623","Panel A. Nonstrategic (naïve) bid factors"
-"30.5","CP","0.0011237","Panel A. Nonstrategic (naïve) bid factors"
-"31","CP","0.0010745","Panel A. Nonstrategic (naïve) bid factors"
-"31.5","CP","0.00094","Panel A. Nonstrategic (naïve) bid factors"
-"32","CP","0.0009486","Panel A. Nonstrategic (naïve) bid factors"
-"32.5","CP","0.0009622","Panel A. Nonstrategic (naïve) bid factors"
-"33","CP","0.0008603","Panel A. Nonstrategic (naïve) bid factors"
-"33.5","CP","0.0008323","Panel A. Nonstrategic (naïve) bid factors"
-"34","CP","0.0007688","Panel A. Nonstrategic (naïve) bid factors"
-"34.5","CP","0.0006836","Panel A. Nonstrategic (naïve) bid factors"
-"35","CP","0.0005952","Panel A. Nonstrategic (naïve) bid factors"
-"35.5","CP","0.0005157","Panel A. Nonstrategic (naïve) bid factors"
-"36","CP","0.0005501","Panel A. Nonstrategic (naïve) bid factors"
-"36.5","CP","0.0005399","Panel A. Nonstrategic (naïve) bid factors"
-"37","CP","0.0005424","Panel A. Nonstrategic (naïve) bid factors"
-"37.5","CP","0.0005419","Panel A. Nonstrategic (naïve) bid factors"
-"38","CP","0.000542","Panel A. Nonstrategic (naïve) bid factors"
-"38.5","CP","0.000542","Panel A. Nonstrategic (naïve) bid factors"
-"39","CP","0.000542","Panel A. Nonstrategic (naïve) bid factors"
-"39.5","CP","0.0005419","Panel A. Nonstrategic (naïve) bid factors"
-"40","CP","0.000542","Panel A. Nonstrategic (naïve) bid factors"
-"40.5","CP","0.0005417","Panel A. Nonstrategic (naïve) bid factors"
-"41","CP","0.000543","Panel A. Nonstrategic (naïve) bid factors"
-"41.5","CP","0.0005387","Panel A. Nonstrategic (naïve) bid factors"
-"42","CP","0.0005479","Panel A. Nonstrategic (naïve) bid factors"
-"42.5","CP","0.0005109","Panel A. Nonstrategic (naïve) bid factors"
-"43","CP","0.000467","Panel A. Nonstrategic (naïve) bid factors"
-"43.5","CP","0.0004252","Panel A. Nonstrategic (naïve) bid factors"
-"44","CP","0.0003922","Panel A. Nonstrategic (naïve) bid factors"
-"44.5","CP","0.0004095","Panel A. Nonstrategic (naïve) bid factors"
-"45","CP","0.0004069","Panel A. Nonstrategic (naïve) bid factors"
-"45.5","CP","0.0004037","Panel A. Nonstrategic (naïve) bid factors"
-"46","CP","0.0004097","Panel A. Nonstrategic (naïve) bid factors"
-"46.5","CP","0.0003817","Panel A. Nonstrategic (naïve) bid factors"
-"47","CP","0.0003477","Panel A. Nonstrategic (naïve) bid factors"
-"47.5","CP","0.000312","Panel A. Nonstrategic (naïve) bid factors"
-"48","CP","0.0002814","Panel A. Nonstrategic (naïve) bid factors"
-"48.5","CP","0.0002597","Panel A. Nonstrategic (naïve) bid factors"
-"49","CP","0.000273","Panel A. Nonstrategic (naïve) bid factors"
-"49.5","CP","0.0002707","Panel A. Nonstrategic (naïve) bid factors"
-"50","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"50.5","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"51","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"51.5","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"52","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"52.5","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"53","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"53.5","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"54","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"54.5","CP","0.000271","Panel A. Nonstrategic (naïve) bid factors"
-"-57.36","CV","0.0000821","Panel B. Price factors"
-"-56.86","CV","0.0001433","Panel B. Price factors"
-"-56.36","CV","0.000134","Panel B. Price factors"
-"-55.86","CV","0.0001356","Panel B. Price factors"
-"-55.36","CV","0.0001354","Panel B. Price factors"
-"-54.86","CV","0.0001355","Panel B. Price factors"
-"-54.36","CV","0.0001349","Panel B. Price factors"
-"-53.86","CV","0.0001384","Panel B. Price factors"
-"-53.36","CV","0.0001215","Panel B. Price factors"
-"-52.86","CV","0.0002258","Panel B. Price factors"
-"-52.36","CV","0.0002774","Panel B. Price factors"
-"-51.86","CV","0.0002701","Panel B. Price factors"
-"-51.36","CV","0.0002708","Panel B. Price factors"
-"-50.86","CV","0.000271","Panel B. Price factors"
-"-50.36","CV","0.0002702","Panel B. Price factors"
-"-49.86","CV","0.0002739","Panel B. Price factors"
-"-49.36","CV","0.0002568","Panel B. Price factors"
-"-48.86","CV","0.000363","Panel B. Price factors"
-"-48.36","CV","0.0004125","Panel B. Price factors"
-"-47.86","CV","0.0004056","Panel B. Price factors"
-"-47.36","CV","0.0004061","Panel B. Price factors"
-"-46.86","CV","0.0004076","Panel B. Price factors"
-"-46.36","CV","0.0003972","Panel B. Price factors"
-"-45.86","CV","0.0004634","Panel B. Price factors"
-"-45.36","CV","0.0005403","Panel B. Price factors"
-"-44.86","CV","0.0006332","Panel B. Price factors"
-"-44.36","CV","0.0006827","Panel B. Price factors"
-"-43.86","CV","0.0006776","Panel B. Price factors"
-"-43.36","CV","0.0006801","Panel B. Price factors"
-"-42.86","CV","0.0008417","Panel B. Price factors"
-"-42.36","CV","0.0009599","Panel B. Price factors"
-"-41.86","CV","0.0009362","Panel B. Price factors"
-"-41.36","CV","0.0010102","Panel B. Price factors"
-"-40.86","CV","0.0011885","Panel B. Price factors"
-"-40.36","CV","0.0012222","Panel B. Price factors"
-"-39.86","CV","0.0012194","Panel B. Price factors"
-"-39.36","CV","0.0012226","Panel B. Price factors"
-"-38.86","CV","0.0013853","Panel B. Price factors"
-"-38.36","CV","0.0015017","Panel B. Price factors"
-"-37.86","CV","0.0014776","Panel B. Price factors"
-"-37.36","CV","0.0015538","Panel B. Price factors"
-"-36.86","CV","0.0017306","Panel B. Price factors"
-"-36.36","CV","0.0017662","Panel B. Price factors"
-"-35.86","CV","0.001757","Panel B. Price factors"
-"-35.36","CV","0.0019085","Panel B. Price factors"
-"-34.86","CV","0.0020288","Panel B. Price factors"
-"-34.36","CV","0.0021064","Panel B. Price factors"
-"-33.86","CV","0.0023386","Panel B. Price factors"
-"-33.36","CV","0.0022642","Panel B. Price factors"
-"-32.86","CV","0.0025097","Panel B. Price factors"
-"-32.36","CV","0.0025592","Panel B. Price factors"
-"-31.86","CV","0.0028367","Panel B. Price factors"
-"-31.36","CV","0.0028571","Panel B. Price factors"
-"-30.86","CV","0.0031276","Panel B. Price factors"
-"-30.36","CV","0.0031938","Panel B. Price factors"
-"-29.86","CV","0.003393","Panel B. Price factors"
-"-29.36","CV","0.0035286","Panel B. Price factors"
-"-28.86","CV","0.003769","Panel B. Price factors"
-"-28.36","CV","0.0038901","Panel B. Price factors"
-"-27.86","CV","0.0041933","Panel B. Price factors"
-"-27.36","CV","0.0042077","Panel B. Price factors"
-"-26.86","CV","0.0045472","Panel B. Price factors"
-"-26.36","CV","0.0047438","Panel B. Price factors"
-"-25.86","CV","0.0048415","Panel B. Price factors"
-"-25.36","CV","0.0051704","Panel B. Price factors"
-"-24.86","CV","0.0055034","Panel B. Price factors"
-"-24.36","CV","0.0055432","Panel B. Price factors"
-"-23.86","CV","0.0058154","Panel B. Price factors"
-"-23.36","CV","0.0061205","Panel B. Price factors"
-"-22.86","CV","0.0064271","Panel B. Price factors"
-"-22.36","CV","0.0067316","Panel B. Price factors"
-"-21.86","CV","0.0070368","Panel B. Price factors"
-"-21.36","CV","0.0073419","Panel B. Price factors"
-"-20.86","CV","0.0076468","Panel B. Price factors"
-"-20.36","CV","0.0079522","Panel B. Price factors"
-"-19.86","CV","0.008257","Panel B. Price factors"
-"-19.36","CV","0.0085591","Panel B. Price factors"
-"-18.86","CV","0.0088949","Panel B. Price factors"
-"-18.36","CV","0.0093244","Panel B. Price factors"
-"-17.86","CV","0.0095991","Panel B. Price factors"
-"-17.36","CV","0.0099912","Panel B. Price factors"
-"-16.86","CV","0.0104703","Panel B. Price factors"
-"-16.36","CV","0.0108037","Panel B. Price factors"
-"-15.86","CV","0.0111038","Panel B. Price factors"
-"-15.36","CV","0.0115494","Panel B. Price factors"
-"-14.86","CV","0.011875","Panel B. Price factors"
-"-14.36","CV","0.0123085","Panel B. Price factors"
-"-13.86","CV","0.0125769","Panel B. Price factors"
-"-13.36","CV","0.0129912","Panel B. Price factors"
-"-12.86","CV","0.0133416","Panel B. Price factors"
-"-12.36","CV","0.0137517","Panel B. Price factors"
-"-11.86","CV","0.0143581","Panel B. Price factors"
-"-11.36","CV","0.0146795","Panel B. Price factors"
-"-10.86","CV","0.0153248","Panel B. Price factors"
-"-10.36","CV","0.0158654","Panel B. Price factors"
-"-9.86","CV","0.016389","Panel B. Price factors"
-"-9.36","CV","0.0169778","Panel B. Price factors"
-"-8.86","CV","0.0178331","Panel B. Price factors"
-"-8.36","CV","0.0184994","Panel B. Price factors"
-"-7.86","CV","0.0191042","Panel B. Price factors"
-"-7.36","CV","0.0197648","Panel B. Price factors"
-"-6.86","CV","0.0207606","Panel B. Price factors"
-"-6.36","CV","0.0214166","Panel B. Price factors"
-"-5.86","CV","0.0223753","Panel B. Price factors"
-"-5.36","CV","0.0232786","Panel B. Price factors"
-"-4.86","CV","0.0242018","Panel B. Price factors"
-"-4.36","CV","0.0250013","Panel B. Price factors"
-"-3.86","CV","0.0254701","Panel B. Price factors"
-"-3.36","CV","0.0259358","Panel B. Price factors"
-"-2.86","CV","0.0263427","Panel B. Price factors"
-"-2.36","CV","0.026751","Panel B. Price factors"
-"-1.86","CV","0.0272855","Panel B. Price factors"
-"-1.36","CV","0.0272919","Panel B. Price factors"
-"-0.86","CV","0.0270035","Panel B. Price factors"
-"-0.36","CV","0.0266989","Panel B. Price factors"
-"0.14","CV","0.0263966","Panel B. Price factors"
-"0.64","CV","0.0262354","Panel B. Price factors"
-"1.14","CV","0.0258977","Panel B. Price factors"
-"1.64","CV","0.0253281","Panel B. Price factors"
-"2.14","CV","0.0245228","Panel B. Price factors"
-"2.64","CV","0.0238742","Panel B. Price factors"
-"3.14","CV","0.0231612","Panel B. Price factors"
-"3.64","CV","0.0223814","Panel B. Price factors"
-"4.14","CV","0.0217587","Panel B. Price factors"
-"4.64","CV","0.0208765","Panel B. Price factors"
-"5.14","CV","0.0202078","Panel B. Price factors"
-"5.64","CV","0.0193785","Panel B. Price factors"
-"6.14","CV","0.0187194","Panel B. Price factors"
-"6.64","CV","0.0180212","Panel B. Price factors"
-"7.14","CV","0.0175371","Panel B. Price factors"
-"7.64","CV","0.0172027","Panel B. Price factors"
-"8.14","CV","0.0171885","Panel B. Price factors"
-"8.64","CV","0.0168683","Panel B. Price factors"
-"9.14","CV","0.0165626","Panel B. Price factors"
-"9.64","CV","0.0163124","Panel B. Price factors"
-"10.14","CV","0.0161727","Panel B. Price factors"
-"10.64","CV","0.016023","Panel B. Price factors"
-"11.14","CV","0.015853","Panel B. Price factors"
-"11.64","CV","0.0158483","Panel B. Price factors"
-"12.14","CV","0.0155513","Panel B. Price factors"
-"12.64","CV","0.0154373","Panel B. Price factors"
-"13.14","CV","0.0153974","Panel B. Price factors"
-"13.64","CV","0.0152844","Panel B. Price factors"
-"14.14","CV","0.0153147","Panel B. Price factors"
-"14.64","CV","0.0152158","Panel B. Price factors"
-"15.14","CV","0.0150375","Panel B. Price factors"
-"15.64","CV","0.0150358","Panel B. Price factors"
-"16.14","CV","0.0147511","Panel B. Price factors"
-"16.64","CV","0.0147131","Panel B. Price factors"
-"17.14","CV","0.014479","Panel B. Price factors"
-"17.64","CV","0.0143654","Panel B. Price factors"
-"18.14","CV","0.014214","Panel B. Price factors"
-"18.64","CV","0.0140463","Panel B. Price factors"
-"19.14","CV","0.0136951","Panel B. Price factors"
-"19.64","CV","0.0136785","Panel B. Price factors"
-"20.14","CV","0.0133714","Panel B. Price factors"
-"20.64","CV","0.0130942","Panel B. Price factors"
-"21.14","CV","0.0129603","Panel B. Price factors"
-"21.64","CV","0.0127504","Panel B. Price factors"
-"22.14","CV","0.0123965","Panel B. Price factors"
-"22.64","CV","0.0123319","Panel B. Price factors"
-"23.14","CV","0.0120961","Panel B. Price factors"
-"23.64","CV","0.0117834","Panel B. Price factors"
-"24.14","CV","0.0114782","Panel B. Price factors"
-"24.64","CV","0.0111736","Panel B. Price factors"
-"25.14","CV","0.0108683","Panel B. Price factors"
-"25.64","CV","0.0105633","Panel B. Price factors"
-"26.14","CV","0.0102583","Panel B. Price factors"
-"26.64","CV","0.0099532","Panel B. Price factors"
-"27.14","CV","0.0096481","Panel B. Price factors"
-"27.64","CV","0.0093431","Panel B. Price factors"
-"28.14","CV","0.009038","Panel B. Price factors"
-"28.64","CV","0.0087329","Panel B. Price factors"
-"29.14","CV","0.0084279","Panel B. Price factors"
-"29.64","CV","0.0081228","Panel B. Price factors"
-"30.14","CV","0.0078179","Panel B. Price factors"
-"30.64","CV","0.007512","Panel B. Price factors"
-"31.14","CV","0.0072091","Panel B. Price factors"
-"31.64","CV","0.0069033","Panel B. Price factors"
-"32.14","CV","0.0067574","Panel B. Price factors"
-"32.64","CV","0.0065676","Panel B. Price factors"
-"33.14","CV","0.0062937","Panel B. Price factors"
-"33.64","CV","0.0061764","Panel B. Price factors"
-"34.14","CV","0.0059135","Panel B. Price factors"
-"34.64","CV","0.0057163","Panel B. Price factors"
-"35.14","CV","0.0055566","Panel B. Price factors"
-"35.64","CV","0.0055479","Panel B. Price factors"
-"36.14","CV","0.0052639","Panel B. Price factors"
-"36.64","CV","0.005264","Panel B. Price factors"
-"37.14","CV","0.0050744","Panel B. Price factors"
-"37.64","CV","0.0050108","Panel B. Price factors"
-"38.14","CV","0.0049364","Panel B. Price factors"
-"38.64","CV","0.0047504","Panel B. Price factors"
-"39.14","CV","0.0047519","Panel B. Price factors"
-"39.64","CV","0.0044645","Panel B. Price factors"
-"40.14","CV","0.0044368","Panel B. Price factors"
-"40.64","CV","0.0041861","Panel B. Price factors"
-"41.14","CV","0.0040909","Panel B. Price factors"
-"41.64","CV","0.0039297","Panel B. Price factors"
-"42.14","CV","0.003736","Panel B. Price factors"
-"42.64","CV","0.003669","Panel B. Price factors"
-"43.14","CV","0.0033986","Panel B. Price factors"
-"43.64","CV","0.0033784","Panel B. Price factors"
-"44.14","CV","0.0030951","Panel B. Price factors"
-"44.64","CV","0.0030933","Panel B. Price factors"
-"45.14","CV","0.0029148","Panel B. Price factors"
-"45.64","CV","0.0027752","Panel B. Price factors"
-"46.14","CV","0.0025965","Panel B. Price factors"
-"46.64","CV","0.0025932","Panel B. Price factors"
-"47.14","CV","0.0023124","Panel B. Price factors"
-"47.64","CV","0.0022931","Panel B. Price factors"
-"48.14","CV","0.002011","Panel B. Price factors"
-"48.64","CV","0.0020102","Panel B. Price factors"
-"49.14","CV","0.001822","Panel B. Price factors"
-"49.64","CV","0.0017489","Panel B. Price factors"
-"50.14","CV","0.0017725","Panel B. Price factors"
-"50.64","CV","0.0016556","Panel B. Price factors"
-"51.14","CV","0.0014937","Panel B. Price factors"
-"51.64","CV","0.0014925","Panel B. Price factors"
-"52.14","CV","0.0014656","Panel B. Price factors"
-"52.64","CV","0.0013492","Panel B. Price factors"
-"53.14","CV","0.0012992","Panel B. Price factors"
-"53.64","CV","0.0012016","Panel B. Price factors"
-"54.14","CV","0.0012362","Panel B. Price factors"
-"54.64","CV","0.0010986","Panel B. Price factors"
-"55.14","CV","0.0010858","Panel B. Price factors"
-"55.64","CV","0.0009416","Panel B. Price factors"
-"56.14","CV","0.0009496","Panel B. Price factors"
-"56.64","CV","0.0009573","Panel B. Price factors"
-"57.14","CV","0.0008833","Panel B. Price factors"
-"57.64","CV","0.0008148","Panel B. Price factors"
-"58.14","CV","0.0007147","Panel B. Price factors"
-"58.64","CV","0.0006696","Panel B. Price factors"
-"59.14","CV","0.00068","Panel B. Price factors"
-"59.64","CV","0.0005352","Panel B. Price factors"
-"60.14","CV","0.0005432","Panel B. Price factors"
-"60.64","CV","0.0005506","Panel B. Price factors"
-"61.14","CV","0.0004795","Panel B. Price factors"
-"61.64","CV","0.0003907","Panel B. Price factors"
-"62.14","CV","0.0004221","Panel B. Price factors"
-"62.64","CV","0.0002862","Panel B. Price factors"
-"63.14","CV","0.0002703","Panel B. Price factors"
-"63.64","CV","0.0002703","Panel B. Price factors"
-"64.14","CV","0.0002709","Panel B. Price factors"
-"64.64","CV","0.0002715","Panel B. Price factors"
-"65.14","CV","0.0002673","Panel B. Price factors"
-"65.64","CV","0.0002854","Panel B. Price factors"
-"66.14","CV","0.0001665","Panel B. Price factors"
-"66.64","CV","0.0001317","Panel B. Price factors"
-"67.14","CV","0.0001355","Panel B. Price factors"
-"67.64","CV","0.0001356","Panel B. Price factors"
-"68.14","CV","0.0001353","Panel B. Price factors"
-"68.64","CV","0.0001354","Panel B. Price factors"
-"69.14","CV","0.0001354","Panel B. Price factors"
-"69.64","CV","0.0001354","Panel B. Price factors"
-"70.14","CV","0.0001354","Panel B. Price factors"
-"70.64","CV","0.0001354","Panel B. Price factors"
-"71.14","CV","0.0001354","Panel B. Price factors"
-"71.64","CV","0.0001354","Panel B. Price factors"
-"72.14","CV","0.0001354","Panel B. Price factors"
-"72.64","CV","0.0001354","Panel B. Price factors"
-"73.14","CV","0.0001354","Panel B. Price factors"
-"73.64","CV","0.0001354","Panel B. Price factors"
-"74.14","CV","0.0001354","Panel B. Price factors"
-"74.64","CV","0.0001354","Panel B. Price factors"
-"75.14","CV","0.0001354","Panel B. Price factors"
-"75.64","CV","0.0001354","Panel B. Price factors"
-"76.14","CV","0.0001354","Panel B. Price factors"
-"76.64","CV","0.0001354","Panel B. Price factors"
-"77.14","CV","0.0001354","Panel B. Price factors"
-"77.64","CV","0.0001354","Panel B. Price factors"
-"78.14","CV","0.0001354","Panel B. Price factors"
-"78.64","CV","0.0001354","Panel B. Price factors"
-"-45.86","CP","-0.0000023","Panel B. Price factors"
-"-45.56","CP","0.0000013","Panel B. Price factors"
-"-45.26","CP","0.0000069","Panel B. Price factors"
-"-44.96","CP","-0.0000251","Panel B. Price factors"
-"-44.66","CP","0.0000042","Panel B. Price factors"
-"-44.36","CP","0.000034","Panel B. Price factors"
-"-44.06","CP","0.0000711","Panel B. Price factors"
-"-43.76","CP","0.0001128","Panel B. Price factors"
-"-43.46","CP","0.000156","Panel B. Price factors"
-"-43.16","CP","0.0001978","Panel B. Price factors"
-"-42.86","CP","0.0002352","Panel B. Price factors"
-"-42.56","CP","0.0002654","Panel B. Price factors"
-"-42.26","CP","0.0002969","Panel B. Price factors"
-"-41.96","CP","0.0002649","Panel B. Price factors"
-"-41.66","CP","0.0002696","Panel B. Price factors"
-"-41.36","CP","0.0002688","Panel B. Price factors"
-"-41.06","CP","0.0002769","Panel B. Price factors"
-"-40.76","CP","0.0002777","Panel B. Price factors"
-"-40.46","CP","0.0001905","Panel B. Price factors"
-"-40.16","CP","0.0001305","Panel B. Price factors"
-"-39.86","CP","0.0001227","Panel B. Price factors"
-"-39.56","CP","0.0001208","Panel B. Price factors"
-"-39.26","CP","0.0001231","Panel B. Price factors"
-"-38.96","CP","0.0001278","Panel B. Price factors"
-"-38.66","CP","0.000133","Panel B. Price factors"
-"-38.36","CP","0.0001392","Panel B. Price factors"
-"-38.06","CP","0.0001355","Panel B. Price factors"
-"-37.76","CP","0.0001348","Panel B. Price factors"
-"-37.46","CP","0.0001353","Panel B. Price factors"
-"-37.16","CP","0.0001355","Panel B. Price factors"
-"-36.86","CP","0.0001374","Panel B. Price factors"
-"-36.56","CP","0.0001297","Panel B. Price factors"
-"-36.26","CP","0.0001375","Panel B. Price factors"
-"-35.96","CP","0.0002132","Panel B. Price factors"
-"-35.66","CP","0.0002947","Panel B. Price factors"
-"-35.36","CP","0.0003395","Panel B. Price factors"
-"-35.06","CP","0.0003872","Panel B. Price factors"
-"-34.76","CP","0.0004358","Panel B. Price factors"
-"-34.46","CP","0.0004834","Panel B. Price factors"
-"-34.16","CP","0.0005278","Panel B. Price factors"
-"-33.86","CP","0.0006281","Panel B. Price factors"
-"-33.56","CP","0.0006793","Panel B. Price factors"
-"-33.26","CP","0.0006721","Panel B. Price factors"
-"-32.96","CP","0.0007232","Panel B. Price factors"
-"-32.66","CP","0.0008419","Panel B. Price factors"
-"-32.36","CP","0.000942","Panel B. Price factors"
-"-32.06","CP","0.0009205","Panel B. Price factors"
-"-31.76","CP","0.0009585","Panel B. Price factors"
-"-31.46","CP","0.0010117","Panel B. Price factors"
-"-31.16","CP","0.0010807","Panel B. Price factors"
-"-30.86","CP","0.0011585","Panel B. Price factors"
-"-30.56","CP","0.0012379","Panel B. Price factors"
-"-30.26","CP","0.001312","Panel B. Price factors"
-"-29.96","CP","0.0014213","Panel B. Price factors"
-"-29.66","CP","0.001489","Panel B. Price factors"
-"-29.36","CP","0.0014824","Panel B. Price factors"
-"-29.06","CP","0.0015095","Panel B. Price factors"
-"-28.76","CP","0.0016126","Panel B. Price factors"
-"-28.46","CP","0.0017411","Panel B. Price factors"
-"-28.16","CP","0.0017292","Panel B. Price factors"
-"-27.86","CP","0.0017475","Panel B. Price factors"
-"-27.56","CP","0.0018758","Panel B. Price factors"
-"-27.26","CP","0.0020411","Panel B. Price factors"
-"-26.96","CP","0.0022191","Panel B. Price factors"
-"-26.66","CP","0.0023772","Panel B. Price factors"
-"-26.36","CP","0.0025356","Panel B. Price factors"
-"-26.06","CP","0.0025756","Panel B. Price factors"
-"-25.76","CP","0.0027571","Panel B. Price factors"
-"-25.46","CP","0.0029087","Panel B. Price factors"
-"-25.16","CP","0.0029861","Panel B. Price factors"
-"-24.86","CP","0.0030955","Panel B. Price factors"
-"-24.56","CP","0.0031032","Panel B. Price factors"
-"-24.26","CP","0.0032664","Panel B. Price factors"
-"-23.96","CP","0.0034532","Panel B. Price factors"
-"-23.66","CP","0.0036861","Panel B. Price factors"
-"-23.36","CP","0.0039277","Panel B. Price factors"
-"-23.06","CP","0.0041407","Panel B. Price factors"
-"-22.76","CP","0.0043973","Panel B. Price factors"
-"-22.46","CP","0.0044895","Panel B. Price factors"
-"-22.16","CP","0.0046723","Panel B. Price factors"
-"-21.86","CP","0.004907","Panel B. Price factors"
-"-21.56","CP","0.0050127","Panel B. Price factors"
-"-21.26","CP","0.0050651","Panel B. Price factors"
-"-20.96","CP","0.0052755","Panel B. Price factors"
-"-20.66","CP","0.0054985","Panel B. Price factors"
-"-20.36","CP","0.0057433","Panel B. Price factors"
-"-20.06","CP","0.0059698","Panel B. Price factors"
-"-19.76","CP","0.0062064","Panel B. Price factors"
-"-19.46","CP","0.0063384","Panel B. Price factors"
-"-19.16","CP","0.0066048","Panel B. Price factors"
-"-18.86","CP","0.0068059","Panel B. Price factors"
-"-18.56","CP","0.0069802","Panel B. Price factors"
-"-18.26","CP","0.0073636","Panel B. Price factors"
-"-17.96","CP","0.0078245","Panel B. Price factors"
-"-17.66","CP","0.0082339","Panel B. Price factors"
-"-17.36","CP","0.0085691","Panel B. Price factors"
-"-17.06","CP","0.0087881","Panel B. Price factors"
-"-16.76","CP","0.008943","Panel B. Price factors"
-"-16.46","CP","0.008815","Panel B. Price factors"
-"-16.16","CP","0.0095835","Panel B. Price factors"
-"-15.86","CP","0.0102106","Panel B. Price factors"
-"-15.56","CP","0.010947","Panel B. Price factors"
-"-15.26","CP","0.0117172","Panel B. Price factors"
-"-14.96","CP","0.0124461","Panel B. Price factors"
-"-14.66","CP","0.0130582","Panel B. Price factors"
-"-14.36","CP","0.0137883","Panel B. Price factors"
-"-14.06","CP","0.0138389","Panel B. Price factors"
-"-13.76","CP","0.0147256","Panel B. Price factors"
-"-13.46","CP","0.0156926","Panel B. Price factors"
-"-13.16","CP","0.0161415","Panel B. Price factors"
-"-12.86","CP","0.0163933","Panel B. Price factors"
-"-12.56","CP","0.017492","Panel B. Price factors"
-"-12.26","CP","0.0186617","Panel B. Price factors"
-"-11.96","CP","0.0189245","Panel B. Price factors"
-"-11.66","CP","0.0198806","Panel B. Price factors"
-"-11.36","CP","0.0209958","Panel B. Price factors"
-"-11.06","CP","0.0212083","Panel B. Price factors"
-"-10.76","CP","0.0216323","Panel B. Price factors"
-"-10.46","CP","0.0225498","Panel B. Price factors"
-"-10.16","CP","0.0235256","Panel B. Price factors"
-"-9.86","CP","0.024081","Panel B. Price factors"
-"-9.56","CP","0.0248348","Panel B. Price factors"
-"-9.26","CP","0.0259874","Panel B. Price factors"
-"-8.96","CP","0.0263685","Panel B. Price factors"
-"-8.66","CP","0.0270506","Panel B. Price factors"
-"-8.36","CP","0.0285358","Panel B. Price factors"
-"-8.06","CP","0.0291743","Panel B. Price factors"
-"-7.76","CP","0.029809","Panel B. Price factors"
-"-7.46","CP","0.0312385","Panel B. Price factors"
-"-7.16","CP","0.0327901","Panel B. Price factors"
-"-6.86","CP","0.0342739","Panel B. Price factors"
-"-6.56","CP","0.0358892","Panel B. Price factors"
-"-6.26","CP","0.0379316","Panel B. Price factors"
-"-5.96","CP","0.0400626","Panel B. Price factors"
-"-5.66","CP","0.0422658","Panel B. Price factors"
-"-5.36","CP","0.0448162","Panel B. Price factors"
-"-5.06","CP","0.046736","Panel B. Price factors"
-"-4.76","CP","0.0483334","Panel B. Price factors"
-"-4.46","CP","0.0509119","Panel B. Price factors"
-"-4.16","CP","0.0532217","Panel B. Price factors"
-"-3.86","CP","0.0549707","Panel B. Price factors"
-"-3.56","CP","0.0569675","Panel B. Price factors"
-"-3.26","CP","0.0587738","Panel B. Price factors"
-"-2.96","CP","0.0599651","Panel B. Price factors"
-"-2.66","CP","0.0605767","Panel B. Price factors"
-"-2.36","CP","0.0612386","Panel B. Price factors"
-"-2.06","CP","0.061783","Panel B. Price factors"
-"-1.76","CP","0.0615275","Panel B. Price factors"
-"-1.46","CP","0.0602972","Panel B. Price factors"
-"-1.16","CP","0.0587668","Panel B. Price factors"
-"-0.86","CP","0.0573833","Panel B. Price factors"
-"-0.56","CP","0.0550143","Panel B. Price factors"
-"-0.26","CP","0.0523642","Panel B. Price factors"
-"0.04","CP","0.0503256","Panel B. Price factors"
-"0.34","CP","0.0477123","Panel B. Price factors"
-"0.64","CP","0.044811","Panel B. Price factors"
-"0.94","CP","0.0423509","Panel B. Price factors"
-"1.24","CP","0.040106","Panel B. Price factors"
-"1.54","CP","0.0377819","Panel B. Price factors"
-"1.84","CP","0.0352978","Panel B. Price factors"
-"2.14","CP","0.0329179","Panel B. Price factors"
-"2.44","CP","0.031014","Panel B. Price factors"
-"2.74","CP","0.0296035","Panel B. Price factors"
-"3.04","CP","0.0282309","Panel B. Price factors"
-"3.34","CP","0.027134","Panel B. Price factors"
-"3.64","CP","0.0263542","Panel B. Price factors"
-"3.94","CP","0.0254524","Panel B. Price factors"
-"4.24","CP","0.0249062","Panel B. Price factors"
-"4.54","CP","0.0245535","Panel B. Price factors"
-"4.84","CP","0.0234576","Panel B. Price factors"
-"5.14","CP","0.0226098","Panel B. Price factors"
-"5.44","CP","0.022219","Panel B. Price factors"
-"5.74","CP","0.0213281","Panel B. Price factors"
-"6.04","CP","0.0205019","Panel B. Price factors"
-"6.34","CP","0.0201735","Panel B. Price factors"
-"6.64","CP","0.019946","Panel B. Price factors"
-"6.94","CP","0.0190527","Panel B. Price factors"
-"7.24","CP","0.0179965","Panel B. Price factors"
-"7.54","CP","0.0169081","Panel B. Price factors"
-"7.84","CP","0.0160906","Panel B. Price factors"
-"8.14","CP","0.0156146","Panel B. Price factors"
-"8.44","CP","0.0153631","Panel B. Price factors"
-"8.74","CP","0.0151216","Panel B. Price factors"
-"9.04","CP","0.0145542","Panel B. Price factors"
-"9.34","CP","0.0139581","Panel B. Price factors"
-"9.64","CP","0.0133062","Panel B. Price factors"
-"9.94","CP","0.0127173","Panel B. Price factors"
-"10.24","CP","0.0123654","Panel B. Price factors"
-"10.54","CP","0.0121611","Panel B. Price factors"
-"10.84","CP","0.0117001","Panel B. Price factors"
-"11.14","CP","0.011293","Panel B. Price factors"
-"11.44","CP","0.0109008","Panel B. Price factors"
-"11.74","CP","0.0106207","Panel B. Price factors"
-"12.04","CP","0.0105867","Panel B. Price factors"
-"12.34","CP","0.0102865","Panel B. Price factors"
-"12.64","CP","0.0099605","Panel B. Price factors"
-"12.94","CP","0.0098112","Panel B. Price factors"
-"13.24","CP","0.0096093","Panel B. Price factors"
-"13.54","CP","0.0093911","Panel B. Price factors"
-"13.84","CP","0.009151","Panel B. Price factors"
-"14.14","CP","0.008922","Panel B. Price factors"
-"14.44","CP","0.0086318","Panel B. Price factors"
-"14.74","CP","0.0084111","Panel B. Price factors"
-"15.04","CP","0.0082182","Panel B. Price factors"
-"15.34","CP","0.0080741","Panel B. Price factors"
-"15.64","CP","0.0077512","Panel B. Price factors"
-"15.94","CP","0.007319","Panel B. Price factors"
-"16.24","CP","0.0068481","Panel B. Price factors"
-"16.54","CP","0.0065017","Panel B. Price factors"
-"16.84","CP","0.0064554","Panel B. Price factors"
-"17.14","CP","0.0064202","Panel B. Price factors"
-"17.44","CP","0.0060836","Panel B. Price factors"
-"17.74","CP","0.0058747","Panel B. Price factors"
-"18.04","CP","0.005764","Panel B. Price factors"
-"18.34","CP","0.0055426","Panel B. Price factors"
-"18.64","CP","0.0053959","Panel B. Price factors"
-"18.94","CP","0.0052276","Panel B. Price factors"
-"19.24","CP","0.0050605","Panel B. Price factors"
-"19.54","CP","0.004917","Panel B. Price factors"
-"19.84","CP","0.0047562","Panel B. Price factors"
-"20.14","CP","0.0047383","Panel B. Price factors"
-"20.44","CP","0.0047287","Panel B. Price factors"
-"20.74","CP","0.0047981","Panel B. Price factors"
-"21.04","CP","0.0048849","Panel B. Price factors"
-"21.34","CP","0.0048839","Panel B. Price factors"
-"21.64","CP","0.0048553","Panel B. Price factors"
-"21.94","CP","0.0048949","Panel B. Price factors"
-"22.24","CP","0.0049206","Panel B. Price factors"
-"22.54","CP","0.0047939","Panel B. Price factors"
-"22.84","CP","0.0046536","Panel B. Price factors"
-"23.14","CP","0.004506","Panel B. Price factors"
-"23.44","CP","0.0043842","Panel B. Price factors"
-"23.74","CP","0.0043187","Panel B. Price factors"
-"24.04","CP","0.0044583","Panel B. Price factors"
-"24.34","CP","0.0043579","Panel B. Price factors"
-"24.64","CP","0.0041235","Panel B. Price factors"
-"24.94","CP","0.0039505","Panel B. Price factors"
-"25.24","CP","0.003738","Panel B. Price factors"
-"25.54","CP","0.0036476","Panel B. Price factors"
-"25.84","CP","0.0035482","Panel B. Price factors"
-"26.14","CP","0.0033781","Panel B. Price factors"
-"26.44","CP","0.003179","Panel B. Price factors"
-"26.74","CP","0.0029688","Panel B. Price factors"
-"27.04","CP","0.0027831","Panel B. Price factors"
-"27.34","CP","0.0025967","Panel B. Price factors"
-"27.64","CP","0.0025727","Panel B. Price factors"
-"27.94","CP","0.0024231","Panel B. Price factors"
-"28.24","CP","0.0021625","Panel B. Price factors"
-"28.54","CP","0.0020327","Panel B. Price factors"
-"28.84","CP","0.0021169","Panel B. Price factors"
-"29.14","CP","0.0019429","Panel B. Price factors"
-"29.44","CP","0.0017262","Panel B. Price factors"
-"29.74","CP","0.0014752","Panel B. Price factors"
-"30.04","CP","0.001239","Panel B. Price factors"
-"30.34","CP","0.0010395","Panel B. Price factors"
-"30.64","CP","0.0010347","Panel B. Price factors"
-"30.94","CP","0.0011075","Panel B. Price factors"
-"31.24","CP","0.0010821","Panel B. Price factors"
-"31.54","CP","0.0010915","Panel B. Price factors"
-"31.84","CP","0.0010266","Panel B. Price factors"
-"32.14","CP","0.0009348","Panel B. Price factors"
-"32.44","CP","0.0009321","Panel B. Price factors"
-"32.74","CP","0.0010141","Panel B. Price factors"
-"33.04","CP","0.0010874","Panel B. Price factors"
-"33.34","CP","0.0011008","Panel B. Price factors"
-"33.64","CP","0.0011084","Panel B. Price factors"
-"33.94","CP","0.00111","Panel B. Price factors"
-"34.24","CP","0.0011054","Panel B. Price factors"
-"34.54","CP","0.0010944","Panel B. Price factors"
-"34.84","CP","0.0010538","Panel B. Price factors"
-"35.14","CP","0.0009561","Panel B. Price factors"
-"35.44","CP","0.0009465","Panel B. Price factors"
-"35.74","CP","0.0009303","Panel B. Price factors"
-"36.04","CP","0.0008266","Panel B. Price factors"
-"36.34","CP","0.0007085","Panel B. Price factors"
-"36.64","CP","0.0006835","Panel B. Price factors"
-"36.94","CP","0.0006837","Panel B. Price factors"
-"37.24","CP","0.0006453","Panel B. Price factors"
-"37.54","CP","0.0005989","Panel B. Price factors"
-"37.84","CP","0.0005456","Panel B. Price factors"
-"38.14","CP","0.0004916","Panel B. Price factors"
-"38.44","CP","0.000443","Panel B. Price factors"
-"38.74","CP","0.0004049","Panel B. Price factors"
-"39.04","CP","0.0003882","Panel B. Price factors"
-"39.34","CP","0.0004115","Panel B. Price factors"
-"39.64","CP","0.0004067","Panel B. Price factors"
-"39.94","CP","0.0004186","Panel B. Price factors"
-"40.24","CP","0.0003578","Panel B. Price factors"
-"40.54","CP","0.0002655","Panel B. Price factors"
-"40.84","CP","0.0002596","Panel B. Price factors"
-"41.14","CP","0.0002867","Panel B. Price factors"
-"41.44","CP","0.0002687","Panel B. Price factors"
-"41.74","CP","0.0002488","Panel B. Price factors"
-"42.04","CP","0.0002241","Panel B. Price factors"
-"42.34","CP","0.0001974","Panel B. Price factors"
-"42.64","CP","0.0001714","Panel B. Price factors"
-"42.94","CP","0.0001489","Panel B. Price factors"
-"43.24","CP","0.000126","Panel B. Price factors"
-"43.54","CP","0.0001305","Panel B. Price factors"
-"43.84","CP","0.000139","Panel B. Price factors"
-"44.14","CP","0.0001347","Panel B. Price factors"
-"44.44","CP","0.0001351","Panel B. Price factors"
-"44.74","CP","0.0001357","Panel B. Price factors"
-"45.04","CP","0.0001354","Panel B. Price factors"
-"45.34","CP","0.0001354","Panel B. Price factors"
-"45.64","CP","0.0001354","Panel B. Price factors"
-"45.94","CP","0.0001354","Panel B. Price factors"
-"46.24","CP","0.0001354","Panel B. Price factors"
-"46.54","CP","0.0001354","Panel B. Price factors"
-"46.84","CP","0.0001354","Panel B. Price factors"
-"47.14","CP","0.0001354","Panel B. Price factors"
-"47.44","CP","0.0001354","Panel B. Price factors"
-"47.74","CP","0.0001354","Panel B. Price factors"
-"48.04","CP","0.0001354","Panel B. Price factors"
-"48.34","CP","0.0001354","Panel B. Price factors"
-"48.64","CP","0.0001354","Panel B. Price factors"
-"48.94","CP","0.0001354","Panel B. Price factors"
-"49.24","CP","0.0001354","Panel B. Price factors"
-"49.54","CP","0.0001354","Panel B. Price factors"
+Subplot Value,Type-2,Type-1,Value
+Panel A. Nonstrategic (naïve) bid factors,CV,-50.0,0.0004072
+Panel A. Nonstrategic (naïve) bid factors,CV,-49.5,0.0004217
+Panel A. Nonstrategic (naïve) bid factors,CV,-49.0,0.0005487
+Panel A. Nonstrategic (naïve) bid factors,CV,-48.5,0.0005896
+Panel A. Nonstrategic (naïve) bid factors,CV,-48.0,0.0006919
+Panel A. Nonstrategic (naïve) bid factors,CV,-47.5,0.0006799
+Panel A. Nonstrategic (naïve) bid factors,CV,-47.0,0.0006659
+Panel A. Nonstrategic (naïve) bid factors,CV,-46.5,0.0008072
+Panel A. Nonstrategic (naïve) bid factors,CV,-46.0,0.0008172
+Panel A. Nonstrategic (naïve) bid factors,CV,-45.5,0.0009628
+Panel A. Nonstrategic (naïve) bid factors,CV,-45.0,0.0009375
+Panel A. Nonstrategic (naïve) bid factors,CV,-44.5,0.001007
+Panel A. Nonstrategic (naïve) bid factors,CV,-44.0,0.001102
+Panel A. Nonstrategic (naïve) bid factors,CV,-43.5,0.0010692
+Panel A. Nonstrategic (naïve) bid factors,CV,-43.0,0.0012024
+Panel A. Nonstrategic (naïve) bid factors,CV,-42.5,0.0012226
+Panel A. Nonstrategic (naïve) bid factors,CV,-42.0,0.00122
+Panel A. Nonstrategic (naïve) bid factors,CV,-41.5,0.0012447
+Panel A. Nonstrategic (naïve) bid factors,CV,-41.0,0.0013745
+Panel A. Nonstrategic (naïve) bid factors,CV,-40.5,0.001341
+Panel A. Nonstrategic (naïve) bid factors,CV,-40.0,0.0014399
+Panel A. Nonstrategic (naïve) bid factors,CV,-39.5,0.0015082
+Panel A. Nonstrategic (naïve) bid factors,CV,-39.0,0.0014734
+Panel A. Nonstrategic (naïve) bid factors,CV,-38.5,0.0017629
+Panel A. Nonstrategic (naïve) bid factors,CV,-38.0,0.0017619
+Panel A. Nonstrategic (naïve) bid factors,CV,-37.5,0.0017515
+Panel A. Nonstrategic (naïve) bid factors,CV,-37.0,0.0018636
+Panel A. Nonstrategic (naïve) bid factors,CV,-36.5,0.0020536
+Panel A. Nonstrategic (naïve) bid factors,CV,-36.0,0.0021036
+Panel A. Nonstrategic (naïve) bid factors,CV,-35.5,0.002296
+Panel A. Nonstrategic (naïve) bid factors,CV,-35.0,0.0022939
+Panel A. Nonstrategic (naïve) bid factors,CV,-34.5,0.0025824
+Panel A. Nonstrategic (naïve) bid factors,CV,-34.0,0.0026103
+Panel A. Nonstrategic (naïve) bid factors,CV,-33.5,0.0028623
+Panel A. Nonstrategic (naïve) bid factors,CV,-33.0,0.002958
+Panel A. Nonstrategic (naïve) bid factors,CV,-32.5,0.0031238
+Panel A. Nonstrategic (naïve) bid factors,CV,-32.0,0.0032975
+Panel A. Nonstrategic (naïve) bid factors,CV,-31.5,0.003511
+Panel A. Nonstrategic (naïve) bid factors,CV,-31.0,0.0036557
+Panel A. Nonstrategic (naïve) bid factors,CV,-30.5,0.0038076
+Panel A. Nonstrategic (naïve) bid factors,CV,-30.0,0.0039931
+Panel A. Nonstrategic (naïve) bid factors,CV,-29.5,0.0042165
+Panel A. Nonstrategic (naïve) bid factors,CV,-29.0,0.0043125
+Panel A. Nonstrategic (naïve) bid factors,CV,-28.5,0.0045805
+Panel A. Nonstrategic (naïve) bid factors,CV,-28.0,0.004691
+Panel A. Nonstrategic (naïve) bid factors,CV,-27.5,0.0049997
+Panel A. Nonstrategic (naïve) bid factors,CV,-27.0,0.0050195
+Panel A. Nonstrategic (naïve) bid factors,CV,-26.5,0.0053039
+Panel A. Nonstrategic (naïve) bid factors,CV,-26.0,0.0053461
+Panel A. Nonstrategic (naïve) bid factors,CV,-25.5,0.0055734
+Panel A. Nonstrategic (naïve) bid factors,CV,-25.0,0.0057006
+Panel A. Nonstrategic (naïve) bid factors,CV,-24.5,0.0058299
+Panel A. Nonstrategic (naïve) bid factors,CV,-24.0,0.0060511
+Panel A. Nonstrategic (naïve) bid factors,CV,-23.5,0.0061084
+Panel A. Nonstrategic (naïve) bid factors,CV,-23.0,0.0062472
+Panel A. Nonstrategic (naïve) bid factors,CV,-22.5,0.0063978
+Panel A. Nonstrategic (naïve) bid factors,CV,-22.0,0.0065625
+Panel A. Nonstrategic (naïve) bid factors,CV,-21.5,0.0066498
+Panel A. Nonstrategic (naïve) bid factors,CV,-21.0,0.0067264
+Panel A. Nonstrategic (naïve) bid factors,CV,-20.5,0.0067826
+Panel A. Nonstrategic (naïve) bid factors,CV,-20.0,0.0068985
+Panel A. Nonstrategic (naïve) bid factors,CV,-19.5,0.0069245
+Panel A. Nonstrategic (naïve) bid factors,CV,-19.0,0.0069229
+Panel A. Nonstrategic (naïve) bid factors,CV,-18.5,0.0069223
+Panel A. Nonstrategic (naïve) bid factors,CV,-18.0,0.0069224
+Panel A. Nonstrategic (naïve) bid factors,CV,-17.5,0.0069234
+Panel A. Nonstrategic (naïve) bid factors,CV,-17.0,0.0069187
+Panel A. Nonstrategic (naïve) bid factors,CV,-16.5,0.0069362
+Panel A. Nonstrategic (naïve) bid factors,CV,-16.0,0.0068048
+Panel A. Nonstrategic (naïve) bid factors,CV,-15.5,0.0067854
+Panel A. Nonstrategic (naïve) bid factors,CV,-15.0,0.0067756
+Panel A. Nonstrategic (naïve) bid factors,CV,-14.5,0.0066452
+Panel A. Nonstrategic (naïve) bid factors,CV,-14.0,0.00661
+Panel A. Nonstrategic (naïve) bid factors,CV,-13.5,0.0064969
+Panel A. Nonstrategic (naïve) bid factors,CV,-13.0,0.0065332
+Panel A. Nonstrategic (naïve) bid factors,CV,-12.5,0.006408
+Panel A. Nonstrategic (naïve) bid factors,CV,-12.0,0.0063772
+Panel A. Nonstrategic (naïve) bid factors,CV,-11.5,0.0063798
+Panel A. Nonstrategic (naïve) bid factors,CV,-11.0,0.0063607
+Panel A. Nonstrategic (naïve) bid factors,CV,-10.5,0.0062667
+Panel A. Nonstrategic (naïve) bid factors,CV,-10.0,0.0063743
+Panel A. Nonstrategic (naïve) bid factors,CV,-9.5,0.0065237
+Panel A. Nonstrategic (naïve) bid factors,CV,-9.0,0.0066596
+Panel A. Nonstrategic (naïve) bid factors,CV,-8.5,0.006753
+Panel A. Nonstrategic (naïve) bid factors,CV,-8.0,0.0069073
+Panel A. Nonstrategic (naïve) bid factors,CV,-7.5,0.0072072
+Panel A. Nonstrategic (naïve) bid factors,CV,-7.0,0.0075348
+Panel A. Nonstrategic (naïve) bid factors,CV,-6.5,0.0079619
+Panel A. Nonstrategic (naïve) bid factors,CV,-6.0,0.0083197
+Panel A. Nonstrategic (naïve) bid factors,CV,-5.5,0.0087117
+Panel A. Nonstrategic (naïve) bid factors,CV,-5.0,0.0090845
+Panel A. Nonstrategic (naïve) bid factors,CV,-4.5,0.0096862
+Panel A. Nonstrategic (naïve) bid factors,CV,-4.0,0.0101654
+Panel A. Nonstrategic (naïve) bid factors,CV,-3.5,0.0106302
+Panel A. Nonstrategic (naïve) bid factors,CV,-3.0,0.0112658
+Panel A. Nonstrategic (naïve) bid factors,CV,-2.5,0.0117687
+Panel A. Nonstrategic (naïve) bid factors,CV,-2.0,0.012205
+Panel A. Nonstrategic (naïve) bid factors,CV,-1.5,0.0126511
+Panel A. Nonstrategic (naïve) bid factors,CV,-1.0,0.013155
+Panel A. Nonstrategic (naïve) bid factors,CV,-0.5,0.0136619
+Panel A. Nonstrategic (naïve) bid factors,CV,0.0,0.0141165
+Panel A. Nonstrategic (naïve) bid factors,CV,0.5,0.0145623
+Panel A. Nonstrategic (naïve) bid factors,CV,1.0,0.0148932
+Panel A. Nonstrategic (naïve) bid factors,CV,1.5,0.0153269
+Panel A. Nonstrategic (naïve) bid factors,CV,2.0,0.0155968
+Panel A. Nonstrategic (naïve) bid factors,CV,2.5,0.0160163
+Panel A. Nonstrategic (naïve) bid factors,CV,3.0,0.016364
+Panel A. Nonstrategic (naïve) bid factors,CV,3.5,0.0166834
+Panel A. Nonstrategic (naïve) bid factors,CV,4.0,0.0166994
+Panel A. Nonstrategic (naïve) bid factors,CV,4.5,0.0170284
+Panel A. Nonstrategic (naïve) bid factors,CV,5.0,0.0172452
+Panel A. Nonstrategic (naïve) bid factors,CV,5.5,0.0173244
+Panel A. Nonstrategic (naïve) bid factors,CV,6.0,0.0176791
+Panel A. Nonstrategic (naïve) bid factors,CV,6.5,0.017884
+Panel A. Nonstrategic (naïve) bid factors,CV,7.0,0.0180188
+Panel A. Nonstrategic (naïve) bid factors,CV,7.5,0.0183099
+Panel A. Nonstrategic (naïve) bid factors,CV,8.0,0.0186178
+Panel A. Nonstrategic (naïve) bid factors,CV,8.5,0.0189187
+Panel A. Nonstrategic (naïve) bid factors,CV,9.0,0.0192721
+Panel A. Nonstrategic (naïve) bid factors,CV,9.5,0.0196949
+Panel A. Nonstrategic (naïve) bid factors,CV,10.0,0.019947
+Panel A. Nonstrategic (naïve) bid factors,CV,10.5,0.0204985
+Panel A. Nonstrategic (naïve) bid factors,CV,11.0,0.0208636
+Panel A. Nonstrategic (naïve) bid factors,CV,11.5,0.0213068
+Panel A. Nonstrategic (naïve) bid factors,CV,12.0,0.0216121
+Panel A. Nonstrategic (naïve) bid factors,CV,12.5,0.0219222
+Panel A. Nonstrategic (naïve) bid factors,CV,13.0,0.0222294
+Panel A. Nonstrategic (naïve) bid factors,CV,13.5,0.0225277
+Panel A. Nonstrategic (naïve) bid factors,CV,14.0,0.0228703
+Panel A. Nonstrategic (naïve) bid factors,CV,14.5,0.0229317
+Panel A. Nonstrategic (naïve) bid factors,CV,15.0,0.0231745
+Panel A. Nonstrategic (naïve) bid factors,CV,15.5,0.0234846
+Panel A. Nonstrategic (naïve) bid factors,CV,16.0,0.0235083
+Panel A. Nonstrategic (naïve) bid factors,CV,16.5,0.0238182
+Panel A. Nonstrategic (naïve) bid factors,CV,17.0,0.0238961
+Panel A. Nonstrategic (naïve) bid factors,CV,17.5,0.0238871
+Panel A. Nonstrategic (naïve) bid factors,CV,18.0,0.0238932
+Panel A. Nonstrategic (naïve) bid factors,CV,18.5,0.0238793
+Panel A. Nonstrategic (naïve) bid factors,CV,19.0,0.0240177
+Panel A. Nonstrategic (naïve) bid factors,CV,19.5,0.0240136
+Panel A. Nonstrategic (naïve) bid factors,CV,20.0,0.0236912
+Panel A. Nonstrategic (naïve) bid factors,CV,20.5,0.0234255
+Panel A. Nonstrategic (naïve) bid factors,CV,21.0,0.0232967
+Panel A. Nonstrategic (naïve) bid factors,CV,21.5,0.0230604
+Panel A. Nonstrategic (naïve) bid factors,CV,22.0,0.0227387
+Panel A. Nonstrategic (naïve) bid factors,CV,22.5,0.022447
+Panel A. Nonstrategic (naïve) bid factors,CV,23.0,0.0219965
+Panel A. Nonstrategic (naïve) bid factors,CV,23.5,0.0216923
+Panel A. Nonstrategic (naïve) bid factors,CV,24.0,0.0213579
+Panel A. Nonstrategic (naïve) bid factors,CV,24.5,0.0208854
+Panel A. Nonstrategic (naïve) bid factors,CV,25.0,0.02043
+Panel A. Nonstrategic (naïve) bid factors,CV,25.5,0.0199638
+Panel A. Nonstrategic (naïve) bid factors,CV,26.0,0.0195219
+Panel A. Nonstrategic (naïve) bid factors,CV,26.5,0.0189211
+Panel A. Nonstrategic (naïve) bid factors,CV,27.0,0.0184505
+Panel A. Nonstrategic (naïve) bid factors,CV,27.5,0.0178477
+Panel A. Nonstrategic (naïve) bid factors,CV,28.0,0.0173815
+Panel A. Nonstrategic (naïve) bid factors,CV,28.5,0.0166838
+Panel A. Nonstrategic (naïve) bid factors,CV,29.0,0.0159964
+Panel A. Nonstrategic (naïve) bid factors,CV,29.5,0.0152932
+Panel A. Nonstrategic (naïve) bid factors,CV,30.0,0.0146144
+Panel A. Nonstrategic (naïve) bid factors,CV,30.5,0.0141484
+Panel A. Nonstrategic (naïve) bid factors,CV,31.0,0.0135403
+Panel A. Nonstrategic (naïve) bid factors,CV,31.5,0.012923
+Panel A. Nonstrategic (naïve) bid factors,CV,32.0,0.0123525
+Panel A. Nonstrategic (naïve) bid factors,CV,32.5,0.0118544
+Panel A. Nonstrategic (naïve) bid factors,CV,33.0,0.0112028
+Panel A. Nonstrategic (naïve) bid factors,CV,33.5,0.0107178
+Panel A. Nonstrategic (naïve) bid factors,CV,34.0,0.0101156
+Panel A. Nonstrategic (naïve) bid factors,CV,34.5,0.0097833
+Panel A. Nonstrategic (naïve) bid factors,CV,35.0,0.0091671
+Panel A. Nonstrategic (naïve) bid factors,CV,35.5,0.0086115
+Panel A. Nonstrategic (naïve) bid factors,CV,36.0,0.0082882
+Panel A. Nonstrategic (naïve) bid factors,CV,36.5,0.0077949
+Panel A. Nonstrategic (naïve) bid factors,CV,37.0,0.0074212
+Panel A. Nonstrategic (naïve) bid factors,CV,37.5,0.0071407
+Panel A. Nonstrategic (naïve) bid factors,CV,38.0,0.0066958
+Panel A. Nonstrategic (naïve) bid factors,CV,38.5,0.0063771
+Panel A. Nonstrategic (naïve) bid factors,CV,39.0,0.0060692
+Panel A. Nonstrategic (naïve) bid factors,CV,39.5,0.0057652
+Panel A. Nonstrategic (naïve) bid factors,CV,40.0,0.0054479
+Panel A. Nonstrategic (naïve) bid factors,CV,40.5,0.005209
+Panel A. Nonstrategic (naïve) bid factors,CV,41.0,0.0050799
+Panel A. Nonstrategic (naïve) bid factors,CV,41.5,0.0048185
+Panel A. Nonstrategic (naïve) bid factors,CV,42.0,0.0044889
+Panel A. Nonstrategic (naïve) bid factors,CV,42.5,0.0044742
+Panel A. Nonstrategic (naïve) bid factors,CV,43.0,0.0041431
+Panel A. Nonstrategic (naïve) bid factors,CV,43.5,0.003929
+Panel A. Nonstrategic (naïve) bid factors,CV,44.0,0.003852
+Panel A. Nonstrategic (naïve) bid factors,CV,44.5,0.003474
+Panel A. Nonstrategic (naïve) bid factors,CV,45.0,0.0034056
+Panel A. Nonstrategic (naïve) bid factors,CV,45.5,0.0031701
+Panel A. Nonstrategic (naïve) bid factors,CV,46.0,0.0029892
+Panel A. Nonstrategic (naïve) bid factors,CV,46.5,0.0028258
+Panel A. Nonstrategic (naïve) bid factors,CV,47.0,0.0025683
+Panel A. Nonstrategic (naïve) bid factors,CV,47.5,0.0025067
+Panel A. Nonstrategic (naïve) bid factors,CV,48.0,0.0022192
+Panel A. Nonstrategic (naïve) bid factors,CV,48.5,0.0021115
+Panel A. Nonstrategic (naïve) bid factors,CV,49.0,0.0018168
+Panel A. Nonstrategic (naïve) bid factors,CV,49.5,0.0017645
+Panel A. Nonstrategic (naïve) bid factors,CV,50.0,0.0016288
+Panel A. Nonstrategic (naïve) bid factors,CV,50.5,0.0014939
+Panel A. Nonstrategic (naïve) bid factors,CV,51.0,0.0014353
+Panel A. Nonstrategic (naïve) bid factors,CV,51.5,0.0011856
+Panel A. Nonstrategic (naïve) bid factors,CV,52.0,0.0012566
+Panel A. Nonstrategic (naïve) bid factors,CV,52.5,0.0010377
+Panel A. Nonstrategic (naïve) bid factors,CV,53.0,0.0009351
+Panel A. Nonstrategic (naïve) bid factors,CV,53.5,0.0009567
+Panel A. Nonstrategic (naïve) bid factors,CV,54.0,0.0008086
+Panel A. Nonstrategic (naïve) bid factors,CV,54.5,0.0006527
+Panel A. Nonstrategic (naïve) bid factors,CV,55.0,0.0005293
+Panel A. Nonstrategic (naïve) bid factors,CV,55.5,0.0005581
+Panel A. Nonstrategic (naïve) bid factors,CV,56.0,0.0004658
+Panel A. Nonstrategic (naïve) bid factors,CV,56.5,0.0003945
+Panel A. Nonstrategic (naïve) bid factors,CV,57.0,0.0004194
+Panel A. Nonstrategic (naïve) bid factors,CV,57.5,0.0002763
+Panel A. Nonstrategic (naïve) bid factors,CV,58.0,0.0002751
+Panel A. Nonstrategic (naïve) bid factors,CV,58.5,0.0002469
+Panel A. Nonstrategic (naïve) bid factors,CV,59.0,0.0001215
+Panel A. Nonstrategic (naïve) bid factors,CV,59.5,0.0001394
+Panel A. Nonstrategic (naïve) bid factors,CV,60.0,0.0001349
+Panel A. Nonstrategic (naïve) bid factors,CV,60.5,0.0001359
+Panel A. Nonstrategic (naïve) bid factors,CV,61.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,61.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,62.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,62.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,63.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,63.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,64.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,64.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,65.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,65.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,66.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,66.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,67.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,67.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,68.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,68.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,69.0,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,69.5,0.0001357
+Panel A. Nonstrategic (naïve) bid factors,CV,70.0,0.0001356
+Panel A. Nonstrategic (naïve) bid factors,CV,70.5,0.0001364
+Panel A. Nonstrategic (naïve) bid factors,CV,71.0,0.0001323
+Panel A. Nonstrategic (naïve) bid factors,CV,71.5,0.0001503
+Panel A. Nonstrategic (naïve) bid factors,CV,72.0,3.36e-05
+Panel A. Nonstrategic (naïve) bid factors,CV,72.5,-4.1e-06
+Panel A. Nonstrategic (naïve) bid factors,CV,73.0,1e-07
+Panel A. Nonstrategic (naïve) bid factors,CV,73.5,1e-07
+Panel A. Nonstrategic (naïve) bid factors,CV,74.0,-1e-07
+Panel A. Nonstrategic (naïve) bid factors,CV,74.5,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,75.0,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,75.5,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,76.0,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,76.5,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,77.0,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,77.5,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,78.0,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,78.5,0.0
+Panel A. Nonstrategic (naïve) bid factors,CV,79.0,0.0
+Panel A. Nonstrategic (naïve) bid factors,CP,-42.0,0.0010261
+Panel A. Nonstrategic (naïve) bid factors,CP,-41.5,0.0011034
+Panel A. Nonstrategic (naïve) bid factors,CP,-41.0,0.0012201
+Panel A. Nonstrategic (naïve) bid factors,CP,-40.5,0.0013549
+Panel A. Nonstrategic (naïve) bid factors,CP,-40.0,0.0015047
+Panel A. Nonstrategic (naïve) bid factors,CP,-39.5,0.0016664
+Panel A. Nonstrategic (naïve) bid factors,CP,-39.0,0.0018369
+Panel A. Nonstrategic (naïve) bid factors,CP,-38.5,0.002013
+Panel A. Nonstrategic (naïve) bid factors,CP,-38.0,0.0021917
+Panel A. Nonstrategic (naïve) bid factors,CP,-37.5,0.0023699
+Panel A. Nonstrategic (naïve) bid factors,CP,-37.0,0.0025445
+Panel A. Nonstrategic (naïve) bid factors,CP,-36.5,0.0027123
+Panel A. Nonstrategic (naïve) bid factors,CP,-36.0,0.0028703
+Panel A. Nonstrategic (naïve) bid factors,CP,-35.5,0.0030154
+Panel A. Nonstrategic (naïve) bid factors,CP,-35.0,0.0031445
+Panel A. Nonstrategic (naïve) bid factors,CP,-34.5,0.0032923
+Panel A. Nonstrategic (naïve) bid factors,CP,-34.0,0.0035324
+Panel A. Nonstrategic (naïve) bid factors,CP,-33.5,0.003675
+Panel A. Nonstrategic (naïve) bid factors,CP,-33.0,0.0038962
+Panel A. Nonstrategic (naïve) bid factors,CP,-32.5,0.0041238
+Panel A. Nonstrategic (naïve) bid factors,CP,-32.0,0.0044246
+Panel A. Nonstrategic (naïve) bid factors,CP,-31.5,0.0046777
+Panel A. Nonstrategic (naïve) bid factors,CP,-31.0,0.0050083
+Panel A. Nonstrategic (naïve) bid factors,CP,-30.5,0.0051637
+Panel A. Nonstrategic (naïve) bid factors,CP,-30.0,0.0055063
+Panel A. Nonstrategic (naïve) bid factors,CP,-29.5,0.0059076
+Panel A. Nonstrategic (naïve) bid factors,CP,-29.0,0.0062776
+Panel A. Nonstrategic (naïve) bid factors,CP,-28.5,0.0066175
+Panel A. Nonstrategic (naïve) bid factors,CP,-28.0,0.0068958
+Panel A. Nonstrategic (naïve) bid factors,CP,-27.5,0.0074984
+Panel A. Nonstrategic (naïve) bid factors,CP,-27.0,0.008122
+Panel A. Nonstrategic (naïve) bid factors,CP,-26.5,0.0084462
+Panel A. Nonstrategic (naïve) bid factors,CP,-26.0,0.008982
+Panel A. Nonstrategic (naïve) bid factors,CP,-25.5,0.0094226
+Panel A. Nonstrategic (naïve) bid factors,CP,-25.0,0.0102709
+Panel A. Nonstrategic (naïve) bid factors,CP,-24.5,0.0107902
+Panel A. Nonstrategic (naïve) bid factors,CP,-24.0,0.0112709
+Panel A. Nonstrategic (naïve) bid factors,CP,-23.5,0.0115728
+Panel A. Nonstrategic (naïve) bid factors,CP,-23.0,0.0123049
+Panel A. Nonstrategic (naïve) bid factors,CP,-22.5,0.0131632
+Panel A. Nonstrategic (naïve) bid factors,CP,-22.0,0.0135968
+Panel A. Nonstrategic (naïve) bid factors,CP,-21.5,0.0141891
+Panel A. Nonstrategic (naïve) bid factors,CP,-21.0,0.0149444
+Panel A. Nonstrategic (naïve) bid factors,CP,-20.5,0.0153802
+Panel A. Nonstrategic (naïve) bid factors,CP,-20.0,0.0159168
+Panel A. Nonstrategic (naïve) bid factors,CP,-19.5,0.0160712
+Panel A. Nonstrategic (naïve) bid factors,CP,-19.0,0.0168444
+Panel A. Nonstrategic (naïve) bid factors,CP,-18.5,0.0175981
+Panel A. Nonstrategic (naïve) bid factors,CP,-18.0,0.0177026
+Panel A. Nonstrategic (naïve) bid factors,CP,-17.5,0.0181341
+Panel A. Nonstrategic (naïve) bid factors,CP,-17.0,0.0186441
+Panel A. Nonstrategic (naïve) bid factors,CP,-16.5,0.0191637
+Panel A. Nonstrategic (naïve) bid factors,CP,-16.0,0.0196043
+Panel A. Nonstrategic (naïve) bid factors,CP,-15.5,0.0197752
+Panel A. Nonstrategic (naïve) bid factors,CP,-15.0,0.0203538
+Panel A. Nonstrategic (naïve) bid factors,CP,-14.5,0.0206937
+Panel A. Nonstrategic (naïve) bid factors,CP,-14.0,0.0213655
+Panel A. Nonstrategic (naïve) bid factors,CP,-13.5,0.0218193
+Panel A. Nonstrategic (naïve) bid factors,CP,-13.0,0.0220299
+Panel A. Nonstrategic (naïve) bid factors,CP,-12.5,0.0224678
+Panel A. Nonstrategic (naïve) bid factors,CP,-12.0,0.0225617
+Panel A. Nonstrategic (naïve) bid factors,CP,-11.5,0.023108
+Panel A. Nonstrategic (naïve) bid factors,CP,-11.0,0.0236476
+Panel A. Nonstrategic (naïve) bid factors,CP,-10.5,0.0237485
+Panel A. Nonstrategic (naïve) bid factors,CP,-10.0,0.0241153
+Panel A. Nonstrategic (naïve) bid factors,CP,-9.5,0.0243232
+Panel A. Nonstrategic (naïve) bid factors,CP,-9.0,0.0247105
+Panel A. Nonstrategic (naïve) bid factors,CP,-8.5,0.0251049
+Panel A. Nonstrategic (naïve) bid factors,CP,-8.0,0.0254535
+Panel A. Nonstrategic (naïve) bid factors,CP,-7.5,0.0257552
+Panel A. Nonstrategic (naïve) bid factors,CP,-7.0,0.0262276
+Panel A. Nonstrategic (naïve) bid factors,CP,-6.5,0.0264
+Panel A. Nonstrategic (naïve) bid factors,CP,-6.0,0.0267742
+Panel A. Nonstrategic (naïve) bid factors,CP,-5.5,0.0275303
+Panel A. Nonstrategic (naïve) bid factors,CP,-5.0,0.0281223
+Panel A. Nonstrategic (naïve) bid factors,CP,-4.5,0.0285732
+Panel A. Nonstrategic (naïve) bid factors,CP,-4.0,0.0292716
+Panel A. Nonstrategic (naïve) bid factors,CP,-3.5,0.0298684
+Panel A. Nonstrategic (naïve) bid factors,CP,-3.0,0.0301141
+Panel A. Nonstrategic (naïve) bid factors,CP,-2.5,0.0304953
+Panel A. Nonstrategic (naïve) bid factors,CP,-2.0,0.0308793
+Panel A. Nonstrategic (naïve) bid factors,CP,-1.5,0.0308544
+Panel A. Nonstrategic (naïve) bid factors,CP,-1.0,0.0307452
+Panel A. Nonstrategic (naïve) bid factors,CP,-0.5,0.0306317
+Panel A. Nonstrategic (naïve) bid factors,CP,0.0,0.0304854
+Panel A. Nonstrategic (naïve) bid factors,CP,0.5,0.0301514
+Panel A. Nonstrategic (naïve) bid factors,CP,1.0,0.0298205
+Panel A. Nonstrategic (naïve) bid factors,CP,1.5,0.0294494
+Panel A. Nonstrategic (naïve) bid factors,CP,2.0,0.0285875
+Panel A. Nonstrategic (naïve) bid factors,CP,2.5,0.0282034
+Panel A. Nonstrategic (naïve) bid factors,CP,3.0,0.0276208
+Panel A. Nonstrategic (naïve) bid factors,CP,3.5,0.0274283
+Panel A. Nonstrategic (naïve) bid factors,CP,4.0,0.0259764
+Panel A. Nonstrategic (naïve) bid factors,CP,4.5,0.0257112
+Panel A. Nonstrategic (naïve) bid factors,CP,5.0,0.0245903
+Panel A. Nonstrategic (naïve) bid factors,CP,5.5,0.0234316
+Panel A. Nonstrategic (naïve) bid factors,CP,6.0,0.0231397
+Panel A. Nonstrategic (naïve) bid factors,CP,6.5,0.0228073
+Panel A. Nonstrategic (naïve) bid factors,CP,7.0,0.0220636
+Panel A. Nonstrategic (naïve) bid factors,CP,7.5,0.0211669
+Panel A. Nonstrategic (naïve) bid factors,CP,8.0,0.0207303
+Panel A. Nonstrategic (naïve) bid factors,CP,8.5,0.0201774
+Panel A. Nonstrategic (naïve) bid factors,CP,9.0,0.0191737
+Panel A. Nonstrategic (naïve) bid factors,CP,9.5,0.0184683
+Panel A. Nonstrategic (naïve) bid factors,CP,10.0,0.0180978
+Panel A. Nonstrategic (naïve) bid factors,CP,10.5,0.0177658
+Panel A. Nonstrategic (naïve) bid factors,CP,11.0,0.0164388
+Panel A. Nonstrategic (naïve) bid factors,CP,11.5,0.0157183
+Panel A. Nonstrategic (naïve) bid factors,CP,12.0,0.0151618
+Panel A. Nonstrategic (naïve) bid factors,CP,12.5,0.0136095
+Panel A. Nonstrategic (naïve) bid factors,CP,13.0,0.0133089
+Panel A. Nonstrategic (naïve) bid factors,CP,13.5,0.0122219
+Panel A. Nonstrategic (naïve) bid factors,CP,14.0,0.0113538
+Panel A. Nonstrategic (naïve) bid factors,CP,14.5,0.0108145
+Panel A. Nonstrategic (naïve) bid factors,CP,15.0,0.0103746
+Panel A. Nonstrategic (naïve) bid factors,CP,15.5,0.0091951
+Panel A. Nonstrategic (naïve) bid factors,CP,16.0,0.0090228
+Panel A. Nonstrategic (naïve) bid factors,CP,16.5,0.0084428
+Panel A. Nonstrategic (naïve) bid factors,CP,17.0,0.0079072
+Panel A. Nonstrategic (naïve) bid factors,CP,17.5,0.0071572
+Panel A. Nonstrategic (naïve) bid factors,CP,18.0,0.0065844
+Panel A. Nonstrategic (naïve) bid factors,CP,18.5,0.0061581
+Panel A. Nonstrategic (naïve) bid factors,CP,19.0,0.0058649
+Panel A. Nonstrategic (naïve) bid factors,CP,19.5,0.005305
+Panel A. Nonstrategic (naïve) bid factors,CP,20.0,0.0047855
+Panel A. Nonstrategic (naïve) bid factors,CP,20.5,0.0046908
+Panel A. Nonstrategic (naïve) bid factors,CP,21.0,0.0043175
+Panel A. Nonstrategic (naïve) bid factors,CP,21.5,0.0041266
+Panel A. Nonstrategic (naïve) bid factors,CP,22.0,0.0037039
+Panel A. Nonstrategic (naïve) bid factors,CP,22.5,0.0032869
+Panel A. Nonstrategic (naïve) bid factors,CP,23.0,0.0029838
+Panel A. Nonstrategic (naïve) bid factors,CP,23.5,0.0031214
+Panel A. Nonstrategic (naïve) bid factors,CP,24.0,0.0027525
+Panel A. Nonstrategic (naïve) bid factors,CP,24.5,0.0025664
+Panel A. Nonstrategic (naïve) bid factors,CP,25.0,0.0024953
+Panel A. Nonstrategic (naïve) bid factors,CP,25.5,0.0022181
+Panel A. Nonstrategic (naïve) bid factors,CP,26.0,0.0020497
+Panel A. Nonstrategic (naïve) bid factors,CP,26.5,0.0018869
+Panel A. Nonstrategic (naïve) bid factors,CP,27.0,0.0017544
+Panel A. Nonstrategic (naïve) bid factors,CP,27.5,0.0016084
+Panel A. Nonstrategic (naïve) bid factors,CP,28.0,0.0014833
+Panel A. Nonstrategic (naïve) bid factors,CP,28.5,0.0014503
+Panel A. Nonstrategic (naïve) bid factors,CP,29.0,0.0012773
+Panel A. Nonstrategic (naïve) bid factors,CP,29.5,0.0011985
+Panel A. Nonstrategic (naïve) bid factors,CP,30.0,0.0011623
+Panel A. Nonstrategic (naïve) bid factors,CP,30.5,0.0011237
+Panel A. Nonstrategic (naïve) bid factors,CP,31.0,0.0010745
+Panel A. Nonstrategic (naïve) bid factors,CP,31.5,0.00094
+Panel A. Nonstrategic (naïve) bid factors,CP,32.0,0.0009486
+Panel A. Nonstrategic (naïve) bid factors,CP,32.5,0.0009622
+Panel A. Nonstrategic (naïve) bid factors,CP,33.0,0.0008603
+Panel A. Nonstrategic (naïve) bid factors,CP,33.5,0.0008323
+Panel A. Nonstrategic (naïve) bid factors,CP,34.0,0.0007688
+Panel A. Nonstrategic (naïve) bid factors,CP,34.5,0.0006836
+Panel A. Nonstrategic (naïve) bid factors,CP,35.0,0.0005952
+Panel A. Nonstrategic (naïve) bid factors,CP,35.5,0.0005157
+Panel A. Nonstrategic (naïve) bid factors,CP,36.0,0.0005501
+Panel A. Nonstrategic (naïve) bid factors,CP,36.5,0.0005399
+Panel A. Nonstrategic (naïve) bid factors,CP,37.0,0.0005424
+Panel A. Nonstrategic (naïve) bid factors,CP,37.5,0.0005419
+Panel A. Nonstrategic (naïve) bid factors,CP,38.0,0.000542
+Panel A. Nonstrategic (naïve) bid factors,CP,38.5,0.000542
+Panel A. Nonstrategic (naïve) bid factors,CP,39.0,0.000542
+Panel A. Nonstrategic (naïve) bid factors,CP,39.5,0.0005419
+Panel A. Nonstrategic (naïve) bid factors,CP,40.0,0.000542
+Panel A. Nonstrategic (naïve) bid factors,CP,40.5,0.0005417
+Panel A. Nonstrategic (naïve) bid factors,CP,41.0,0.000543
+Panel A. Nonstrategic (naïve) bid factors,CP,41.5,0.0005387
+Panel A. Nonstrategic (naïve) bid factors,CP,42.0,0.0005479
+Panel A. Nonstrategic (naïve) bid factors,CP,42.5,0.0005109
+Panel A. Nonstrategic (naïve) bid factors,CP,43.0,0.000467
+Panel A. Nonstrategic (naïve) bid factors,CP,43.5,0.0004252
+Panel A. Nonstrategic (naïve) bid factors,CP,44.0,0.0003922
+Panel A. Nonstrategic (naïve) bid factors,CP,44.5,0.0004095
+Panel A. Nonstrategic (naïve) bid factors,CP,45.0,0.0004069
+Panel A. Nonstrategic (naïve) bid factors,CP,45.5,0.0004037
+Panel A. Nonstrategic (naïve) bid factors,CP,46.0,0.0004097
+Panel A. Nonstrategic (naïve) bid factors,CP,46.5,0.0003817
+Panel A. Nonstrategic (naïve) bid factors,CP,47.0,0.0003477
+Panel A. Nonstrategic (naïve) bid factors,CP,47.5,0.000312
+Panel A. Nonstrategic (naïve) bid factors,CP,48.0,0.0002814
+Panel A. Nonstrategic (naïve) bid factors,CP,48.5,0.0002597
+Panel A. Nonstrategic (naïve) bid factors,CP,49.0,0.000273
+Panel A. Nonstrategic (naïve) bid factors,CP,49.5,0.0002707
+Panel A. Nonstrategic (naïve) bid factors,CP,50.0,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,50.5,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,51.0,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,51.5,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,52.0,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,52.5,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,53.0,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,53.5,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,54.0,0.000271
+Panel A. Nonstrategic (naïve) bid factors,CP,54.5,0.000271
+Panel B. Price factors,CV,-57.36,8.21e-05
+Panel B. Price factors,CV,-56.86,0.0001433
+Panel B. Price factors,CV,-56.36,0.000134
+Panel B. Price factors,CV,-55.86,0.0001356
+Panel B. Price factors,CV,-55.36,0.0001354
+Panel B. Price factors,CV,-54.86,0.0001355
+Panel B. Price factors,CV,-54.36,0.0001349
+Panel B. Price factors,CV,-53.86,0.0001384
+Panel B. Price factors,CV,-53.36,0.0001215
+Panel B. Price factors,CV,-52.86,0.0002258
+Panel B. Price factors,CV,-52.36,0.0002774
+Panel B. Price factors,CV,-51.86,0.0002701
+Panel B. Price factors,CV,-51.36,0.0002708
+Panel B. Price factors,CV,-50.86,0.000271
+Panel B. Price factors,CV,-50.36,0.0002702
+Panel B. Price factors,CV,-49.86,0.0002739
+Panel B. Price factors,CV,-49.36,0.0002568
+Panel B. Price factors,CV,-48.86,0.000363
+Panel B. Price factors,CV,-48.36,0.0004125
+Panel B. Price factors,CV,-47.86,0.0004056
+Panel B. Price factors,CV,-47.36,0.0004061
+Panel B. Price factors,CV,-46.86,0.0004076
+Panel B. Price factors,CV,-46.36,0.0003972
+Panel B. Price factors,CV,-45.86,0.0004634
+Panel B. Price factors,CV,-45.36,0.0005403
+Panel B. Price factors,CV,-44.86,0.0006332
+Panel B. Price factors,CV,-44.36,0.0006827
+Panel B. Price factors,CV,-43.86,0.0006776
+Panel B. Price factors,CV,-43.36,0.0006801
+Panel B. Price factors,CV,-42.86,0.0008417
+Panel B. Price factors,CV,-42.36,0.0009599
+Panel B. Price factors,CV,-41.86,0.0009362
+Panel B. Price factors,CV,-41.36,0.0010102
+Panel B. Price factors,CV,-40.86,0.0011885
+Panel B. Price factors,CV,-40.36,0.0012222
+Panel B. Price factors,CV,-39.86,0.0012194
+Panel B. Price factors,CV,-39.36,0.0012226
+Panel B. Price factors,CV,-38.86,0.0013853
+Panel B. Price factors,CV,-38.36,0.0015017
+Panel B. Price factors,CV,-37.86,0.0014776
+Panel B. Price factors,CV,-37.36,0.0015538
+Panel B. Price factors,CV,-36.86,0.0017306
+Panel B. Price factors,CV,-36.36,0.0017662
+Panel B. Price factors,CV,-35.86,0.001757
+Panel B. Price factors,CV,-35.36,0.0019085
+Panel B. Price factors,CV,-34.86,0.0020288
+Panel B. Price factors,CV,-34.36,0.0021064
+Panel B. Price factors,CV,-33.86,0.0023386
+Panel B. Price factors,CV,-33.36,0.0022642
+Panel B. Price factors,CV,-32.86,0.0025097
+Panel B. Price factors,CV,-32.36,0.0025592
+Panel B. Price factors,CV,-31.86,0.0028367
+Panel B. Price factors,CV,-31.36,0.0028571
+Panel B. Price factors,CV,-30.86,0.0031276
+Panel B. Price factors,CV,-30.36,0.0031938
+Panel B. Price factors,CV,-29.86,0.003393
+Panel B. Price factors,CV,-29.36,0.0035286
+Panel B. Price factors,CV,-28.86,0.003769
+Panel B. Price factors,CV,-28.36,0.0038901
+Panel B. Price factors,CV,-27.86,0.0041933
+Panel B. Price factors,CV,-27.36,0.0042077
+Panel B. Price factors,CV,-26.86,0.0045472
+Panel B. Price factors,CV,-26.36,0.0047438
+Panel B. Price factors,CV,-25.86,0.0048415
+Panel B. Price factors,CV,-25.36,0.0051704
+Panel B. Price factors,CV,-24.86,0.0055034
+Panel B. Price factors,CV,-24.36,0.0055432
+Panel B. Price factors,CV,-23.86,0.0058154
+Panel B. Price factors,CV,-23.36,0.0061205
+Panel B. Price factors,CV,-22.86,0.0064271
+Panel B. Price factors,CV,-22.36,0.0067316
+Panel B. Price factors,CV,-21.86,0.0070368
+Panel B. Price factors,CV,-21.36,0.0073419
+Panel B. Price factors,CV,-20.86,0.0076468
+Panel B. Price factors,CV,-20.36,0.0079522
+Panel B. Price factors,CV,-19.86,0.008257
+Panel B. Price factors,CV,-19.36,0.0085591
+Panel B. Price factors,CV,-18.86,0.0088949
+Panel B. Price factors,CV,-18.36,0.0093244
+Panel B. Price factors,CV,-17.86,0.0095991
+Panel B. Price factors,CV,-17.36,0.0099912
+Panel B. Price factors,CV,-16.86,0.0104703
+Panel B. Price factors,CV,-16.36,0.0108037
+Panel B. Price factors,CV,-15.86,0.0111038
+Panel B. Price factors,CV,-15.36,0.0115494
+Panel B. Price factors,CV,-14.86,0.011875
+Panel B. Price factors,CV,-14.36,0.0123085
+Panel B. Price factors,CV,-13.86,0.0125769
+Panel B. Price factors,CV,-13.36,0.0129912
+Panel B. Price factors,CV,-12.86,0.0133416
+Panel B. Price factors,CV,-12.36,0.0137517
+Panel B. Price factors,CV,-11.86,0.0143581
+Panel B. Price factors,CV,-11.36,0.0146795
+Panel B. Price factors,CV,-10.86,0.0153248
+Panel B. Price factors,CV,-10.36,0.0158654
+Panel B. Price factors,CV,-9.86,0.016389
+Panel B. Price factors,CV,-9.36,0.0169778
+Panel B. Price factors,CV,-8.86,0.0178331
+Panel B. Price factors,CV,-8.36,0.0184994
+Panel B. Price factors,CV,-7.86,0.0191042
+Panel B. Price factors,CV,-7.36,0.0197648
+Panel B. Price factors,CV,-6.86,0.0207606
+Panel B. Price factors,CV,-6.36,0.0214166
+Panel B. Price factors,CV,-5.86,0.0223753
+Panel B. Price factors,CV,-5.36,0.0232786
+Panel B. Price factors,CV,-4.86,0.0242018
+Panel B. Price factors,CV,-4.36,0.0250013
+Panel B. Price factors,CV,-3.86,0.0254701
+Panel B. Price factors,CV,-3.36,0.0259358
+Panel B. Price factors,CV,-2.86,0.0263427
+Panel B. Price factors,CV,-2.36,0.026751
+Panel B. Price factors,CV,-1.86,0.0272855
+Panel B. Price factors,CV,-1.36,0.0272919
+Panel B. Price factors,CV,-0.86,0.0270035
+Panel B. Price factors,CV,-0.36,0.0266989
+Panel B. Price factors,CV,0.14,0.0263966
+Panel B. Price factors,CV,0.64,0.0262354
+Panel B. Price factors,CV,1.14,0.0258977
+Panel B. Price factors,CV,1.64,0.0253281
+Panel B. Price factors,CV,2.14,0.0245228
+Panel B. Price factors,CV,2.64,0.0238742
+Panel B. Price factors,CV,3.14,0.0231612
+Panel B. Price factors,CV,3.64,0.0223814
+Panel B. Price factors,CV,4.14,0.0217587
+Panel B. Price factors,CV,4.64,0.0208765
+Panel B. Price factors,CV,5.14,0.0202078
+Panel B. Price factors,CV,5.64,0.0193785
+Panel B. Price factors,CV,6.14,0.0187194
+Panel B. Price factors,CV,6.64,0.0180212
+Panel B. Price factors,CV,7.14,0.0175371
+Panel B. Price factors,CV,7.64,0.0172027
+Panel B. Price factors,CV,8.14,0.0171885
+Panel B. Price factors,CV,8.64,0.0168683
+Panel B. Price factors,CV,9.14,0.0165626
+Panel B. Price factors,CV,9.64,0.0163124
+Panel B. Price factors,CV,10.14,0.0161727
+Panel B. Price factors,CV,10.64,0.016023
+Panel B. Price factors,CV,11.14,0.015853
+Panel B. Price factors,CV,11.64,0.0158483
+Panel B. Price factors,CV,12.14,0.0155513
+Panel B. Price factors,CV,12.64,0.0154373
+Panel B. Price factors,CV,13.14,0.0153974
+Panel B. Price factors,CV,13.64,0.0152844
+Panel B. Price factors,CV,14.14,0.0153147
+Panel B. Price factors,CV,14.64,0.0152158
+Panel B. Price factors,CV,15.14,0.0150375
+Panel B. Price factors,CV,15.64,0.0150358
+Panel B. Price factors,CV,16.14,0.0147511
+Panel B. Price factors,CV,16.64,0.0147131
+Panel B. Price factors,CV,17.14,0.014479
+Panel B. Price factors,CV,17.64,0.0143654
+Panel B. Price factors,CV,18.14,0.014214
+Panel B. Price factors,CV,18.64,0.0140463
+Panel B. Price factors,CV,19.14,0.0136951
+Panel B. Price factors,CV,19.64,0.0136785
+Panel B. Price factors,CV,20.14,0.0133714
+Panel B. Price factors,CV,20.64,0.0130942
+Panel B. Price factors,CV,21.14,0.0129603
+Panel B. Price factors,CV,21.64,0.0127504
+Panel B. Price factors,CV,22.14,0.0123965
+Panel B. Price factors,CV,22.64,0.0123319
+Panel B. Price factors,CV,23.14,0.0120961
+Panel B. Price factors,CV,23.64,0.0117834
+Panel B. Price factors,CV,24.14,0.0114782
+Panel B. Price factors,CV,24.64,0.0111736
+Panel B. Price factors,CV,25.14,0.0108683
+Panel B. Price factors,CV,25.64,0.0105633
+Panel B. Price factors,CV,26.14,0.0102583
+Panel B. Price factors,CV,26.64,0.0099532
+Panel B. Price factors,CV,27.14,0.0096481
+Panel B. Price factors,CV,27.64,0.0093431
+Panel B. Price factors,CV,28.14,0.009038
+Panel B. Price factors,CV,28.64,0.0087329
+Panel B. Price factors,CV,29.14,0.0084279
+Panel B. Price factors,CV,29.64,0.0081228
+Panel B. Price factors,CV,30.14,0.0078179
+Panel B. Price factors,CV,30.64,0.007512
+Panel B. Price factors,CV,31.14,0.0072091
+Panel B. Price factors,CV,31.64,0.0069033
+Panel B. Price factors,CV,32.14,0.0067574
+Panel B. Price factors,CV,32.64,0.0065676
+Panel B. Price factors,CV,33.14,0.0062937
+Panel B. Price factors,CV,33.64,0.0061764
+Panel B. Price factors,CV,34.14,0.0059135
+Panel B. Price factors,CV,34.64,0.0057163
+Panel B. Price factors,CV,35.14,0.0055566
+Panel B. Price factors,CV,35.64,0.0055479
+Panel B. Price factors,CV,36.14,0.0052639
+Panel B. Price factors,CV,36.64,0.005264
+Panel B. Price factors,CV,37.14,0.0050744
+Panel B. Price factors,CV,37.64,0.0050108
+Panel B. Price factors,CV,38.14,0.0049364
+Panel B. Price factors,CV,38.64,0.0047504
+Panel B. Price factors,CV,39.14,0.0047519
+Panel B. Price factors,CV,39.64,0.0044645
+Panel B. Price factors,CV,40.14,0.0044368
+Panel B. Price factors,CV,40.64,0.0041861
+Panel B. Price factors,CV,41.14,0.0040909
+Panel B. Price factors,CV,41.64,0.0039297
+Panel B. Price factors,CV,42.14,0.003736
+Panel B. Price factors,CV,42.64,0.003669
+Panel B. Price factors,CV,43.14,0.0033986
+Panel B. Price factors,CV,43.64,0.0033784
+Panel B. Price factors,CV,44.14,0.0030951
+Panel B. Price factors,CV,44.64,0.0030933
+Panel B. Price factors,CV,45.14,0.0029148
+Panel B. Price factors,CV,45.64,0.0027752
+Panel B. Price factors,CV,46.14,0.0025965
+Panel B. Price factors,CV,46.64,0.0025932
+Panel B. Price factors,CV,47.14,0.0023124
+Panel B. Price factors,CV,47.64,0.0022931
+Panel B. Price factors,CV,48.14,0.002011
+Panel B. Price factors,CV,48.64,0.0020102
+Panel B. Price factors,CV,49.14,0.001822
+Panel B. Price factors,CV,49.64,0.0017489
+Panel B. Price factors,CV,50.14,0.0017725
+Panel B. Price factors,CV,50.64,0.0016556
+Panel B. Price factors,CV,51.14,0.0014937
+Panel B. Price factors,CV,51.64,0.0014925
+Panel B. Price factors,CV,52.14,0.0014656
+Panel B. Price factors,CV,52.64,0.0013492
+Panel B. Price factors,CV,53.14,0.0012992
+Panel B. Price factors,CV,53.64,0.0012016
+Panel B. Price factors,CV,54.14,0.0012362
+Panel B. Price factors,CV,54.64,0.0010986
+Panel B. Price factors,CV,55.14,0.0010858
+Panel B. Price factors,CV,55.64,0.0009416
+Panel B. Price factors,CV,56.14,0.0009496
+Panel B. Price factors,CV,56.64,0.0009573
+Panel B. Price factors,CV,57.14,0.0008833
+Panel B. Price factors,CV,57.64,0.0008148
+Panel B. Price factors,CV,58.14,0.0007147
+Panel B. Price factors,CV,58.64,0.0006696
+Panel B. Price factors,CV,59.14,0.00068
+Panel B. Price factors,CV,59.64,0.0005352
+Panel B. Price factors,CV,60.14,0.0005432
+Panel B. Price factors,CV,60.64,0.0005506
+Panel B. Price factors,CV,61.14,0.0004795
+Panel B. Price factors,CV,61.64,0.0003907
+Panel B. Price factors,CV,62.14,0.0004221
+Panel B. Price factors,CV,62.64,0.0002862
+Panel B. Price factors,CV,63.14,0.0002703
+Panel B. Price factors,CV,63.64,0.0002703
+Panel B. Price factors,CV,64.14,0.0002709
+Panel B. Price factors,CV,64.64,0.0002715
+Panel B. Price factors,CV,65.14,0.0002673
+Panel B. Price factors,CV,65.64,0.0002854
+Panel B. Price factors,CV,66.14,0.0001665
+Panel B. Price factors,CV,66.64,0.0001317
+Panel B. Price factors,CV,67.14,0.0001355
+Panel B. Price factors,CV,67.64,0.0001356
+Panel B. Price factors,CV,68.14,0.0001353
+Panel B. Price factors,CV,68.64,0.0001354
+Panel B. Price factors,CV,69.14,0.0001354
+Panel B. Price factors,CV,69.64,0.0001354
+Panel B. Price factors,CV,70.14,0.0001354
+Panel B. Price factors,CV,70.64,0.0001354
+Panel B. Price factors,CV,71.14,0.0001354
+Panel B. Price factors,CV,71.64,0.0001354
+Panel B. Price factors,CV,72.14,0.0001354
+Panel B. Price factors,CV,72.64,0.0001354
+Panel B. Price factors,CV,73.14,0.0001354
+Panel B. Price factors,CV,73.64,0.0001354
+Panel B. Price factors,CV,74.14,0.0001354
+Panel B. Price factors,CV,74.64,0.0001354
+Panel B. Price factors,CV,75.14,0.0001354
+Panel B. Price factors,CV,75.64,0.0001354
+Panel B. Price factors,CV,76.14,0.0001354
+Panel B. Price factors,CV,76.64,0.0001354
+Panel B. Price factors,CV,77.14,0.0001354
+Panel B. Price factors,CV,77.64,0.0001354
+Panel B. Price factors,CV,78.14,0.0001354
+Panel B. Price factors,CV,78.64,0.0001354
+Panel B. Price factors,CP,-45.86,-2.3e-06
+Panel B. Price factors,CP,-45.56,1.3e-06
+Panel B. Price factors,CP,-45.26,6.9e-06
+Panel B. Price factors,CP,-44.96,-2.51e-05
+Panel B. Price factors,CP,-44.66,4.2e-06
+Panel B. Price factors,CP,-44.36,3.4e-05
+Panel B. Price factors,CP,-44.06,7.11e-05
+Panel B. Price factors,CP,-43.76,0.0001128
+Panel B. Price factors,CP,-43.46,0.000156
+Panel B. Price factors,CP,-43.16,0.0001978
+Panel B. Price factors,CP,-42.86,0.0002352
+Panel B. Price factors,CP,-42.56,0.0002654
+Panel B. Price factors,CP,-42.26,0.0002969
+Panel B. Price factors,CP,-41.96,0.0002649
+Panel B. Price factors,CP,-41.66,0.0002696
+Panel B. Price factors,CP,-41.36,0.0002688
+Panel B. Price factors,CP,-41.06,0.0002769
+Panel B. Price factors,CP,-40.76,0.0002777
+Panel B. Price factors,CP,-40.46,0.0001905
+Panel B. Price factors,CP,-40.16,0.0001305
+Panel B. Price factors,CP,-39.86,0.0001227
+Panel B. Price factors,CP,-39.56,0.0001208
+Panel B. Price factors,CP,-39.26,0.0001231
+Panel B. Price factors,CP,-38.96,0.0001278
+Panel B. Price factors,CP,-38.66,0.000133
+Panel B. Price factors,CP,-38.36,0.0001392
+Panel B. Price factors,CP,-38.06,0.0001355
+Panel B. Price factors,CP,-37.76,0.0001348
+Panel B. Price factors,CP,-37.46,0.0001353
+Panel B. Price factors,CP,-37.16,0.0001355
+Panel B. Price factors,CP,-36.86,0.0001374
+Panel B. Price factors,CP,-36.56,0.0001297
+Panel B. Price factors,CP,-36.26,0.0001375
+Panel B. Price factors,CP,-35.96,0.0002132
+Panel B. Price factors,CP,-35.66,0.0002947
+Panel B. Price factors,CP,-35.36,0.0003395
+Panel B. Price factors,CP,-35.06,0.0003872
+Panel B. Price factors,CP,-34.76,0.0004358
+Panel B. Price factors,CP,-34.46,0.0004834
+Panel B. Price factors,CP,-34.16,0.0005278
+Panel B. Price factors,CP,-33.86,0.0006281
+Panel B. Price factors,CP,-33.56,0.0006793
+Panel B. Price factors,CP,-33.26,0.0006721
+Panel B. Price factors,CP,-32.96,0.0007232
+Panel B. Price factors,CP,-32.66,0.0008419
+Panel B. Price factors,CP,-32.36,0.000942
+Panel B. Price factors,CP,-32.06,0.0009205
+Panel B. Price factors,CP,-31.76,0.0009585
+Panel B. Price factors,CP,-31.46,0.0010117
+Panel B. Price factors,CP,-31.16,0.0010807
+Panel B. Price factors,CP,-30.86,0.0011585
+Panel B. Price factors,CP,-30.56,0.0012379
+Panel B. Price factors,CP,-30.26,0.001312
+Panel B. Price factors,CP,-29.96,0.0014213
+Panel B. Price factors,CP,-29.66,0.001489
+Panel B. Price factors,CP,-29.36,0.0014824
+Panel B. Price factors,CP,-29.06,0.0015095
+Panel B. Price factors,CP,-28.76,0.0016126
+Panel B. Price factors,CP,-28.46,0.0017411
+Panel B. Price factors,CP,-28.16,0.0017292
+Panel B. Price factors,CP,-27.86,0.0017475
+Panel B. Price factors,CP,-27.56,0.0018758
+Panel B. Price factors,CP,-27.26,0.0020411
+Panel B. Price factors,CP,-26.96,0.0022191
+Panel B. Price factors,CP,-26.66,0.0023772
+Panel B. Price factors,CP,-26.36,0.0025356
+Panel B. Price factors,CP,-26.06,0.0025756
+Panel B. Price factors,CP,-25.76,0.0027571
+Panel B. Price factors,CP,-25.46,0.0029087
+Panel B. Price factors,CP,-25.16,0.0029861
+Panel B. Price factors,CP,-24.86,0.0030955
+Panel B. Price factors,CP,-24.56,0.0031032
+Panel B. Price factors,CP,-24.26,0.0032664
+Panel B. Price factors,CP,-23.96,0.0034532
+Panel B. Price factors,CP,-23.66,0.0036861
+Panel B. Price factors,CP,-23.36,0.0039277
+Panel B. Price factors,CP,-23.06,0.0041407
+Panel B. Price factors,CP,-22.76,0.0043973
+Panel B. Price factors,CP,-22.46,0.0044895
+Panel B. Price factors,CP,-22.16,0.0046723
+Panel B. Price factors,CP,-21.86,0.004907
+Panel B. Price factors,CP,-21.56,0.0050127
+Panel B. Price factors,CP,-21.26,0.0050651
+Panel B. Price factors,CP,-20.96,0.0052755
+Panel B. Price factors,CP,-20.66,0.0054985
+Panel B. Price factors,CP,-20.36,0.0057433
+Panel B. Price factors,CP,-20.06,0.0059698
+Panel B. Price factors,CP,-19.76,0.0062064
+Panel B. Price factors,CP,-19.46,0.0063384
+Panel B. Price factors,CP,-19.16,0.0066048
+Panel B. Price factors,CP,-18.86,0.0068059
+Panel B. Price factors,CP,-18.56,0.0069802
+Panel B. Price factors,CP,-18.26,0.0073636
+Panel B. Price factors,CP,-17.96,0.0078245
+Panel B. Price factors,CP,-17.66,0.0082339
+Panel B. Price factors,CP,-17.36,0.0085691
+Panel B. Price factors,CP,-17.06,0.0087881
+Panel B. Price factors,CP,-16.76,0.008943
+Panel B. Price factors,CP,-16.46,0.008815
+Panel B. Price factors,CP,-16.16,0.0095835
+Panel B. Price factors,CP,-15.86,0.0102106
+Panel B. Price factors,CP,-15.56,0.010947
+Panel B. Price factors,CP,-15.26,0.0117172
+Panel B. Price factors,CP,-14.96,0.0124461
+Panel B. Price factors,CP,-14.66,0.0130582
+Panel B. Price factors,CP,-14.36,0.0137883
+Panel B. Price factors,CP,-14.06,0.0138389
+Panel B. Price factors,CP,-13.76,0.0147256
+Panel B. Price factors,CP,-13.46,0.0156926
+Panel B. Price factors,CP,-13.16,0.0161415
+Panel B. Price factors,CP,-12.86,0.0163933
+Panel B. Price factors,CP,-12.56,0.017492
+Panel B. Price factors,CP,-12.26,0.0186617
+Panel B. Price factors,CP,-11.96,0.0189245
+Panel B. Price factors,CP,-11.66,0.0198806
+Panel B. Price factors,CP,-11.36,0.0209958
+Panel B. Price factors,CP,-11.06,0.0212083
+Panel B. Price factors,CP,-10.76,0.0216323
+Panel B. Price factors,CP,-10.46,0.0225498
+Panel B. Price factors,CP,-10.16,0.0235256
+Panel B. Price factors,CP,-9.86,0.024081
+Panel B. Price factors,CP,-9.56,0.0248348
+Panel B. Price factors,CP,-9.26,0.0259874
+Panel B. Price factors,CP,-8.96,0.0263685
+Panel B. Price factors,CP,-8.66,0.0270506
+Panel B. Price factors,CP,-8.36,0.0285358
+Panel B. Price factors,CP,-8.06,0.0291743
+Panel B. Price factors,CP,-7.76,0.029809
+Panel B. Price factors,CP,-7.46,0.0312385
+Panel B. Price factors,CP,-7.16,0.0327901
+Panel B. Price factors,CP,-6.86,0.0342739
+Panel B. Price factors,CP,-6.56,0.0358892
+Panel B. Price factors,CP,-6.26,0.0379316
+Panel B. Price factors,CP,-5.96,0.0400626
+Panel B. Price factors,CP,-5.66,0.0422658
+Panel B. Price factors,CP,-5.36,0.0448162
+Panel B. Price factors,CP,-5.06,0.046736
+Panel B. Price factors,CP,-4.76,0.0483334
+Panel B. Price factors,CP,-4.46,0.0509119
+Panel B. Price factors,CP,-4.16,0.0532217
+Panel B. Price factors,CP,-3.86,0.0549707
+Panel B. Price factors,CP,-3.56,0.0569675
+Panel B. Price factors,CP,-3.26,0.0587738
+Panel B. Price factors,CP,-2.96,0.0599651
+Panel B. Price factors,CP,-2.66,0.0605767
+Panel B. Price factors,CP,-2.36,0.0612386
+Panel B. Price factors,CP,-2.06,0.061783
+Panel B. Price factors,CP,-1.76,0.0615275
+Panel B. Price factors,CP,-1.46,0.0602972
+Panel B. Price factors,CP,-1.16,0.0587668
+Panel B. Price factors,CP,-0.86,0.0573833
+Panel B. Price factors,CP,-0.56,0.0550143
+Panel B. Price factors,CP,-0.26,0.0523642
+Panel B. Price factors,CP,0.04,0.0503256
+Panel B. Price factors,CP,0.34,0.0477123
+Panel B. Price factors,CP,0.64,0.044811
+Panel B. Price factors,CP,0.94,0.0423509
+Panel B. Price factors,CP,1.24,0.040106
+Panel B. Price factors,CP,1.54,0.0377819
+Panel B. Price factors,CP,1.84,0.0352978
+Panel B. Price factors,CP,2.14,0.0329179
+Panel B. Price factors,CP,2.44,0.031014
+Panel B. Price factors,CP,2.74,0.0296035
+Panel B. Price factors,CP,3.04,0.0282309
+Panel B. Price factors,CP,3.34,0.027134
+Panel B. Price factors,CP,3.64,0.0263542
+Panel B. Price factors,CP,3.94,0.0254524
+Panel B. Price factors,CP,4.24,0.0249062
+Panel B. Price factors,CP,4.54,0.0245535
+Panel B. Price factors,CP,4.84,0.0234576
+Panel B. Price factors,CP,5.14,0.0226098
+Panel B. Price factors,CP,5.44,0.022219
+Panel B. Price factors,CP,5.74,0.0213281
+Panel B. Price factors,CP,6.04,0.0205019
+Panel B. Price factors,CP,6.34,0.0201735
+Panel B. Price factors,CP,6.64,0.019946
+Panel B. Price factors,CP,6.94,0.0190527
+Panel B. Price factors,CP,7.24,0.0179965
+Panel B. Price factors,CP,7.54,0.0169081
+Panel B. Price factors,CP,7.84,0.0160906
+Panel B. Price factors,CP,8.14,0.0156146
+Panel B. Price factors,CP,8.44,0.0153631
+Panel B. Price factors,CP,8.74,0.0151216
+Panel B. Price factors,CP,9.04,0.0145542
+Panel B. Price factors,CP,9.34,0.0139581
+Panel B. Price factors,CP,9.64,0.0133062
+Panel B. Price factors,CP,9.94,0.0127173
+Panel B. Price factors,CP,10.24,0.0123654
+Panel B. Price factors,CP,10.54,0.0121611
+Panel B. Price factors,CP,10.84,0.0117001
+Panel B. Price factors,CP,11.14,0.011293
+Panel B. Price factors,CP,11.44,0.0109008
+Panel B. Price factors,CP,11.74,0.0106207
+Panel B. Price factors,CP,12.04,0.0105867
+Panel B. Price factors,CP,12.34,0.0102865
+Panel B. Price factors,CP,12.64,0.0099605
+Panel B. Price factors,CP,12.94,0.0098112
+Panel B. Price factors,CP,13.24,0.0096093
+Panel B. Price factors,CP,13.54,0.0093911
+Panel B. Price factors,CP,13.84,0.009151
+Panel B. Price factors,CP,14.14,0.008922
+Panel B. Price factors,CP,14.44,0.0086318
+Panel B. Price factors,CP,14.74,0.0084111
+Panel B. Price factors,CP,15.04,0.0082182
+Panel B. Price factors,CP,15.34,0.0080741
+Panel B. Price factors,CP,15.64,0.0077512
+Panel B. Price factors,CP,15.94,0.007319
+Panel B. Price factors,CP,16.24,0.0068481
+Panel B. Price factors,CP,16.54,0.0065017
+Panel B. Price factors,CP,16.84,0.0064554
+Panel B. Price factors,CP,17.14,0.0064202
+Panel B. Price factors,CP,17.44,0.0060836
+Panel B. Price factors,CP,17.74,0.0058747
+Panel B. Price factors,CP,18.04,0.005764
+Panel B. Price factors,CP,18.34,0.0055426
+Panel B. Price factors,CP,18.64,0.0053959
+Panel B. Price factors,CP,18.94,0.0052276
+Panel B. Price factors,CP,19.24,0.0050605
+Panel B. Price factors,CP,19.54,0.004917
+Panel B. Price factors,CP,19.84,0.0047562
+Panel B. Price factors,CP,20.14,0.0047383
+Panel B. Price factors,CP,20.44,0.0047287
+Panel B. Price factors,CP,20.74,0.0047981
+Panel B. Price factors,CP,21.04,0.0048849
+Panel B. Price factors,CP,21.34,0.0048839
+Panel B. Price factors,CP,21.64,0.0048553
+Panel B. Price factors,CP,21.94,0.0048949
+Panel B. Price factors,CP,22.24,0.0049206
+Panel B. Price factors,CP,22.54,0.0047939
+Panel B. Price factors,CP,22.84,0.0046536
+Panel B. Price factors,CP,23.14,0.004506
+Panel B. Price factors,CP,23.44,0.0043842
+Panel B. Price factors,CP,23.74,0.0043187
+Panel B. Price factors,CP,24.04,0.0044583
+Panel B. Price factors,CP,24.34,0.0043579
+Panel B. Price factors,CP,24.64,0.0041235
+Panel B. Price factors,CP,24.94,0.0039505
+Panel B. Price factors,CP,25.24,0.003738
+Panel B. Price factors,CP,25.54,0.0036476
+Panel B. Price factors,CP,25.84,0.0035482
+Panel B. Price factors,CP,26.14,0.0033781
+Panel B. Price factors,CP,26.44,0.003179
+Panel B. Price factors,CP,26.74,0.0029688
+Panel B. Price factors,CP,27.04,0.0027831
+Panel B. Price factors,CP,27.34,0.0025967
+Panel B. Price factors,CP,27.64,0.0025727
+Panel B. Price factors,CP,27.94,0.0024231
+Panel B. Price factors,CP,28.24,0.0021625
+Panel B. Price factors,CP,28.54,0.0020327
+Panel B. Price factors,CP,28.84,0.0021169
+Panel B. Price factors,CP,29.14,0.0019429
+Panel B. Price factors,CP,29.44,0.0017262
+Panel B. Price factors,CP,29.74,0.0014752
+Panel B. Price factors,CP,30.04,0.001239
+Panel B. Price factors,CP,30.34,0.0010395
+Panel B. Price factors,CP,30.64,0.0010347
+Panel B. Price factors,CP,30.94,0.0011075
+Panel B. Price factors,CP,31.24,0.0010821
+Panel B. Price factors,CP,31.54,0.0010915
+Panel B. Price factors,CP,31.84,0.0010266
+Panel B. Price factors,CP,32.14,0.0009348
+Panel B. Price factors,CP,32.44,0.0009321
+Panel B. Price factors,CP,32.74,0.0010141
+Panel B. Price factors,CP,33.04,0.0010874
+Panel B. Price factors,CP,33.34,0.0011008
+Panel B. Price factors,CP,33.64,0.0011084
+Panel B. Price factors,CP,33.94,0.00111
+Panel B. Price factors,CP,34.24,0.0011054
+Panel B. Price factors,CP,34.54,0.0010944
+Panel B. Price factors,CP,34.84,0.0010538
+Panel B. Price factors,CP,35.14,0.0009561
+Panel B. Price factors,CP,35.44,0.0009465
+Panel B. Price factors,CP,35.74,0.0009303
+Panel B. Price factors,CP,36.04,0.0008266
+Panel B. Price factors,CP,36.34,0.0007085
+Panel B. Price factors,CP,36.64,0.0006835
+Panel B. Price factors,CP,36.94,0.0006837
+Panel B. Price factors,CP,37.24,0.0006453
+Panel B. Price factors,CP,37.54,0.0005989
+Panel B. Price factors,CP,37.84,0.0005456
+Panel B. Price factors,CP,38.14,0.0004916
+Panel B. Price factors,CP,38.44,0.000443
+Panel B. Price factors,CP,38.74,0.0004049
+Panel B. Price factors,CP,39.04,0.0003882
+Panel B. Price factors,CP,39.34,0.0004115
+Panel B. Price factors,CP,39.64,0.0004067
+Panel B. Price factors,CP,39.94,0.0004186
+Panel B. Price factors,CP,40.24,0.0003578
+Panel B. Price factors,CP,40.54,0.0002655
+Panel B. Price factors,CP,40.84,0.0002596
+Panel B. Price factors,CP,41.14,0.0002867
+Panel B. Price factors,CP,41.44,0.0002687
+Panel B. Price factors,CP,41.74,0.0002488
+Panel B. Price factors,CP,42.04,0.0002241
+Panel B. Price factors,CP,42.34,0.0001974
+Panel B. Price factors,CP,42.64,0.0001714
+Panel B. Price factors,CP,42.94,0.0001489
+Panel B. Price factors,CP,43.24,0.000126
+Panel B. Price factors,CP,43.54,0.0001305
+Panel B. Price factors,CP,43.84,0.000139
+Panel B. Price factors,CP,44.14,0.0001347
+Panel B. Price factors,CP,44.44,0.0001351
+Panel B. Price factors,CP,44.74,0.0001357
+Panel B. Price factors,CP,45.04,0.0001354
+Panel B. Price factors,CP,45.34,0.0001354
+Panel B. Price factors,CP,45.64,0.0001354
+Panel B. Price factors,CP,45.94,0.0001354
+Panel B. Price factors,CP,46.24,0.0001354
+Panel B. Price factors,CP,46.54,0.0001354
+Panel B. Price factors,CP,46.84,0.0001354
+Panel B. Price factors,CP,47.14,0.0001354
+Panel B. Price factors,CP,47.44,0.0001354
+Panel B. Price factors,CP,47.74,0.0001354
+Panel B. Price factors,CP,48.04,0.0001354
+Panel B. Price factors,CP,48.34,0.0001354
+Panel B. Price factors,CP,48.64,0.0001354
+Panel B. Price factors,CP,48.94,0.0001354
+Panel B. Price factors,CP,49.24,0.0001354
+Panel B. Price factors,CP,49.54,0.0001354
