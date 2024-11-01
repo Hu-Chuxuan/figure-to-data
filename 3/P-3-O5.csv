@@ -1,19 +1,19 @@
-Type-1,Value,Type-2
-1858,6468.341287241367,Royal parties (left axis)
-1859,5227.401273709497,Royal parties (left axis)
-1860,4157.169340269573,Royal parties (left axis)
-1861,901.8957825894913,Royal parties (left axis)
-1862,0,Royal parties (left axis)
-1863,1014.7652443889019,Royal parties (left axis)
-1864,4826.716002430314,Royal parties (left axis)
-1865,2925.7148025485685,Royal parties (left axis)
-1866,4598.15948845767,Royal parties (left axis)
-1858,180.20115773696955,Distance between spouses’ seats (right axis)
-1859,202.99803432124745,Distance between spouses’ seats (right axis)
-1860,151.25882666576862,Distance between spouses’ seats (right axis)
-1861,183.36513705935917,Distance between spouses’ seats (right axis)
-1862,99.50955536977958,Distance between spouses’ seats (right axis)
-1863,122.90475960293938,Distance between spouses’ seats (right axis)
-1864,135.11447464216167,Distance between spouses’ seats (right axis)
-1865,182.93927200935894,Distance between spouses’ seats (right axis)
-1866,162.2719416472808,Distance between spouses’ seats (right axis)
+Type-2,Type-1,Value
+Royal parties (left axis),1858,6468.341287241367
+Royal parties (left axis),1859,5227.401273709497
+Royal parties (left axis),1860,4157.169340269573
+Royal parties (left axis),1861,901.8957825894912
+Royal parties (left axis),1862,0.0
+Royal parties (left axis),1863,1014.765244388902
+Royal parties (left axis),1864,4826.716002430314
+Royal parties (left axis),1865,2925.7148025485685
+Royal parties (left axis),1866,4598.15948845767
+Distance between spouses’ seats (right axis),1858,180.20115773696955
+Distance between spouses’ seats (right axis),1859,202.99803432124745
+Distance between spouses’ seats (right axis),1860,151.25882666576862
+Distance between spouses’ seats (right axis),1861,183.3651370593592
+Distance between spouses’ seats (right axis),1862,99.50955536977958
+Distance between spouses’ seats (right axis),1863,122.90475960293938
+Distance between spouses’ seats (right axis),1864,135.11447464216167
+Distance between spouses’ seats (right axis),1865,182.9392720093589
+Distance between spouses’ seats (right axis),1866,162.2719416472808

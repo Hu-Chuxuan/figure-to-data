@@ -17,7 +17,7 @@ P-5-O8,Dot,2.0,8.0,Vector,Grid line on both,,2341,2501,png
 P-5-O9,Dot,1.0,2.0,Vector,Grid line on both,,1288,2481,png
 P-5-O11,Dot,1.0,9.0,Vector,Grid line on both,,1271,2484,png
 P-6-O6,Continuous,2.0,2.0,Vector,Grid line on dv,,2026,2441,png
-P-6-O7,Dot,2.0,8.0,Vector,Grid line on dv,,1983,2521,png
+P-6-O7,Combo,2.0,8.0,Vector,Grid line on dv,,1983,2521,png
 P-6-O8,Continuous,1.0,1.0,Vector,Grid line on dv,,1308,1656,png
 P-6-O9,Continuous,2.0,2.0,Vector,Grid line on dv,,2052,2515,png
 P-6-O10,Continuous,2.0,6.0,Vector,Grid line on dv,,2018,2468,png
@@ -232,7 +232,7 @@ P-95-O3,Dot,2.0,2.0,Pixel,Two lines,,845,1700,png
 P-95-O4,Dot,2.0,2.0,Pixel,Two lines,,840,1700,png
 P-95-O5,Dot,1.0,1.0,Pixel,Two lines,,920,1500,png
 P-96-O6,Dot,1.0,1.0,Pixel,Grid line on dv,,815,1000,png
-P-97-O1,Continuous,4.0,12.0,Vector,Grid line on dv,,2182,3036,png
+P-97-O1,Continuous,4.0,16.0,Vector,Grid line on dv,,2182,3036,png
 P-97-O4,Dot,2.0,2.0,Vector,Grid line on dv,,1551,3072,png
 P-97-O5,Dot,2.0,3.0,Vector,Grid line on dv,,3332,2273,png
 P-97-O6,Dot,2.0,8.0,Vector,Grid line on dv,,1583,3065,png

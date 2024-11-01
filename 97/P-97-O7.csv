@@ -1,204 +1,204 @@
-"Type-1","Type-2","Value","Subplot Value"
-"-60","Population","0.084955752","(a) Pre-1950 Dams"
-"-50","Population","0.02300885","(a) Pre-1950 Dams"
-"-40","Population","-0.007276303","(a) Pre-1950 Dams"
-"-30","Population","-0.004523107","(a) Pre-1950 Dams"
-"-20","Population","-0.001769912","(a) Pre-1950 Dams"
-"-10","Population","0","(a) Pre-1950 Dams"
-"0","Population","0.084955752","(a) Pre-1950 Dams"
-"10","Population","0.11524090462143555","(a) Pre-1950 Dams"
-"20","Population","0.29832841691248757","(a) Pre-1950 Dams"
-"30","Population","0.42910521140609625","(a) Pre-1950 Dams"
-"40","Population","0.6589970501474925","(a) Pre-1950 Dams"
-"50","Population","0.7897738446411011","(a) Pre-1950 Dams"
-"60","Population","0.8544739429695181","(a) Pre-1950 Dams"
-"70","Population","0.9205506391347098","(a) Pre-1950 Dams"
-"-60","Employment","0.046411012782694216","(a) Pre-1950 Dams"
-"-50","Employment","-0.158013766","(a) Pre-1950 Dams"
-"-40","Employment","-0.077482793","(a) Pre-1950 Dams"
-"-30","Employment","0.029891838741396226","(a) Pre-1950 Dams"
-"-20","Employment","-0.049950836","(a) Pre-1950 Dams"
-"-10","Employment","0","(a) Pre-1950 Dams"
-"0","Employment","0.079449361","(a) Pre-1950 Dams"
-"10","Employment","0.13726647000983294","(a) Pre-1950 Dams"
-"20","Employment","0.34513274336283184","(a) Pre-1950 Dams"
-"30","Employment","0.5309734513274336","(a) Pre-1950 Dams"
-"40","Employment","0.7773844641101277","(a) Pre-1950 Dams"
-"50","Employment","0.9398230088495574","(a) Pre-1950 Dams"
-"60","Employment","1.032055063913471","(a) Pre-1950 Dams"
-"70","Employment","1.1008849557522122","(a) Pre-1950 Dams"
-"-60","Emp. Manufacturing","0.34650934119960664","(a) Pre-1950 Dams"
-"-50","Emp. Manufacturing","0.22812192723697144","(a) Pre-1950 Dams"
-"-40","Emp. Manufacturing","0.028515240904621653","(a) Pre-1950 Dams"
-"-30","Emp. Manufacturing","0.039528024","(a) Pre-1950 Dams"
-"-20","Emp. Manufacturing","-0.005899705","(a) Pre-1950 Dams"
-"-10","Emp. Manufacturing","0","(a) Pre-1950 Dams"
-"0","Emp. Manufacturing","0.039528024","(a) Pre-1950 Dams"
-"10","Emp. Manufacturing","0.027138643067846635","(a) Pre-1950 Dams"
-"20","Emp. Manufacturing","0.2928220255653884","(a) Pre-1950 Dams"
-"30","Emp. Manufacturing","0.4167158308751229","(a) Pre-1950 Dams"
-"40","Emp. Manufacturing","0.5557522123893804","(a) Pre-1950 Dams"
-"50","Emp. Manufacturing","0.6080629301868239","(a) Pre-1950 Dams"
-"60","Emp. Manufacturing","0.6768928220255652","(a) Pre-1950 Dams"
-"70","Emp. Manufacturing","0.6920353982300884","(a) Pre-1950 Dams"
-"-60","Emp. Agriculture","-0.02792527","(a) Pre-1950 Dams"
-"-50","Emp. Agriculture","-0.151819076","(a) Pre-1950 Dams"
-"-40","Emp. Agriculture","-0.060963618","(a) Pre-1950 Dams"
-"-30","Emp. Agriculture","-0.049950836","(a) Pre-1950 Dams"
-"-20","Emp. Agriculture","-0.054080629","(a) Pre-1950 Dams"
-"-10","Emp. Agriculture","0","(a) Pre-1950 Dams"
-"0","Emp. Agriculture","-0.059587021","(a) Pre-1950 Dams"
-"10","Emp. Agriculture","0.075319567","(a) Pre-1950 Dams"
-"20","Emp. Agriculture","0.058800393","(a) Pre-1950 Dams"
-"30","Emp. Agriculture","0.14139626352015733","(a) Pre-1950 Dams"
-"40","Emp. Agriculture","0.12212389380530975","(a) Pre-1950 Dams"
-"50","Emp. Agriculture","0.3024582104228122","(a) Pre-1950 Dams"
-"60","Emp. Agriculture","0.2584070796460176","(a) Pre-1950 Dams"
-"70","Emp. Agriculture","0.24739429695181903","(a) Pre-1950 Dams"
-"-60","Emp. Trade","0.24188790560471962","(a) Pre-1950 Dams"
-"-50","Emp. Trade","0.1565388397246803","(a) Pre-1950 Dams"
-"-40","Emp. Trade","0.007866273","(a) Pre-1950 Dams"
-"-30","Emp. Trade","0.087708948","(a) Pre-1950 Dams"
-"-20","Emp. Trade","-0.089872173","(a) Pre-1950 Dams"
-"-10","Emp. Trade","0","(a) Pre-1950 Dams"
-"0","Emp. Trade","0.072566372","(a) Pre-1950 Dams"
-"10","Emp. Trade","0.10973451327433636","(a) Pre-1950 Dams"
-"20","Emp. Trade","0.2570304818092428","(a) Pre-1950 Dams"
-"30","Emp. Trade","0.43323500491642075","(a) Pre-1950 Dams"
-"40","Emp. Trade","0.6562438544739428","(a) Pre-1950 Dams"
-"50","Emp. Trade","0.8117994100294984","(a) Pre-1950 Dams"
-"60","Emp. Trade","0.8888888888888887","(a) Pre-1950 Dams"
-"70","Emp. Trade","0.9467059980334316","(a) Pre-1950 Dams"
-"-60","Emp. Construction","0.021632252","(a) Pre-1950 Dams"
-"-50","Emp. Construction","-0.103638151","(a) Pre-1950 Dams"
-"-40","Emp. Construction","-0.144936087","(a) Pre-1950 Dams"
-"-30","Emp. Construction","-0.030678466","(a) Pre-1950 Dams"
-"-20","Emp. Construction","-0.12979351","(a) Pre-1950 Dams"
-"-10","Emp. Construction","0","(a) Pre-1950 Dams"
-"0","Emp. Construction","0.071189774","(a) Pre-1950 Dams"
-"10","Emp. Construction","0.018879056","(a) Pre-1950 Dams"
-"20","Emp. Construction","0.19095378564405108","(a) Pre-1950 Dams"
-"30","Emp. Construction","0.2749262536873156","(a) Pre-1950 Dams"
-"40","Emp. Construction","0.44837758112094395","(a) Pre-1950 Dams"
-"50","Emp. Construction","0.511701082","(a) Pre-1950 Dams"
-"60","Emp. Construction","0.6204523107177973","(a) Pre-1950 Dams"
-"70","Emp. Construction","0.7044247787610619","(a) Pre-1950 Dams"
-"-60","Emp. Others","0.14001966568338253","(a) Pre-1950 Dams"
-"-50","Emp. Others","-0.049950836","(a) Pre-1950 Dams"
-"-40","Emp. Others","-0.067846608","(a) Pre-1950 Dams"
-"-30","Emp. Others","0.047787611","(a) Pre-1950 Dams"
-"-20","Emp. Others","-0.007276303","(a) Pre-1950 Dams"
-"-10","Emp. Others","0","(a) Pre-1950 Dams"
-"0","Emp. Others","0.097345133","(a) Pre-1950 Dams"
-"10","Emp. Others","0.19095378564405108","(a) Pre-1950 Dams"
-"20","Emp. Others","0.3657817109144542","(a) Pre-1950 Dams"
-"30","Emp. Others","0.5364798426745329","(a) Pre-1950 Dams"
-"40","Emp. Others","0.7897738446411011","(a) Pre-1950 Dams"
-"50","Emp. Others","0.9577187807276302","(a) Pre-1950 Dams"
-"60","Emp. Others","1.0582104228121927","(a) Pre-1950 Dams"
-"70","Emp. Others","1.1201573254670598","(a) Pre-1950 Dams"
-"-90","Population","0.10840579710144937","(b) Post-1950 Dams"
-"-80","Population","0.1286956521739131","(b) Post-1950 Dams"
-"-70","Population","0.10975845410628016","(b) Post-1950 Dams"
-"-60","Population","0.06647343","(b) Post-1950 Dams"
-"-50","Population","0.029951691","(b) Post-1950 Dams"
-"-40","Population","-0.006570048","(b) Post-1950 Dams"
-"-30","Population","0.000193237","(b) Post-1950 Dams"
-"-20","Population","-0.00115942","(b) Post-1950 Dams"
-"-10","Population","-0.002512077","(b) Post-1950 Dams"
-"0","Population","0.040772947","(b) Post-1950 Dams"
-"10","Population","0.051594203","(b) Post-1950 Dams"
-"20","Population","0.11111111111111116","(b) Post-1950 Dams"
-"30","Population","0.15710144927536218","(b) Post-1950 Dams"
-"40","Population","0.19632850241545885","(b) Post-1950 Dams"
-"50","Population","0.31536231884057986","(b) Post-1950 Dams"
-"-90","Employment","0.097584541","(b) Post-1950 Dams"
-"-80","Employment","0.19903381642512086","(b) Post-1950 Dams"
-"-70","Employment","0.073236715","(b) Post-1950 Dams"
-"-60","Employment","0.1814492753623187","(b) Post-1950 Dams"
-"-50","Employment","0.055652174","(b) Post-1950 Dams"
-"-40","Employment","0.032657004830918046","(b) Post-1950 Dams"
-"-30","Employment","-0.010628019","(b) Post-1950 Dams"
-"-20","Employment","-0.009275362","(b) Post-1950 Dams"
-"-10","Employment","-0.00115942","(b) Post-1950 Dams"
-"0","Employment","0.036714975845410835","(b) Post-1950 Dams"
-"10","Employment","0.078647343","(b) Post-1950 Dams"
-"20","Employment","0.13004830917874388","(b) Post-1950 Dams"
-"30","Employment","0.20173913043478264","(b) Post-1950 Dams"
-"40","Employment","0.2409661835748793","(b) Post-1950 Dams"
-"50","Employment","0.3613526570048309","(b) Post-1950 Dams"
-"-90","Emp. Manufacturing","0.12193236714975852","(b) Post-1950 Dams"
-"-80","Emp. Manufacturing","0.10570048309178737","(b) Post-1950 Dams"
-"-70","Emp. Manufacturing","-0.039033816","(b) Post-1950 Dams"
-"-60","Emp. Manufacturing","0.044830918","(b) Post-1950 Dams"
-"-50","Emp. Manufacturing","-0.04173913","(b) Post-1950 Dams"
-"-40","Emp. Manufacturing","-0.051207729","(b) Post-1950 Dams"
-"-30","Emp. Manufacturing","0.009661836","(b) Post-1950 Dams"
-"-20","Emp. Manufacturing","-0.025507246","(b) Post-1950 Dams"
-"-10","Emp. Manufacturing","-0.00115942","(b) Post-1950 Dams"
-"0","Emp. Manufacturing","0.001545894","(b) Post-1950 Dams"
-"10","Emp. Manufacturing","0.084057971","(b) Post-1950 Dams"
-"20","Emp. Manufacturing","0.10434782608695659","(b) Post-1950 Dams"
-"30","Emp. Manufacturing","0.1841545893719807","(b) Post-1950 Dams"
-"40","Emp. Manufacturing","0.25043478260869567","(b) Post-1950 Dams"
-"50","Emp. Manufacturing","0.31400966183574885","(b) Post-1950 Dams"
-"-90","Emp. Agriculture","0.16521739130434798","(b) Post-1950 Dams"
-"-80","Emp. Agriculture","0.054299517","(b) Post-1950 Dams"
-"-70","Emp. Agriculture","-0.068792271","(b) Post-1950 Dams"
-"-60","Emp. Agriculture","0.08","(b) Post-1950 Dams"
-"-50","Emp. Agriculture","0.012367149758454321","(b) Post-1950 Dams"
-"-40","Emp. Agriculture","-0.022801932","(b) Post-1950 Dams"
-"-30","Emp. Agriculture","-0.01468599","(b) Post-1950 Dams"
-"-20","Emp. Agriculture","-0.029565217","(b) Post-1950 Dams"
-"-10","Emp. Agriculture","0.001545894","(b) Post-1950 Dams"
-"0","Emp. Agriculture","-0.005217391","(b) Post-1950 Dams"
-"10","Emp. Agriculture","0.019130434782608896","(b) Post-1950 Dams"
-"20","Emp. Agriculture","-0.002512077","(b) Post-1950 Dams"
-"30","Emp. Agriculture","-0.0552657","(b) Post-1950 Dams"
-"40","Emp. Agriculture","-0.024154589","(b) Post-1950 Dams"
-"50","Emp. Agriculture","-0.112077295","(b) Post-1950 Dams"
-"-90","Emp. Trade","0.15304347826086961","(b) Post-1950 Dams"
-"-80","Emp. Trade","0.077294686","(b) Post-1950 Dams"
-"-70","Emp. Trade","0.024541062801932467","(b) Post-1950 Dams"
-"-60","Emp. Trade","0.11246376811594194","(b) Post-1950 Dams"
-"-50","Emp. Trade","0.063768116","(b) Post-1950 Dams"
-"-40","Emp. Trade","0.024541062801932467","(b) Post-1950 Dams"
-"-30","Emp. Trade","-0.045797101","(b) Post-1950 Dams"
-"-20","Emp. Trade","-0.043091787","(b) Post-1950 Dams"
-"-10","Emp. Trade","0.000193237","(b) Post-1950 Dams"
-"0","Emp. Trade","0.036714975845410835","(b) Post-1950 Dams"
-"10","Emp. Trade","0.084057971","(b) Post-1950 Dams"
-"20","Emp. Trade","0.1543961352657004","(b) Post-1950 Dams"
-"30","Emp. Trade","0.2436714975845411","(b) Post-1950 Dams"
-"40","Emp. Trade","0.3004830917874397","(b) Post-1950 Dams"
-"50","Emp. Trade","0.3857004830917875","(b) Post-1950 Dams"
-"-90","Emp. Construction","0.17198067632850256","(b) Post-1950 Dams"
-"-80","Emp. Construction","0.11922705314009652","(b) Post-1950 Dams"
-"-70","Emp. Construction","0.073236715","(b) Post-1950 Dams"
-"-60","Emp. Construction","0.023188405797101463","(b) Post-1950 Dams"
-"-50","Emp. Construction","0.013719806763285103","(b) Post-1950 Dams"
-"-40","Emp. Construction","0.054299517","(b) Post-1950 Dams"
-"-30","Emp. Construction","-0.005217391","(b) Post-1950 Dams"
-"-20","Emp. Construction","0.001545894","(b) Post-1950 Dams"
-"-10","Emp. Construction","0.000193237","(b) Post-1950 Dams"
-"0","Emp. Construction","0.16251207729468597","(b) Post-1950 Dams"
-"10","Emp. Construction","0.11787439613526574","(b) Post-1950 Dams"
-"20","Emp. Construction","0.1557487922705314","(b) Post-1950 Dams"
-"30","Emp. Construction","0.2166183574879228","(b) Post-1950 Dams"
-"40","Emp. Construction","0.2382608695652173","(b) Post-1950 Dams"
-"50","Emp. Construction","0.3329468599033816","(b) Post-1950 Dams"
-"-90","Emp. Others","0.1814492753623187","(b) Post-1950 Dams"
-"-80","Emp. Others","0.212560386","(b) Post-1950 Dams"
-"-70","Emp. Others","0.18821256038647327","(b) Post-1950 Dams"
-"-60","Emp. Others","0.211207729","(b) Post-1950 Dams"
-"-50","Emp. Others","0.062415459","(b) Post-1950 Dams"
-"-40","Emp. Others","0.061062802","(b) Post-1950 Dams"
-"-30","Emp. Others","-0.017391304","(b) Post-1950 Dams"
-"-20","Emp. Others","0.005603865","(b) Post-1950 Dams"
-"-10","Emp. Others","-0.00115942","(b) Post-1950 Dams"
-"0","Emp. Others","0.06647343","(b) Post-1950 Dams"
-"10","Emp. Others","0.14357487922705303","(b) Post-1950 Dams"
-"20","Emp. Others","0.2666666666666666","(b) Post-1950 Dams"
-"30","Emp. Others","0.3586473429951691","(b) Post-1950 Dams"
-"40","Emp. Others","0.40599033816425123","(b) Post-1950 Dams"
-"50","Emp. Others","0.5601932367149759","(b) Post-1950 Dams"
+Subplot Value,Type-2,Type-1,Value
+(a) Pre-1950 Dams,Population,-60,0.084955752
+(a) Pre-1950 Dams,Population,-50,0.02300885
+(a) Pre-1950 Dams,Population,-40,-0.007276303
+(a) Pre-1950 Dams,Population,-30,-0.004523107
+(a) Pre-1950 Dams,Population,-20,-0.001769912
+(a) Pre-1950 Dams,Population,-10,0.0
+(a) Pre-1950 Dams,Population,0,0.084955752
+(a) Pre-1950 Dams,Population,10,0.1152409046214355
+(a) Pre-1950 Dams,Population,20,0.2983284169124875
+(a) Pre-1950 Dams,Population,30,0.4291052114060962
+(a) Pre-1950 Dams,Population,40,0.6589970501474925
+(a) Pre-1950 Dams,Population,50,0.7897738446411011
+(a) Pre-1950 Dams,Population,60,0.8544739429695181
+(a) Pre-1950 Dams,Population,70,0.9205506391347098
+(a) Pre-1950 Dams,Employment,-60,0.0464110127826942
+(a) Pre-1950 Dams,Employment,-50,-0.158013766
+(a) Pre-1950 Dams,Employment,-40,-0.077482793
+(a) Pre-1950 Dams,Employment,-30,0.0298918387413962
+(a) Pre-1950 Dams,Employment,-20,-0.049950836
+(a) Pre-1950 Dams,Employment,-10,0.0
+(a) Pre-1950 Dams,Employment,0,0.079449361
+(a) Pre-1950 Dams,Employment,10,0.1372664700098329
+(a) Pre-1950 Dams,Employment,20,0.3451327433628318
+(a) Pre-1950 Dams,Employment,30,0.5309734513274336
+(a) Pre-1950 Dams,Employment,40,0.7773844641101277
+(a) Pre-1950 Dams,Employment,50,0.9398230088495574
+(a) Pre-1950 Dams,Employment,60,1.032055063913471
+(a) Pre-1950 Dams,Employment,70,1.1008849557522122
+(a) Pre-1950 Dams,Emp. Manufacturing,-60,0.3465093411996066
+(a) Pre-1950 Dams,Emp. Manufacturing,-50,0.2281219272369714
+(a) Pre-1950 Dams,Emp. Manufacturing,-40,0.0285152409046216
+(a) Pre-1950 Dams,Emp. Manufacturing,-30,0.039528024
+(a) Pre-1950 Dams,Emp. Manufacturing,-20,-0.005899705
+(a) Pre-1950 Dams,Emp. Manufacturing,-10,0.0
+(a) Pre-1950 Dams,Emp. Manufacturing,0,0.039528024
+(a) Pre-1950 Dams,Emp. Manufacturing,10,0.0271386430678466
+(a) Pre-1950 Dams,Emp. Manufacturing,20,0.2928220255653884
+(a) Pre-1950 Dams,Emp. Manufacturing,30,0.4167158308751229
+(a) Pre-1950 Dams,Emp. Manufacturing,40,0.5557522123893804
+(a) Pre-1950 Dams,Emp. Manufacturing,50,0.6080629301868239
+(a) Pre-1950 Dams,Emp. Manufacturing,60,0.6768928220255652
+(a) Pre-1950 Dams,Emp. Manufacturing,70,0.6920353982300884
+(a) Pre-1950 Dams,Emp. Agriculture,-60,-0.02792527
+(a) Pre-1950 Dams,Emp. Agriculture,-50,-0.151819076
+(a) Pre-1950 Dams,Emp. Agriculture,-40,-0.060963618
+(a) Pre-1950 Dams,Emp. Agriculture,-30,-0.049950836
+(a) Pre-1950 Dams,Emp. Agriculture,-20,-0.054080629
+(a) Pre-1950 Dams,Emp. Agriculture,-10,0.0
+(a) Pre-1950 Dams,Emp. Agriculture,0,-0.059587021
+(a) Pre-1950 Dams,Emp. Agriculture,10,0.075319567
+(a) Pre-1950 Dams,Emp. Agriculture,20,0.058800393
+(a) Pre-1950 Dams,Emp. Agriculture,30,0.1413962635201573
+(a) Pre-1950 Dams,Emp. Agriculture,40,0.1221238938053097
+(a) Pre-1950 Dams,Emp. Agriculture,50,0.3024582104228122
+(a) Pre-1950 Dams,Emp. Agriculture,60,0.2584070796460176
+(a) Pre-1950 Dams,Emp. Agriculture,70,0.247394296951819
+(a) Pre-1950 Dams,Emp. Trade,-60,0.2418879056047196
+(a) Pre-1950 Dams,Emp. Trade,-50,0.1565388397246803
+(a) Pre-1950 Dams,Emp. Trade,-40,0.007866273
+(a) Pre-1950 Dams,Emp. Trade,-30,0.087708948
+(a) Pre-1950 Dams,Emp. Trade,-20,-0.089872173
+(a) Pre-1950 Dams,Emp. Trade,-10,0.0
+(a) Pre-1950 Dams,Emp. Trade,0,0.072566372
+(a) Pre-1950 Dams,Emp. Trade,10,0.1097345132743363
+(a) Pre-1950 Dams,Emp. Trade,20,0.2570304818092428
+(a) Pre-1950 Dams,Emp. Trade,30,0.4332350049164207
+(a) Pre-1950 Dams,Emp. Trade,40,0.6562438544739428
+(a) Pre-1950 Dams,Emp. Trade,50,0.8117994100294984
+(a) Pre-1950 Dams,Emp. Trade,60,0.8888888888888887
+(a) Pre-1950 Dams,Emp. Trade,70,0.9467059980334316
+(a) Pre-1950 Dams,Emp. Construction,-60,0.021632252
+(a) Pre-1950 Dams,Emp. Construction,-50,-0.103638151
+(a) Pre-1950 Dams,Emp. Construction,-40,-0.144936087
+(a) Pre-1950 Dams,Emp. Construction,-30,-0.030678466
+(a) Pre-1950 Dams,Emp. Construction,-20,-0.12979351
+(a) Pre-1950 Dams,Emp. Construction,-10,0.0
+(a) Pre-1950 Dams,Emp. Construction,0,0.071189774
+(a) Pre-1950 Dams,Emp. Construction,10,0.018879056
+(a) Pre-1950 Dams,Emp. Construction,20,0.190953785644051
+(a) Pre-1950 Dams,Emp. Construction,30,0.2749262536873156
+(a) Pre-1950 Dams,Emp. Construction,40,0.4483775811209439
+(a) Pre-1950 Dams,Emp. Construction,50,0.511701082
+(a) Pre-1950 Dams,Emp. Construction,60,0.6204523107177973
+(a) Pre-1950 Dams,Emp. Construction,70,0.7044247787610619
+(a) Pre-1950 Dams,Emp. Others,-60,0.1400196656833825
+(a) Pre-1950 Dams,Emp. Others,-50,-0.049950836
+(a) Pre-1950 Dams,Emp. Others,-40,-0.067846608
+(a) Pre-1950 Dams,Emp. Others,-30,0.047787611
+(a) Pre-1950 Dams,Emp. Others,-20,-0.007276303
+(a) Pre-1950 Dams,Emp. Others,-10,0.0
+(a) Pre-1950 Dams,Emp. Others,0,0.097345133
+(a) Pre-1950 Dams,Emp. Others,10,0.190953785644051
+(a) Pre-1950 Dams,Emp. Others,20,0.3657817109144542
+(a) Pre-1950 Dams,Emp. Others,30,0.5364798426745329
+(a) Pre-1950 Dams,Emp. Others,40,0.7897738446411011
+(a) Pre-1950 Dams,Emp. Others,50,0.9577187807276302
+(a) Pre-1950 Dams,Emp. Others,60,1.058210422812193
+(a) Pre-1950 Dams,Emp. Others,70,1.1201573254670598
+(b) Post-1950 Dams,Population,-90,0.1084057971014493
+(b) Post-1950 Dams,Population,-80,0.1286956521739131
+(b) Post-1950 Dams,Population,-70,0.1097584541062801
+(b) Post-1950 Dams,Population,-60,0.06647343
+(b) Post-1950 Dams,Population,-50,0.029951691
+(b) Post-1950 Dams,Population,-40,-0.006570048
+(b) Post-1950 Dams,Population,-30,0.000193237
+(b) Post-1950 Dams,Population,-20,-0.00115942
+(b) Post-1950 Dams,Population,-10,-0.002512077
+(b) Post-1950 Dams,Population,0,0.040772947
+(b) Post-1950 Dams,Population,10,0.051594203
+(b) Post-1950 Dams,Population,20,0.1111111111111111
+(b) Post-1950 Dams,Population,30,0.1571014492753621
+(b) Post-1950 Dams,Population,40,0.1963285024154588
+(b) Post-1950 Dams,Population,50,0.3153623188405798
+(b) Post-1950 Dams,Employment,-90,0.097584541
+(b) Post-1950 Dams,Employment,-80,0.1990338164251208
+(b) Post-1950 Dams,Employment,-70,0.073236715
+(b) Post-1950 Dams,Employment,-60,0.1814492753623187
+(b) Post-1950 Dams,Employment,-50,0.055652174
+(b) Post-1950 Dams,Employment,-40,0.032657004830918
+(b) Post-1950 Dams,Employment,-30,-0.010628019
+(b) Post-1950 Dams,Employment,-20,-0.009275362
+(b) Post-1950 Dams,Employment,-10,-0.00115942
+(b) Post-1950 Dams,Employment,0,0.0367149758454108
+(b) Post-1950 Dams,Employment,10,0.078647343
+(b) Post-1950 Dams,Employment,20,0.1300483091787438
+(b) Post-1950 Dams,Employment,30,0.2017391304347826
+(b) Post-1950 Dams,Employment,40,0.2409661835748793
+(b) Post-1950 Dams,Employment,50,0.3613526570048309
+(b) Post-1950 Dams,Emp. Manufacturing,-90,0.1219323671497585
+(b) Post-1950 Dams,Emp. Manufacturing,-80,0.1057004830917873
+(b) Post-1950 Dams,Emp. Manufacturing,-70,-0.039033816
+(b) Post-1950 Dams,Emp. Manufacturing,-60,0.044830918
+(b) Post-1950 Dams,Emp. Manufacturing,-50,-0.04173913
+(b) Post-1950 Dams,Emp. Manufacturing,-40,-0.051207729
+(b) Post-1950 Dams,Emp. Manufacturing,-30,0.009661836
+(b) Post-1950 Dams,Emp. Manufacturing,-20,-0.025507246
+(b) Post-1950 Dams,Emp. Manufacturing,-10,-0.00115942
+(b) Post-1950 Dams,Emp. Manufacturing,0,0.001545894
+(b) Post-1950 Dams,Emp. Manufacturing,10,0.084057971
+(b) Post-1950 Dams,Emp. Manufacturing,20,0.1043478260869565
+(b) Post-1950 Dams,Emp. Manufacturing,30,0.1841545893719807
+(b) Post-1950 Dams,Emp. Manufacturing,40,0.2504347826086956
+(b) Post-1950 Dams,Emp. Manufacturing,50,0.3140096618357488
+(b) Post-1950 Dams,Emp. Agriculture,-90,0.1652173913043479
+(b) Post-1950 Dams,Emp. Agriculture,-80,0.054299517
+(b) Post-1950 Dams,Emp. Agriculture,-70,-0.068792271
+(b) Post-1950 Dams,Emp. Agriculture,-60,0.08
+(b) Post-1950 Dams,Emp. Agriculture,-50,0.0123671497584543
+(b) Post-1950 Dams,Emp. Agriculture,-40,-0.022801932
+(b) Post-1950 Dams,Emp. Agriculture,-30,-0.01468599
+(b) Post-1950 Dams,Emp. Agriculture,-20,-0.029565217
+(b) Post-1950 Dams,Emp. Agriculture,-10,0.001545894
+(b) Post-1950 Dams,Emp. Agriculture,0,-0.005217391
+(b) Post-1950 Dams,Emp. Agriculture,10,0.0191304347826088
+(b) Post-1950 Dams,Emp. Agriculture,20,-0.002512077
+(b) Post-1950 Dams,Emp. Agriculture,30,-0.0552657
+(b) Post-1950 Dams,Emp. Agriculture,40,-0.024154589
+(b) Post-1950 Dams,Emp. Agriculture,50,-0.112077295
+(b) Post-1950 Dams,Emp. Trade,-90,0.1530434782608696
+(b) Post-1950 Dams,Emp. Trade,-80,0.077294686
+(b) Post-1950 Dams,Emp. Trade,-70,0.0245410628019324
+(b) Post-1950 Dams,Emp. Trade,-60,0.1124637681159419
+(b) Post-1950 Dams,Emp. Trade,-50,0.063768116
+(b) Post-1950 Dams,Emp. Trade,-40,0.0245410628019324
+(b) Post-1950 Dams,Emp. Trade,-30,-0.045797101
+(b) Post-1950 Dams,Emp. Trade,-20,-0.043091787
+(b) Post-1950 Dams,Emp. Trade,-10,0.000193237
+(b) Post-1950 Dams,Emp. Trade,0,0.0367149758454108
+(b) Post-1950 Dams,Emp. Trade,10,0.084057971
+(b) Post-1950 Dams,Emp. Trade,20,0.1543961352657004
+(b) Post-1950 Dams,Emp. Trade,30,0.2436714975845411
+(b) Post-1950 Dams,Emp. Trade,40,0.3004830917874397
+(b) Post-1950 Dams,Emp. Trade,50,0.3857004830917875
+(b) Post-1950 Dams,Emp. Construction,-90,0.1719806763285025
+(b) Post-1950 Dams,Emp. Construction,-80,0.1192270531400965
+(b) Post-1950 Dams,Emp. Construction,-70,0.073236715
+(b) Post-1950 Dams,Emp. Construction,-60,0.0231884057971014
+(b) Post-1950 Dams,Emp. Construction,-50,0.0137198067632851
+(b) Post-1950 Dams,Emp. Construction,-40,0.054299517
+(b) Post-1950 Dams,Emp. Construction,-30,-0.005217391
+(b) Post-1950 Dams,Emp. Construction,-20,0.001545894
+(b) Post-1950 Dams,Emp. Construction,-10,0.000193237
+(b) Post-1950 Dams,Emp. Construction,0,0.1625120772946859
+(b) Post-1950 Dams,Emp. Construction,10,0.1178743961352657
+(b) Post-1950 Dams,Emp. Construction,20,0.1557487922705314
+(b) Post-1950 Dams,Emp. Construction,30,0.2166183574879228
+(b) Post-1950 Dams,Emp. Construction,40,0.2382608695652173
+(b) Post-1950 Dams,Emp. Construction,50,0.3329468599033816
+(b) Post-1950 Dams,Emp. Others,-90,0.1814492753623187
+(b) Post-1950 Dams,Emp. Others,-80,0.212560386
+(b) Post-1950 Dams,Emp. Others,-70,0.1882125603864732
+(b) Post-1950 Dams,Emp. Others,-60,0.211207729
+(b) Post-1950 Dams,Emp. Others,-50,0.062415459
+(b) Post-1950 Dams,Emp. Others,-40,0.061062802
+(b) Post-1950 Dams,Emp. Others,-30,-0.017391304
+(b) Post-1950 Dams,Emp. Others,-20,0.005603865
+(b) Post-1950 Dams,Emp. Others,-10,-0.00115942
+(b) Post-1950 Dams,Emp. Others,0,0.06647343
+(b) Post-1950 Dams,Emp. Others,10,0.143574879227053
+(b) Post-1950 Dams,Emp. Others,20,0.2666666666666666
+(b) Post-1950 Dams,Emp. Others,30,0.3586473429951691
+(b) Post-1950 Dams,Emp. Others,40,0.4059903381642512
+(b) Post-1950 Dams,Emp. Others,50,0.5601932367149759

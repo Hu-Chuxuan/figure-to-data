@@ -50,8 +50,8 @@ Subplot Value,Type-2,Type-1,Value
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1926.0,15.910016398349626
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1926.5,16.66721967538058
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1927.0,17.341215403045908
-"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1927.5,20.163498737926037
-"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1928.0,20.283984194669078
+"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1927.5,20.16349873792604
+"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1928.0,20.28398419466908
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1928.5,20.27473099712006
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1929.0,23.207553760988844
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1929.5,23.205962322344817
@@ -70,7 +70,7 @@ Subplot Value,Type-2,Type-1,Value
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1936.0,26.090541818085285
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1936.5,26.09047153
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1937.0,26.08982650513269
-"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1937.5,26.085437417964958
+"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1937.5,26.08543741796496
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1938.0,26.05938663317363
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1938.5,27.53211233101172
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1939.0,29.040651445884578
@@ -132,7 +132,7 @@ Subplot Value,Type-2,Type-1,Value
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1967.0,217.3591195772716
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1967.5,227.77686198552112
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1968.0,235.1404499195685
-"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1968.5,245.07483704786935
+"(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1968.5,245.07483704786927
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1969.0,256.10660489801336
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1969.5,266.2182423283174
 "(a) Installed Capacity (1,000 Megawatts)",Fossil Fuel,1970.0,278.8573523061137
@@ -284,7 +284,7 @@ Subplot Value,Type-2,Type-1,Value
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1953.0,22.47668903561396
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1953.5,23.15254812051853
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1954.0,23.16280893151827
-"(a) Installed Capacity (1,000 Megawatts)",Hydro,1954.5,22.834125417172917
+"(a) Installed Capacity (1,000 Megawatts)",Hydro,1954.5,22.83412541717292
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1955.0,24.99462749036161
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1955.5,26.18192438917504
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1956.0,26.09736584
@@ -292,7 +292,7 @@ Subplot Value,Type-2,Type-1,Value
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1957.0,27.49691951651755
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1957.5,28.98646378
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1958.0,28.999480995220893
-"(a) Installed Capacity (1,000 Megawatts)",Hydro,1958.5,29.206840568152412
+"(a) Installed Capacity (1,000 Megawatts)",Hydro,1958.5,29.20684056815241
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1959.0,31.832032520784992
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1959.5,31.89570332861831
 "(a) Installed Capacity (1,000 Megawatts)",Hydro,1960.0,32.13383188353339
