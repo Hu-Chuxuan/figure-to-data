@@ -4,6 +4,6 @@ Teacher in 50th–75th percentile x Std Sim,.157***,.054,.101***,.034,.096***,.0
 Teacher in 25th–50th percentile x Std Sim,.032,.105,.049,.063,.047,.073,.230*,.131,.107,.091,.013,.071,.155,.100,.167*,.088
 Teacher in <25th percentile x Std Sim,-.240**,.111,-.157**,.064,-.177**,.074,.038,.30,-.116,.081,-.136,.090,-.060,.074,-.052,.072
 R^2,.20,,.23,,.21,,.17,,.17,,.16,,.18,,.14,
-Commonality controls,X,,X,,X,,X,,X,,X,,X,,X,
-Teacher quality controls,X,,X,,X,,X,,X,,X,,X,,X,
+Commonality controls,1,,1,,1,,1,,1,,1,,1,,1,
+Teacher quality controls,1,,1,,1,,1,,1,,1,,1,,1,
 Sample,World,,World,,World,,World,,World,,World,,World,,World,
