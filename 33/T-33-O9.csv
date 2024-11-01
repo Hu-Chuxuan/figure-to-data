@@ -5,7 +5,7 @@ A: R^2,.34,,.36,,.33,,.41,,.41,,.36,,.32,,.27,
 B: Connected,.093,.110,274***,.096,.357***,.091,.104**,.041,.151**,.067,.190**,.087,.142***,.054,.136***,.032
 B: No. of composers in same city at same time (logged),-.021**,.008,-.007,.012,-.014,.012,-.013*,.007,-.014,.010,-.021*,.013,-.021**,.010,-.006,.007
 B: R^2,.34,,.36,,.33,,.41,,.41,,.36,,.32,,.27,
-Commonality controls,X,,X,,X,,X,,X,,X,,X,,X,
-Distance controls,X,,X,,X,,X,,X,,X,,X,,X,
-Composer fixed effects,X,,X,,X,,X,,X,,X,,X,,X,
+Commonality controls,1,,1,,1,,1,,1,,1,,1,,1,
+Distance controls,1,,1,,1,,1,,1,,1,,1,,1,
+Composer fixed effects,1,,1,,1,,1,,1,,1,,1,,1,
 Sample,World,,World,,World,,World,,World,,World,,World,,World,
