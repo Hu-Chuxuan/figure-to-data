@@ -5,6 +5,6 @@ Unnamed: 0,(1),(1) (SE),(2),(2) (SE),(3),(3) (SE),(4),(4) (SE),(5),(5) (SE),(6),
 >30 years,-1.053***,.227,-.859***,.232,-.400*,.230,-.662**,.261,-.437*,.254,-.328,.232,-.256,.325,.400,.327
 Observations,958,,958,,958,,958,,958,,958,,741,,944,
 R^2,.15,,.05,,.02,,.10,,.04,,.03,,.02,,.06,
-Controls,X,,X,,X,,X,,X,,X,,X,,X,
-Teacher-student pair fixed effects,X,,X,,X,,X,,X,,X,,X,,X,
+Controls,1,,1,,1,,1,,1,,1,,1,,1,
+Teacher-student pair fixed effects,1,,1,,1,,1,,1,,1,,1,,1,
 Sample,World,,World,,World,,World,,World,,World,,World,,World,
