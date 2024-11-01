@@ -2,8 +2,8 @@
 Panel A. Second stage: Married in 1861–1863,45.3,17.4,0.04,58.5,23.4,0.06,−44.6,22.0,0.02,−61.4,30.0,0.02,0.58,0.12,0.00,0.71,0.16,0.02
 Panel A. Second stage: Dependent variable mean,29,,,30,,,−3,,,−5,,,0.53,,,0.55,,
 Panel B. First stage: Treatment^a,0.01,0.00,,0.01,0.00,,0.01,0.00,,0.01,0.00,,0.01,0.00,,0.01,0.00,
-Panel B. First stage: Controls,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,,Yes,,
-Panel B. First stage: Distance London,No,,,Yes,,,No,,,Yes,,,No,,,Yes,,
+Panel B. First stage: Controls,1,,,1,,,1,,,1,,,1,,,1,,
+Panel B. First stage: Distance London,0,,,1,,,0,,,1,,,0,,,1,,
 Panel B. First stage: Observations,324,,,260,,,324,,,260,,,324,,,260,,
 Panel B. First stage: F first-stage,9.2,,,4.5,,,9.2,,,4.5,,,9.2,,,4.5,,
 Panel B. First stage: Model,IV (liml),,,IV (liml),,,IV (liml),,,IV (liml),,,IV probit,,,IV probit,,
