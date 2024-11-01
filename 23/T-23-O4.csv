@@ -11,9 +11,9 @@
 ,0.041,0.046,0.048,0.048,0.043
 δ_PH =  δ_DH,0.749,0.689,0.275,0.101,0.007
 δ_PH =  δ_DH Test for mechanism:,GC/DD,,,DD,DD
-δ_PH =  δ_DH Significant evidence of mechanism:,No,,,No,No
+δ_PH =  δ_DH Significant evidence of mechanism:,0,,,0,0
 δ_ PL =  δ_DL,0.000,0.030,0.014,0.481,0.435
 δ_ PL =  δ_DL Test for mechanism:,GC/PD,PD,PD,,
-δ_ PL =  δ_DL Significant evidence of mechanism:,Yes,Yes,Yes,,
+δ_ PL =  δ_DL Significant evidence of mechanism:,1,1,1,,
 "Mean (control, low risk)",0.000,0.486,0.329,0.154,0.116
 Observations,2055,2053,2053,2053,2053
