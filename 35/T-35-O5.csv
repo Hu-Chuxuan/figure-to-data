@@ -4,7 +4,7 @@ Some college exp. or more of Blacks,11.439,6.884,,,,,,,22.228,7.099
 Monthly earnings of Blacks,,,0.003,0.003,,,,,0.003,0.003
 Incarceration rate of Blacks (per 10k pop.),,,,,−0.004,0.004,,,−0.007,0.004
 Polling place rate (per 10k pop.),,,,,,,1.339,0.243,1.712,0.252
-Historical controls,Yes,,Yes,,Yes,,Yes,,Yes,
-State fixed effects,Yes,,Yes,,Yes,,Yes,,Yes,
+Historical controls,1,,1,,1,,1,,1,
+State fixed effects,1,,1,,1,,1,,1,
 Number of counties,267,,267,,267,,267,,267,
 R^2,0.553,,0.550,,0.550,,0.597,,0.629,
