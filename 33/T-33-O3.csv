@@ -5,6 +5,6 @@ A. 10-Year Window: R^2,.11,,.22,,.18,,.14,,.26,,.24,,.23,,.40,
 B. 15-Year Window: Connected at conservatory,.082,.071,.103,.118,.233*,.139,.099*,.057,.141,.115,.400***,.161,.194**,.097,.016,.070
 B. 15-Year Window: Observations,224,,223,,201,,224,,223,,201,,198,,219,
 B. 15-Year Window: R^2,.10,,.19,,.15,,.13,,.23,,.20,,.20,,.32,
-Commonality controls,X,,X,,X,,X,,X,,X,,X,,X,
-Conservatory fixed effects,X,,X,,X,,X,,X,,X,,X,,X,
+Commonality controls,1,,1,,1,,1,,1,,1,,1,,1,
+Conservatory fixed effects,1,,1,,1,,1,,1,,1,,1,,1,
 Sample,World,,World,,World,,World,,World,,World,,World,,World,
