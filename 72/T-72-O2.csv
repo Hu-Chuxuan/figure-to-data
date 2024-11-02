@@ -4,7 +4,7 @@
 "Nearby (0--25 km) $\times$ Cotton Shortage","","","","","1.054","0.597","0.785","0.576"
 "Nearby (25--50 km) $\times$ Cotton Shortage","","","","","0.191","0.623","0.081","0.628"
 "Nearby (50--75 km) $\times$ Cotton Shortage","","","","","0.586","0.656","0.509","0.645"
-"District controls","","","Yes","","Yes","","Yes",""
+"District controls","","","1","","1","","1",""
 "Observations","1076","","1076","","1076","","1076",""
 "R^2","0.022","","0.395","","0.398","","0.397",""
 "Permutation test p-values for effect on cotton districts - p-values","0.119","","0.089","","0.050","","0.002",""
