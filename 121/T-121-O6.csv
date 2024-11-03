@@ -1,0 +1,4 @@
+Models,Occupancy-IoU,Occupancy-mIoU,Detection-mAP,Detection-mAR,Layout-3D IoU
+BEVFormer,20.38,8.97,27.3,43.88,62.71
+OccNet,22.12,10.66,29.91,47.15,64.04
+Ours,24.31,12.93,33.57,51.6,66.45

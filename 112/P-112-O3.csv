@@ -1,0 +1,5 @@
+Type-1,Type-2,Value,Error Bar Length
+AX/BX,Different trials,0.36973,0.1210811
+CX,Different trials,0.22054,0.1145946
+AX/BX,Same trials,0.869189,0.116757
+CX,Same trials,0.72865,0.086486
