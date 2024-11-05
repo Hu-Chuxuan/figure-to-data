@@ -12,8 +12,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.30600000000
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.340000000001,0.6328265960984908
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.3740000000007,0.6332777003047247
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.4080000000013,0.6336994062344283
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.4420000000011,0.634166568
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.4760000000012,0.6346676824837421
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.4420000000007,0.634166568
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.4760000000008,0.6346676824837421
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.5100000000016,0.6351594441772582
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.5440000000017,0.6356467153287079
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.5780000000016,0.6361373216294957
@@ -31,8 +31,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.95200000000
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1977.986000000003,0.6418016247359718
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.0200000000032,0.6419786155609204
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.0540000000035,0.6420565699926706
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.0880000000036,0.6420348209506829
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.1220000000037,0.6420090137914124
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.088000000004,0.6420348209506829
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.122000000004,0.6420090137914124
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.156000000004,0.6419766844404798
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.190000000004,0.6419408
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.224000000004,0.641904328
@@ -50,7 +50,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.59800000000
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.632000000005,0.6416759568215987
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.6660000000047,0.6416149206980495
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.7000000000053,0.6416045596175732
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.7340000000052,0.6416230028821209
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.7340000000047,0.6416230028821209
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.7680000000053,0.6416294454753443
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.8020000000056,0.6415838890132571
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1978.8360000000057,0.641517364
@@ -69,7 +69,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.24400000000
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.278000000007,0.6389664844515116
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.3120000000072,0.6385809490155152
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.3460000000075,0.638248445
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.3800000000076,0.637958433
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.380000000008,0.637958433
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.4140000000075,0.6376547418684483
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.448000000008,0.6373445685944655
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.482000000008,0.6370388182546229
@@ -88,7 +88,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.89000000000
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.924000000009,0.632955147
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.9580000000087,0.6326924849808082
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1979.9920000000093,0.6326067768597696
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.0260000000092,0.63278507
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.0260000000087,0.63278507
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.0600000000093,0.6332418229393215
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.0940000000096,0.6338618314278378
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.1280000000097,0.6344957591167987
@@ -107,7 +107,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.53600000001
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.570000000011,0.642007206
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.6040000000112,0.6426302901669653
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.6380000000115,0.6432171804361715
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.6720000000116,0.6438285814526562
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.672000000012,0.6438285814526562
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.7060000000115,0.6444661390504371
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.740000000012,0.6450704842480138
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1980.774000000012,0.6455681901696911
@@ -126,10 +126,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.18200000001
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.216000000013,0.6516274430944822
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.2500000000127,0.6519955458802881
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.2840000000133,0.6523642964926084
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.3180000000132,0.6527420816727092
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.3180000000127,0.6527420816727092
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.3520000000133,0.6530773894893189
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.3860000000136,0.6533745585418383
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.4200000000135,0.653721639
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.4200000000133,0.653721639
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.4540000000136,0.6540950631771785
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.488000000014,0.6544096107892619
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.522000000014,0.6547147468316091
@@ -145,7 +145,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.82800000001
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.862000000015,0.6581710658958351
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.8960000000152,0.6585570744496877
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.9300000000155,0.6589169555139195
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.9640000000156,0.6592123780792509
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.964000000016,0.6592123780792509
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1981.9980000000155,0.6593994139506948
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.032000000016,0.6594387008724042
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.066000000016,0.6593094742016724
@@ -164,10 +164,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.47400000001
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.508000000017,0.6565513114886519
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.5420000000167,0.6562688937246965
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.5760000000173,0.6560195449183519
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.6100000000172,0.6558725756294234
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.6100000000167,0.6558725756294234
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.6440000000173,0.6557568437452801
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.6780000000176,0.6555421456214271
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.7120000000175,0.6552704541395008
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.7120000000173,0.6552704541395008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.7460000000176,0.6550175416591334
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.780000000018,0.654802356
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1982.814000000018,0.6546215868095282
@@ -183,7 +183,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.12000000001
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.154000000019,0.655809958
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.1880000000192,0.6563792988378923
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.2220000000195,0.6569430570500939
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.2560000000196,0.6574464384630597
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.25600000002,0.6574464384630597
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.2900000000195,0.6579251489329706
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.32400000002,0.6585084550395764
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.35800000002,0.6591282822380586
@@ -202,10 +202,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.76600000002
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.800000000021,0.6660937522873062
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.8340000000208,0.6666309023473598
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.8680000000213,0.6671027768654648
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.9020000000212,0.6676297367366316
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.9020000000207,0.6676297367366316
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.9360000000213,0.6682623370681887
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1983.9700000000216,0.668799339
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.0040000000215,0.6690891212748484
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.0040000000213,0.6690891212748484
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.0380000000216,0.6690907563199056
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.072000000022,0.6689148433603448
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.106000000022,0.6687267090510364
@@ -221,7 +221,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.41200000002
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.446000000023,0.6668941404014448
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.4800000000232,0.6667104964358963
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.5140000000235,0.6665271646851116
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.5480000000236,0.6663433261843852
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.548000000024,0.6663433261843852
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.5820000000235,0.6661585705840752
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.616000000024,0.6659769896584306
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1984.650000000024,0.6657964317452266
@@ -240,10 +240,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.05800000002
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.092000000025,0.6618803078298752
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.1260000000248,0.6611460345590854
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.160000000025,0.6604201970848876
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.1940000000252,0.6596837562371279
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.1940000000247,0.6596837562371279
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.2280000000253,0.6589493119143379
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.2620000000256,0.6582142541404382
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.2960000000255,0.657473756
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.2960000000253,0.657473756
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.3300000000256,0.6567509656364394
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.364000000026,0.6560326365157971
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.398000000026,0.6552231653243942
@@ -258,8 +258,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.67000000002
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.704000000027,0.6484302720425154
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.7380000000271,0.6477168220453738
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.7720000000272,0.6470849054543539
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.8060000000276,0.646230617
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.8400000000277,0.6450993359319585
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.806000000028,0.646230617
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.840000000028,0.6450993359319585
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.8740000000275,0.6442589377327683
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.908000000028,0.6437726875027224
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1985.942000000028,0.643191908
@@ -278,10 +278,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.35000000002
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.384000000029,0.6446559383013686
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.4180000000288,0.6449567882454894
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.452000000029,0.6452607119679066
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.4860000000292,0.6454817433428104
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.4860000000288,0.6454817433428104
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.5200000000293,0.6455977595777492
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.5540000000296,0.6457287089060479
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.5880000000295,0.6462026283616515
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.5880000000293,0.6462026283616515
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.6220000000296,0.6468595181202098
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.656,0.6471442654761855
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.69,0.6471833142689716
@@ -296,8 +296,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.96200000003
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1986.996000000031,0.6495431899450061
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.0300000000311,0.6499628441260376
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.0640000000312,0.6504512835775103
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.0980000000316,0.6510153788053323
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.1320000000317,0.6516208087953385
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.098000000032,0.6510153788053323
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.132000000032,0.6516208087953385
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.1660000000315,0.6522358082186881
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.200000000032,0.6528427994999588
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.234000000032,0.6534672115927245
@@ -316,10 +316,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.64200000003
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.676000000033,0.660971908
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.7100000000328,0.6616051661155954
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.744000000033,0.6622143617829568
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.7780000000332,0.662830116
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.7780000000328,0.662830116
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.812000000033,0.6634424267987017
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.8460000000337,0.6640082467471333
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.8800000000335,0.6645510562628132
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.8800000000333,0.6645510562628132
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.9140000000336,0.6651056499603782
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.948000000034,0.6656458106281473
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1987.982000000034,0.6661404018413112
@@ -334,8 +334,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.25400000003
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.288000000035,0.6686477106923062
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.3220000000351,0.6688935244033982
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.3560000000352,0.6691373255803827
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.3900000000356,0.669379283
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.4240000000357,0.6696314043305572
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.390000000036,0.669379283
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.424000000036,0.6696314043305572
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.458000000036,0.6698823172752013
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.492000000036,0.6700844586840892
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.526000000036,0.6702623839768435
@@ -353,11 +353,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.90000000003
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.934000000037,0.6734101760077645
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1988.968000000037,0.6736428692445299
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.0020000000368,0.6737358959074645
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.0360000000371,0.6736688602554752
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.0700000000372,0.6735744264639236
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.036000000037,0.6736688602554752
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.0700000000368,0.6735744264639236
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.1040000000376,0.6734588929982853
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.1380000000377,0.6733373867774047
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.1720000000375,0.6732250347201264
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.172000000037,0.6732250347201264
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.2060000000376,0.6730640887945564
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.240000000038,0.6729800427930026
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.274000000038,0.6729193968792412
@@ -372,8 +372,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.54600000003
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.580000000039,0.6721918646130224
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.6140000000391,0.6720832181379404
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.6480000000392,0.6720249166724362
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.6820000000396,0.6719823605004424
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.7160000000397,0.6719150800295812
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.68200000004,0.6719823605004424
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.71600000004,0.6719150800295812
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.75000000004,0.6717954759042493
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.78400000004,0.6716766870629843
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1989.81800000004,0.6716107871832023
@@ -391,8 +391,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.19200000004
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.226000000041,0.6677332860353513
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.2600000000407,0.6672365522093775
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.2940000000413,0.6667476497933373
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.3280000000411,0.666255537
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.3620000000412,0.6657631593426775
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.328000000041,0.666255537
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.3620000000408,0.6657631593426775
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.3960000000416,0.6652949153339809
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.4300000000417,0.6647966854488334
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.4640000000416,0.6641906036836683
@@ -409,9 +409,9 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.80400000004
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.838000000043,0.658519687
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.872000000043,0.6579738586839075
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.9060000000432,0.6575036706908812
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.9400000000437,0.6570252657327925
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.9740000000436,0.6566680295602749
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.0080000000437,0.656592686
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.940000000044,0.6570252657327925
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1990.974000000044,0.6566680295602749
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.008000000044,0.656592686
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.042000000044,0.6568495085098222
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.076000000044,0.6573627305625126
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.110000000044,0.6579271792320159
@@ -429,8 +429,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.48400000004
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.518000000045,0.6645318479288645
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.5520000000447,0.665082646
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.5860000000453,0.6656346183027283
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.6200000000451,0.6661849472301782
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.6540000000452,0.6667315700668494
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.620000000045,0.6661849472301782
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.6540000000448,0.6667315700668494
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.6880000000456,0.6672891577604391
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.7220000000457,0.6678526771156037
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1991.7560000000456,0.6683590132805863
@@ -448,8 +448,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.13000000004
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.164000000047,0.6737766484431429
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.1980000000472,0.6741411827779812
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.2320000000475,0.6745270703672619
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.2660000000476,0.674890363
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.3000000000477,0.6752621349626186
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.266000000048,0.674890363
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.300000000048,0.6752621349626186
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.334000000048,0.6756260200896482
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.368000000048,0.6759451780990592
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.402000000048,0.6762371820629111
@@ -467,7 +467,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.77600000004
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.810000000049,0.6800689387048262
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.8440000000487,0.6806335283041424
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.8780000000493,0.6811869379608477
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.9120000000491,0.6816577357513888
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.9120000000487,0.6816577357513888
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.9460000000493,0.682118865
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1992.9800000000496,0.6820247127853866
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.0140000000497,0.6819419083033619
@@ -486,8 +486,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.42200000005
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.456000000051,0.6819686999536623
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.4900000000512,0.6819192614141691
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.5240000000515,0.6818551638684862
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.5580000000516,0.6818419292798129
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.5920000000517,0.6818577248304646
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.558000000052,0.6818419292798129
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.592000000052,0.6818577248304646
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.626000000052,0.6818635089136386
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.660000000052,0.6818349654988926
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1993.694000000052,0.6817691122086773
@@ -505,7 +505,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.06800000005
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.102000000053,0.6810789291718132
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.1360000000527,0.680930195
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.1700000000533,0.6808121699140882
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.2040000000532,0.6807018999952886
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.2040000000527,0.6807018999952886
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.2380000000533,0.6805709707283842
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.2720000000536,0.6803978243004221
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.3060000000537,0.6801995274070107
@@ -524,7 +524,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.71400000005
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.748000000055,0.6780977677991399
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.7820000000552,0.6779581869289708
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.8160000000555,0.6777652111672114
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.8500000000556,0.6776136681348908
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.850000000056,0.6776136681348908
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.8840000000555,0.6775002295150773
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.918000000056,0.6773287858111425
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1994.952000000056,0.6771434026369955
@@ -543,7 +543,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.36000000005
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.394000000057,0.6804352960226858
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.4280000000567,0.6806851439790936
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.4620000000573,0.681059414
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.4960000000572,0.6813968086850084
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.4960000000567,0.6813968086850084
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.5300000000573,0.6816229490642466
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.5640000000576,0.6819301989282052
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1995.5980000000577,0.682315152
@@ -562,7 +562,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.00600000005
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.040000000059,0.6862010547352814
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.0740000000592,0.6864967881326489
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.1080000000595,0.6868489723360589
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.1420000000596,0.6872210811438841
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.14200000006,0.6872210811438841
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.1760000000595,0.6875391045871063
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.21000000006,0.6878236940542709
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.24400000006,0.6881216030384325
@@ -581,10 +581,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.65200000006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.686000000061,0.6924231524179217
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.7200000000607,0.6926524088639863
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.7540000000613,0.6929597170573556
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.7880000000612,0.6933437158043084
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.7880000000607,0.6933437158043084
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.8220000000613,0.6936778306174423
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.8560000000616,0.6939656830831292
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.8900000000615,0.6942610483056466
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.8900000000613,0.6942610483056466
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.9240000000616,0.6945918498654685
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.958000000062,0.6949157598072705
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1996.992000000062,0.6950904567976505
@@ -600,7 +600,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.29800000006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.332000000063,0.6924284386502414
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.3660000000632,0.6922021687036557
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.4000000000635,0.6919051217727671
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.4340000000636,0.6915190674307301
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.434000000064,0.6915190674307301
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.4680000000635,0.691227378
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.502000000064,0.6909971901296746
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.536000000064,0.6906495691155291
@@ -619,10 +619,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.94400000006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1997.978000000065,0.6869901326064412
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.0120000000647,0.686980629
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.0460000000653,0.6869960976804292
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.0800000000652,0.6871011703358085
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.0800000000647,0.6871011703358085
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.1140000000653,0.6872676096392009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.1480000000656,0.6874541654794227
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.1820000000655,0.6876249249665085
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.1820000000653,0.6876249249665085
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.2160000000656,0.6877327237829627
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.250000000066,0.6877671224438674
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.284000000066,0.6879684630402582
@@ -638,7 +638,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.59000000006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.624000000067,0.6897169069099794
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.6580000000672,0.6898467636918444
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.6920000000675,0.6899672509722956
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.7260000000676,0.6901480650470309
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.726000000068,0.6901480650470309
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.7600000000675,0.6903258130269836
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.794000000068,0.690441724
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1998.828000000068,0.6905854220853183
@@ -657,10 +657,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.23600000006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.270000000069,0.6891695233442222
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.3040000000688,0.6889387529423648
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.338000000069,0.688703041
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.3720000000692,0.6883663100323318
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.3720000000687,0.6883663100323318
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.4060000000693,0.687990037
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.4400000000696,0.6877150758109721
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.4740000000695,0.6874932157276218
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.4740000000693,0.6874932157276218
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.5080000000696,0.6872482220453903
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.542,0.6870035888954826
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.576,0.6867625703409929
@@ -676,7 +676,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.88200000007
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.916000000071,0.6838203092118371
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.9500000000712,0.683644097
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,1999.9840000000715,0.6834107326615512
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.0180000000717,0.6831246514561591
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.018000000072,0.6831246514561591
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.0520000000715,0.6828164189490402
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.086000000072,0.682506591
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.120000000072,0.6822020620429466
@@ -695,10 +695,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.52800000007
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.562000000073,0.6786991711392677
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.5960000000728,0.6783763485802249
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.630000000073,0.6780909690843445
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.6640000000732,0.6777309396893493
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.6640000000727,0.6777309396893493
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.6980000000733,0.6775079793158512
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.7320000000736,0.6778204151765702
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.7660000000735,0.6777342973149765
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.7660000000733,0.6777342973149765
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.8000000000736,0.677260023
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.834000000074,0.6768895570567249
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2000.868000000074,0.6764671929856266
@@ -713,8 +713,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.14000000007
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.174000000075,0.6734630191409726
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.2080000000751,0.6728740778077021
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.2420000000752,0.6726137550668161
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.2760000000756,0.672342299
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.3100000000757,0.6720244198467505
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.276000000076,0.672342299
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.310000000076,0.6720244198467505
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.3440000000755,0.6717804351645342
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.378000000076,0.6715217779371926
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.412000000076,0.6711614215742018
@@ -733,10 +733,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.82000000007
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.854000000077,0.6665812369739184
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.8880000000768,0.6662149540155239
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.922000000077,0.6658438822882616
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.9560000000772,0.6654757260148138
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.9560000000768,0.6654757260148138
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2001.990000000077,0.665126565
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.0240000000776,0.6647467339587315
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.0580000000775,0.6642750464689424
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.0580000000773,0.6642750464689424
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.0920000000776,0.6637667615136542
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.126000000078,0.6632769328531123
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.160000000078,0.662791443
@@ -751,8 +751,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.43200000007
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.466000000079,0.6583805706012401
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.5000000000791,0.6578931985241454
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.5340000000792,0.6574150623199329
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.5680000000796,0.6569032663280485
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.6020000000797,0.6563457602702196
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.56800000008,0.6569032663280485
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.60200000008,0.6563457602702196
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.6360000000795,0.6558168328402951
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.67000000008,0.6553346316182437
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2002.70400000008,0.6548515661248147
@@ -770,11 +770,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.07800000008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.112000000081,0.6528345261503646
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.146000000081,0.6534458138335665
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.1800000000808,0.6540691248133207
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.2140000000811,0.6546718451175063
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.2480000000812,0.6552214425603076
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.214000000081,0.6546718451175063
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.2480000000808,0.6552214425603076
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.2820000000816,0.655781525
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.3160000000817,0.6563945029039433
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.3500000000815,0.6570161386195681
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.3500000000813,0.6570161386195681
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.3840000000816,0.6576261132924826
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.418000000082,0.6582365774703653
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.452000000082,0.6588495038018746
@@ -789,8 +789,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.72400000008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.758000000083,0.664356745
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.7920000000831,0.6649650291692971
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.8260000000832,0.665595527
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.8600000000836,0.6662080628010623
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.8940000000837,0.6667192367257667
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.860000000084,0.6662080628010623
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.894000000084,0.6667192367257667
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.928000000084,0.6672031146148526
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.962000000084,0.6677381702259666
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2003.996000000084,0.668125266
@@ -808,11 +808,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.37000000008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.404000000085,0.6678348316356082
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.438000000085,0.6677847189435467
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.4720000000848,0.6677074845344224
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.5060000000851,0.667646322
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.5400000000852,0.6675919595407152
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.506000000085,0.667646322
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.5400000000848,0.6675919595407152
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.5740000000856,0.6675297364030196
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.6080000000857,0.6674521478402444
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.6420000000855,0.6674068534052606
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.642000000085,0.6674068534052606
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.6760000000857,0.6674236384651139
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.710000000086,0.6673795761699053
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2004.744000000086,0.667240574
@@ -827,8 +827,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.01600000008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.050000000087,0.6667705044909941
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.0840000000871,0.6666904025916235
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.1180000000872,0.666543333
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.1520000000876,0.6664154046196995
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.1860000000877,0.6663029894042772
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.152000000088,0.6664154046196995
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.186000000088,0.6663029894042772
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.220000000088,0.6661836978250051
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.254000000088,0.6660396366594985
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.288000000088,0.6659201407349488
@@ -846,8 +846,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.66200000008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.696000000089,0.6649030805410889
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.7300000000887,0.6647617682397204
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.7640000000893,0.6646445593281647
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.7980000000891,0.6645315944754474
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.8320000000892,0.6643998985322453
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.798000000089,0.6645315944754474
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.8320000000888,0.6643998985322453
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.8660000000896,0.6642545924824554
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.9000000000897,0.6641911048788297
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2005.9340000000896,0.6642085016192464
@@ -864,9 +864,9 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.27400000009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.308000000091,0.6658269847329881
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.342000000091,0.6660957713699216
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.3760000000912,0.666278183
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.4100000000917,0.6663870665444882
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.4440000000916,0.6665619345654026
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.4780000000917,0.6668269437783036
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.410000000092,0.6663870665444882
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.444000000092,0.6665619345654026
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.478000000092,0.6668269437783036
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.512000000092,0.6671056019954934
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.546000000092,0.6673145064505169
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.580000000092,0.6674260077639185
@@ -884,8 +884,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.95400000009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2006.988000000093,0.6696926501418452
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.0220000000927,0.6696468678868565
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.0560000000933,0.6695469501019118
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.0900000000931,0.6693617363906896
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.1240000000932,0.669107522
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.0900000000927,0.6693617363906896
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.1240000000928,0.669107522
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.1580000000936,0.6688840430752462
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.1920000000937,0.6687129869945289
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.2260000000936,0.6685507766562064
@@ -903,8 +903,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.60000000009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.634000000095,0.6663103459887525
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.6680000000952,0.6660464860650365
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.7020000000955,0.6658355812610084
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.7360000000956,0.6656754607348848
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.7700000000957,0.6655098731014925
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.736000000096,0.6656754607348848
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.770000000096,0.6655098731014925
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.804000000096,0.6652715818775145
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.838000000096,0.6650082877161476
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2007.872000000096,0.6649003919080863
@@ -922,7 +922,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.24600000009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.280000000097,0.6573945896731673
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.3140000000967,0.6554524119546647
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.3480000000973,0.6544123315487926
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.3820000000972,0.6545349963181678
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.3820000000967,0.6545349963181678
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.4160000000973,0.6546452504999036
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.4500000000976,0.653817065
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.4840000000977,0.6519738904359169
@@ -941,7 +941,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.89200000009
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.926000000099,0.6412846175164277
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.9600000000992,0.6406334162852544
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2008.9940000000995,0.6401652561367174
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.0280000000996,0.6399280624359027
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.0280000001,0.6399280624359027
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.0620000000995,0.6399372859639804
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.0960000001,0.6401027491086202
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.1300000001,0.6402887012323393
@@ -960,7 +960,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.53800000010
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.572000000101,0.6424631588180457
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.6060000001007,0.6426306922948318
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.6400000001013,0.6428311480187406
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.6740000001012,0.6430243969314864
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.6740000001007,0.6430243969314864
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.7080000001013,0.6431709892126736
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.7420000001016,0.6432864364918089
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2009.7760000001017,0.6434440787883443
@@ -979,7 +979,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.18400000010
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.218000000103,0.6429729905162392
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.2520000001032,0.6427329618548593
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.2860000001035,0.6424854215897196
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.3200000001036,0.64222888
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.320000000104,0.64222888
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.3540000001035,0.642004405
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.388000000104,0.6418263930997145
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.422000000104,0.6416247117373297
@@ -998,7 +998,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.83000000010
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.864000000105,0.6386143966322683
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.8980000001047,0.6384094482069929
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.9320000001053,0.6381574293763896
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.9660000001052,0.6379063385635461
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2010.9660000001047,0.6379063385635461
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.0000000001053,0.6376642458903673
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.0340000001056,0.6374189344332349
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.0680000001057,0.6371755950479031
@@ -1017,7 +1017,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.47600000010
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.510000000107,0.6335352388111378
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.5440000001072,0.6333238849985393
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.5780000001075,0.6330771477906326
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.6120000001076,0.6328315319007405
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.612000000108,0.6328315319007405
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.6460000001075,0.6325891909331961
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.680000000108,0.632305788
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2011.714000000108,0.6319882197098905
@@ -1036,10 +1036,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.12200000010
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.156000000109,0.6302283287975193
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.1900000001087,0.6303812245476808
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.2240000001093,0.6305320233990729
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.2580000001092,0.6305999836067504
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.2580000001087,0.6305999836067504
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.2920000001093,0.6305859918738638
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.3260000001096,0.6306360519943928
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.3600000001095,0.6307743231369238
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.3600000001093,0.6307743231369238
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.3940000001096,0.6309021822348089
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.428,0.6310240974748614
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.462,0.6311679842604838
@@ -1055,7 +1055,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.76800000011
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.802000000111,0.6319169607798658
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.8360000001112,0.6320561405036824
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.8700000001115,0.6322104638889743
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.9040000001116,0.6323078362958214
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.904000000112,0.6323078362958214
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.9380000001115,0.6323138916963073
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2012.972000000112,0.6323104740039133
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.006000000112,0.6323256440557593
@@ -1074,10 +1074,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.41400000011
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.448000000113,0.6299979816134273
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.4820000001127,0.6297334311002617
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.5160000001133,0.6295559351753828
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.5500000001132,0.6294507129523847
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.5500000001127,0.6294507129523847
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.5840000001133,0.6292261455667661
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.6180000001136,0.6289807355129626
-Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.6520000001135,0.6288618958798221
+Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.6520000001133,0.6288618958798221
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.6860000001136,0.6287174026639406
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.720000000114,0.6284620234656416
 Panel A. Employment rate: Alaska versus synthetic Alaska,Alaska,2013.754000000114,0.6282303570363834
@@ -1100,8 +1100,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.3
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.340000000001,0.6298754655319283
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.3740000000007,0.630664697
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.4080000000013,0.6317832835294503
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.4420000000011,0.6323325155718297
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.4760000000012,0.632524286
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.4420000000007,0.6323325155718297
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.4760000000008,0.632524286
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.5100000000016,0.6329147987293094
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.5440000000017,0.6332031326402382
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.5780000000016,0.6333420962278226
@@ -1119,8 +1119,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.9
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1977.986000000003,0.6399425527724757
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.0200000000032,0.6403265411072592
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.0540000000035,0.640792405
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.0880000000036,0.6413158431166966
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.1220000000037,0.6417586434837526
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.088000000004,0.6413158431166966
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.122000000004,0.6417586434837526
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.156000000004,0.6420638976733022
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.190000000004,0.6420455648666618
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.224000000004,0.6421906357249761
@@ -1138,7 +1138,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.632000000005,0.6453286327507614
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.6660000000047,0.6453646313733741
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.7000000000053,0.6455117919398106
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.7340000000052,0.6457617627467935
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.7340000000047,0.6457617627467935
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.7680000000053,0.6460141226475242
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.8020000000056,0.646214553
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1978.8360000000057,0.6464642224973959
@@ -1157,7 +1157,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.278000000007,0.6452354244492491
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.3120000000072,0.644305207
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.3460000000075,0.6439715056338617
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.3800000000076,0.6439651247541709
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.380000000008,0.6439651247541709
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.4140000000075,0.6437099312056511
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.448000000008,0.6433043194303126
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.482000000008,0.6429713371985527
@@ -1176,7 +1176,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.924000000009,0.6391810699016316
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.9580000000087,0.6388594710375902
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1979.9920000000093,0.6385048964570122
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.0260000000092,0.6382239508951584
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.0260000000087,0.6382239508951584
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.0600000000093,0.6381190811360656
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.0940000000096,0.6383167490750931
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.1280000000097,0.6384527637220826
@@ -1195,7 +1195,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.570000000011,0.6402022923623709
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.6040000000112,0.6403506542805338
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.6380000000115,0.6404888430949303
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.6720000000116,0.6406110805969547
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.672000000012,0.6406110805969547
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.7060000000115,0.6408702830614215
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.740000000012,0.6409690392080081
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1980.774000000012,0.6410384574956117
@@ -1210,10 +1210,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.216000000013,0.6378839512842829
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.2500000000127,0.6369808892299847
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.2840000000133,0.6363141376581567
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.3180000000132,0.6359785430965983
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.3180000000127,0.6359785430965983
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.3520000000133,0.6355055402483356
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.3860000000136,0.6346826398368627
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.4200000000135,0.6337887869106916
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.4200000000133,0.6337887869106916
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.4540000000136,0.6331109551686517
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.488000000014,0.6327842637724935
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.522000000014,0.6321825117419156
@@ -1229,7 +1229,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.862000000015,0.6256633540010055
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.8960000000152,0.6245528967377868
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.9300000000155,0.6233027972901354
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.9640000000156,0.6229064354656046
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.964000000016,0.6229064354656046
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1981.9980000000155,0.6230111896429491
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.032000000016,0.6230272772431541
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.066000000016,0.6229790792953557
@@ -1248,10 +1248,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.508000000017,0.6269294308529293
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.5420000000167,0.6274560796402915
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.5760000000173,0.6279123255851283
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.6100000000172,0.6282257710511132
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.6100000000167,0.6282257710511132
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.6440000000173,0.6282316157347367
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.6780000000176,0.6285112185859507
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.7120000000175,0.6289477687148611
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.7120000000173,0.6289477687148611
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.7460000000176,0.6292392339519142
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.780000000018,0.6293188643001981
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1982.814000000018,0.6294591288907646
@@ -1267,7 +1267,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.154000000019,0.6331856583972381
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.1880000000192,0.6337775861481942
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.2220000000195,0.6343234754056792
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.2560000000196,0.6347388990931703
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.25600000002,0.6347388990931703
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.2900000000195,0.634761294
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.32400000002,0.6349324706438879
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.35800000002,0.635378506
@@ -1286,10 +1286,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.7
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.800000000021,0.6400910765197031
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.8340000000208,0.6410450558003111
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.8680000000213,0.641373207
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.9020000000212,0.6414224512513024
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.9020000000207,0.6414224512513024
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.9360000000213,0.6416493886244478
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1983.9700000000216,0.6419867676507566
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.0040000000215,0.6422781704114547
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.0040000000213,0.6422781704114547
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.0380000000216,0.642392008
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.072000000022,0.6426598833192038
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.106000000022,0.6428459605066186
@@ -1305,7 +1305,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.446000000023,0.6447007924571225
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.4800000000232,0.6448748291529672
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.5140000000235,0.6451065000322996
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.5480000000236,0.6452549861306047
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.548000000024,0.6452549861306047
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.5820000000235,0.6451970027965103
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.616000000024,0.6453910671950772
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1984.650000000024,0.6455547325795785
@@ -1324,10 +1324,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.0
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.092000000025,0.6472739545154289
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.1260000000248,0.6472163330119425
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.160000000025,0.6471424106236981
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.1940000000252,0.6470784816691055
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.1940000000247,0.6470784816691055
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.2280000000253,0.6470863976325361
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.2620000000256,0.6469715400146445
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.2960000000255,0.6469133617420854
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.2960000000253,0.6469133617420854
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.3300000000256,0.6468481445662141
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.364000000026,0.6467749580498147
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.398000000026,0.6466962446615173
@@ -1342,8 +1342,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.6
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.704000000027,0.6460849890464866
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.7380000000271,0.6460043909618686
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.7720000000272,0.6459343634956648
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.8060000000276,0.6458875659774235
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.8400000000277,0.6458381383508184
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.806000000028,0.6458875659774235
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.840000000028,0.6458381383508184
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.8740000000275,0.6457188802764054
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.908000000028,0.6455885603135474
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1985.942000000028,0.6456065820805308
@@ -1362,10 +1362,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.3
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.384000000029,0.6460371747870709
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.4180000000288,0.6460929236380545
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.452000000029,0.6461442224163025
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.4860000000292,0.6461897053208203
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.4860000000288,0.6461897053208203
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.5200000000293,0.6462740943352928
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.5540000000296,0.6463243771871138
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.5880000000295,0.6463518271169078
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.5880000000293,0.6463518271169078
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.6220000000296,0.6464244235906832
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.656,0.6464233835395694
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.69,0.6464344802838559
@@ -1380,8 +1380,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.9
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1986.996000000031,0.6475023392346644
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.0300000000311,0.6479051677026938
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.0640000000312,0.6482960954526388
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.0980000000316,0.6486235151074716
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.1320000000317,0.6490021519289425
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.098000000032,0.6486235151074716
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.132000000032,0.6490021519289425
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.1660000000315,0.6491165693431539
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.200000000032,0.649493319
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.234000000032,0.6498050372028306
@@ -1400,10 +1400,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.6
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.676000000033,0.6558204858752019
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.7100000000328,0.6561073486073289
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.744000000033,0.6562455878433744
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.7780000000332,0.6567544324223114
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.7780000000328,0.6567544324223114
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.812000000033,0.6573690544328273
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.8460000000337,0.658023867
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.8800000000335,0.6585743713252364
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.8800000000333,0.6585743713252364
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.9140000000336,0.6589583738279241
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.948000000034,0.6591498697034006
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1987.982000000034,0.6595468744393223
@@ -1418,8 +1418,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.288000000035,0.6632334778183209
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.3220000000351,0.6641381397675218
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.3560000000352,0.6651015249509141
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.3900000000356,0.6653934771281191
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.4240000000357,0.6655738526252154
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.390000000036,0.6653934771281191
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.424000000036,0.6655738526252154
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.458000000036,0.6659811856242146
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.492000000036,0.666234111
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.526000000036,0.6665452578293446
@@ -1437,11 +1437,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.9
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.934000000037,0.672518017
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1988.968000000037,0.6726167516862492
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.0020000000368,0.672826635
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.0360000000371,0.6730631006159956
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.0700000000372,0.6731864364161869
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.036000000037,0.6730631006159956
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.0700000000368,0.6731864364161869
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.1040000000376,0.6731897235628189
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.1380000000377,0.673188614
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.1720000000375,0.6731837637354886
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.172000000037,0.6731837637354886
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.2060000000376,0.6731758279294834
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.240000000038,0.6731654623072233
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.274000000038,0.6731533224526864
@@ -1456,8 +1456,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.580000000039,0.6730122255228704
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.6140000000391,0.6729612687406242
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.6480000000392,0.6729660498415636
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.6820000000396,0.6729758090722425
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.7160000000397,0.6729726258641121
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.68200000004,0.6729758090722425
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.71600000004,0.6729726258641121
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.75000000004,0.6729683336103872
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.78400000004,0.6729731511728391
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1989.81800000004,0.6729826793574345
@@ -1475,8 +1475,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.226000000041,0.6709024809878782
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.2600000000407,0.6705630665494258
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.2940000000413,0.6701290496155778
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.3280000000411,0.6699661632713402
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.3620000000412,0.6699253771075123
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.328000000041,0.6699661632713402
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.3620000000408,0.6699253771075123
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.3960000000416,0.6695094986947425
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.4300000000417,0.6689759524522109
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.4640000000416,0.6684206972201627
@@ -1493,9 +1493,9 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.838000000043,0.664973554
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.872000000043,0.6645968453811684
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.9060000000432,0.6646208965949731
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.9400000000437,0.6645400123057832
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.9740000000436,0.6642512358952158
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.0080000000437,0.6638984608027613
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.940000000044,0.6645400123057832
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1990.974000000044,0.6642512358952158
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.008000000044,0.6638984608027613
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.042000000044,0.6637487886381848
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.076000000044,0.663839454
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.110000000044,0.663901988
@@ -1513,8 +1513,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.518000000045,0.6639603342544289
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.5520000000447,0.6639687472716724
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.5860000000453,0.663976128
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.6200000000451,0.6639822444528058
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.6540000000452,0.6639923866445419
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.620000000045,0.6639822444528058
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.6540000000448,0.6639923866445419
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.6880000000456,0.6639814673371791
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.7220000000457,0.6639818565252464
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1991.7560000000456,0.6639813194152359
@@ -1532,8 +1532,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.164000000047,0.6672018007591106
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.1980000000472,0.6673588076810758
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.2320000000475,0.6682325998790363
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.2660000000476,0.6696316956673958
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.3000000000477,0.6703828675907032
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.266000000048,0.6696316956673958
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.300000000048,0.6703828675907032
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.334000000048,0.6706004705009493
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.368000000048,0.6710881809380799
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.402000000048,0.6719966711868904
@@ -1551,7 +1551,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.7
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.810000000049,0.6803573766763192
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.8440000000487,0.6804654237938368
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.8780000000493,0.6812326384985852
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.9120000000491,0.6826469899201586
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.9120000000487,0.6826469899201586
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.9460000000493,0.6834727868228263
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1992.9800000000496,0.6834673204555375
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.0140000000497,0.683594557
@@ -1570,8 +1570,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.456000000051,0.6828818197413541
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.4900000000512,0.6827886603877621
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.5240000000515,0.6827119613483827
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.5580000000516,0.6825819217581248
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.5920000000517,0.6826017159170282
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.558000000052,0.6825819217581248
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.592000000052,0.6826017159170282
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.626000000052,0.6825391460026364
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.660000000052,0.6824658234991212
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1993.694000000052,0.6824093964299925
@@ -1589,7 +1589,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.0
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.102000000053,0.6814274139795051
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.1360000000527,0.6813495920447427
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.1700000000533,0.6812712212940373
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.2040000000532,0.6811936604263185
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.2040000000527,0.6811936604263185
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.2380000000533,0.6811182681405162
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.2720000000536,0.6810464031355608
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.3060000000537,0.6809794241103817
@@ -1608,7 +1608,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.7
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.748000000055,0.6800529809832404
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.7820000000552,0.680050383
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.8160000000555,0.6800662586332287
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.8500000000556,0.6798781068594866
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.850000000056,0.6798781068594866
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.8840000000555,0.6797609394179219
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.918000000056,0.6796235595582385
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1994.952000000056,0.6794730614643606
@@ -1627,7 +1627,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.3
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.394000000057,0.6776921184266083
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.4280000000567,0.6774627255294224
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.4620000000573,0.6772973202443079
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.4960000000572,0.6770935072391564
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.4960000000567,0.6770935072391564
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.5300000000573,0.6768676520586394
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.5640000000576,0.67663612
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1995.5980000000577,0.6764152773501937
@@ -1646,7 +1646,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.0
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.040000000059,0.6748275883242969
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.0740000000592,0.6749127118976759
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.1080000000595,0.6750155208462222
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.1420000000596,0.6751294523771093
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.14200000006,0.6751294523771093
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.1760000000595,0.675247944
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.21000000006,0.6753644320145974
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.24400000006,0.6754723545355448
@@ -1665,10 +1665,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.6
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.686000000061,0.6764583164706567
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.7200000000607,0.6766101053466457
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.7540000000613,0.6765360210566786
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.7880000000612,0.6765418885310948
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.7880000000607,0.6765418885310948
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.8220000000613,0.6767217113861727
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.8560000000616,0.6769006345980513
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.8900000000615,0.6771118028892807
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.8900000000613,0.6771118028892807
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.9240000000616,0.6773398938831897
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.958000000062,0.6775695852031071
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1996.992000000062,0.6777855544723618
@@ -1684,7 +1684,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.332000000063,0.6815575471840517
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.3660000000632,0.682081884
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.4000000000635,0.6824487845172319
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.4340000000636,0.6825351510644907
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.434000000064,0.6825351510644907
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.4680000000635,0.6832233292953097
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.502000000064,0.6842914937916196
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.536000000064,0.6847510381806334
@@ -1703,10 +1703,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.9
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1997.978000000065,0.6895381443677683
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.0120000000647,0.6895969864377821
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.0460000000653,0.6896067713718558
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.0800000000652,0.6895856767005869
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.0800000000647,0.6895856767005869
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.1140000000653,0.6895210757045773
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.1480000000656,0.6893922226017144
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.1820000000655,0.6892848081966036
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.1820000000653,0.6892848081966036
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.2160000000656,0.6891580362506229
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.250000000066,0.6889202287911771
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.284000000066,0.6886830132167348
@@ -1722,7 +1722,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.624000000067,0.6868419296328251
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.6580000000672,0.6866304488061522
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.6920000000675,0.6866698357510175
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.7260000000676,0.6865439807963215
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.726000000068,0.6865439807963215
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.7600000000675,0.68632818
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.794000000068,0.6862175194593968
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1998.828000000068,0.6860563397205438
@@ -1741,10 +1741,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.270000000069,0.6850398609740119
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.3040000000688,0.6850149064152049
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.338000000069,0.6849927199810023
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.3720000000692,0.684973836
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.3720000000687,0.684973836
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.4060000000693,0.6849587898685979
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.4400000000696,0.6849420733263293
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.4740000000695,0.6849539412940464
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.4740000000693,0.6849539412940464
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.5080000000696,0.6848871272149546
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.542,0.6848438696165641
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.576,0.684854416
@@ -1760,7 +1760,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.916000000071,0.6847715103087242
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.9500000000712,0.6846087489794558
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,1999.9840000000715,0.6843745103835398
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.0180000000717,0.6840714558795077
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.018000000072,0.6840714558795077
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.0520000000715,0.6837404262155838
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.086000000072,0.6834222621399917
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.120000000072,0.6831578044009553
@@ -1779,10 +1779,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.562000000073,0.6790581610692782
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.5960000000728,0.6788626281840663
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.630000000073,0.6788308603920312
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.6640000000732,0.6784720946908086
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.6640000000727,0.6784720946908086
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.6980000000733,0.6779954471724329
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.7320000000736,0.6774375989404332
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.7660000000735,0.6769447178633903
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.7660000000733,0.6769447178633903
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.8000000000736,0.6765630374435873
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.834000000074,0.6765098374398795
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2000.868000000074,0.6762729192669387
@@ -1797,8 +1797,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.174000000075,0.6738488551270199
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.2080000000751,0.6735234304200745
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.2420000000752,0.6734110858876851
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.2760000000756,0.6733157574243915
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.3100000000757,0.6730928714585113
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.276000000076,0.6733157574243915
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.310000000076,0.6730928714585113
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.3440000000755,0.6728386737538553
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.378000000076,0.6726100928382266
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.412000000076,0.6724599600138669
@@ -1817,10 +1817,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.854000000077,0.6698335583270585
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.8880000000768,0.6695960637877127
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.922000000077,0.6693091760655088
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.9560000000772,0.6691842267838014
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.9560000000768,0.6691842267838014
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2001.990000000077,0.6692762424281485
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.0240000000776,0.6693716252379259
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.0580000000775,0.6694875337000156
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.0580000000773,0.6694875337000156
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.0920000000776,0.6696138175030665
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.126000000078,0.6697403263357274
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.160000000078,0.6698569098866475
@@ -1835,8 +1835,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.466000000079,0.6710518985844869
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.5000000000791,0.6711521992345483
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.5340000000792,0.6711560763305019
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.5680000000796,0.6713979498633289
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.6020000000797,0.6715600320141974
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.56800000008,0.6713979498633289
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.60200000008,0.6715600320141974
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.6360000000795,0.6717535448263326
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.67000000008,0.6719637559943165
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2002.70400000008,0.6721759332127313
@@ -1854,11 +1854,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.0
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.112000000081,0.6737794982204266
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.146000000081,0.6738302413851517
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.1800000000808,0.674047263
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.2140000000811,0.674235573
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.2480000000812,0.6744527728825412
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.214000000081,0.674235573
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.2480000000808,0.6744527728825412
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.2820000000816,0.6746828791564188
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.3160000000817,0.6749099094671691
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.3500000000815,0.6751178811122851
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.3500000000813,0.6751178811122851
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.3840000000816,0.6752908113892598
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.418000000082,0.6755376175797854
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.452000000082,0.6755404070995832
@@ -1873,8 +1873,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.7
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.758000000083,0.6770163728293325
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.7920000000831,0.677200095
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.8260000000832,0.6773955488983384
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.8600000000836,0.6775940711636211
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.8940000000837,0.6777869969305783
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.860000000084,0.6775940711636211
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.894000000084,0.6777869969305783
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.928000000084,0.6779656617100751
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.962000000084,0.6781214010129774
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2003.996000000084,0.6783403815989318
@@ -1892,11 +1892,11 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.3
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.404000000085,0.6797636965721496
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.438000000085,0.6799506319384738
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.4720000000848,0.6801473410695942
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.5060000000851,0.68033949
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.5400000000852,0.680512747
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.506000000085,0.68033949
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.5400000000848,0.680512747
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.5740000000856,0.6806527761532567
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.6080000000857,0.6808204159132545
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.6420000000855,0.6807851329654724
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.642000000085,0.6807851329654724
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.6760000000857,0.6809437429502319
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.710000000086,0.6811573317863946
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2004.744000000086,0.6812768511907941
@@ -1911,8 +1911,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.0
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.050000000087,0.6826105488581585
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.0840000000871,0.6828388828161113
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.1180000000872,0.6830552267950086
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.1520000000876,0.6832445204393558
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.1860000000877,0.6834840459304383
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.152000000088,0.6832445204393558
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.186000000088,0.6834840459304383
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.220000000088,0.6835781934790373
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.254000000088,0.6835953045725122
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.288000000088,0.68374521
@@ -1930,8 +1930,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.6
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.696000000089,0.6860537391869056
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.7300000000887,0.686319514
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.7640000000893,0.6863493900985461
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.7980000000891,0.6864101963908472
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.8320000000892,0.686576278
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.798000000089,0.6864101963908472
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.8320000000888,0.686576278
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.8660000000896,0.6867640393015508
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.9000000000897,0.6869362448639452
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2005.9340000000896,0.6870641859838734
@@ -1948,9 +1948,9 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.308000000091,0.6867899900972406
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.342000000091,0.6867116512240309
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.3760000000912,0.6866415247404841
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.4100000000917,0.6865827045591704
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.4440000000916,0.6864833946444421
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.4780000000917,0.6865513629843858
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.410000000092,0.6865827045591704
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.444000000092,0.6864833946444421
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.478000000092,0.6865513629843858
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.512000000092,0.6865553188050735
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.546000000092,0.6864419741698224
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.580000000092,0.6862971212332172
@@ -1968,8 +1968,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.9
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2006.988000000093,0.6845984475305028
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.0220000000927,0.6841376467079268
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.0560000000933,0.6838412203975716
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.0900000000931,0.6837115579428054
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.1240000000932,0.6832954496603245
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.0900000000927,0.6837115579428054
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.1240000000928,0.6832954496603245
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.1580000000936,0.6825027288235064
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.1920000000937,0.6815467143192618
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.2260000000936,0.6807961030053865
@@ -1987,8 +1987,8 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.6
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.634000000095,0.6733256069860991
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.6680000000952,0.6728662116837124
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.7020000000955,0.6716891170717011
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.7360000000956,0.6705030331606842
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.7700000000957,0.6700308835422538
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.736000000096,0.6705030331606842
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.770000000096,0.6700308835422538
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.804000000096,0.6699684719255407
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.838000000096,0.669724361
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2007.872000000096,0.6686450521928328
@@ -2006,7 +2006,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.2
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.280000000097,0.6564411807376034
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.3140000000967,0.6560931353311813
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.3480000000973,0.6548234742057807
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.3820000000972,0.6529965770060681
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.3820000000967,0.6529965770060681
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.4160000000973,0.6521422541845732
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.4500000000976,0.6515471841020161
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.4840000000977,0.6502905632913637
@@ -2025,7 +2025,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.926000000099,0.6355979833869586
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.9600000000992,0.6353599751917596
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2008.9940000000995,0.6350496519046749
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.0280000000996,0.6345315920937098
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.0280000001,0.6345315920937098
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.0620000000995,0.6339252421702746
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.0960000001,0.6334098246137678
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.1300000001,0.6330436043470361
@@ -2044,7 +2044,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.5
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.572000000101,0.6313572503318909
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.6060000001007,0.631144301
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.6400000001013,0.6309459136256512
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.6740000001012,0.6307775334058655
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.6740000001007,0.6307775334058655
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.7080000001013,0.630565614
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.7420000001016,0.6305773232550748
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2009.7760000001017,0.6305498416508919
@@ -2063,7 +2063,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.218000000103,0.6306714926118205
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.2520000001032,0.6308383289901569
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.2860000001035,0.6309963873893162
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.3200000001036,0.6311387691176608
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.320000000104,0.6311387691176608
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.3540000001035,0.6313362297633971
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.388000000104,0.6315374846054949
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.422000000104,0.6315883692733527
@@ -2082,7 +2082,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.8
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.864000000105,0.633819184
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.8980000001047,0.6340291975226436
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.9320000001053,0.6339413409926177
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.9660000001052,0.6339429568001016
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2010.9660000001047,0.6339429568001016
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.0000000001053,0.6341205882833209
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.0340000001056,0.634268139
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.0680000001057,0.6343549190047938
@@ -2101,7 +2101,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.510000000107,0.6359814299155035
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.5440000001072,0.6361131493415719
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.5780000001075,0.6362217884231187
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.6120000001076,0.6363690502535532
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.612000000108,0.6363690502535532
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.6460000001075,0.6362861782067902
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.680000000108,0.6363159275377637
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2011.714000000108,0.6364790555735027
@@ -2120,10 +2120,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.1
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.156000000109,0.6381311768086816
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.1900000001087,0.6382835121334178
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.2240000001093,0.6384295276076718
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.2580000001092,0.6385633268541139
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.2580000001087,0.6385633268541139
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.2920000001093,0.6386790134954132
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.3260000001096,0.6388855446004531
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.3600000001095,0.6389375387278984
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.3600000001093,0.6389375387278984
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.3940000001096,0.6390098861486454
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.428,0.6391571542148682
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.462,0.6392768583955277
@@ -2139,7 +2139,7 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.7
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.802000000111,0.6407197285171111
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.8360000001112,0.6409078874501418
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.8700000001115,0.6410701423892049
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.9040000001116,0.6411983946862119
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.904000000112,0.6411983946862119
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.9380000001115,0.641254152
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2012.972000000112,0.6412077505804138
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.006000000112,0.6414221277404746
@@ -2158,10 +2158,10 @@ Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.4
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.448000000113,0.6422379453842926
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.4820000001127,0.642284377
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.5160000001133,0.6423324969028467
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.5500000001132,0.6423814947547332
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.5500000001127,0.6423814947547332
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.5840000001133,0.642430562
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.6180000001136,0.6424788892934877
-Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.6520000001135,0.642525668
+Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.6520000001133,0.642525668
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.6860000001136,0.6425700884785683
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.720000000114,0.6426113421383621
 Panel A. Employment rate: Alaska versus synthetic Alaska,Synthetic Alaska,2013.754000000114,0.6426486197495952
