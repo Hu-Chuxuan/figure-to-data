@@ -1,4 +1,0 @@
-Up-Sampling,3D Perception-mIoU,3D Perception-mAP,3D Perception-3D IoU,R2R-SR,R2R-SPL
-w/o Coarse-to-Fine,12.39,32.95,66.57,-,-
-Trilinear Interpolation,11.03,29.42,63.45,75.14,64.3
-3D Deconvolution,12.93,33.57,66.45,75.8,65.37

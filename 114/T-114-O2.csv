@@ -1,8 +1,0 @@
-Empty Column 0,UMV,CMV
-Mean,0.43,0.477
-Standard deviation,0.458,0.449
-Sharpe ratio,0.94,1.062
-p-value(SR$_{\CMV}$-SR$_{\UMV}$) ,,0.006
-$\alpha$,,0.066
-$t(\alpha)$,,3.637
-TC,0.163,0.213
